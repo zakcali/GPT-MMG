@@ -1,0 +1,51 @@
+
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<style>
+.ANAT {
+	background-color:Fuchsia
+}
+.OBS-P {
+	background-color:DeepSkyBlue
+}
+.OBS-A {
+	background-color:Yellow
+}
+.OBS-U {
+	background-color:DarkGray 
+}
+.IMP {
+	background-color:#ED2939
+}
+</style>
+    <title>Mammography Report Entity Extractor</title>
+</head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<body>
+<p>
+Sağ memenin MLO ve CC mammogramları elde olunmuştur.<br>
+<br>
+<span class="ANAT">Sağ meme parankimi</span> <span class="OBS-P">belirgin dens</span> (<span class="OBS-P">Tip D</span> <span class="ANAT">meme</span>) <span class="OBS-P">görünümdedir</span>. <span class="ANAT">Sağ memede</span> <span class="OBS-P">10 mm</span> ve <span class="OBS-P">daha küçük çaplı</span> <span class="OBS-P">birkaç adet</span> <span class="OBS-P">sınırları</span> <span class="ANAT">meme parankimi</span> <span class="OBS-P">ile örtülü</span> <span class="OBS-U">nodüler lezyon varlığından şüphe edildi</span>.<br>
+<br>
+<span class="ANAT">Sağ memede</span> <span class="OBS-A">doku distorsiyonu</span> izlenmedi.<br>
+<br>
+<span class="ANAT">Sağ memede</span> <span class="OBS-P">yaygın</span>, <span class="OBS-P">dağınık yerleşimli</span>, <span class="OBS-P">yer yer kümeleşme eğilimleri gösteren</span> ancak <span class="OBS-P">tamamı uniform özellikte</span> <span class="OBS-P">mikrokalsifikasyonlar</span> dikkati çekmiş olup <span class="OBS-U">sklerozan adenozis ve/veya fibrokistik hastalıkla uyumlu olabileceği</span> düşünüldü.<br>
+<br>
+Grafiye dahil olan <span class="ANAT">sağ ön aksiller kesimde</span>, muhtemelen <span class="IMP">benign</span> <span class="OBS-U">oldukları düşünülen</span>, <span class="OBS-P">eliptik şekilli</span>, <span class="OBS-P">reaktif görünümlü</span> <span class="OBS-P">lenf nodları</span> saptandı.<br>
+(<span class="OBS-P">Yoğun</span> <span class="ANAT">meme parankimi</span> nedeniyle <span class="OBS-U">değerlendirme</span> sınırlı düzeyde kalmıştır.)<br>
+<br>
+YORUM:<br>
+<br>
+- <span class="OBS-P">Dens</span> <span class="ANAT">meme parankim</span>, <span class="ANAT">sağ memede</span> <span class="OBS-U">nodüler lezyon şüphesi</span> (<span class="IMP">US korelasyonu önerilir</span>) (<span class="IMP">BIRADS 0</span>)<br>
+- <span class="ANAT">Sağ memede</span> <span class="OBS-U">sklerozan adenozis ve/veya fibrokistik hastalıkla uyumlu olabilecek</span> <span class="OBS-P">mikrokalsifikasyonlar</span> (<span class="IMP">1 sene sonra mamografi ile tekrar değerlendirmesi önerilir</span>) (<span class="IMP">BIRADS III</span>)<br>
+<br>
+(HASTANIN SOL MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR)<br>
+<br><br><span style="background-color:Fuchsia;">ANATOMY, ANAT</span><br>
+<span style="background-color:DeepSkyBlue;">OBSERVATION_PRESENT, OBS-P</span><br>
+<span style="background-color:Yellow;">OBSERVATION_ABSENT, OBS-A</span><br>
+<span style="background-color:Gray;">OBSERVATION_UNCERTAIN, OBS-U</span><br>
+<span style="background-color:#ED2939;">IMPRESSION, IMP</span>
+</p>
+</body>
+</html>

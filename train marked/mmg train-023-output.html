@@ -1,0 +1,44 @@
+
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<style>
+.ANAT {
+	background-color:Fuchsia
+}
+.OBS-P {
+	background-color:DeepSkyBlue
+}
+.OBS-A {
+	background-color:Yellow
+}
+.OBS-U {
+	background-color:DarkGray 
+}
+.IMP {
+	background-color:#ED2939
+}
+</style>
+    <title>Mammography Report Entity Extractor</title>
+</head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<body>
+<p>
+
+Sağ memenin MLO ve CC mammogramları elde olunmuştur.<br>
+<br>
+<span class="ANAT">Sağ meme parankimi</span> <span class="OBS-P">minimal dens</span> (<span class="OBS-P">Tip B</span> <span class="ANAT">meme</span>) <span class="OBS-P">görünümdedir</span>. <span class="ANAT">Sağ memede</span> MLO mamogramda <span class="ANAT">superiorda</span> <span class="OBS-P">5 mm çaplı</span>, CC mamogramda <span class="OBS-A">demonstre edilemeyen</span> <span class="OBS-U">nodüler lezyon</span> varlığından şüphe edildi. <span class="OBS-U">Glandüler doku adacukkarına ait olabileceği düşünülen</span> <span class="ANAT">bu alanların</span> <span class="IMP">US kontrolü önerilir</span>. <br>
+<br>
+<span class="ANAT">Sağ memede</span> <span class="OBS-A">doku distorsiyonu</span> izlenmedi. <span class="ANAT">Sağ memede</span> <span class="OBS-A">malignensi açısından şüphe uyandıran mikrokalsifikasyon kümesi</span> mevcut değildir.<br>
+Grafiye dahil olan <span class="ANAT">sağ ön aksiller kesimde</span>, grafiye kısmen dahil olan <span class="OBS-P">lenf nodu</span> saptandı.<br>
+<br>
+-<span class="ANAT">Sağ memede</span> <span class="OBS-U">nodüler lezyon şüphesi</span> (<span class="IMP">US korelasyonu önerilir</span>) (<span class="IMP">BIRADS 0</span>)
+
+</p>
+</body>
+</html>
+<br><br><span style="background-color:Fuchsia;">ANATOMY, ANAT</span><br>
+<span style="background-color:DeepSkyBlue;">OBSERVATION_PRESENT, OBS-P</span><br>
+<span style="background-color:Yellow;">OBSERVATION_ABSENT, OBS-A</span><br>
+<span style="background-color:Gray;">OBSERVATION_UNCERTAIN, OBS-U</span><br>
+<span style="background-color:#ED2939;">IMPRESSION, IMP</span>

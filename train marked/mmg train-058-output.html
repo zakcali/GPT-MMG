@@ -1,0 +1,43 @@
+
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<style>
+.ANAT {
+	background-color:Fuchsia
+}
+.OBS-P {
+	background-color:DeepSkyBlue
+}
+.OBS-A {
+	background-color:Yellow
+}
+.OBS-U {
+	background-color:DarkGray 
+}
+.IMP {
+	background-color:#ED2939
+}
+</style>
+    <title>Mammography Report Entity Extractor</title>
+</head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<body>
+<p>
+Sol memenin MLO ve CC mammogramları elde olunmuştur.<br>
+<br>
+<span class="ANAT">Sol meme parankimi</span> <span class="OBS-P">dens</span> (<span class="OBS-P">Tip D</span> <span class="ANAT">meme</span>) <span class="OBS-P">görünümdedir</span>. <span class="OBS-P">Yoğun</span> <span class="ANAT">meme parankimi</span> nedeniyle <span class="OBS-U">inceleme</span> sınırlı düzeyde kalmıştır. Değerlendirilebildiği kadarıyla; <span class="ANAT">sol memede</span> <span class="OBS-A">belirgin sınır veren kitle, nodül</span> saptanmadı. <span class="ANAT">Sol memede</span> <span class="ANAT">üst-orta kesimde</span> 2003 tarihli mamografi incelemesi ile karşılaştırıldığında <span class="IMP">belirgin artış gösterdiği</span> anlaşılan, yaklaşık <span class="OBS-P">4.5 cm</span> lik <span class="ANAT">alanda</span> <span class="OBS-P">bir kısmı gevşek, bir kısmı daha sıkı</span> olarak <span class="OBS-P">kümeleşen, pleomorfizm gösteren mikrokalsifikasyonlar</span> izlendi. <span class="ANAT">Sol memede</span> <span class="OBS-A">asimetrik doku dansitesi</span> ya da <span class="OBS-A">doku distorsiyonu</span> izlenmedi. Grafiye dahil olan <span class="ANAT">sol ön aksiller kesimde</span>, muhtemelen <span class="IMP">benign natürde</span> <span class="OBS-U">oldukları düşünülen</span> <span class="OBS-P">lenf nodları</span> saptandı.<br>
+<br>
+YORUM:<br>
+<br>
+- <span class="OBS-P">Dens</span> <span class="ANAT">meme parankimi</span>, <span class="ANAT">sol memede</span> tanımlanan <span class="OBS-P">mikrokalsifikasyonlar</span> (<span class="IMP">BIRADS IV. Öncelikle US ve meme MRG korelasyonu ve doku tanısı önerilir</span>).<br>
+<br>
+(HASTANIN SAĞ MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR) 
+<br><br><span style="background-color:Fuchsia;">ANATOMY, ANAT</span><br>
+<span style="background-color:DeepSkyBlue;">OBSERVATION_PRESENT, OBS-P</span><br>
+<span style="background-color:Yellow;">OBSERVATION_ABSENT, OBS-A</span><br>
+<span style="background-color:Gray;">OBSERVATION_UNCERTAIN, OBS-U</span><br>
+<span style="background-color:#ED2939;">IMPRESSION, IMP</span>
+</p>
+</body>
+</html>

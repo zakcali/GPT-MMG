@@ -1,0 +1,41 @@
+
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<style>
+.ANAT {
+	background-color:Fuchsia
+}
+.OBS-P {
+	background-color:DeepSkyBlue
+}
+.OBS-A {
+	background-color:Yellow
+}
+.OBS-U {
+	background-color:DarkGray 
+}
+.IMP {
+	background-color:#ED2939
+}
+</style>
+    <title>Mammography Report Entity Extractor</title>
+</head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<body>
+<p>
+<span class="ANAT">Sağ meme parankimi</span> <span class="OBS-P">minimal dens</span> (<span class="OBS-P">Tip B</span> <span class="ANAT">meme</span>) <span class="OBS-P">görünümdedir</span>. <span class="ANAT">Sağ memede</span> <span class="ANAT">üst-iç kadranda</span> yaklaşık <span class="OBS-P">13x6 mm boyutlarında</span>, <span class="OBS-P">bir kısmı kalsifiye nodüler lezyonla</span> birlikte <span class="ANAT">orta kesimde</span> derin yerleşimli, <span class="OBS-P">10 mm çaplı</span>  <span class="OBS-P">kalsifiye nodüler lezyon</span> dikkati çekti. <br><br>
+
+ YORUM :<br><br>
+ 
+-<span class="ANAT">Sağ memede</span> <span class="OBS-P">nodüler lezyonlar</span> (<span class="IMP">BIRADS II</span>) 
+
+
+<br><br><span style="background-color:Fuchsia;">ANATOMY, ANAT</span><br>
+<span style="background-color:DeepSkyBlue;">OBSERVATION_PRESENT, OBS-P</span><br>
+<span style="background-color:Yellow;">OBSERVATION_ABSENT, OBS-A</span><br>
+<span style="background-color:Gray;">OBSERVATION_UNCERTAIN, OBS-U</span><br>
+<span style="background-color:#ED2939;">IMPRESSION, IMP</span>
+</p>
+</body>
+</html>

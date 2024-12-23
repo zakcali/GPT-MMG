@@ -1,0 +1,43 @@
+
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<style>
+.ANAT {
+	background-color:Fuchsia
+}
+.OBS-P {
+	background-color:DeepSkyBlue
+}
+.OBS-A {
+	background-color:Yellow
+}
+.OBS-U {
+	background-color:DarkGray 
+}
+.IMP {
+	background-color:#ED2939
+}
+</style>
+    <title>Mammography Report Entity Extractor</title>
+</head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<body>
+<p>
+<span class="ANAT">Sol meme parankimi</span> <span class="OBS-P">yağ infiltrasyonu</span> <span class="IMP">ile uyumlu</span> (<span class="OBS-P">Tip A</span> <span class="ANAT">meme</span>) <span class="OBS-P">görünümdedir</span>.<br>
+<br>
+<span class="ANAT">Sol meme üst-dış kadranda</span> <span class="ANAT">parankimde</span> <span class="OBS-P">distorsiyon</span> izlenmektedir. <span class="OBS-P">Distorsiyone</span> <span class="ANAT">parankimde</span> yaklaşık <span class="OBS-P">50x23 mm çaplı</span> <span class="OBS-P">spiküle konturlu</span>, <span class="OBS-P">düzensiz sınırlı</span>, <span class="OBS-P">yüksek dansiteli kitle</span> izlenmektedir.<br>
+<br>
+Grafiye dahil olan <span class="ANAT">sol ön aksiller kesimde</span>, muhtemelen <span class="IMP">benign</span> <span class="OBS-U">oldukları düşünülen</span>, <span class="OBS-P">eliptik şekilli lenf nodları</span> saptandı.<br>
+<br>
+YORUM :<br>
+<br>
+- <span class="ANAT">Sol meme üst-dış kadranda</span> <span class="IMP">malign natürde</span> <span class="OBS-P">kitle</span> (<span class="IMP">BIRADS V</span>)
+<br><br><span style="background-color:Fuchsia;">ANATOMY, ANAT</span><br>
+<span style="background-color:DeepSkyBlue;">OBSERVATION_PRESENT, OBS-P</span><br>
+<span style="background-color:Yellow;">OBSERVATION_ABSENT, OBS-A</span><br>
+<span style="background-color:Gray;">OBSERVATION_UNCERTAIN, OBS-U</span><br>
+<span style="background-color:#ED2939;">IMPRESSION, IMP</span>
+</p>
+</body>
+</html>
