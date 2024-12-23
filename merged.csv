@@ -1,0 +1,3446 @@
+class	text	filename
+O	Sağ memenin MLO ve CC mammogramları elde olunmuştur.	report001
+ANAT	Sağ meme parankimi	report001
+OBS-P	dens	report001
+OBS-P	Tip D	report001
+ANAT	meme	report001
+OBS-P	görünümdedir	report001
+ANAT	Sağ memede	report001
+OBS-A	belirgin sınır veren kitle	report001
+O	saptanmadı.	report001
+ANAT	Sağ memede	report001
+OBS-P	en büyükleri	report001
+ANAT	üst iç kadranda	report001
+O	yaklaşık	report001
+OBS-P	7.5x5 mm boyutunda	report001
+ANAT	parankim	report001
+OBS-P	ile örtülü	report001
+OBS-P	düzgün sınırlı	report001
+OBS-P	düşük dansiteli	report001
+OBS-P	birkaç adet	report001
+OBS-P	nodüler opasite	report001
+O	mevcuttur.	report001
+ANAT	Sağ memede	report001
+OBS-A	asimetrik doku dansitesi	report001
+OBS-A	doku distorsiyonu	report001
+O	izlenmedi.	report001
+ANAT	Sağ memede	report001
+OBS-A	malignensi açısından şüphe uyandıran mikrokalsifikasyon kümesi	report001
+O	mevcut değildir.	report001
+O	Grafiye dahil olan	report001
+ANAT	sağ ön aksiller kesimde	report001
+O	, muhtemelen	report001
+IMP	benign	report001
+OBS-U	oldukları düşünülen	report001
+OBS-P	eliptik şekilli	report001
+OBS-P	lenf nodları	report001
+O	saptandı.	report001
+OBS-P	Yoğun	report001
+ANAT	meme parankimi	report001
+O	nedeniyle	report001
+OBS-U	değerlendirme	report001
+O	sınırlı düzeyde kalmıştır.)	report001
+O	YORUM:	report001
+OBS-P	Dens	report001
+ANAT	meme parankimi	report001
+ANAT	sağ memede	report001
+OBS-P	nodüler opasiteler	report001
+IMP	US korelasyonu önerilir	report001
+IMP	BIRADS 0	report001
+O	(HASTANIN SOL MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR)	report001
+O	Sol memenin MLO ve CC mammogramları elde olunmuştur.	report002
+ANAT	Sol meme parankimi	report002
+OBS-P	heterojen dens	report002
+OBS-P	Tip C	report002
+ANAT	meme	report002
+OBS-P	görünümdedir	report002
+OBS-P	Yoğun	report002
+ANAT	meme parankimi	report002
+O	nedeniyle	report002
+OBS-U	inceleme	report002
+O	sınırlı düzeyde kalmıştır. Değerlendirilebildiği kadarıyla;	report002
+ANAT	sol memede	report002
+OBS-A	belirgin sınır veren kitle, nodül	report002
+O	saptanmadı.	report002
+ANAT	Sol memede	report002
+OBS-P	dağınık yerleşimli	report002
+OBS-P	birkaç adet	report002
+IMP	benign natürde	report002
+OBS-P	punktat mikrokalsifikasyon	report002
+O	izlendi.	report002
+ANAT	Sol memede	report002
+OBS-A	malignensi açısından şüphe uyandıran mikrokalsifikasyon kümesi	report002
+O	mevcut değildir.	report002
+ANAT	Sol memede	report002
+OBS-A	asimetrik doku dansitesi	report002
+OBS-A	doku distorsiyonu	report002
+O	izlenmedi.	report002
+O	Grafiye dahil olan	report002
+ANAT	sol ön aksiller kesimde	report002
+OBS-A	lenf nodu	report002
+O	saptanmadı.	report002
+O	2017 tarihli	report002
+ANAT	sol	report002
+O	mammogramları ile	report002
+OBS-A	anlamlı interval farklılık	report002
+O	saptanmadı.	report002
+O	YORUM:	report002
+IMP	Benign natürde	report002
+OBS-P	kalsifikasyonlar	report002
+IMP	BIRADS II	report002
+OBS-P	Heterojen dens	report002
+ANAT	meme parankimi	report002
+IMP	US korelasyonu önerilir	report002
+IMP	BIRADS 0	report002
+O	(HASTANIN SAĞ MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR)	report002
+O	Sağ memenin MLO ve CC mammogramları elde olunmuştur.	report003
+ANAT	Sağ meme parankimi	report003
+OBS-P	heterojen dens	report003
+OBS-P	Tip C	report003
+ANAT	meme	report003
+OBS-P	görünümdedir	report003
+OBS-P	Yoğun	report003
+ANAT	meme parankimi	report003
+O	nedeniyle	report003
+OBS-U	inceleme	report003
+O	sınırlı düzeyde kalmıştır. Değerlendirilebildiği kadarıyla;	report003
+ANAT	sağ memede	report003
+OBS-A	belirgin sınır veren kitle, nodül	report003
+O	saptanmadı.	report003
+ANAT	Sağ memede	report003
+OBS-P	dağınık yerleşimli	report003
+OBS-P	birkaç adet	report003
+IMP	benign natürde	report003
+OBS-P	punktat mikrokalsifikasyon	report003
+O	izlendi.	report003
+ANAT	Sağ memede	report003
+OBS-A	malignensi açısından şüphe uyandıran mikrokalsifikasyon kümesi	report003
+O	mevcut değildir.	report003
+ANAT	Sağ memede	report003
+OBS-A	asimetrik doku dansitesi	report003
+OBS-A	doku distorsiyonu	report003
+O	izlenmedi.	report003
+O	Grafiye dahil olan	report003
+ANAT	sağ ön aksiller kesimde	report003
+OBS-A	lenf nodu	report003
+O	saptanmadı.	report003
+O	11.11.2011 tarihli	report003
+ANAT	sağ	report003
+O	mammogramları ile	report003
+OBS-A	anlamlı interval farklılık	report003
+O	saptanmadı.	report003
+O	YORUM:	report003
+IMP	Benign natürde	report003
+OBS-P	kalsifikasyonlar	report003
+IMP	BIRADS II	report003
+OBS-P	Heterojen dens	report003
+ANAT	meme parankimi	report003
+IMP	US korelasyonu önerilir	report003
+IMP	BIRADS 0	report003
+O	(HASTANIN SOL MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR)	report003
+O	Sol memenin MLO ve CC mammogramları elde olunmuştur.	report004
+ANAT	Sol meme parankimi	report004
+OBS-P	heterojen dens	report004
+OBS-P	Tip C	report004
+ANAT	meme	report004
+OBS-P	görünümdedir	report004
+OBS-P	Yoğun	report004
+ANAT	meme parankimi	report004
+O	nedeniyle	report004
+OBS-U	inceleme	report004
+O	sınırlı düzeyde kalmıştır. Değerlendirilebildiği kadarıyla;	report004
+ANAT	sol memede	report004
+OBS-A	belirgin sınır veren kitle, nodül	report004
+O	saptanmadı.	report004
+ANAT	Sol memede	report004
+OBS-A	asimetrik doku dansitesi	report004
+OBS-A	doku distorsiyonu	report004
+O	izlenmedi.	report004
+ANAT	Sol memede	report004
+OBS-A	malignensi açısından şüphe uyandıran mikrokalsifikasyon kümesi	report004
+O	mevcut değildir.	report004
+O	Grafiye dahil olan	report004
+ANAT	sol ön aksiller kesimde	report004
+OBS-A	lenf nodu	report004
+O	saptanmadı.	report004
+O	17/2017 tarihli mammogramları ile karşılaştırıldığında	report004
+OBS-A	malignite lehine anlamlı interval farklılık	report004
+O	saptanmadı.	report004
+O	YORUM:	report004
+OBS-P	Heterojen dens	report004
+ANAT	meme parankimi	report004
+IMP	US korelasyonu önerilir	report004
+IMP	BIRADS 0	report004
+O	(HASTANIN SAĞ MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR)	report004
+O	Sağ memenin MLO ve CC mammogramları elde olunmuştur.	report005
+ANAT	Sağ meme parankimi	report005
+OBS-P	heterojen dens	report005
+OBS-P	Tip C	report005
+ANAT	meme	report005
+OBS-P	görünümdedir	report005
+OBS-P	Yoğun	report005
+ANAT	meme parankimi	report005
+O	nedeniyle	report005
+OBS-U	inceleme	report005
+O	sınırlı düzeyde kalmıştır. Değerlendirilebildiği kadarıyla;	report005
+ANAT	sağ memede	report005
+OBS-A	belirgin sınır veren kitle, nodül	report005
+O	saptanmadı.	report005
+ANAT	Sağ	report005
+O	CC grafi	report005
+ANAT	dış kesimde	report005
+ANAT	periareolar bölgede	report005
+IMP	geçirilmiş cerrahiye bağlı	report005
+OBS-P	hafif yapısal distorsiyon	report005
+O	dikkati çekti.	report005
+ANAT	Sağ memede	report005
+OBS-A	asimetrik doku dansitesi	report005
+O	izlenmedi.	report005
+ANAT	Sağ memede	report005
+OBS-A	malignensi açısından şüphe uyandıran mikrokalsifikasyon kümesi	report005
+O	mevcut değildir.	report005
+O	Grafiye dahil olan	report005
+ANAT	sağ ön aksiller kesimde	report005
+O	, muhtemelen	report005
+IMP	benign natürde	report005
+OBS-U	oldukları düşünülen	report005
+OBS-P	lenf nodları	report005
+O	saptandı.	report005
+O	2011 tarihli mammogramları ile karşılaştırıldığında	report005
+OBS-A	malignite lehine anlamlı interval farklılık	report005
+O	saptanmadı.	report005
+O	YORUM:	report005
+ANAT	Sağ memede	report005
+IMP	geçirilmiş cerrahiye sekonder	report005
+OBS-P	değişiklikler	report005
+OBS-P	heterojen dens	report005
+ANAT	meme parankimi	report005
+IMP	US korelasyonu önerilir	report005
+IMP	BIRADS 0	report005
+O	(HASTANIN SOL MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR)	report005
+O	Sağ memenin MLO ve CC mammogramları elde olunmuştur.	report006
+ANAT	Sağ meme parankimi	report006
+OBS-P	heterojen dens	report006
+OBS-P	Tip C	report006
+ANAT	meme	report006
+OBS-P	görünümdedir	report006
+OBS-P	Yoğun	report006
+ANAT	meme parankimi	report006
+O	nedeniyle	report006
+OBS-U	inceleme	report006
+O	sınırlı düzeyde kalmıştır. Değerlendirilebildiği kadarıyla;	report006
+ANAT	sağ meme üst kadran orta hatta	report006
+O	yaklaşık	report006
+OBS-P	14x9 mm	report006
+OBS-P	düzensiz sınırlı	report006
+ANAT	parankimde	report006
+OBS-P	distorsiyona yol açan	report006
+OBS-P	orta-yüksek dansiteli kitle	report006
+O	izlenmektedir.  Bunun dışında	report006
+ANAT	sağ memede	report006
+ANAT	alt kadranda	report006
+OBS-P	9x6 mm	report006
+OBS-P	düzgün sınırlı	report006
+OBS-P	düşük dansiteli nodüler opasite	report006
+O	mevcuttur.	report006
+ANAT	Sağ meme üst dış kadranda	report006
+OBS-P	3 mm çaplı	report006
+ANAT	intramammarian lenf nodu	report006
+O	mevcuttur.	report006
+ANAT	Sağ memede	report006
+OBS-A	asimetrik doku dansitesi	report006
+OBS-A	doku distorsiyonu	report006
+O	izlenmedi.	report006
+ANAT	Sağ memede	report006
+OBS-A	malignensi açısından şüphe uyandıran mikrokalsifikasyon kümesi	report006
+O	mevcut değildir.	report006
+O	Grafiye dahil olan	report006
+ANAT	sağ ön aksiller kesimde	report006
+O	, muhtemelen	report006
+IMP	benign	report006
+OBS-U	oldukları düşünülen	report006
+OBS-P	eliptik şekilli lenf nodları	report006
+O	saptandı.	report006
+O	YORUM:	report006
+ANAT	Sağ meme üst kadran orta hatta	report006
+O	tanımlanan ,	report006
+IMP	malign natüede olduğu düşünülen	report006
+OBS-P	lezyon	report006
+IMP	BIRADS 4C	report006
+ANAT	Sağ memede	report006
+O	tariflenen	report006
+OBS-P	nodüler opasiteler	report006
+IMP	US korelasyonu önerilir	report006
+IMP	BIRADS 0	report006
+OBS-P	Heterojen dens	report006
+ANAT	meme parankimi	report006
+IMP	US korelasyonu önerilir	report006
+IMP	BIRADS 0	report006
+O	(HASTANIN SOL MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR)	report006
+O	Sağ memenin MLO ve CC mammogramları elde olunmuştur.	report007
+ANAT	Sağ memede	report007
+OBS-P	dağınık fibroglandüler dansiteler	report007
+OBS-P	Tip B	report007
+ANAT	meme	report007
+O	) izlendi.	report007
+ANAT	Sağ memede	report007
+OBS-A	belirgin sınır veren kitle, nodül	report007
+O	saptanmadı.	report007
+ANAT	Sağ meme	report007
+ANAT	retroareolar bölgede	report007
+IMP	benign natürde	report007
+OBS-P	makrokalsifikasyon	report007
+O	izlendi.	report007
+ANAT	Sağ memede	report007
+OBS-A	malignensi açısından şüphe uyandıran mikrokalsifikasyon kümesi	report007
+O	mevcut değildir.	report007
+ANAT	Sağ memede	report007
+OBS-A	asimetrik doku dansitesi	report007
+OBS-A	doku distorsiyonu	report007
+O	izlenmedi.	report007
+O	Grafiye dahil olan	report007
+ANAT	sağ ön aksiller kesimde	report007
+O	, muhtemelen	report007
+IMP	benign natürde	report007
+OBS-U	oldukları düşünülen	report007
+OBS-P	lenf nodları	report007
+O	saptandı.	report007
+O	YORUM:	report007
+IMP	Benign natürde	report007
+OBS-P	kalsifikasyon	report007
+IMP	BIRADS II	report007
+O	(HASTANIN SOL MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR)	report007
+O	Sol memenin MLO ve CC mammogramları elde olunmuştur.	report008
+ANAT	Sol meme parankimi	report008
+OBS-P	dens	report008
+OBS-P	Tip D	report008
+ANAT	meme	report008
+OBS-P	görünümdedir	report008
+ANAT	Sol memede	report008
+OBS-A	belirgin sınır veren kitle, nodül	report008
+O	saptanmadı.	report008
+ANAT	Sol memede	report008
+OBS-P	dağınık yerleşimli	report008
+ANAT	periareolar bölgede	report008
+OBS-P	yoğunlaşan	report008
+OBS-A	belirgin pleomorfizm	report008
+OBS-A	patolojik kümeleşme	report008
+O	göstermeyen	report008
+OBS-P	mikrokalsifikasyonlar	report008
+O	dikkati çekmiş olup	report008
+IMP	benign natürde oldukları	report008
+OBS-U	düşünüldü	report008
+O	. Hastanın mamografi bulgularında mevcut 2013 tarihli mamogramla karşılaştırıldığında	report008
+OBS-A	belirgin interval farklılık	report008
+O	saptanmadı.	report008
+ANAT	Sol memede	report008
+OBS-A	asimetrik doku dansitesi	report008
+OBS-A	doku distorsiyonu	report008
+O	izlenmedi.	report008
+ANAT	Sol memede	report008
+OBS-A	malignensi açısından şüphe uyandıran mikrokalsifikasyon kümesi	report008
+O	mevcut değildir.	report008
+O	Grafiye dahil olan	report008
+ANAT	sol ön aksiller kesimde	report008
+OBS-A	lenf nodu	report008
+O	"saptanmadı.
+("	report008
+OBS-P	Yoğun	report008
+ANAT	meme parankimi	report008
+O	nedeniyle	report008
+OBS-U	değerlendirme	report008
+O	sınırlı düzeyde kalmıştır)	report008
+O	YORUM:	report008
+OBS-P	Dens	report008
+ANAT	meme parankimi	report008
+IMP	US korelasyonu önerilir	report008
+IMP	BIRADS 0	report008
+O	")
+(HASTANIN SAĞ MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR)"	report008
+O	Sağ memenin MLO ve CC mammogramları elde olunmuştur.	report009
+ANAT	Sağ meme parankimi	report009
+OBS-P	dens	report009
+OBS-P	Tip D	report009
+ANAT	meme	report009
+OBS-P	görünümdedir	report009
+ANAT	Sağ memede	report009
+OBS-A	belirgin sınır veren kitle, nodül	report009
+O	saptanmadı.	report009
+ANAT	Sağ memede	report009
+OBS-P	dağınık yerleşimli	report009
+OBS-A	belirgin pleomorfizm	report009
+OBS-A	patolojik kümeleşme	report009
+O	göstermeyen	report009
+OBS-P	mikrokalsifikasyonlar	report009
+O	izlenmiş olup hastanın mevcut 2021 tarihli mamogramı ile karşılaştırıldığında	report009
+OBS-A	belirgin interval farklılık	report009
+O	saptanmadı.	report009
+ANAT	Sağ memede	report009
+OBS-A	asimetrik doku dansitesi	report009
+OBS-A	doku distorsiyonu	report009
+O	izlenmedi.	report009
+ANAT	Sağ memede	report009
+OBS-A	malignensi açısından şüphe uyandıran mikrokalsifikasyon kümesi	report009
+O	mevcut değildir.	report009
+O	Grafiye dahil olan	report009
+ANAT	sağ ön aksiller kesimde	report009
+O	, grafiye kısmen dahil olan, muhtemelen	report009
+IMP	benign	report009
+OBS-U	oldukları düşünülen	report009
+OBS-P	lenf nodları	report009
+O	"saptandı.
+("	report009
+OBS-P	Yoğun	report009
+ANAT	meme parankimi	report009
+O	nedeniyle	report009
+OBS-U	değerlendirme	report009
+O	sınırlı düzeyde kalmıştır)	report009
+O	YORUM:	report009
+OBS-P	Dens	report009
+ANAT	meme parankimi	report009
+IMP	US korelasyonu önerilir	report009
+IMP	BIRADS 0	report009
+O	")
+(HASTANIN SOL MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR)"	report009
+O	Sol memenin MLO ve CC mammogramları elde olunmuştur.	report010
+ANAT	Sol meme parankimi	report010
+OBS-P	dens	report010
+OBS-P	Tip D	report010
+ANAT	meme	report010
+OBS-P	görünümdedir	report010
+ANAT	Sol memede	report010
+OBS-A	belirgin sınır veren kitle, nodül	report010
+O	saptanmadı.	report010
+ANAT	Sol memede	report010
+OBS-A	asimetrik doku dansitesi	report010
+OBS-A	doku distorsiyonu	report010
+O	izlenmedi.	report010
+ANAT	Sol memede	report010
+OBS-P	bir-iki adet	report010
+IMP	benign  natürde	report010
+OBS-P	punktat mikrokalsifkasyon	report010
+O	izlenmiştir.	report010
+ANAT	Sol memede	report010
+OBS-A	malignensi açısından şüphe uyandıran mikrokalsifikasyon kümesi	report010
+O	mevcut değildir.	report010
+O	Grafiye dahil olan	report010
+ANAT	sol ön aksiller kesimde	report010
+O	, muhtemelen	report010
+IMP	benign	report010
+OBS-U	oldukları düşünülen	report010
+OBS-P	eliptik şekilli lenf nodları	report010
+O	saptandı.	report010
+OBS-P	Yoğun	report010
+ANAT	meme parankimi	report010
+O	nedeniyle	report010
+OBS-U	değerlendirme	report010
+O	sınırlı düzeyde kalmıştır.)	report010
+O	09.09.2009 tarihli	report010
+ANAT	sol	report010
+O	mamogramları ile karşılaştırıldığında	report010
+OBS-A	anlamlı interval farklılık	report010
+O	saptanmamıştır.	report010
+O	YORUM:	report010
+OBS-P	Dens	report010
+ANAT	meme parankimi	report010
+IMP	US korelasyonu önerilir	report010
+IMP	BIRADS 0	report010
+ANAT	Sol memede	report010
+IMP	benign	report010
+OBS-P	kalsifikasyonlar	report010
+IMP	BIRADS II	report010
+O	(HASTANIN SAĞ MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR)	report010
+O	Sağ memenin MLO ve CC mammogramları elde olunmuştur.	report011
+ANAT	Sağ meme parankimi	report011
+OBS-P	dens	report011
+OBS-P	Tip D	report011
+ANAT	meme	report011
+OBS-P	görünümdedir	report011
+ANAT	Sağ memede	report011
+OBS-A	belirgin sınır veren kitle, nodül	report011
+O	saptanmadı.	report011
+ANAT	Sağ memede	report011
+OBS-A	asimetrik doku dansitesi	report011
+OBS-A	doku distorsiyonu	report011
+O	izlenmedi.	report011
+ANAT	Sağ memede	report011
+OBS-A	malignensi açısından şüphe uyandıran mikrokalsifikasyon kümesi	report011
+O	mevcut değildir.	report011
+O	Grafiye dahil olan	report011
+ANAT	sağ ön aksiller kesimde	report011
+O	, muhtemelen	report011
+IMP	benign	report011
+OBS-U	oldukları düşünülen	report011
+OBS-P	eliptik şekilli lenf nodları	report011
+O	saptandı.	report011
+OBS-P	Yoğun	report011
+ANAT	meme parankimi	report011
+O	nedeniyle	report011
+OBS-U	değerlendirme	report011
+O	sınırlı düzeyde kalmıştır.)	report011
+O	YORUM:	report011
+OBS-P	Dens	report011
+ANAT	meme parankimi	report011
+IMP	US korelasyonu önerilir	report011
+IMP	BIRADS 0	report011
+O	07.07.1997 tarihli tetkikinde	report011
+ANAT	sağ memede	report011
+O	mevcut	report011
+OBS-P	gevşek kümeleşme oluşturmuş pleomorfik mikrokalsifikasyonların	report011
+IMP	eksize edildidği	report011
+O	anlaşılmıştır.	report011
+ANAT	Bu düzeyde	report011
+OBS-A	rezidü kalsifikasyon	report011
+O	saptanmamıştır.	report011
+O	(HASTANIN SOL MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR)	report011
+O	Sol memenin MLO ve CC mammogramları elde olunmuştur.	report012
+ANAT	Sol meme parankimi	report012
+OBS-P	dens	report012
+OBS-P	Tip C	report012
+ANAT	meme	report012
+OBS-P	görünümdedir	report012
+ANAT	Sol memede	report012
+ANAT	retroareolar bölgede	report012
+OBS-P	büyüğü 12 mm çapında	report012
+OBS-P	birkaç adet  yağ nekrozu kalsifikasyonu	report012
+O	dikkati çekti.	report012
+ANAT	Sol memede	report012
+OBS-A	doku distorsiyonu	report012
+OBS-A	izlenmedi	report012
+ANAT	Sol memede	report012
+OBS-A	malignensi açısından şüphe uyandıran mikrokalsifikasyon kümesi	report012
+OBS-A	mevcut değildir	report012
+O	Grafiye dahil olan	report012
+ANAT	sol ön aksiller kesimde	report012
+O	, grafiye kısmen dahil olan, muhtemelen	report012
+IMP	benign	report012
+OBS-U	oldukları düşünülen	report012
+OBS-P	reaktif görünümlü	report012
+OBS-P	lenf nodları	report012
+OBS-P	saptandı	report012
+O	YORUM:	report012
+OBS-P	Dens	report012
+ANAT	meme parankimi	report012
+IMP	US korelasyonu önerilir	report012
+IMP	BIRADS 0	report012
+O	(HASTANIN SAĞ MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR)	report012
+O	Sağ memenin MLO ve CC mammogramları elde olunmuştur.	report013
+ANAT	Sağ meme parankimi	report013
+OBS-P	dens	report013
+OBS-P	Tip C	report013
+ANAT	meme	report013
+OBS-P	görünümdedir	report013
+ANAT	Sağ memede	report013
+OBS-A	belirgin sınır veren kitle, nodül	report013
+O	saptanmadı.	report013
+ANAT	Sağ memede	report013
+OBS-A	asimetrik doku dansitesi	report013
+OBS-A	doku distorsiyonu	report013
+O	izlenmedi.	report013
+ANAT	Sağ memede	report013
+OBS-A	malignensi açısından şüphe uyandıran mikrokalsifikasyon kümesi	report013
+O	mevcut değildir.	report013
+O	Grafiye dahil olan	report013
+ANAT	sağ ön aksiller kesimde	report013
+O	, muhtemelen	report013
+IMP	benign	report013
+OBS-U	oldukları düşünülen	report013
+OBS-P	reaktif görünümlü	report013
+OBS-P	lenf nodları	report013
+O	saptandı.	report013
+O	YORUM:	report013
+OBS-P	Dens	report013
+ANAT	meme parankimi	report013
+IMP	US korelasyonu önerilir	report013
+IMP	BIRADS 0	report013
+O	(HASTANIN SOL MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR)	report013
+O	Sol memenin MLO ve CC mammogramları elde olunmuştur.	report014
+ANAT	Sol meme parankimi	report014
+OBS-P	heterojen dens	report014
+OBS-P	Tip C	report014
+ANAT	meme	report014
+OBS-P	görünümdedir	report014
+OBS-P	Yoğun	report014
+ANAT	meme parankimi	report014
+O	nedeniyle	report014
+OBS-U	inceleme	report014
+O	sınırlı düzeyde kalmıştır. Değerlendirilebildiği kadarıyla;	report014
+ANAT	sol memede	report014
+OBS-P	diffüz dağılımlı	report014
+OBS-P	uniform mikrokalsifikasyonlar	report014
+O	izlenmektedir.	report014
+ANAT	Sol memede	report014
+OBS-P	en büyükleri alt-dış kadranda	report014
+O	yaklaşık	report014
+OBS-P	17x7 mm çaplı	report014
+O	olmak üzere	report014
+OBS-P	düzgün sınırlı	report014
+OBS-P	keskin kenarlı	report014
+ANAT	parankime	report014
+OBS-P	superpoze	report014
+OBS-P	birkaç adet nodüler opasite	report014
+O	izlenmektedir.	report014
+ANAT	Sol memede	report014
+OBS-A	asimetrik doku dansitesi	report014
+OBS-A	doku distorsiyonu	report014
+O	izlenmedi.	report014
+ANAT	Sol memede	report014
+OBS-A	malignensi açısından şüphe uyandıran mikrokalsifikasyon kümesi	report014
+O	mevcut değildir.	report014
+O	Grafiye dahil olan	report014
+ANAT	sol ön aksiller kesimde	report014
+O	, muhtemelen	report014
+IMP	benign	report014
+OBS-U	oldukları düşünülen	report014
+OBS-P	eliptik şekilli lenf nodları	report014
+O	saptandı.	report014
+O	YORUM:	report014
+OBS-P	Heterojen dens	report014
+ANAT	meme parankimi	report014
+IMP	US korelasyonu önerilir	report014
+IMP	BIRADS 0	report014
+ANAT	Sol memede	report014
+O	tariflenen	report014
+OBS-P	kalsifikasyonlar	report014
+IMP	BIRADS III	report014
+ANAT	Sol memede	report014
+O	tariflenen	report014
+OBS-P	nodüler opasiteler	report014
+IMP	US korelasyonu önerilir	report014
+IMP	BIRADS 0	report014
+O	(HASTANIN SAĞ MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR)	report014
+O	BI-RADS KATEGORİ (ACR BI-RADS ATLAS FOR MAMMOGRAPHY)	report014
+O	Sağ memenin MLO ve CC mammogramları elde olunmuştur.	report015
+ANAT	Sağ meme parankimi	report015
+OBS-P	heterojen dens	report015
+OBS-P	Tip C	report015
+ANAT	meme	report015
+OBS-P	görünümdedir	report015
+OBS-P	Yoğun	report015
+ANAT	meme parankimi	report015
+O	nedeniyle	report015
+OBS-U	inceleme	report015
+O	sınırlı düzeyde kalmıştır. Değerlendirilebildiği kadarıyla;	report015
+ANAT	sağ memede	report015
+OBS-P	diffüz dağılımlı	report015
+OBS-P	uniform mikrokalsifikasyonlar	report015
+O	izlenmektdir.	report015
+ANAT	Sağ memede	report015
+OBS-P	en büyükleri	report015
+ANAT	üst iç kadranda	report015
+O	yaklaşık	report015
+OBS-P	26x12 mm çaplı	report015
+OBS-P	düzgün sınırlı	report015
+OBS-P	keskin kenarlı	report015
+ANAT	parankime	report015
+OBS-P	superpoze	report015
+O	olmak üzere	report015
+OBS-P	birkaç adet	report015
+OBS-P	nodüler opasite	report015
+O	izlenmektedir.	report015
+ANAT	Sağ memede	report015
+OBS-A	asimetrik doku dansitesi	report015
+OBS-A	doku distorsiyonu	report015
+O	izlenmedi.	report015
+ANAT	Sağ memede	report015
+OBS-A	malignensi açısından şüphe uyandıran mikrokalsifikasyon kümesi	report015
+O	mevcut değildir.	report015
+O	Grafiye dahil olan	report015
+ANAT	sağ ön aksiller kesimde	report015
+O	, muhtemelen	report015
+IMP	benign	report015
+OBS-U	oldukları düşünülen	report015
+OBS-P	eliptik şekilli lenf nodları	report015
+O	saptandı.	report015
+O	YORUM:	report015
+OBS-P	Heterojen dens	report015
+ANAT	meme parankimi	report015
+IMP	US korelasyonu önerilir	report015
+IMP	BIRADS 0	report015
+ANAT	Sağ memede	report015
+OBS-P	diffüz dağılımlı mikrokalsifikasyonlar	report015
+IMP	BIRADS III	report015
+ANAT	Sağ memede	report015
+O	tariflenen	report015
+OBS-P	nodüler opasiteler	report015
+IMP	US korelasyonu önerilir	report015
+IMP	BIRADS 0	report015
+O	(HASTANIN SOL MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR)	report015
+O	BI-RADS KATEGORİ (ACR BI-RADS ATLAS FOR MAMMOGRAPHY)	report015
+O	Sol memenin MLO ve CC mammogramları elde olunmuştur.	report016
+ANAT	Sol meme parankimi	report016
+OBS-P	dens	report016
+OBS-P	Tip D	report016
+ANAT	meme	report016
+OBS-P	görünümdedir	report016
+ANAT	Sol memede	report016
+OBS-A	belirgin sınır veren kitle, nodül	report016
+O	saptanmadı.	report016
+ANAT	Sol memede	report016
+OBS-A	asimetrik doku dansitesi	report016
+OBS-A	doku distorsiyonu	report016
+O	izlenmedi.	report016
+ANAT	Sol memede	report016
+OBS-A	malignensi açısından şüphe uyandıran mikrokalsifikasyon kümesi	report016
+O	mevcut değildir.	report016
+O	Grafiye dahil olan	report016
+ANAT	sol ön aksiller kesimde	report016
+OBS-A	lenf nodu	report016
+O	saptanmadı.	report016
+OBS-P	Yoğun	report016
+ANAT	meme parankimi	report016
+O	nedeniyle	report016
+OBS-U	değerlendirme	report016
+O	sınırlı düzeyde kalmıştır)	report016
+O	17.07.1997 tarihli	report016
+ANAT	sol	report016
+O	mamogramları ile karşılaştırıldığında	report016
+OBS-A	anlamlı interval farklılık	report016
+O	saptnmadı.	report016
+O	YORUM:	report016
+OBS-P	Dens	report016
+ANAT	meme parankimi	report016
+IMP	US korelasyonu önerilir	report016
+IMP	BIRADS 0	report016
+O	(HASTANIN SAĞ MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR)	report016
+O	Sağ memenin MLO ve CC mammogramları elde olunmuştur.	report017
+ANAT	Sağ meme parankimi	report017
+OBS-P	dens	report017
+OBS-P	Tip D	report017
+ANAT	meme	report017
+OBS-P	görünümdedir	report017
+ANAT	Sağ memede	report017
+OBS-A	belirgin sınır veren kitle, nodül	report017
+O	saptanmadı.	report017
+ANAT	Sağ memede	report017
+OBS-A	asimetrik doku dansitesi	report017
+OBS-A	doku distorsiyonu	report017
+O	izlenmedi.	report017
+ANAT	Sağ memede	report017
+OBS-A	malignensi açısından şüphe uyandıran mikrokalsifikasyon kümesi	report017
+O	mevcut değildir.	report017
+O	Grafiye dahil olan	report017
+ANAT	sağ ön aksiller kesimde	report017
+O	, muhtemelen	report017
+IMP	benign	report017
+OBS-U	oldukları düşünülen	report017
+OBS-P	eliptik şekilli lenf nodları	report017
+O	"saptandı.
+("	report017
+OBS-P	Yoğun	report017
+ANAT	meme parankimi	report017
+O	nedeniyle	report017
+OBS-U	değerlendirme	report017
+O	"sınırlı düzeyde kalmıştır)
+09.09.2009 tarihli sağ mamogramları ile karşılaştırıldığında"	report017
+OBS-A	anlamlı interval farklılık	report017
+O	saptnmadı.	report017
+O	YORUM:	report017
+OBS-P	Dens	report017
+ANAT	meme parankimi	report017
+IMP	US korelasyonu önerilir	report017
+IMP	BIRADS 0	report017
+O	")
+(HASTANIN SOL MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR)"	report017
+O	Sol memenin MLO ve CC mammogramları elde olunmuştur.	report018
+ANAT	Sol meme parankimi	report018
+OBS-P	dens	report018
+OBS-P	Tip D	report018
+ANAT	meme	report018
+OBS-P	görünümdedir	report018
+OBS-P	Yoğun	report018
+ANAT	meme parankimi	report018
+O	nedeniyle	report018
+OBS-U	inceleme	report018
+O	sınırlı düzeyde kalmıştır. Değerlendirilebildiği kadarıyla;	report018
+ANAT	sol memede	report018
+OBS-A	belirgin sınır veren kitle, nodül	report018
+O	saptanmadı.	report018
+ANAT	Sol memede	report018
+ANAT	alt-iç kadranda	report018
+O	yaklaşık	report018
+OBS-P	4 mm'lik alanda	report018
+O	genel olarak	report018
+OBS-P	uniform özellikte	report018
+OBS-P	hafif pleomorfizm gösteren	report018
+O	, 07/2021 tarihli mamogramları ile karşılaştırıldığında	report018
+OBS-U	sayılarında artış olduğu düşünülen	report018
+OBS-P	mikrokalsifikasyonlar	report018
+O	iziendi.	report018
+IMP	Mamografi eşliğinde tel ile işaretlemeyi takiben eksizyonu önerilir	report018
+O	Ayrıca	report018
+ANAT	sol memede	report018
+OBS-P	dağınık yerleşimli	report018
+OBS-P	birkaç adet	report018
+IMP	benign natürde	report018
+OBS-P	punktat mikrokalsifikasyon	report018
+O	dikkati  çekti.	report018
+ANAT	Sol memede	report018
+OBS-A	asimetrik doku dansitesi	report018
+OBS-A	doku distorsiyonu	report018
+O	izlenmedi.	report018
+O	Grafiye dahil olan	report018
+ANAT	sol ön aksiller kesimde	report018
+OBS-A	lenf nodu	report018
+O	saptanmadı.	report018
+O	YORUM:	report018
+ANAT	Sol memede	report018
+O	tanımlanan	report018
+OBS-P	mikrokalsifikasyon kümesi	report018
+IMP	BIRADS IVA. Mamografi eşliğinde tel ile işaretlemeyi takiben eksizyonu önerilir.	report018
+OBS-P	Dens	report018
+ANAT	meme parankimi	report018
+IMP	US korelasyonu önerilir	report018
+IMP	BIRADS 0	report018
+O	(HASTANIN SAĞ MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR)	report018
+O	Sol memenin MLO ve CC mammogramları elde olunmuştur.	report019
+ANAT	Sol meme parankimi	report019
+OBS-P	dens	report019
+OBS-P	Tip D	report019
+ANAT	meme	report019
+OBS-P	görünümdedir	report019
+OBS-P	Yoğun	report019
+ANAT	meme parankimi	report019
+O	nedeniyle	report019
+OBS-U	inceleme	report019
+O	sınırlı düzeyde kalmıştır. Değerlendirilebildiği kadarıyla;	report019
+ANAT	sol memede	report019
+OBS-A	belirgin sınır veren kitle, nodül	report019
+O	saptanmadı.	report019
+ANAT	Sol memede	report019
+OBS-A	asimetrik doku dansitesi	report019
+OBS-A	doku distorsiyonu	report019
+O	izlenmedi.	report019
+ANAT	Sol memede	report019
+OBS-A	malignensi açısından şüphe uyandıran mikrokalsifikasyon kümesi	report019
+O	mevcut değildir.	report019
+O	Grafiye dahil olan	report019
+ANAT	sol ön aksiller kesimde	report019
+O	, muhtemelen	report019
+IMP	benign natürde	report019
+OBS-U	oldukları düşünülen	report019
+OBS-P	lenf nodları	report019
+O	saptandı.	report019
+O	YORUM:	report019
+OBS-P	Dens	report019
+ANAT	meme parankimi	report019
+IMP	US korelasyonu önerilir	report019
+IMP	BIRADS 0	report019
+O	(HASTANIN SAĞ MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR)	report019
+O	Sağ memenin MLO ve CC mammogramları elde olunmuştur.	report020
+ANAT	Sağ meme parankimi	report020
+OBS-P	dens	report020
+OBS-P	Tip D	report020
+ANAT	meme	report020
+OBS-P	görünümdedir	report020
+OBS-P	Yoğun	report020
+ANAT	meme parankimi	report020
+O	nedeniyle	report020
+OBS-U	inceleme	report020
+O	sınırlı düzeyde kalmıştır. Değerlendirilebildiği kadarıyla;	report020
+ANAT	sağ meme üst-dış kadranda	report020
+O	yaklaşık	report020
+OBS-P	5 mm çapında	report020
+O	ölçülen	report020
+ANAT	meme içi lenf nodu	report020
+IMP	ile uyumlu görünümde	report020
+OBS-P	nodüler opasite	report020
+O	dikkati çekmiştir.	report020
+ANAT	Sağ memede	report020
+OBS-A	asimetrik doku dansitesi	report020
+OBS-A	doku distorsiyonu	report020
+O	izlenmedi.	report020
+ANAT	Sağ memede	report020
+OBS-A	malignensi açısından şüphe uyandıran mikrokalsifikasyon kümesi	report020
+O	mevcut değildir.	report020
+O	Grafiye dahil olan	report020
+ANAT	sağ ön aksiller kesimde	report020
+OBS-A	lenf nodu	report020
+O	saptanmadı.	report020
+O	YORUM:	report020
+OBS-P	Dens	report020
+ANAT	meme parankimi	report020
+ANAT	sağ meme	report020
+ANAT	meme içi lenf nodu	report020
+IMP	ile uyumlu	report020
+OBS-P	nodüler opasite	report020
+IMP	US korelasyonu önerilir	report020
+IMP	BIRADS 0	report020
+O	(HASTANIN SOL MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR)	report020
+O	Sol memenin MLO ve CC mammogramları elde olunmuştur.	report021
+ANAT	Sol meme parankimi	report021
+OBS-P	dens	report021
+OBS-P	Tip D	report021
+ANAT	meme	report021
+OBS-P	görünümdedir	report021
+OBS-P	Yoğun	report021
+ANAT	meme parankimi	report021
+O	nedeniyle	report021
+OBS-U	inceleme	report021
+O	sınırlı düzeyde kalmıştır. Değerlendirilebildiği kadarıyla	report021
+ANAT	sol memede	report021
+OBS-A	belirgin sınır veren kitle, nodül	report021
+O	saptanmadı.	report021
+ANAT	Sol memede	report021
+OBS-A	asimetrik doku dansitesi	report021
+OBS-A	doku distorsiyonu	report021
+O	izlenmedi.	report021
+ANAT	Sol memede	report021
+OBS-A	malignensi açısından şüphe uyandıran mikrokalsifikasyon kümesi	report021
+O	mevcut değildir.	report021
+O	Grafiye dahil olan	report021
+ANAT	sol ön aksiller kesimde	report021
+O	, muhtemelen	report021
+IMP	benign natürde	report021
+OBS-U	oldukları düşünülen	report021
+OBS-P	lenf nodları	report021
+O	saptandı.	report021
+O	13/01/1993 tarihli mammogramları ile karşılaştırıldığında	report021
+OBS-A	anlamlı interval farklılık	report021
+O	saptanmadı.	report021
+O	YORUM:	report021
+OBS-P	Dens	report021
+ANAT	meme parankimi	report021
+IMP	US korelasyonu önerilir	report021
+IMP	BIRADS 0	report021
+O	(HASTANIN SAĞ MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR)	report021
+O	Sağ memenin MLO ve CC mammogramları elde olunmuştur.	report022
+ANAT	Sağ meme parankimi	report022
+OBS-P	dens	report022
+OBS-P	Tip D	report022
+ANAT	meme	report022
+OBS-P	görünümdedir	report022
+OBS-P	Yoğun	report022
+ANAT	meme parankimi	report022
+O	nedeniyle	report022
+OBS-U	inceleme	report022
+O	sınırlı düzeyde kalmıştır. Değerlendirilebildiği kadarıyla	report022
+ANAT	sağ memede	report022
+OBS-A	belirgin sınır veren kitle, nodül	report022
+O	saptanmadı.	report022
+ANAT	Sağ memede	report022
+OBS-A	asimetrik doku dansitesi	report022
+OBS-A	doku distorsiyonu	report022
+O	izlenmedi.	report022
+ANAT	Sağ memede	report022
+OBS-A	malignensi açısından şüphe uyandıran mikrokalsifikasyon kümesi	report022
+O	mevcut değildir.	report022
+O	Grafiye dahil olan	report022
+ANAT	sağ ön aksiller kesimde	report022
+O	, muhtemelen	report022
+IMP	benign natürde	report022
+OBS-U	oldukları düşünülen	report022
+OBS-P	lenf nodları	report022
+O	saptandı.	report022
+O	13/12/2012 tarihli mammogramları ile karşılaştırıldığında	report022
+OBS-A	anlamlı interval farklılık	report022
+O	saptanmadı.	report022
+O	YORUM:	report022
+OBS-P	Dens	report022
+ANAT	meme parankimi	report022
+IMP	US korelasyonu önerilir	report022
+IMP	BIRADS 0	report022
+O	(HASTANIN SOL MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR)	report022
+ANAT	Sağ memenin	report023
+O	CC mammogramları elde olunmuştur.	report023
+ANAT	Sağ meme parankimi	report023
+OBS-P	heterojen dens	report023
+OBS-P	Tip C	report023
+ANAT	meme	report023
+OBS-P	görünümdedir	report023
+OBS-P	Yoğun	report023
+ANAT	meme parankimi	report023
+O	nedeniyle	report023
+OBS-U	inceleme	report023
+O	sınırlı düzeyde kalmıştır. Değerlendirilebildiği kadarıyla;	report023
+ANAT	sağ memede	report023
+OBS-A	belirgin sınır veren kitle, nodül	report023
+O	saptanmadı.	report023
+ANAT	Sağ meme	report023
+O	CC grafide	report023
+ANAT	iç yarıda	report023
+OBS-P	gevşek kümeleşme oluşturmuş	report023
+OBS-P	birkaç adet	report023
+OBS-P	makrokalsifikasyon	report023
+O	izlenmekedir. 12.12.1992 tarihli	report023
+ANAT	sağ	report023
+O	CC mamogramları ile karşılaştırıldığında	report023
+IMP	stabildir	report023
+ANAT	Sağ	report023
+O	CC grafi	report023
+ANAT	iç yarııda	report023
+OBS-P	derin yerleşimli	report023
+O	12.12.1992 tarihli mamografisinde belirtilen	report023
+OBS-P	küme oluşturmuş mikrokalsifikasyonların sayısında artış	report023
+O	mevcuttur.	report023
+IMP	İşaretleme sonrası eksizyonu önerilir	report023
+ANAT	Sağ memede	report023
+OBS-A	asimetrik doku dansitesi	report023
+OBS-A	doku distorsiyonu	report023
+O	"izlenmedi. 
+ 
+Grafiye dahil olan"	report023
+ANAT	sağ ön aksiller kesimde	report023
+O	,  grafiye  kısmen dahil olan muhtemelen	report023
+IMP	benign natürde	report023
+OBS-U	olduğu düşünülen	report023
+OBS-P	lenf nodu	report023
+O	"saptandı. 
+
+YORUM:
+
+-"	report023
+ANAT	Sağ	report023
+O	CC grafi	report023
+ANAT	iç yarııda	report023
+OBS-P	derin yerleşimli	report023
+O	12.12.1992 tarihli mamografisinde belirtilen	report023
+OBS-P	küme oluşturmuş mikrokalsifikasyonların sayısında artış	report023
+O	mevcuttur.	report023
+IMP	İşaretleme sonrası eksizyonu önerilir	report023
+O	. (	report023
+IMP	BIRADS IV	report023
+O	")
+-CC grafi"	report023
+ANAT	iç yarıda	report023
+O	tanımlanan	report023
+IMP	stabil görünümlü	report023
+IMP	benign natürlü	report023
+OBS-P	kalsifikasyonlar	report023
+IMP	BIRADS II	report023
+O	") 
+-"	report023
+OBS-P	Heterojen dens	report023
+ANAT	meme parankimi	report023
+IMP	BIRADS 0	report023
+IMP	US korelasyonu önerilir	report023
+IMP	Rutin yıllık mamografi takibi önerilir	report023
+O	Sağ memenin MLO ve CC mammogramları elde olunmuştur.	report024
+ANAT	Sağ meme parankimi	report024
+OBS-P	dens	report024
+OBS-P	Tip D	report024
+ANAT	meme	report024
+OBS-P	görünümdedir	report024
+OBS-P	Yoğun	report024
+ANAT	meme parankimi	report024
+O	nedeniyle	report024
+OBS-U	inceleme	report024
+O	sınırlı düzeyde kalmıştır. Değerlendirilebildiği kadarıyla;	report024
+ANAT	sağ memede	report024
+OBS-A	belirgin sınır veren kitle, nodül	report024
+O	saptanmadı.	report024
+ANAT	Sağ meme	report024
+OBS-P	ödemli görünümde	report024
+O	olup	report024
+ANAT	ödemin	report024
+O	07.2027 tarihli mammografi incelemesine göre	report024
+IMP	artış gösterdiği	report024
+O	anlaşılmıştır.	report024
+ANAT	Sağ memede	report024
+OBS-P	vasküler cidar kalsifikasyonlarına ait görünümler	report024
+OBS-P	dağınık yerleşimli	report024
+IMP	benign natürde	report024
+OBS-P	punktat mikrokalsifikasyonlar	report024
+O	izlendi. Ayrıca	report024
+ANAT	üst-orta kesimde	report024
+ANAT	üst-dış kadranda	report024
+OBS-P	birkaç  adet	report024
+OBS-P	grup yapmış	report024
+OBS-P	bir kısmı hafif pleomorfizm gösteren	report024
+OBS-P	mikrokalsifikasyon kümesi	report024
+O	izlenmiştir. 07.2027 tarihli mamogramlı ile karşılaştırıldığında	report024
+ANAT	sol	report024
+O	MLO grafi	report024
+ANAT	orta kesimde	report024
+O	izlenen	report024
+OBS-P	mikrokalsifikasyon kümesinde	report024
+OBS-U	sayılarında artış olduğu düşünüldü	report024
+ANAT	Diğer kümelerde	report024
+OBS-A	anlamlı farklılık	report024
+O	saptanmadı.	report024
+ANAT	Sağ memede	report024
+OBS-A	asimetrik doku dansitesi	report024
+OBS-A	doku distorsiyonu	report024
+O	izlenmedi.	report024
+O	Grafiye dahil olan	report024
+ANAT	sağ ön aksiller kesimde	report024
+OBS-P	lenf nodu	report024
+O	saptandı.	report024
+O	YORUM:	report024
+ANAT	Sağ memede	report024
+O	tanımlanan	report024
+OBS-P	mikrokalsifikasyonlar	report024
+ANAT	Sağ	report024
+O	MLO grafi	report024
+ANAT	orta kesimde	report024
+OBS-P	sayılarında artış izlenen mikrokalsifikasyon kümesinin kontrolü	report024
+O	amacıyla	report024
+IMP	6 ay sonra sınırlı sağ MLO grafi önerilir	report024
+IMP	BIRADS III	report024
+OBS-P	Dens	report024
+ANAT	meme parankimi	report024
+ANAT	sağ memede	report024
+IMP	önceki mamografiye göre artış gösterdiği anlaşılan	report024
+OBS-P	ödemli görünüm	report024
+IMP	US korelasyonu önerilir	report024
+IMP	BIRADS 0	report024
+O	Sağ memenin MLO ve CC mammogramları elde olunmuştur.	report025
+ANAT	Sağ meme parankimi	report025
+OBS-P	dens	report025
+OBS-P	Tip C	report025
+ANAT	meme	report025
+OBS-P	görünümdedir	report025
+ANAT	Sağ memede	report025
+OBS-A	belirgin sınır veren kitle, nodül	report025
+O	saptanmadı.	report025
+ANAT	Sağ memede	report025
+OBS-P	dağınık yerleşimli	report025
+OBS-A	belirgin pleomorfizm	report025
+OBS-A	patolojik kümeleşme	report025
+O	göstermeyen,	report025
+OBS-P	yuvarlak konfigürasyonlu mikrokalsifikasyonlar	report025
+O	dikkati çekti. Ayrıca	report025
+ANAT	sağ memede	report025
+ANAT	üst dış kadranda	report025
+O	hastanın mevcut 2019 tarihli mamogramı ile karşılaştırıldığında	report025
+OBS-P	sayısında	report025
+OBS-P	boyutunda artış	report025
+O	saptanan,	report025
+OBS-P	minimal pleomorfizm	report025
+O	gösteren	report025
+OBS-P	mikrokalsifikasyon kümesi	report025
+O	dikkati çekti. Tanımlanan	report025
+OBS-P	mikrokalsifikasyonların	report025
+IMP	işaretlemeyi takiben eksizyonu önerilir	report025
+ANAT	Sağ memede	report025
+OBS-A	doku distorsiyonu	report025
+O	izlenmedi.	report025
+ANAT	Sağ memede	report025
+OBS-A	malignensi açısından şüphe uyandıran mikrokalsifikasyon kümesi	report025
+O	mevcut değildir.	report025
+O	Grafiye dahil olan	report025
+ANAT	sağ ön aksiller kesimde	report025
+OBS-P	multipl sayıda	report025
+OBS-P	yuvarlak konfigürasyonlu	report025
+OBS-P	dens görünümlü	report025
+OBS-P	patolojik lenf nodu	report025
+O	izlendi.	report025
+O	YORUM:	report025
+OBS-P	Dens	report025
+ANAT	meme parankimi	report025
+ANAT	sağ aksillada	report025
+OBS-P	patolojik lenf nodları	report025
+IMP	US korelasyonu önerilir	report025
+IMP	BIRADS 0	report025
+ANAT	Sağ memede	report025
+IMP	işaretlemeyi takiben eksizyonu önerilen	report025
+OBS-P	mikrokalsifikasyon kümesi	report025
+IMP	BIRADS 4B	report025
+O	(HASTANIN SOL MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR)	report025
+O	Sol memenin MLO ve CC mammogramları elde olunmuştur.	report026
+ANAT	Sol meme parankimi	report026
+OBS-P	heterojen dens	report026
+OBS-P	Tip C	report026
+ANAT	meme	report026
+OBS-P	görünümdedir	report026
+ANAT	Sol memede	report026
+OBS-A	belirgin sınır veren kitle, nodül	report026
+O	saptanmadı.	report026
+ANAT	Sol memede	report026
+OBS-A	asimetrik doku dansitesi	report026
+OBS-A	doku distorsiyonu	report026
+O	izlenmedi.	report026
+ANAT	Sol memede	report026
+OBS-A	malignensi açısından şüphe uyandıran mikrokalsifikasyon kümesi	report026
+O	mevcut değildir.	report026
+O	Grafiye dahil olan	report026
+ANAT	sol ön aksiller kesimde	report026
+O	, muhtemelen	report026
+IMP	benign	report026
+OBS-U	oldukları düşünülen	report026
+OBS-P	eliptik şekilli lenf nodları	report026
+O	saptandı.	report026
+O	YORUM:	report026
+OBS-P	Heterojen dens	report026
+ANAT	meme parankimi	report026
+IMP	US korelasyonu önerilir	report026
+IMP	BIRADS 0	report026
+O	(HASTANIN SAĞ MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR)	report026
+O	Sağ memenin MLO ve CC mammogramları elde olunmuştur.	report027
+ANAT	Sağ meme parankimi	report027
+OBS-P	heterojen dens	report027
+OBS-P	Tip C	report027
+ANAT	meme	report027
+OBS-P	görünümdedir	report027
+ANAT	Sağ memede	report027
+OBS-A	belirgin sınır veren kitle, nodül	report027
+O	saptanmadı.	report027
+ANAT	Sağ memede	report027
+IMP	benign natürlü	report027
+OBS-P	birkaç adet kaba makrokalsifikasyon	report027
+O	izlenmektedir.	report027
+ANAT	Sağ memede	report027
+OBS-A	asimetrik doku dansitesi	report027
+OBS-A	doku distorsiyonu	report027
+O	izlenmedi.	report027
+ANAT	Sağ memede	report027
+OBS-A	malignensi açısından şüphe uyandıran mikrokalsifikasyon kümesi	report027
+O	mevcut değildir.	report027
+O	Grafiye dahil olan	report027
+ANAT	sağ ön aksiller kesimde	report027
+O	, muhtemelen	report027
+IMP	benign	report027
+OBS-U	oldukları düşünülen	report027
+OBS-P	eliptik şekilli lenf nodları	report027
+O	saptandı.	report027
+O	YORUM:	report027
+OBS-P	Heterojen dens	report027
+ANAT	meme parankimi	report027
+IMP	US korelasyonu önerilir	report027
+IMP	BIRADS 0	report027
+ANAT	Sağ memede	report027
+O	tariflenen	report027
+OBS-P	kalsifikasyonlar	report027
+IMP	BIRADS II	report027
+O	(HASTANIN SOL MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR)	report027
+O	Sağ memenin MLO ve CC mammogramları elde olunmuştur.	report028
+ANAT	Sağ meme parankimi	report028
+OBS-P	heterojen dens	report028
+OBS-P	Tip C	report028
+ANAT	meme	report028
+OBS-P	görünümdedir	report028
+OBS-P	Yoğun	report028
+ANAT	meme parankimi	report028
+O	nedeniyle	report028
+OBS-U	inceleme	report028
+O	sınırlı düzeyde kalmıştır. Değerlendirilebildiği kadarıyla;	report028
+ANAT	sağ meme üst -orta kesiminde	report028
+OBS-P	hafif pleomorfizm gösteren	report028
+OBS-P	grup yapmış mikrokalsifikasyon kümesi	report028
+O	zemininde yaklaşık	report028
+OBS-P	5 mm çapında	report028
+O	ölçülen	report028
+OBS-P	nodüler görünüm	report028
+O	dikkati çekti. Hastanın	report028
+IMP	dış merkezli	report028
+O	2019	report028
+OBS-A	tarihli mamografi incelemesinde tanımlanan mikrokalsifikasyon	report028
+O	izlenmediği anlaşıldı.	report028
+O	Bunun dışında	report028
+ANAT	sağ memede	report028
+OBS-P	birkaç adet	report028
+IMP	benign natürde	report028
+OBS-P	makrokalsifikasyon-punktat mikrokalsifikasyon	report028
+O	izlendi.	report028
+ANAT	Sağ memede	report028
+OBS-A	asimetrik doku dansitesi	report028
+OBS-A	doku distorsiyonu	report028
+O	izlenmedi.	report028
+O	Grafiye dahil olan	report028
+ANAT	sağ ön aksiller kesimde	report028
+O	, muhtemelen	report028
+IMP	benign natürde	report028
+OBS-U	oldukları düşünülen	report028
+OBS-P	lenf nodları	report028
+O	saptandı.	report028
+O	YORUM:	report028
+OBS-P	Heterojen dens	report028
+ANAT	meme parankimi	report028
+ANAT	sağ memede	report028
+O	tanımlanan	report028
+OBS-P	mikrokalsifikasyonlar	report028
+O	barındıran	report028
+OBS-P	nodüler alan	report028
+IMP	BIRADS IV. Öncelikle US korelasyonu, US 'de vizüalize edilememesi halinde mamografi eşliğinde tel ile işaretlemeyi takiben eksizyonu önerilir.	report028
+O	") 
+(HASTANIN SOL MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR)"	report028
+O	Sol memenin MLO ve CC mammogramları elde olunmuştur.	report029
+ANAT	Sol meme parankimi	report029
+OBS-P	dens	report029
+OBS-P	Tip C	report029
+ANAT	meme	report029
+OBS-P	görünümdedir	report029
+ANAT	Sol memede	report029
+OBS-A	belirgin sınır veren kitle, nodül	report029
+O	saptanmadı.	report029
+ANAT	Sol memede	report029
+OBS-A	asimetrik doku dansitesi	report029
+OBS-A	doku distorsiyonu	report029
+O	izlenmedi.	report029
+ANAT	Sol memede	report029
+OBS-A	malignensi açısından şüphe uyandıran mikrokalsifikasyon kümesi	report029
+O	mevcut değildir.	report029
+O	Grafiye dahil olan	report029
+ANAT	sol ön aksiller kesimde	report029
+OBS-A	lenf nodu	report029
+O	saptanmadı.	report029
+O	YORUM:	report029
+OBS-P	Dens	report029
+ANAT	meme parankimi	report029
+IMP	US korelasyonu önerilir	report029
+IMP	BIRADS 0	report029
+O	(HASTANIN SAĞ MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR)	report029
+O	Sağ memenin MLO ve CC mammogramları elde olunmuştur.	report030
+ANAT	Sağ meme parankimi	report030
+OBS-P	dens	report030
+OBS-P	Tip C	report030
+ANAT	meme	report030
+OBS-P	görünümdedir	report030
+ANAT	Sağ memede	report030
+OBS-A	belirgin sınır veren kitle, nodül	report030
+O	saptanmadı.	report030
+ANAT	Sağ memede	report030
+OBS-A	asimetrik doku dansitesi	report030
+OBS-A	doku distorsiyonu	report030
+O	izlenmedi.	report030
+ANAT	Sağ memede	report030
+OBS-A	malignensi açısından şüphe uyandıran mikrokalsifikasyon kümesi	report030
+O	mevcut değildir.	report030
+O	Grafiye dahil olan	report030
+ANAT	sağ ön aksiller kesimde	report030
+OBS-A	lenf nodu	report030
+O	saptanmadı.	report030
+O	YORUM:	report030
+OBS-P	Dens	report030
+ANAT	meme parankimi	report030
+IMP	US korelasyonu önerilir	report030
+IMP	BIRADS 0	report030
+O	(HASTANIN SOL MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR)	report030
+O	Sol memenin MLO ve CC mammogramları elde olunmuştur.	report031
+ANAT	Sol meme parankimi	report031
+OBS-P	yağ infiltrasyonu	report031
+IMP	ile uyumlu	report031
+OBS-P	Tip A	report031
+ANAT	meme	report031
+OBS-P	görünümdedir	report031
+ANAT	Sol memede	report031
+OBS-A	belirgin sınır veren kitle, nodül	report031
+O	saptanmadı.	report031
+ANAT	Sol memede	report031
+OBS-A	asimetrik doku dansitesi	report031
+OBS-A	doku distorsiyonu	report031
+O	izlenmedi.	report031
+ANAT	Sol memede	report031
+OBS-A	malignensi açısından şüphe uyandıran mikrokalsifikasyon kümesi	report031
+O	mevcut değildir.	report031
+O	Grafiye dahil olan	report031
+ANAT	sol  ön aksiller kesimde	report031
+OBS-A	lenf nodu	report031
+O	saptanmadı.	report031
+O	YORUM:	report031
+OBS-P	Normal sınırlarda	report031
+ANAT	sol	report031
+OBS-P	dijital mammografi	report031
+IMP	BIRADS I	report031
+O	(HASTANIN SAĞ MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR)	report031
+O	Sağ memenin MLO ve CC mammogramları elde olunmuştur.	report032
+ANAT	Sağ meme parankimi	report032
+OBS-P	yağ infiltrasyonu	report032
+IMP	ile uyumlu	report032
+OBS-P	Tip A	report032
+ANAT	meme	report032
+OBS-P	görünümdedir	report032
+ANAT	Sağ memede	report032
+OBS-A	belirgin sınır veren kitle, nodül	report032
+O	saptanmadı.	report032
+ANAT	Sağ memede	report032
+OBS-A	asimetrik doku dansitesi	report032
+OBS-A	doku distorsiyonu	report032
+O	izlenmedi.	report032
+ANAT	Sağ memede	report032
+OBS-A	malignensi açısından şüphe uyandıran mikrokalsifikasyon kümesi	report032
+O	mevcut değildir.	report032
+O	Grafiye dahil olan	report032
+ANAT	sağ ön aksiller kesimde	report032
+OBS-A	lenf nodu	report032
+O	saptanmadı.	report032
+O	YORUM:	report032
+OBS-P	Normal sınırlarda	report032
+ANAT	sağ	report032
+OBS-P	dijital mammografi	report032
+IMP	BIRADS I	report032
+O	(HASTANIN SOL MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR)	report032
+O	Sağ memenin MLO ve CC mammogramları elde olunmuştur.	report033
+ANAT	Sağ meme parankimi	report033
+OBS-P	minimal dens	report033
+OBS-P	Tip B	report033
+ANAT	meme	report033
+OBS-P	görünümdedir	report033
+ANAT	Sağ memede	report033
+O	MLO mamogramda	report033
+ANAT	superiorda	report033
+OBS-P	8 mm çaplı	report033
+OBS-P	düşük dansiteli	report033
+OBS-P	düzensiz konturlu	report033
+O	, CC mamogramda net olarak demonstre edilemeyen	report033
+OBS-U	nodüler lezyon varlığından şüphe edildi	report033
+O	. Ayrıca	report033
+ANAT	sağ memede	report033
+OBS-P	5 mm	report033
+OBS-P	daha küçük çaplı	report033
+OBS-P	birkaç adet	report033
+OBS-P	düşük dansiteli nodüler  lezyon	report033
+O	dikkati çekti.	report033
+ANAT	Sağ memede	report033
+OBS-A	doku distorsiyonu	report033
+O	izlenmedi.	report033
+ANAT	Sağ memede	report033
+OBS-A	malignensi açısından şüphe uyandıran mikrokalsifikasyon kümesi	report033
+O	mevcut değildir.	report033
+O	Grafiye dahil olan	report033
+ANAT	sağ ön aksiller kesimde	report033
+O	, grafiye kısmen dahil olan, muhtemelen	report033
+IMP	benign	report033
+OBS-U	oldukları düşünülen	report033
+OBS-P	lenf nodları	report033
+O	saptandı.	report033
+O	YORUM:	report033
+ANAT	Sağ memede	report033
+OBS-U	nodüler lezyon şüphesi	report033
+IMP	US korelasyonu önerilir	report033
+IMP	BIRADS 0	report033
+O	(HASTANIN SOL MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR)	report033
+O	Sol memenin MLO ve CC mammogramları elde olunmuştur.	report034
+ANAT	Sol memede	report034
+OBS-P	dağınık fibroglandüler dansiteler	report034
+O	izlenmiştir (	report034
+OBS-P	Tip B	report034
+ANAT	meme	report034
+ANAT	Sol	report034
+O	MLO grafi	report034
+ANAT	üst kesiminde	report034
+O	CC grafiye dahil olmadığı anlaşılan yaklaşık	report034
+OBS-P	20 mm çapında	report034
+O	ölçülen,	report034
+OBS-P	düzensiz	report034
+OBS-P	yer yer spiküle konturlu  kitle lezyonu	report034
+O	mevcuttur.	report034
+ANAT	Sol meme	report034
+ANAT	üst-dış kadranda	report034
+IMP	benign natürde	report034
+OBS-P	punktat mikrokalsifikasyon	report034
+O	izlendi.	report034
+ANAT	Sol memede	report034
+OBS-A	malignensi açısından şüphe uyandıran mikrokalsifikasyon kümesi	report034
+O	mevcut değildir.	report034
+ANAT	Sol memede	report034
+OBS-A	asimetrik doku dansitesi	report034
+OBS-A	doku distorsiyonu	report034
+O	izlenmedi.	report034
+O	Grafiye dahil olan	report034
+ANAT	sol ön aksiller kesimde	report034
+O	, muhtemelen	report034
+IMP	benign natürde	report034
+OBS-U	oldukları düşünülen	report034
+OBS-P	lenf nodları	report034
+O	saptandı.	report034
+O	YORUM:	report034
+IMP	Benign natürde	report034
+OBS-P	kalsifikasyonllar	report034
+ANAT	Sol memede	report034
+O	tanımlanan	report034
+IMP	yüksek olasılıkla malign	report034
+OBS-P	kitle lezyonu	report034
+IMP	Doku tanısı önerilir	report034
+IMP	BIRADS V	report034
+O	(HASTANIN SAĞ MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR)	report034
+O	Sağ memenin MLO ve CC mammogramları elde olunmuştur.	report035
+ANAT	Sağ memede	report035
+OBS-P	dağınık fibroglandüler dansiteler	report035
+O	izlenmiştir (	report035
+OBS-P	Tip B	report035
+ANAT	meme	report035
+ANAT	Sağ memede	report035
+OBS-A	belirgin sınır veren kitle, nodül	report035
+O	saptanmadı.	report035
+ANAT	Sağ memede	report035
+OBS-P	dağınık yerleşimli	report035
+IMP	benign natürde	report035
+OBS-P	makrokalsifikasyon- punktat  mikrokalsifikasyonlar	report035
+O	izlenmiştir. Ayrıca	report035
+ANAT	sağ meme orta kesiminde	report035
+O	, eski mamogramları ile karşılaştırıldığında özellikle MLO mamogramda	report035
+OBS-P	sayılarında artış	report035
+O	olduğu görülen,	report035
+OBS-P	mikrokalsifiyon kümesi	report035
+O	izlendi.	report035
+IMP	Aile hikayesi olan	report035
+IMP	kendisi opere sol meme Ca olan hastada	report035
+O	tanımlanan	report035
+OBS-P	mikrokalsifikasyon alanının	report035
+IMP	mamografi eşliğinde tel ile işaretlemeyi takiben eksizyonu	report035
+O	önerilir.	report035
+ANAT	Sağ memede	report035
+OBS-A	asimetrik doku dansitesi	report035
+OBS-A	doku distorsiyonu	report035
+O	izlenmedi.	report035
+O	Grafiye dahil olan	report035
+ANAT	sağ ön aksiller kesimde	report035
+O	, muhtemelen	report035
+IMP	benign natürde	report035
+OBS-U	olduğu düşünülen	report035
+OBS-P	lenf nodu	report035
+O	saptandı.	report035
+O	YORUM:	report035
+ANAT	Sağ memede	report035
+O	tanımlanan	report035
+OBS-P	mikrokalsifikasyon kümesi	report035
+IMP	BIRADS IVA, eksizyonu önerilir	report035
+O	(HASTANIN SOL MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR)	report035
+O	Sol memenin MLO ve CC mammogramları elde olunmuştur.	report036
+ANAT	Sol meme parankimi	report036
+OBS-P	minimal dens	report036
+OBS-P	Tip B	report036
+ANAT	meme	report036
+OBS-P	görünümdedir	report036
+ANAT	Sol memede	report036
+OBS-A	belirgin sınır veren kitle, nodül	report036
+O	saptanmadı.	report036
+ANAT	Sol memede	report036
+OBS-A	asimetrik doku dansitesi	report036
+OBS-A	doku distorsiyonu	report036
+O	izlenmedi.	report036
+ANAT	Sol memede	report036
+OBS-A	malignensi açısından şüphe uyandıran mikrokalsifikasyon kümesi	report036
+O	mevcut değildir.	report036
+O	Grafiye dahil olan	report036
+ANAT	sol ön aksiller foldda	report036
+O	, muhtemelen	report036
+IMP	benign	report036
+OBS-U	oldukları düşünülen	report036
+OBS-P	eliptik şekilli	report036
+OBS-P	reaktif görünümlü	report036
+OBS-P	lenf nodları	report036
+O	saptandı.	report036
+O	16.06.2016 tarihli	report036
+ANAT	sol	report036
+O	mamogramları ile karşılaştırıldığında	report036
+OBS-A	anlamlı interval farklılık	report036
+O	saptanmamıştır.	report036
+O	YORUM:	report036
+OBS-P	Normal sınırlarda	report036
+ANAT	sol	report036
+OBS-P	dijital mammografi	report036
+IMP	BIRADS I	report036
+O	(HASTANIN SAĞ MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR)	report036
+O	Sağ memenin MLO ve CC mammogramları elde olunmuştur.	report037
+ANAT	Sağ meme parankimi	report037
+OBS-P	minimal dens	report037
+OBS-P	Tip B	report037
+ANAT	meme	report037
+OBS-P	görünümdedir	report037
+ANAT	Sağ memede	report037
+O	MLO mammogramda	report037
+ANAT	superiorda	report037
+OBS-P	5 mm çaplı	report037
+OBS-P	düşük dansiteli	report037
+O	, CC mommogramda net olarak demonstre edilemeyen	report037
+OBS-U	nodüler lezyon varlığında şüphe edildi	report037
+ANAT	Sağ memede	report037
+OBS-A	doku distorsiyonu	report037
+O	izlenmedi.	report037
+ANAT	Sağ memede	report037
+OBS-A	malignensi açısından şüphe uyandıran mikrokalsifikasyon kümesi	report037
+O	mevcut değildir.	report037
+O	Grafiye dahil olan	report037
+ANAT	sağ ön aksiller foldda	report037
+O	, muhtemelen	report037
+IMP	benign	report037
+OBS-U	oldukları düşünülen	report037
+OBS-P	eliptik şekilli	report037
+OBS-P	reaktif görünümlü	report037
+OBS-P	lenf nodları	report037
+O	saptandı.	report037
+O	16.06.2016 tarihli sağ mamogramları ile karşılaştırıldığında	report037
+OBS-A	anlamlı interval farklılık	report037
+O	saptanmamıştır.	report037
+O	YORUM:	report037
+ANAT	Sağ memede	report037
+OBS-U	nodüler lezyon şüphesi	report037
+IMP	US kontrolü önerilir	report037
+IMP	BIRADS 0	report037
+O	(HASTANIN SOL MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR)	report037
+O	Sağ memenin MLO ve CC mammogramları elde olunmuştur.	report038
+ANAT	Sağ meme parankimi	report038
+OBS-P	dens	report038
+OBS-P	Tip C	report038
+ANAT	meme	report038
+OBS-P	görünümdedir	report038
+ANAT	Sağ memede	report038
+OBS-A	belirgin sınır veren kitle, nodül	report038
+O	saptanmadı.	report038
+ANAT	Sağ memede	report038
+OBS-A	asimetrik doku dansitesi	report038
+OBS-A	doku distorsiyonu	report038
+O	izlenmedi.	report038
+ANAT	Sağ memede	report038
+OBS-A	malignensi açısından şüphe uyandıran mikrokalsifikasyon kümesi	report038
+O	mevcut değildir.	report038
+O	Grafiye dahil olan	report038
+ANAT	sağ ön aksiller kesimde	report038
+O	, muhtemelen	report038
+IMP	benign	report038
+OBS-U	oldukları düşünülen	report038
+OBS-P	eliptik şekilli lenf nodları	report038
+O	saptandı.	report038
+O	08.08.1998 tarihli sağ mammogramları ile karşılaştırıldığında	report038
+OBS-A	anlamlı interval farklılık	report038
+O	saptanmamıştır.	report038
+O	YORUM:	report038
+OBS-P	Dens	report038
+ANAT	meme parankimi	report038
+IMP	US korelasyonu önerilir	report038
+IMP	BIRADS 0	report038
+O	(HASTANIN SOL MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR)	report038
+O	Sol memenin MLO ve CC mammogramları elde olunmuştur.	report039
+ANAT	Sol meme parankimi	report039
+OBS-P	dens	report039
+OBS-P	Tip C	report039
+ANAT	meme	report039
+OBS-P	görünümdedir	report039
+ANAT	Sol memede	report039
+OBS-A	belirgin sınır veren kitle, nodül	report039
+O	saptanmadı.	report039
+ANAT	Sol memede	report039
+OBS-A	doku distorsiyonu	report039
+O	izlenmedi.	report039
+ANAT	Sol memede	report039
+OBS-A	malignensi açısından şüphe uyandıran mikrokalsifikasyon kümesi	report039
+O	mevcut değildir.	report039
+O	Grafiye dahil olan	report039
+ANAT	sol ön aksiller kesimde	report039
+OBS-P	reaktif görünümlü lenf nodları	report039
+O	ile birlikte ,	report039
+ANAT	superiorda	report039
+O	öncelikle artefakta ait olabilecek ancak	report039
+ANAT	cilt kalsifikasyonlarından	report039
+O	ayrımı yapılamayan, yaklaşık	report039
+OBS-P	13 mm çapında	report039
+ANAT	bir alanda	report039
+OBS-P	lokalize	report039
+O	ve 2021 tarihli mamogramında	report039
+ANAT	cilt kalsifikasyonu	report039
+O	açısından	report039
+OBS-U	şüpheli alan	report039
+O	dikkati çekti.	report039
+ANAT	Bu alanın	report039
+IMP	3 ay sonra sol unilateral MLO planda mamogramla korelasyonu önerilir	report039
+O	YORUM:	report039
+OBS-P	Dens	report039
+ANAT	meme parankimi	report039
+IMP	US korelasyonu önerilir	report039
+IMP	BIRADS 0	report039
+ANAT	Sol ön aksiller fold düzeyinde	report039
+O	yukarıda tanımlanan  ve	report039
+ANAT	cilt kalsifikasyonu	report039
+O	açısından	report039
+OBS-U	şüpheli bulunan alan	report039
+IMP	3 ay sonra sol unilateral MLO planda mamogramla korelasyonu önerilir.	report039
+IMP	BIRADS III	report039
+O	(HASTANIN SAĞ MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR)	report039
+O	Sağ memenin MLO ve CC mammogramları elde olunmuştur.	report040
+ANAT	Sağ meme parankimi	report040
+OBS-P	heterojen dens	report040
+OBS-P	Tip C	report040
+ANAT	meme	report040
+OBS-P	görünümdedir	report040
+OBS-P	Yoğun	report040
+ANAT	meme parankimi	report040
+O	nedeniyle	report040
+OBS-U	inceleme	report040
+O	sınırlı düzeyde kalmıştır. Değerlendirilebildiği kadarıyla;	report040
+ANAT	sağ memede	report040
+OBS-A	belirgin sınır veren kitle, nodül	report040
+O	saptanmadı.	report040
+ANAT	Sağ memede	report040
+OBS-P	dağınık yerleşimli	report040
+OBS-P	birkaç adet	report040
+IMP	benign natürde	report040
+OBS-P	makro-mikrokalsifikasyon	report040
+O	izlendi.	report040
+ANAT	Sağ memede	report040
+OBS-A	malignensi açısından şüphe uyandıran mikrokalsifikasyon kümesi	report040
+O	mevcut değildir.	report040
+ANAT	Sağ memede	report040
+OBS-A	asimetrik doku dansitesi	report040
+OBS-A	doku distorsiyonu	report040
+O	izlenmedi.	report040
+O	Grafiye dahil olan	report040
+ANAT	sağ ön aksiller kesimde	report040
+OBS-A	lenf nodu	report040
+O	saptanmadı.	report040
+O	03/2025 tarihli mammogramları ile karşılaştırıldığında	report040
+OBS-A	malignite lehine anlamlı interval farklılık	report040
+O	saptanmadı.	report040
+O	YORUM:	report040
+IMP	Benign natürde	report040
+OBS-P	kalsifikasyonlar	report040
+IMP	BIRADS II	report040
+OBS-P	Heterojen dens	report040
+ANAT	meme parankimi	report040
+IMP	US korelasyonu önerilir	report040
+IMP	BIRADS 0	report040
+O	(HASTANIN SOL MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR)	report040
+O	Sol memenin MLO ve CC mammogramları elde olunmuştur.	report041
+ANAT	Sol memede	report041
+OBS-P	dağınık fibroglandüler dansiteler	report041
+OBS-P	Tip B	report041
+ANAT	meme	report041
+O	) izlendi.	report041
+ANAT	Sol memede	report041
+OBS-A	belirgin sınır veren kitle, nodül	report041
+O	saptanmadı.	report041
+ANAT	Sol memede	report041
+OBS-A	asimetrik doku dansitesi	report041
+OBS-A	doku distorsiyonu	report041
+O	izlenmedi.	report041
+ANAT	Sol memede	report041
+OBS-A	malignensi açısından şüphe uyandıran mikrokalsifikasyon kümesi	report041
+O	mevcut değildir.	report041
+O	Grafiye dahil olan	report041
+ANAT	sol  ön aksiller kesimde	report041
+O	, muhtemelen	report041
+IMP	benign natürde	report041
+OBS-U	oldukları düşünülen	report041
+OBS-P	lenf nodları	report041
+O	saptandı.	report041
+O	11/2011 tarihli mammogramları ile karşılaştırıldığında	report041
+OBS-A	anlamlı interval farklılık	report041
+O	saptanmadı.	report041
+O	YORUM:	report041
+OBS-P	Normal sınırlarda	report041
+ANAT	sol	report041
+OBS-P	dijital mammografi	report041
+IMP	BIRADS I	report041
+O	(HASTANIN SAĞ MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR)	report041
+O	Sağ memenin MLO ve CC mammogramları elde olunmuştur.	report042
+ANAT	Sağ memede	report042
+OBS-P	dağınık fibroglandüler dansiteler	report042
+OBS-P	Tip B	report042
+ANAT	meme	report042
+O	) izlendi.	report042
+ANAT	Sağ memede	report042
+OBS-A	belirgin sınır veren kitle, nodül	report042
+O	saptanmadı.	report042
+ANAT	Sağ memede	report042
+OBS-A	asimetrik doku dansitesi	report042
+OBS-A	doku distorsiyonu	report042
+O	izlenmedi.	report042
+ANAT	Sağ memede	report042
+OBS-A	malignensi açısından şüphe uyandıran mikrokalsifikasyon kümesi	report042
+O	mevcut değildir.	report042
+O	Grafiye dahil olan	report042
+ANAT	sağ ön aksiller kesimde	report042
+O	, muhtemelen	report042
+IMP	benign natürde	report042
+OBS-U	oldukları düşünülen	report042
+OBS-P	lenf nodları	report042
+O	saptandı.	report042
+O	11/2011 tarihli mammogramları ile karşılaştırıldığında	report042
+OBS-A	anlamlı interval farklılık	report042
+O	saptanmadı.	report042
+O	YORUM:	report042
+OBS-P	Normal sınırlarda	report042
+ANAT	sağ	report042
+OBS-P	dijital mammografi	report042
+IMP	BIRADS I	report042
+O	(HASTANIN SOL MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR)	report042
+O	Sol memenin MLO ve CC mammogramları elde olunmuştur.	report043
+ANAT	Sol meme parankimi	report043
+OBS-P	dens	report043
+OBS-P	Tip D	report043
+ANAT	meme	report043
+OBS-P	görünümdedir	report043
+ANAT	Sol memede	report043
+OBS-A	belirgin sınır veren kitle, nodül	report043
+O	saptanmadı.	report043
+O	MLO mamogramda	report043
+ANAT	süperiorda	report043
+OBS-U	lokalize olduğu düşünülen	report043
+O	ancak	report043
+OBS-P	dağılım gösteren	report043
+O	CC mamogramda	report043
+ANAT	iç kesimde	report043
+OBS-P	gevşek kümelenmiş	report043
+OBS-P	birkaç adet	report043
+OBS-P	uniform özellikte	report043
+O	ve yaklaşık	report043
+OBS-P	5 mm çapında	report043
+ANAT	bir alanda	report043
+OBS-P	lokalize mikrokalsifikasyonlar	report043
+O	izlenmiş olup	report043
+OBS-P	kalsifikasyonların	report043
+O	hastanın 2022 tarihli mamogramında da	report043
+OBS-P	kısmen	report043
+O	izlendiği ancak	report043
+IMP	bu tetkikte	report043
+OBS-P	süperpozisyonun	report043
+IMP	ortadan kalktığı	report043
+O	için	report043
+IMP	daha belirgin demonstre edilebildiği	report043
+O	düşünüldü. Tanımlanan	report043
+OBS-P	mikrokalsifikasyonların	report043
+IMP	benign natürde	report043
+OBS-U	olduğu düşünüldü	report043
+O	ancak	report043
+IMP	perimenapozal dönemde olduğu bilinen	report043
+O	hastanın	report043
+IMP	6 ay sonra sol unilateral CC planda mammogramla korelasyonu önerilir	report043
+ANAT	Sol memede	report043
+OBS-A	asimetrik doku dansitesi	report043
+OBS-A	doku distorsiyonu	report043
+O	izlenmedi.	report043
+ANAT	Sol memede	report043
+OBS-A	malignensi açısından şüphe uyandıran mikrokalsifikasyon kümesi	report043
+O	mevcut değildir.	report043
+O	Grafiye dahil olan	report043
+ANAT	sol ön aksiller kesimde	report043
+O	, muhtemelen	report043
+IMP	benign	report043
+OBS-U	oldukları düşünülen	report043
+OBS-P	eliptik şekilli	report043
+OBS-P	reaktif görünümlü	report043
+OBS-P	lenf nodları	report043
+O	saptandı.	report043
+OBS-P	Yoğun	report043
+ANAT	meme parankimi	report043
+O	nedeniyle	report043
+OBS-U	değerlendirme	report043
+O	sınırlı düzeyde kalmıştır.)	report043
+O	YORUM:	report043
+OBS-P	Dens	report043
+ANAT	meme parankimi	report043
+IMP	US korelasyonu önerilir	report043
+IMP	BIRADS 0	report043
+ANAT	Sol memede	report043
+IMP	6 ay sonra kontrolü önerilen	report043
+OBS-P	mikrokalsifikasyonlar	report043
+IMP	BIRADS III	report043
+O	(HASTANIN SAĞ MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR)	report043
+O	Sağ memenin MLO ve CC mammogramları elde olunmuştur.	report044
+ANAT	Sağ meme parankimi	report044
+OBS-P	dens	report044
+OBS-P	Tip C	report044
+ANAT	meme	report044
+OBS-P	görünümdedir	report044
+ANAT	Sağ memede	report044
+OBS-P	büyüğü	report044
+O	CC mamogramda	report044
+ANAT	orta kesimde	report044
+OBS-P	10 mm çapında	report044
+O	ölçülen olmak üzere	report044
+OBS-P	bir-iki adet	report044
+OBS-P	kenarları	report044
+ANAT	meme parankimi	report044
+OBS-P	ile örtülü	report044
+OBS-P	nodüler opasite	report044
+O	izlendi.	report044
+IMP	US korelasyonu önerilir	report044
+ANAT	Sağ memede	report044
+OBS-A	asimetrik doku dansitesi	report044
+OBS-A	doku distorsiyonu	report044
+O	izlenmedi.	report044
+ANAT	Sağ memede	report044
+OBS-A	malignensi açısından şüphe uyandıran mikrokalsifikasyon kümesi	report044
+O	mevcut değildir.	report044
+ANAT	Sağ memede	report044
+IMP	benign radyolojik karakterde	report044
+OBS-P	dağınık yerleşimli	report044
+OBS-P	uniform mikrokalsifikasyonlar	report044
+O	izlendi.	report044
+O	Grafiye dahil olan	report044
+ANAT	sağ ön aksiller kesimde	report044
+OBS-A	lenf nodu	report044
+O	saptanmadı.	report044
+O	10/10/2010 tarihli mammogramları ile karşılaştırıldığında	report044
+OBS-A	anlamlı interval farklılık	report044
+O	saptanmadı.	report044
+O	YORUM:	report044
+OBS-P	Dens	report044
+ANAT	meme parankimi	report044
+ANAT	sağ memede	report044
+OBS-P	nodüler opasiteler	report044
+IMP	US korelasyonu önerilir	report044
+IMP	BIRADS 0	report044
+O	(HASTANIN SOL MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR)	report044
+O	Sol memenin MLO ve CC mammogramları elde olunmuştur.	report045
+ANAT	Sol meme parankimi	report045
+OBS-P	heterojen dens	report045
+OBS-P	Tip C	report045
+ANAT	meme	report045
+OBS-P	görünümdedir	report045
+OBS-P	Yoğun	report045
+ANAT	meme parankimi	report045
+O	nedeniyle	report045
+OBS-U	inceleme	report045
+O	sınırlı düzeyde kalmıştır. Değerlendirilebildiği kadarıyla;	report045
+ANAT	sol meme üst-dış kadranda	report045
+OBS-P	5 mm çapında	report045
+O	ölçülen	report045
+OBS-P	düzgün sınırlı nodüler opasite	report045
+O	izlendi.	report045
+ANAT	Sol memede	report045
+OBS-A	asimetrik doku dansitesi	report045
+OBS-A	doku distorsiyonu	report045
+O	izlenmedi.	report045
+ANAT	Sol memede	report045
+OBS-A	malignensi açısından şüphe uyandıran mikrokalsifikasyon kümesi	report045
+O	mevcut değildir.	report045
+O	Grafiye dahil olan	report045
+ANAT	sol ön aksiller kesimde	report045
+OBS-A	lenf nodu	report045
+O	saptanmadı.	report045
+ANAT	Aksiller bölge komşuluğunda	report045
+OBS-P	5 mm çapında	report045
+O	ölçülen	report045
+OBS-P	nevüs	report045
+O	izlenmiştir.	report045
+O	03.2013 tarihli mamogramları ile karşılaştırıldığında	report045
+OBS-A	malignite lehine anlamlı interval farklılık	report045
+O	saptanmamıştır.	report045
+O	YORUM:	report045
+OBS-P	Heterojen dens	report045
+ANAT	meme parankimi	report045
+ANAT	sol memede	report045
+OBS-P	nodüler opasite	report045
+IMP	US korelasyonu önerilir	report045
+IMP	BIRADS 0	report045
+O	(HASTANIN SAĞ MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR)	report045
+O	Sağ memenin MLO ve CC mammogramları elde olunmuştur.	report046
+ANAT	Sağ meme parankimi	report046
+OBS-P	heterojen dens	report046
+OBS-P	Tip C	report046
+ANAT	meme	report046
+OBS-P	görünümdedir	report046
+OBS-P	Yoğun	report046
+ANAT	meme parankimi	report046
+O	nedeniyle	report046
+OBS-U	inceleme	report046
+O	sınırlı düzeyde kalmıştır. Değerlendirilebildiği kadarıyla;	report046
+ANAT	sağ memede	report046
+OBS-A	belirgin sınır veren kitle, nodül	report046
+O	saptanmadı.	report046
+ANAT	Sağ memede	report046
+OBS-A	asimetrik doku dansitesi	report046
+OBS-A	doku distorsiyonu	report046
+O	izlenmedi.	report046
+ANAT	Sağ memede	report046
+OBS-A	malignensi açısından şüphe uyandıran mikrokalsifikasyon kümesi	report046
+O	mevcut değildir.	report046
+O	Grafiye dahil olan	report046
+ANAT	sağ ön aksiller kesimde	report046
+O	, muhtemelen	report046
+IMP	benign natürde	report046
+OBS-U	oldukları düşünülen	report046
+OBS-P	lenf nodları	report046
+O	saptandı.	report046
+O	03.2013 tarihli mamogramları ile karşılaştırıldığında	report046
+OBS-A	malignite lehine anlamlı interval farklılık	report046
+O	saptanmamıştır.	report046
+O	YORUM:	report046
+OBS-P	Heterojen dens	report046
+ANAT	meme parankimi	report046
+IMP	US korelasyonu önerilir	report046
+IMP	BIRADS 0	report046
+O	(HASTANIN SOL MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR)	report046
+O	Sol memenin MLO ve CC mammogramları elde olunmuştur.	report047
+ANAT	Sol meme parankimi	report047
+OBS-P	dens	report047
+OBS-P	Tip D	report047
+ANAT	meme	report047
+OBS-P	görünümdedir	report047
+OBS-P	Yoğun	report047
+ANAT	meme parankimi	report047
+O	nedeniyle	report047
+OBS-U	inceleme	report047
+O	sınırlı düzeyde kalmıştır. Değerlendirilebildiği kadarıyla;	report047
+ANAT	sol memede	report047
+OBS-A	belirgin sınır veren kitle, nodül	report047
+O	saptanmadı.	report047
+ANAT	Sol memede	report047
+OBS-A	asimetrik doku dansitesi	report047
+OBS-A	doku distorsiyonu	report047
+O	izlenmedi.	report047
+ANAT	Sol memede	report047
+OBS-A	malignensi açısından şüphe uyandıran mikrokalsifikasyon kümesi	report047
+O	mevcut değildir.	report047
+O	Grafiye dahil olan	report047
+ANAT	sol ön aksiller kesimde	report047
+O	, muhtemelen	report047
+IMP	benign natürde	report047
+OBS-U	oldukları düşünülen	report047
+OBS-P	lenf nodları	report047
+O	saptandı.	report047
+O	YORUM:	report047
+OBS-P	Dens	report047
+ANAT	meme parankimi	report047
+IMP	US korelasyonu önerilir	report047
+IMP	BIRADS 0	report047
+O	(HASTANIN SAĞ MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR)	report047
+O	Sağ memenin MLO ve CC mammogramları elde olunmuştur.	report048
+ANAT	Sağ meme parankimi	report048
+OBS-P	dens	report048
+OBS-P	Tip D	report048
+ANAT	meme	report048
+OBS-P	görünümdedir	report048
+OBS-P	Yoğun	report048
+ANAT	meme parankimi	report048
+O	nedeniyle	report048
+OBS-U	inceleme	report048
+O	sınırlı düzeyde kalmıştır. Değerlendirilebildiği kadarıyla;	report048
+ANAT	sağ memede	report048
+O	MLO grafi	report048
+ANAT	üst kesiminde	report048
+O	yaklaşık	report048
+OBS-P	8 mm çapında	report048
+O	ölçülen	report048
+OBS-P	nodüler opasite	report048
+O	dikkati çekti.	report048
+ANAT	Sağ memede	report048
+OBS-P	bir iki adet	report048
+IMP	benign natürde	report048
+OBS-P	punktat mikrokalsifikasyon	report048
+O	izlendi.	report048
+ANAT	Sağ memede	report048
+OBS-A	malignensi açısından şüphe uyandıran mikrokalsifikasyon kümesi	report048
+O	mevcut değildir.	report048
+ANAT	Sağ memede	report048
+OBS-A	asimetrik doku dansitesi	report048
+OBS-A	doku distorsiyonu	report048
+O	izlenmedi.	report048
+O	Grafiye dahil olan	report048
+ANAT	sağ ön aksiller kesimde	report048
+O	, muhtemelen	report048
+IMP	benign natürde	report048
+OBS-U	oldukları düşünülen	report048
+OBS-P	lenf nodları	report048
+O	saptandı.	report048
+O	YORUM:	report048
+IMP	Benign natürde	report048
+OBS-P	kalsifikasyonlar	report048
+IMP	BIRADS II	report048
+OBS-P	Heterojen dens	report048
+ANAT	meme parankimi	report048
+ANAT	sağ memede	report048
+OBS-P	nodüler opasite	report048
+IMP	US korelasyonu önerilir	report048
+IMP	BIRADS 0	report048
+O	(HASTANIN SOL MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR)	report048
+O	Sol memenin MLO ve CC mammogramları elde olunmuştur.	report049
+ANAT	Sol memede	report049
+ANAT	retroareolar bölgede	report049
+OBS-P	yoğunlaşan	report049
+OBS-P	dağınık fibroglandüler doku alanları	report049
+O	izlenmiştir (	report049
+OBS-P	Tip B	report049
+ANAT	meme	report049
+ANAT	Sol memede	report049
+OBS-A	belirgin sınır veren kitle, nodül	report049
+O	saptanmadı.	report049
+ANAT	Sol memede	report049
+OBS-A	asimetrik doku dansitesi	report049
+OBS-A	doku distorsiyonu	report049
+O	izlenmedi.	report049
+ANAT	Sol memede	report049
+OBS-A	malignensi açısından şüphe uyandıran mikrokalsifikasyon kümesi	report049
+O	mevcut değildir.	report049
+O	Grafiye dahil olan	report049
+ANAT	sol ön aksiller kesimde	report049
+O	, muhtemelen	report049
+IMP	benign natürde	report049
+OBS-U	oldukları düşünülen	report049
+OBS-P	lenf nodları	report049
+O	saptandı.	report049
+O	YORUM:	report049
+OBS-P	Normal sınırlarda	report049
+ANAT	sol	report049
+OBS-P	dijital mammografi	report049
+IMP	BIRADS I	report049
+O	(HASTANIN SAĞ MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR)	report049
+O	Sağ memenin MLO ve CC mammogramları elde olunmuştur.	report050
+ANAT	Sağ memede	report050
+ANAT	retroareolar bölgede	report050
+OBS-P	yoğunlaşan	report050
+OBS-P	dağınık fibroglandüler doku alanları	report050
+O	izlenmiştir (	report050
+OBS-P	Tip B	report050
+ANAT	meme	report050
+ANAT	Sağ memede	report050
+OBS-A	belirgin sınır veren kitle, nodül	report050
+O	saptanmadı.	report050
+ANAT	Sağ memede	report050
+OBS-A	asimetrik doku dansitesi	report050
+OBS-A	doku distorsiyonu	report050
+O	izlenmedi.	report050
+ANAT	Sağ memede	report050
+OBS-A	malignensi açısından şüphe uyandıran mikrokalsifikasyon kümesi	report050
+O	mevcut değildir.	report050
+O	Grafiye dahil olan	report050
+ANAT	sağ ön aksiller kesimde	report050
+O	, muhtemelen	report050
+IMP	benign natürde	report050
+OBS-U	oldukları düşünülen	report050
+OBS-P	lenf nodları	report050
+O	saptandı.	report050
+O	YORUM:	report050
+OBS-P	Normal sınırlarda	report050
+ANAT	sağ	report050
+OBS-P	dijital mammografi	report050
+IMP	BIRADS I	report050
+O	(HASTANIN SOL MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR)	report050
+O	Sol memenin MLO ve CC mammogramları elde olunmuştur.	report051
+ANAT	Sol meme parankimi	report051
+OBS-P	heterojen dens	report051
+OBS-P	Tip C	report051
+ANAT	meme	report051
+OBS-P	görünümdedir	report051
+OBS-P	Yoğun	report051
+ANAT	meme parankimi	report051
+O	nedeniyle	report051
+OBS-U	inceleme	report051
+O	sınırlı düzeyde kalmıştır. Değerlendirilebildiği kadarıyla;	report051
+ANAT	sol memede	report051
+OBS-A	belirgin sınır veren kitle, nodül	report051
+O	saptanmadı.	report051
+ANAT	Sol memede	report051
+OBS-P	birkaç adet	report051
+IMP	benign natürde	report051
+OBS-P	punktat-tozsu mikrokalsifikasyon	report051
+O	izlenmiştir. Ayrıca	report051
+ANAT	sol meme	report051
+ANAT	üst dış kadranda	report051
+O	yaklaşık	report051
+OBS-P	3 mm'lik alanda	report051
+OBS-P	gruplaşmış	report051
+O	, önceki mamografi incelemesi ile karşılaştırıldığında	report051
+OBS-P	sayılarında artış olduğu anlaşılan	report051
+OBS-A	pleomorfizm	report051
+O	göstermeyen	report051
+OBS-P	mikrokalsifikasyonlar	report051
+O	dikkati çekti.	report051
+IMP	6 ay sonra sınırlı sol CC grafi ile kontrolü önerilir	report051
+ANAT	Sol memede	report051
+OBS-A	asimetrik doku dansitesi	report051
+OBS-A	doku distorsiyonu	report051
+O	izlenmedi.	report051
+O	Grafiye dahil olan	report051
+ANAT	sol ön aksiller kesimde	report051
+O	, muhtemelen	report051
+IMP	benign natürde	report051
+OBS-U	oldukları düşünülen	report051
+OBS-P	lenf nodları	report051
+O	saptandı.	report051
+O	YORUM:	report051
+IMP	Benign natürde	report051
+OBS-P	kalsifikasyonlar	report051
+ANAT	sol meme	report051
+ANAT	üst dış kadranda	report051
+IMP	takibi önerilen	report051
+OBS-P	mikrokalsifikasyon kümesi	report051
+IMP	BIRADS III, 6 ay sonra sınırlı sol CC grafi ile kontrolü önerilir.	report051
+OBS-P	Heterojen dens	report051
+ANAT	meme parankimi	report051
+IMP	US korelasyonu önerilir	report051
+IMP	BIRADS 0	report051
+O	(HASTANIN SAĞ MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR)	report051
+O	Sol memenin MLO ve CC mammogramları elde olunmuştur.	report052
+ANAT	Sol meme parankimi	report052
+OBS-P	heterojen dens	report052
+OBS-P	Tip C	report052
+ANAT	meme	report052
+OBS-P	görünümdedir	report052
+OBS-P	Yoğun	report052
+ANAT	meme parankimi	report052
+O	nedeniyle	report052
+OBS-U	inceleme	report052
+O	sınırlı düzeyde kalmıştır. Değerlendirilebildiği kadarıyla;	report052
+ANAT	sol memede	report052
+OBS-A	belirgin sınır veren kitle, nodül	report052
+O	saptanmadı.	report052
+ANAT	Sol memede	report052
+OBS-P	birkaç adet	report052
+IMP	benign natürde	report052
+OBS-P	punktat mikrokalsifikasyon	report052
+O	dikkati çekmiştir.	report052
+ANAT	Sol memede	report052
+OBS-A	malignensi açısından şüphe uyandıran mikrokalsifikasyon kümesi	report052
+O	mevcut değildir.	report052
+ANAT	Sol memede	report052
+OBS-A	asimetrik doku dansitesi	report052
+OBS-A	doku distorsiyonu	report052
+O	izlenmedi.	report052
+O	Grafiye dahil olan	report052
+ANAT	sol ön aksiller kesimde	report052
+O	, muhtemelen	report052
+IMP	benign natürde	report052
+OBS-U	oldukları düşünülen	report052
+OBS-P	lenf nodları	report052
+O	saptandı.	report052
+O	17.07.1987 tarihli	report052
+ANAT	sol	report052
+O	mamogramları ile karşılaştırıldığında	report052
+OBS-A	anlamlı interval farklılık	report052
+O	saptanmamıştır.	report052
+O	YORUM:	report052
+IMP	Benign natürde	report052
+OBS-P	kalsifikasyonlar	report052
+IMP	BIRADS II	report052
+OBS-P	Heterojen dens	report052
+ANAT	meme parankimi	report052
+IMP	US korelasyonu önerilir	report052
+IMP	BIRADS 0	report052
+O	(HASTANIN SAĞ MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR)	report052
+O	Sağ memenin MLO ve CC mammogramları elde olunmuştur.	report053
+ANAT	Sağ meme parankimi	report053
+OBS-P	heterojen dens	report053
+OBS-P	Tip C	report053
+ANAT	meme	report053
+OBS-P	görünümdedir	report053
+OBS-P	Yoğun	report053
+ANAT	meme parankimi	report053
+O	nedeniyle	report053
+OBS-U	inceleme	report053
+O	sınırlı düzeyde kalmıştır. Değerlendirilebildiği kadarıyla;	report053
+ANAT	sağ memede	report053
+OBS-A	belirgin sınır veren kitle, nodül	report053
+O	saptanmadı.	report053
+ANAT	Sağ memede	report053
+OBS-A	asimetrik doku dansitesi	report053
+OBS-A	doku distorsiyonu	report053
+O	izlenmedi.	report053
+ANAT	Sağ memede	report053
+OBS-A	malignensi açısından şüphe uyandıran mikrokalsifikasyon kümesi	report053
+O	mevcut değildir.	report053
+O	Grafiye dahil olan	report053
+ANAT	sağ ön aksiller kesimde	report053
+OBS-A	lenf nodu	report053
+O	saptanmadı.	report053
+O	11.11.2011 tarihli sağ mammogramları ile karşılaştırıldığında	report053
+OBS-A	anlamlı interval farklılık	report053
+O	saptanmamıştır.	report053
+O	YORUM:	report053
+OBS-P	Heterojen dens	report053
+ANAT	meme parankimi	report053
+IMP	US korelasyonu önerilir	report053
+IMP	BIRADS 0	report053
+O	(HASTANIN SOL MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR)	report053
+O	Sol memenin MLO ve CC mammogramları elde olunmuştur.	report054
+ANAT	Sol memede	report054
+OBS-P	dağınık fibroglandüler dansiteler	report054
+OBS-P	Tip B	report054
+ANAT	meme	report054
+O	) izlendi.	report054
+ANAT	Sol meme	report054
+ANAT	üst dış kadranda	report054
+OBS-P	7 mm	report054
+OBS-P	4 mm çapında	report054
+O	ölçülen,	report054
+OBS-P	düşük dansiteli	report054
+OBS-P	düzgün sınırlı	report054
+OBS-P	nodüler opasiteler	report054
+O	izlendi. Ayrıca CC grafi	report054
+ANAT	orta kesimde	report054
+O	, MLO  grafide demonstre edilemeyen, yaklaşık	report054
+OBS-P	8 mm çapında	report054
+O	ölçülen	report054
+OBS-U	nodüler lezyon varlığından şüphe edildi	report054
+ANAT	Sol memede	report054
+OBS-P	birkaç adet	report054
+IMP	benign natürde	report054
+OBS-P	punktat mikrokalsifikasyon	report054
+O	izlendi.	report054
+ANAT	Sol memede	report054
+OBS-A	malignensi açısından şüphe uyandıran mikrokalsifikasyon kümesi	report054
+O	mevcut değildir.	report054
+ANAT	Sol memede	report054
+OBS-A	asimetrik doku dansitesi	report054
+OBS-A	doku distorsiyonu	report054
+O	izlenmedi.	report054
+O	Grafiye dahil olan	report054
+ANAT	sol ön aksiller kesimde	report054
+O	, muhtemelen	report054
+IMP	benign natürde	report054
+OBS-U	olduğu  düşünülen	report054
+OBS-P	lenf nodu	report054
+O	saptandı.	report054
+O	YORUM:	report054
+IMP	Benign natürde	report054
+OBS-P	kalsifikasyonlar	report054
+ANAT	Sol memede	report054
+OBS-P	nodüler opasiteler	report054
+IMP	Lütfen aynı tarihli US raporunu okuyunuz	report054
+IMP	BIRADS III	report054
+O	(HASTANIN SAĞ MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR)	report054
+O	Sol memenin MLO ve CC mammogramları elde olunmuştur.	report055
+ANAT	Sol meme parankimi	report055
+OBS-P	dens	report055
+OBS-P	Tip D	report055
+ANAT	meme	report055
+OBS-P	görünümdedir	report055
+ANAT	Sol memede	report055
+OBS-A	belirgin sınır veren kitle, nodül	report055
+O	saptanmadı.	report055
+ANAT	Sol memede	report055
+OBS-A	asimetrik doku dansitesi	report055
+OBS-A	doku distorsiyonu	report055
+O	izlenmedi.	report055
+ANAT	Sol memede	report055
+OBS-A	malignensi açısından şüphe uyandıran mikrokalsifikasyon kümesi	report055
+O	mevcut değildir.	report055
+O	Grafiye dahil olan	report055
+ANAT	sol ön aksiller kesimde	report055
+O	, muhtemelen	report055
+IMP	benign	report055
+OBS-U	olduğu düşünülen	report055
+OBS-P	reaktif görünümlü	report055
+OBS-P	lenf nodu	report055
+O	saptandı.	report055
+OBS-P	Yoğun	report055
+ANAT	meme parankimi	report055
+O	nedeniyle	report055
+OBS-U	değerlendirme	report055
+O	sınırlı düzeyde kalmıştır.)	report055
+O	YORUM:	report055
+OBS-P	Dens	report055
+ANAT	meme parankimi	report055
+IMP	US korelasyonu önerilir	report055
+IMP	BIRADS 0	report055
+O	(HASTANIN SAĞ MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR)	report055
+O	Sağ memenin MLO ve CC mammogramları elde olunmuştur.	report056
+ANAT	Sağ meme parankimi	report056
+OBS-P	dens	report056
+OBS-P	Tip D	report056
+ANAT	meme	report056
+OBS-P	görünümdedir	report056
+ANAT	Sağ memede	report056
+OBS-A	belirgin sınır veren kitle, nodül	report056
+O	saptanmadı.	report056
+ANAT	Sağ memede	report056
+OBS-A	asimetrik doku dansitesi	report056
+OBS-A	doku distorsiyonu	report056
+O	izlenmedi.	report056
+ANAT	Sağ memede	report056
+OBS-A	malignensi açısından şüphe uyandıran mikrokalsifikasyon kümesi	report056
+O	mevcut değildir.	report056
+O	Grafiye dahil olan	report056
+ANAT	sağ ön aksiller kesimde	report056
+OBS-A	lenf nodu	report056
+O	saptanmadı.	report056
+OBS-P	Yoğun	report056
+ANAT	meme parankimi	report056
+O	nedeniyle	report056
+OBS-U	değerlendirme	report056
+O	sınırlı düzeyde kalmıştır)	report056
+O	YORUM:	report056
+OBS-P	Dens	report056
+ANAT	meme parankimi	report056
+IMP	US korelasyonu önerilir	report056
+IMP	BIRADS 0	report056
+O	(HASTANIN SOL MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR)	report056
+O	Sol memenin MLO ve CC mammogramları elde olunmuştur.	report057
+ANAT	Sol meme parankimi	report057
+OBS-P	dens	report057
+OBS-P	Tip C	report057
+ANAT	meme	report057
+OBS-P	görünümdedir	report057
+ANAT	Sol memede	report057
+OBS-A	belirgin sınır veren kitle, nodül	report057
+O	saptanmadı.	report057
+ANAT	Sol memede	report057
+OBS-A	asimetrik doku dansitesi	report057
+OBS-A	doku distorsiyonu	report057
+O	izlenmedi.	report057
+ANAT	Sol memede	report057
+OBS-A	malignensi açısından şüphe uyandıran mikrokalsifikasyon kümesi	report057
+O	mevcut değildir.	report057
+O	Grafiye dahil olan	report057
+ANAT	sol ön aksiller kesimde	report057
+O	, grafiye kısmen dahil olan, muhtemelen	report057
+IMP	benign	report057
+OBS-U	oldukları düşünülen	report057
+OBS-P	reaktif görünümlü lenf nodları	report057
+O	saptandı.	report057
+O	YORUM:	report057
+OBS-P	Dens	report057
+ANAT	meme parankimi	report057
+IMP	US korelasyonu önerilir	report057
+IMP	BIRADS 0	report057
+O	(HASTANIN SAĞ MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR)	report057
+O	Sağ memenin MLO ve CC mammogramları elde olunmuştur.	report058
+ANAT	Sağ meme parankimi	report058
+OBS-P	dens	report058
+OBS-P	Tip C	report058
+ANAT	meme	report058
+OBS-P	görünümdedir	report058
+ANAT	Sağ memede	report058
+OBS-A	belirgin sınır veren kitle, nodül	report058
+O	saptanmadı.	report058
+ANAT	Sağ memede	report058
+OBS-A	asimetrik doku dansitesi	report058
+OBS-A	doku distorsiyonu	report058
+O	izlenmedi.	report058
+ANAT	Sağ memede	report058
+OBS-A	malignensi açısından şüphe uyandıran mikrokalsifikasyon kümesi	report058
+O	mevcut değildir.	report058
+O	Grafiye dahil olan	report058
+ANAT	sağ ön aksiller kesimde	report058
+O	, muhtemelen	report058
+IMP	benign	report058
+OBS-U	oldukları düşünülen	report058
+OBS-P	reaktif görünümlü lenf nodları	report058
+O	saptandı.	report058
+O	YORUM:	report058
+OBS-P	Dens	report058
+ANAT	meme parankimi	report058
+IMP	US korelasyonu önerilir	report058
+IMP	BIRADS 0	report058
+O	(HASTANIN SOL MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR)	report058
+O	Sol memenin MLO ve CC mammogramları elde olunmuştur.	report059
+ANAT	Sol meme parankimi	report059
+OBS-P	heterojen dens	report059
+OBS-P	Tip C	report059
+ANAT	meme	report059
+OBS-P	görünümdedir	report059
+ANAT	Sol memede	report059
+OBS-A	belirgin sınır veren kitle, nodül	report059
+O	saptanmadı.	report059
+ANAT	Sol memede	report059
+ANAT	retroareolar bölgede	report059
+OBS-P	uniform	report059
+OBS-P	noktasal	report059
+OBS-P	bölgesel dağılımlı	report059
+OBS-P	kalsifikasyonlar	report059
+O	izlenmektedir.	report059
+ANAT	Sol memede	report059
+OBS-A	asimetrik doku dansitesi	report059
+OBS-A	doku distorsiyonu	report059
+O	izlenmedi.	report059
+ANAT	Sol memede	report059
+OBS-A	malignensi açısından şüphe uyandıran mikrokalsifikasyon kümesi	report059
+O	mevcut değildir.	report059
+O	Grafiye dahil olan	report059
+ANAT	sol ön aksiller kesimde	report059
+O	, muhtemelen	report059
+IMP	benign	report059
+OBS-U	oldukları düşünülen	report059
+OBS-P	eliptik şekilli	report059
+OBS-P	lenf nodları	report059
+O	saptandı.	report059
+O	03.03.2003 tarihli	report059
+ANAT	sol	report059
+O	mamogramları ile karşılaştırıldığında	report059
+OBS-P	kalsifkasyonların	report059
+IMP	belirginleşitiği	report059
+IMP	bunun çekim tekniği nedeni ile olduğu	report059
+O	düşülmektedir.	report059
+O	YORUM:	report059
+OBS-P	Heterojen dens	report059
+ANAT	meme parankimi	report059
+IMP	US korelasyonu önerilir	report059
+IMP	BIRADS 0	report059
+ANAT	Sol meme	report059
+ANAT	retroareolar bölgede	report059
+OBS-P	bölgesel dağılımlı	report059
+OBS-P	uniform	report059
+OBS-P	mikrokalsifikasyonlar	report059
+IMP	BIRADS III	report059
+O	(HASTANIN SAĞ MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR)	report059
+O	Sağ memenin MLO ve CC mammogramları elde olunmuştur.	report060
+ANAT	Sağ meme parankimi	report060
+OBS-P	heterojen dens	report060
+OBS-P	Tip C	report060
+ANAT	meme	report060
+OBS-P	görünümdedir	report060
+OBS-P	Yoğun	report060
+ANAT	meme parankimi	report060
+O	nedeniyle	report060
+OBS-U	inceleme	report060
+O	sınırlı düzeyde kalmıştır. Değerlendirilebildiği kadarıyla;	report060
+ANAT	sağ memede	report060
+OBS-A	belirgin sınır veren kitle, nodül	report060
+O	saptanmadı.	report060
+ANAT	Sağ memede	report060
+ANAT	rereoareolar bölgede	report060
+ANAT	cilde	report060
+O	yakın yerleşimli, yaklaşık	report060
+OBS-P	5 mm'lik alanda	report060
+OBS-P	grup yapmış	report060
+OBS-A	belirgin pleomorfizm	report060
+O	göstermeyen	report060
+OBS-P	mikrokalsifikasyonlar	report060
+O	dikkati çekti. Hastanın	report060
+IMP	6 ay sonra sınırlı sağ MLO grafi ile kontrolü önerilir	report060
+O	Ayrıca	report060
+ANAT	sağ memede	report060
+ANAT	retroareolar bölgede	report060
+OBS-P	iki adet	report060
+IMP	benign natürde	report060
+OBS-P	makrokalsifikasyon	report060
+OBS-P	dağınık yerleşimli	report060
+OBS-P	birkaç adet	report060
+IMP	benign natürde	report060
+OBS-P	punktat mikrokalsifikasyon	report060
+O	dikkati çekti.	report060
+ANAT	Sağ memede	report060
+OBS-A	asimetrik doku dansitesi	report060
+OBS-A	doku distorsiyonu	report060
+O	izlenmedi.	report060
+O	Grafiye dahil olan	report060
+ANAT	sağ ön aksiller kesimde	report060
+O	, grafiye kısmen dahil olan, muhtemelen	report060
+IMP	benign natürde	report060
+OBS-U	oldukları düşünülen	report060
+OBS-P	lenf nodları	report060
+O	saptandı.	report060
+O	YORUM:	report060
+ANAT	Sağ memede	report060
+O	tanımlanan	report060
+OBS-P	mikrokalsifikasyonlar	report060
+ANAT	Retroareolar bölgede	report060
+O	izlenen	report060
+OBS-P	mikrokalsifikasyon kümesinin	report060
+IMP	kontrolüne yönelik olarak hastanın 6 ay sonra sınırlı sağ MLO grafi ile kontrolü önerilir	report060
+IMP	BIRADS III	report060
+OBS-P	Heterojen dens	report060
+ANAT	meme parankimi	report060
+IMP	US korelasyonu önerilir	report060
+IMP	BIRADS 0	report060
+O	(HASTANIN SOL MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR)	report060
+O	Sol memenin MLO ve CC mammogramları elde olunmuştur.	report061
+ANAT	Sol meme parankimi	report061
+OBS-P	dens	report061
+OBS-P	Tip C	report061
+ANAT	meme	report061
+OBS-P	görünümdedir	report061
+ANAT	Sol memede	report061
+OBS-A	belirgin sınır veren kitle, nodül	report061
+O	saptanmadı.	report061
+ANAT	Sol memede	report061
+OBS-A	asimetrik doku dansitesi	report061
+OBS-A	doku distorsiyonu	report061
+O	izlenmedi.	report061
+ANAT	Sol memede	report061
+OBS-A	malignensi açısından şüphe uyandıran mikrokalsifikasyon kümesi	report061
+O	mevcut değildir.	report061
+O	Grafiye dahil olan	report061
+ANAT	sol ön aksiller kesimde	report061
+O	, grafiye kısmen dahil olan, muhtemelen	report061
+IMP	benign	report061
+OBS-U	olduğu  düşünülen	report061
+OBS-P	lenf nodu	report061
+O	saptandı.	report061
+O	YORUM:	report061
+OBS-P	Dens	report061
+ANAT	meme parankimi	report061
+IMP	US korelasyonu önerilir	report061
+IMP	BIRADS 0	report061
+O	(HASTANIN SAĞ MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR)	report061
+O	Sağ memenin MLO ve CC mammogramları elde olunmuştur.	report062
+ANAT	Sağ meme parankimi	report062
+OBS-P	dens	report062
+OBS-P	Tip C	report062
+ANAT	meme	report062
+OBS-P	görünümdedir	report062
+ANAT	Sağ memede	report062
+OBS-A	belirgin sınır veren kitle, nodül	report062
+O	saptanmadı.	report062
+ANAT	Sağ memede	report062
+OBS-A	asimetrik doku dansitesi	report062
+OBS-A	doku distorsiyonu	report062
+O	izlenmedi.	report062
+ANAT	Sağ memede	report062
+OBS-A	malignensi açısından şüphe uyandıran mikrokalsifikasyon kümesi	report062
+O	mevcut değildir.	report062
+O	Grafiye dahil olan	report062
+ANAT	sağ ön aksiller kesimde	report062
+O	, grafiye kısmen dahil olan, muhtemelen	report062
+IMP	benign	report062
+OBS-U	oldukları düşünülen	report062
+OBS-P	lenf nodları	report062
+O	saptandı.	report062
+O	YORUM:	report062
+OBS-P	Dens	report062
+ANAT	meme parankimi	report062
+IMP	US korelasyonu önerilir	report062
+IMP	BIRADS 0	report062
+O	(HASTANIN SOL MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR)	report062
+O	Sol memenin MLO ve CC mammogramları elde olunmuştur.	report063
+ANAT	Sol meme parankimi	report063
+OBS-P	dens	report063
+OBS-P	Tip D	report063
+ANAT	meme	report063
+OBS-P	görünümdedir	report063
+OBS-P	Yoğun	report063
+ANAT	meme parankimi	report063
+O	nedeniyle	report063
+OBS-U	inceleme	report063
+O	sınırlı düzeyde kalmıştır. Değerlendirilebildiği kadarıyla;	report063
+ANAT	sol memede	report063
+OBS-A	belirgin sınır veren kitle, nodül	report063
+O	saptanmadı.	report063
+ANAT	Periareolar bölgede	report063
+IMP	benign natürde	report063
+OBS-P	punktat mikrokalsifikasyon	report063
+O	izlendi.	report063
+ANAT	Sol memede	report063
+OBS-A	malignensi açısından şüphe uyandıran mikrokalsifikasyon kümesi	report063
+O	mevcut değildir.	report063
+ANAT	Sol memede	report063
+OBS-A	asimetrik doku dansitesi	report063
+OBS-A	doku distorsiyonu	report063
+O	izlenmedi.	report063
+O	Grafiye dahil olan	report063
+ANAT	sol ön aksiller kesimde	report063
+O	, grafiye kısmen dahil olan, muhtemelen	report063
+IMP	benign natürde	report063
+OBS-U	oldukları düşünülen	report063
+OBS-P	lenf nodları	report063
+O	saptandı.	report063
+O	YORUM:	report063
+IMP	Benign natürde	report063
+OBS-P	kalsifikasyon	report063
+IMP	BIRADS II	report063
+OBS-P	Dens	report063
+ANAT	meme parankimi	report063
+IMP	US korelasyonu önerilir	report063
+IMP	BIRADS 0	report063
+O	(HASTANIN SAĞ MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR)	report063
+O	Sağ memenin MLO ve CC mammogramları elde olunmuştur.	report064
+ANAT	Sağ meme parankimi	report064
+OBS-P	dens	report064
+OBS-P	Tip D	report064
+ANAT	meme	report064
+OBS-P	görünümdedir	report064
+OBS-P	Yoğun	report064
+ANAT	meme parankimi	report064
+O	nedeniyle	report064
+OBS-U	inceleme	report064
+O	sınırlı düzeyde kalmıştır. Değerlendirilebildiği kadarıyla;	report064
+ANAT	sağ memede	report064
+OBS-A	belirgin sınır veren kitle, nodül	report064
+O	saptanmadı.	report064
+ANAT	Sağ memede	report064
+OBS-P	birkaç adet	report064
+IMP	benign natürde	report064
+OBS-P	punktat mikrokalsifikasyon	report064
+O	izlendi.	report064
+ANAT	Sağ memede	report064
+OBS-A	malignensi açısından şüphe uyandıran mikrokalsifikasyon kümesi	report064
+O	mevcut değildir.	report064
+ANAT	Sağ memede	report064
+OBS-A	asimetrik doku dansitesi	report064
+OBS-A	doku distorsiyonu	report064
+O	izlenmedi.	report064
+O	Grafiye dahil olan	report064
+ANAT	sağ ön aksiller kesimde	report064
+O	, muhtemelen	report064
+IMP	benign natürde	report064
+OBS-U	oldukları düşünülen	report064
+OBS-P	lenf nodları	report064
+O	saptandı.	report064
+O	YORUM:	report064
+IMP	Benign natürde	report064
+OBS-P	kalsifikasyonlar	report064
+IMP	BIRADS II	report064
+OBS-P	Dens	report064
+ANAT	meme parankimi	report064
+IMP	US korelasyonu önerilir	report064
+IMP	BIRADS 0	report064
+O	(HASTANIN SOL MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR)	report064
+O	Sol memenin MLO ve CC mammogramları elde olunmuştur.	report065
+ANAT	Sol meme parankimi	report065
+OBS-P	yağ infiltrasyonu	report065
+IMP	ile uyumlu	report065
+OBS-P	Tip A	report065
+ANAT	meme	report065
+OBS-P	görünümdedir	report065
+ANAT	Sol memede	report065
+OBS-P	en büyükleri alt kadran orta hatta	report065
+O	yaklaşık	report065
+OBS-P	6.5x4 mm boyutunda	report065
+OBS-P	düzgün sınırlı	report065
+OBS-P	keskin kenarlı	report065
+OBS-P	düşük dansiteli	report065
+OBS-P	birkaç adet nodüler opasite	report065
+O	mevcuttur.	report065
+ANAT	Sol memede	report065
+OBS-P	en büyüğü üst-dış kadranda	report065
+O	yaklaşık	report065
+OBS-P	7x5 mm boyutunda	report065
+O	olmak üzere	report065
+OBS-P	birkaç adet	report065
+IMP	benign	report065
+OBS-P	kaba kalsifikasyon	report065
+O	izlenmektedir.	report065
+ANAT	Sol memede	report065
+OBS-A	asimetrik doku dansitesi	report065
+OBS-A	doku distorsiyonu	report065
+O	izlenmedi.	report065
+ANAT	Sol memede	report065
+OBS-A	malignensi açısından şüphe uyandıran mikrokalsifikasyon kümesi	report065
+O	mevcut değildir.	report065
+O	Grafiye dahil olan	report065
+ANAT	sol ön aksiller kesimde	report065
+O	, muhtemelen	report065
+IMP	benign	report065
+OBS-U	oldukları düşünülen	report065
+OBS-P	eliptik şekilli lenf nodları	report065
+O	saptandı.	report065
+O	YORUM:	report065
+ANAT	Sol memede	report065
+O	tanımlanan	report065
+OBS-P	nodüler  opasiteler	report065
+IMP	US korelasyonu önerilir	report065
+IMP	BIRADS 0	report065
+ANAT	Sol memede	report065
+O	tariflenen	report065
+OBS-P	kalsifikasyonlar	report065
+IMP	BIRADS II	report065
+O	(HASTANIN SAĞ MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR)	report065
+O	Sağ memenin MLO ve CC mammogramları elde olunmuştur.	report066
+ANAT	Sağ meme parankimi	report066
+OBS-P	yağ infiltrasyonu	report066
+IMP	ile uyumlu	report066
+OBS-P	Tip A	report066
+ANAT	meme	report066
+OBS-P	görünümdedir	report066
+ANAT	Sağ memede	report066
+OBS-A	belirgin sınır veren kitle, nodül	report066
+O	saptanmadı.	report066
+ANAT	Sağ memede	report066
+OBS-P	dağınık yerleşimli	report066
+OBS-P	birkaç adet	report066
+IMP	benign natürlü	report066
+OBS-P	kaba kalsifikasyon	report066
+O	mevcuttur.	report066
+ANAT	Sağ memede	report066
+OBS-A	asimetrik doku dansitesi	report066
+OBS-A	doku distorsiyonu	report066
+O	izlenmedi.	report066
+ANAT	Sağ memede	report066
+OBS-A	malignensi açısından şüphe uyandıran mikrokalsifikasyon kümesi	report066
+O	mevcut değildir.	report066
+O	Grafiye dahil olan	report066
+ANAT	sağ ön aksiller kesimde	report066
+O	, muhtemelen	report066
+IMP	benign	report066
+OBS-U	oldukları düşünülen	report066
+OBS-P	eliptik şekilli lenf nodları	report066
+O	saptandı.	report066
+O	YORUM:	report066
+ANAT	Sağ memede	report066
+O	tanımlanan	report066
+OBS-P	kalsifikasyonlar	report066
+IMP	BIRADS II	report066
+O	(HASTANIN SOL MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR)	report066
+O	Sol memenin MLO ve CC mammogramları elde olunmuştur.	report067
+ANAT	Sol meme parankimi	report067
+OBS-P	yağ infiltrasyonu	report067
+IMP	ile uyumlu	report067
+OBS-P	Tip A	report067
+ANAT	meme	report067
+OBS-P	görünümdedir	report067
+ANAT	Sol meme	report067
+OBS-P	volümü	report067
+ANAT	sağa	report067
+O	nazaran	report067
+OBS-P	azalmış	report067
+O	olup	report067
+ANAT	meme cildi	report067
+IMP	geçirilmiş cerrahiye ve/veya radyoterapiye sekonder	report067
+OBS-P	belirgin ödemli	report067
+OBS-P	kalınlaşmış görünümdedir	report067
+ANAT	Cerraji lojda	report067
+ANAT	üst dış kadranda	report067
+O	özellikle CC mamogramda	report067
+OBS-P	daha belirgin	report067
+O	olarak izlenen	report067
+OBS-P	postoperatif doku distorsiyonu	report067
+OBS-P	deformasyon	report067
+O	izlenmektedir.	report067
+ANAT	Meme parankimi	report067
+OBS-P	ödemli görünümdedir	report067
+ANAT	Sol memede	report067
+OBS-A	belirgin sınır veren kitle, nodül	report067
+O	saptanmadı.	report067
+ANAT	Sol memede	report067
+OBS-A	asimetrik doku dansitesi	report067
+O	izlenmedi.	report067
+ANAT	Sol memede	report067
+OBS-A	malignensi açısından şüphe uyandıran mikrokalsifikasyon kümesi	report067
+O	mevcut değildir.	report067
+O	Grafiye dahil olan	report067
+ANAT	sol ön aksiller	report067
+OBS-A	lenf nodu	report067
+O	saptanmadı.	report067
+O	07.07.1998 tarihli	report067
+ANAT	sol	report067
+O	mammogramları ile karşılaştırıldığında	report067
+OBS-A	anlamlı interval farklılık	report067
+O	göstermemektedir.	report067
+O	YORUM:	report067
+ANAT	Sol memede	report067
+IMP	geçirilmiş cerrahiye ve/veya radyoterapiye sekonder	report067
+OBS-P	değişiklikler	report067
+IMP	BIRADS II	report067
+O	(HASTANIN SAĞ MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR)	report067
+O	Hastanın mamografi tetkiki mevcut 18.04.2023 tarihli mamogramla karşılaştırılarak değerlendirilmiştir.	report068
+ANAT	Sağ memenin	report068
+O	MLO planda mammogramları elde olunmuştur.	report068
+ANAT	Sağ meme parankimi	report068
+OBS-P	dens	report068
+OBS-P	Tip D	report068
+ANAT	meme	report068
+OBS-P	görünümdedir	report068
+ANAT	Sağ memede	report068
+OBS-A	belirgin sınır veren kitle, nodül	report068
+O	saptanmadı.	report068
+ANAT	İnferiorda	report068
+O	izlenen	report068
+OBS-P	gevşek kümelenmiş mikrokalsifikasyonların	report068
+OBS-P	sayılarında	report068
+OBS-P	konfigürasyonunda	report068
+OBS-A	belirgin interval farklılık	report068
+O	saptanmamıştır.	report068
+ANAT	Sağ memede	report068
+OBS-A	asimetrik doku dansitesi	report068
+O	izlenmedi.	report068
+ANAT	Sağ memede	report068
+OBS-A	malignensi açısından şüphe uyandıran mikrokalsifikasyon kümesi	report068
+O	mevcut değildir.	report068
+O	Grafiye dahil olan	report068
+ANAT	sağ ön aksiller kesimde	report068
+O	, muhtemelen	report068
+IMP	benign	report068
+OBS-U	oldukları düşünülen	report068
+OBS-P	eliptik şekilli	report068
+OBS-P	reaktif görünümlü	report068
+OBS-P	lenf nodları	report068
+O	saptandı.	report068
+OBS-P	Yoğun	report068
+ANAT	meme parankimi	report068
+O	nedeniyle	report068
+OBS-U	değerlendirme	report068
+O	sınırlı düzeyde kalmıştır.)	report068
+O	YORUM:	report068
+OBS-P	Dens	report068
+ANAT	meme parankimi	report068
+IMP	US korelasyonu önerilir	report068
+IMP	BIRADS 0	report068
+ANAT	Sağ memede	report068
+OBS-P	konfigürasyonunda	report068
+OBS-P	sayısında	report068
+OBS-A	farklılık saptanmayan	report068
+OBS-P	mikrokalsifikasyonlar	report068
+O	. Hastanın	report068
+IMP	sonraki kontrolünün 6 ay sonra rutin senelik bilateral mamografi ile yapılması önerilir	report068
+O	. (	report068
+IMP	BIRADS III	report068
+O	Sol memenin MLO ve CC mammogramları elde olunmuştur.	report069
+ANAT	Sol meme parankimi	report069
+OBS-P	dens	report069
+OBS-P	Tip D	report069
+ANAT	meme	report069
+OBS-P	görünümdedir	report069
+ANAT	Sol memede	report069
+OBS-A	belirgin sınır veren kitle, nodül	report069
+O	saptanmadı.	report069
+ANAT	Sol memede	report069
+OBS-A	asimetrik doku dansitesi	report069
+OBS-A	doku distorsiyonu	report069
+O	izlenmedi.	report069
+ANAT	Sol memede	report069
+OBS-A	malignensi açısından şüphe uyandıran mikrokalsifikasyon kümesi	report069
+O	mevcut değildir.	report069
+O	Grafiye dahil olan	report069
+ANAT	sol ön aksiller kesimde	report069
+O	, muhtemelen	report069
+IMP	benign	report069
+OBS-U	oldukları düşünülen	report069
+OBS-P	reaktif görünümlü	report069
+OBS-P	lenf nodları	report069
+O	saptandı.	report069
+OBS-P	Yoğun	report069
+ANAT	meme parankimi	report069
+O	nedeniyle	report069
+OBS-U	değerlendirme	report069
+O	sınırlı düzeyde kalmıştır)	report069
+O	YORUM:	report069
+OBS-P	Dens	report069
+ANAT	meme parankimi	report069
+IMP	US korelasyonu önerilir	report069
+IMP	BIRADS 0	report069
+O	(HASTANIN SAĞ MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR)	report069
+O	Sağ memenin MLO ve CC mammogramları elde olunmuştur.	report070
+ANAT	Sağ meme parankimi	report070
+OBS-P	dens	report070
+OBS-P	Tip D	report070
+ANAT	meme	report070
+OBS-P	görünümdedir	report070
+ANAT	Sağ memede	report070
+OBS-A	belirgin sınır veren kitle, nodül	report070
+O	saptanmadı.	report070
+ANAT	Sağ memede	report070
+OBS-A	asimetrik doku dansitesi	report070
+OBS-A	doku distorsiyonu	report070
+O	izlenmedi.	report070
+ANAT	Sağ memede	report070
+OBS-A	malignensi açısından şüphe uyandıran mikrokalsifikasyon kümesi	report070
+O	mevcut değildir.	report070
+O	Grafiye dahil olan	report070
+ANAT	sağ ön aksiller kesimde	report070
+O	, grafiye kısmen dahil olan, muhtemelen	report070
+IMP	benign	report070
+OBS-U	olduğu düşünülen	report070
+OBS-P	lenf nodu	report070
+O	"saptandı.
+("	report070
+OBS-P	Yoğun	report070
+ANAT	meme parankimi	report070
+O	nedeniyle	report070
+OBS-U	değerlendirme	report070
+O	sınırlı düzeyde kalmıştır)	report070
+O	YORUM:	report070
+OBS-P	Dens	report070
+ANAT	meme parankimi	report070
+IMP	US korelasyonu önerilir	report070
+IMP	BIRADS 0	report070
+O	(HASTANIN SOL MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR)	report070
+O	Sağ memenin MLO ve CC mammogramları elde olunmuştur.	report071
+ANAT	Sağ meme parankimi	report071
+OBS-P	heterojen dens	report071
+OBS-P	Tip C	report071
+ANAT	meme	report071
+OBS-P	görünümdedir	report071
+OBS-P	Yoğun	report071
+ANAT	meme parankimi	report071
+O	nedeniyle	report071
+OBS-U	inceleme	report071
+O	sınırlı düzeyde kalmıştır. Değerlendirilebildiği kadarıyla;	report071
+ANAT	sağ memede	report071
+ANAT	periareolar bölgede	report071
+IMP	geçirilmiş mastopeksiye sekonder	report071
+OBS-P	hafif yapısal distorsiyon	report071
+O	dikkati çekti.	report071
+O	CC grafide	report071
+OBS-P	orta-hafif dışta	report071
+OBS-P	yerleşimli	report071
+O	, MLO grafide demonstre edilemeyen ancak	report071
+ANAT	üst kesimde	report071
+OBS-U	yerleşimli olduğu düşünülen	report071
+O	, yaklaşık	report071
+OBS-P	4 mm'lik alanda	report071
+OBS-P	gruplaşmış	report071
+OBS-P	silik	report071
+OBS-P	hafif pleomorfizm gösteren	report071
+OBS-P	mikrokalsifikasyon kümesi	report071
+O	dikkati çekti.	report071
+O	Grafiye dahil olan	report071
+ANAT	sağ ön aksiller kesimde	report071
+O	, muhtemelen	report071
+IMP	benign natürde	report071
+OBS-U	oldukları düşünülen	report071
+OBS-P	lenf nodları	report071
+O	saptandı.	report071
+O	YORUM:	report071
+OBS-P	Heterojen dens	report071
+ANAT	meme parankimi	report071
+IMP	geçirilmiş cerrahiye sekonder	report071
+OBS-P	değişiklikler	report071
+ANAT	Sağ memede	report071
+O	tanımlanan	report071
+OBS-P	mikrokalsifikasyon kümesi	report071
+IMP	Hastanın öncelikle meme MRG ile ileri tetkiki ve tanımlanan mikrokalsifikasyon alandan doku tanısı önerilir	report071
+IMP	BIRADS IVA	report071
+O	(HASTANIN SOL MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR)	report071
+O	Sol memenin MLO ve CC mammogramları elde olunmuştur.	report072
+ANAT	Sol meme parankimi	report072
+OBS-P	heterojen dens	report072
+OBS-P	Tip C	report072
+ANAT	meme	report072
+OBS-P	görünümdedir	report072
+OBS-P	Yoğun	report072
+ANAT	meme parankimi	report072
+O	nedeniyle	report072
+OBS-U	inceleme	report072
+O	sınırlı düzeyde kalmıştır. Değerlendirilebildiği kadarıyla;	report072
+ANAT	sol memede	report072
+OBS-A	belirgin sınır veren kitle, nodül	report072
+O	saptanmadı.	report072
+ANAT	Sol memede	report072
+OBS-A	asimetrik doku dansitesi	report072
+OBS-A	doku distorsiyonu	report072
+O	izlenmedi.	report072
+ANAT	Sol memede	report072
+OBS-A	malignensi açısından şüphe uyandıran mikrokalsifikasyon kümesi	report072
+O	mevcut değildir.	report072
+O	Grafiye dahil olan	report072
+ANAT	sol ön aksiller kesimde	report072
+O	, muhtemelen	report072
+IMP	benign natürde	report072
+OBS-U	oldukları düşünülen	report072
+OBS-P	lenf nodları	report072
+O	izlenmiştir.	report072
+O	10/10/2010 tarihli mammogramları ile karşılaştırıldığında	report072
+OBS-A	anlamlı interval farklılık	report072
+O	saptanmadı.	report072
+O	YORUM:	report072
+OBS-P	Heterojen dens	report072
+ANAT	meme parankimi	report072
+IMP	US korelasyonu önerilir	report072
+IMP	BIRADS 0	report072
+O	(HASTANIN SAĞ MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR)	report072
+O	Sağ memenin MLO ve CC mammogramları elde olunmuştur.	report073
+ANAT	Sağ meme parankimi	report073
+OBS-P	heterojen dens	report073
+OBS-P	Tip C	report073
+ANAT	meme	report073
+OBS-P	görünümdedir	report073
+OBS-P	Yoğun	report073
+ANAT	meme parankimi	report073
+O	nedeniyle	report073
+OBS-U	inceleme	report073
+O	sınırlı düzeyde kalmıştır. Değerlendirilebildiği kadarıyla;	report073
+ANAT	sağ memede	report073
+OBS-A	belirgin sınır veren kitle, nodül	report073
+O	saptanmadı.	report073
+ANAT	Sağ memede	report073
+OBS-A	asimetrik doku dansitesi	report073
+OBS-A	doku distorsiyonu	report073
+O	izlenmedi.	report073
+ANAT	Sağ memede	report073
+OBS-A	malignensi açısından şüphe uyandıran mikrokalsifikasyon kümesi	report073
+O	mevcut değildir.	report073
+O	Grafiye dahil olan	report073
+ANAT	sağ ön aksiller kesimde	report073
+OBS-A	lenf nodu	report073
+O	izlenmedi.	report073
+O	10/12/2012 tarihli mammogramları ile karşılaştırıldığında	report073
+OBS-A	anlamlı interval farklılık	report073
+O	saptanmadı.	report073
+O	YORUM:	report073
+OBS-P	Heterojen dens	report073
+ANAT	meme parankimi	report073
+IMP	US korelasyonu önerilir	report073
+IMP	BIRADS 0	report073
+O	(HASTANIN SOL MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR)	report073
+O	Sağ memenin MLO ve CC mammogramları elde olunmuştur.	report074
+ANAT	Sağ meme parankimi	report074
+OBS-P	minimal dens	report074
+OBS-P	Tip B	report074
+ANAT	meme	report074
+OBS-P	görünümdedir	report074
+ANAT	Sağ memede	report074
+ANAT	üst-iç kadranda	report074
+O	yaklaşık	report074
+OBS-P	12 mm çaplı	report074
+OBS-P	düşük dansiteli nodüler lezyon	report074
+O	la birlikte CC mamogramda	report074
+ANAT	retroareolar bölgede	report074
+OBS-P	5 mm çaplı	report074
+OBS-P	düşük dansiteli nodüler lezyon	report074
+OBS-U	varlığından şüphe edildi	report074
+ANAT	Üst dış kadranda	report074
+O	yaklaşık	report074
+OBS-P	8 mm uzunluğunda	report074
+ANAT	bir alanda	report074
+OBS-P	makro ve mikrokalsifikasyonların kümelendiği	report074
+O	izlenmiş olup hastanın mevcut son 2019 tarihli mamogram ile karşılaştırıldığında	report074
+OBS-P	mikrokalsifikasyon komponentinde	report074
+IMP	artış	report074
+O	dikkati çekti.	report074
+ANAT	Bu sebeple tanımlanan alanın	report074
+IMP	işaretlemeyi takiben eksizyonu önerilir	report074
+ANAT	Sağ memede	report074
+OBS-A	doku distorsiyonu	report074
+O	izlenmedi.	report074
+O	Grafiye dahil olan	report074
+ANAT	sağ ön aksiller kesimde	report074
+O	, muhtemelen	report074
+IMP	benign	report074
+OBS-U	oldukları düşünülen	report074
+OBS-P	milimetrik çaplı lenf nodları	report074
+O	saptandı.	report074
+O	YORUM:	report074
+ANAT	Sağ memede	report074
+OBS-P	nodüler lezyonlar	report074
+IMP	US korelasyonu önerilir	report074
+IMP	BIRDS 0	report074
+ANAT	Sağ memede	report074
+IMP	bu tetkikte sayılarında artış	report074
+O	saptanan	report074
+OBS-P	mikro ve makrokalsifikasyon alanı	report074
+IMP	İşaretlemeyi takiben eksizyonu önerilir.	report074
+IMP	BIRADS 4A	report074
+O	(HASTANIN SOL MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR)	report074
+O	Sağ memenin MLO ve CC mammogramları elde olunmuştur.	report075
+ANAT	Sağ meme parankimi	report075
+OBS-P	dens	report075
+OBS-P	Tip C	report075
+ANAT	meme	report075
+OBS-P	görünümdedir	report075
+ANAT	Sağ memede	report075
+OBS-A	belirgin sınır veren kitle, nodül	report075
+O	saptanmadı.	report075
+ANAT	Sağ memede	report075
+OBS-A	asimetrik doku dansitesi	report075
+OBS-A	doku distorsiyonu	report075
+O	izlenmedi.	report075
+ANAT	Sağ memede	report075
+OBS-A	malignensi açısından şüphe uyandıran mikrokalsifikasyon kümesi	report075
+O	mevcut değildir.	report075
+O	Grafiye dahil olan	report075
+ANAT	sağ ön aksiller kesimde	report075
+OBS-A	lenf nodu	report075
+O	saptanmadı.	report075
+O	YORUM:	report075
+OBS-P	Dens	report075
+ANAT	meme parankimi	report075
+IMP	US korelasyonu önerilir	report075
+IMP	BIRADS 0	report075
+O	(HASTANIN SOL MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR)	report075
+O	Sol memenin MLO ve CC mammogramları elde olunmuştur.	report076
+ANAT	Sol meme parankimi	report076
+OBS-P	minimal dens	report076
+OBS-P	Tip B	report076
+ANAT	meme	report076
+OBS-P	görünümdedir	report076
+ANAT	Sol memede	report076
+OBS-A	belirgin sınır veren kitle, nodül	report076
+O	saptanmadı.	report076
+ANAT	Sol memede	report076
+OBS-A	asimetrik doku dansitesi	report076
+OBS-A	doku distorsiyonu	report076
+O	izlenmedi.	report076
+ANAT	Sol memede	report076
+OBS-A	malignensi açısından şüphe uyandıran mikrokalsifikasyon kümesi	report076
+O	mevcut değildir.	report076
+O	Grafiye dahil olan	report076
+ANAT	sol ön aksiller kesimde	report076
+O	, muhtemelen	report076
+IMP	benign	report076
+OBS-U	oldukları düşünülen	report076
+OBS-P	milimetrik çaplı	report076
+OBS-P	reaktif görünümlü	report076
+OBS-P	lenf nodları	report076
+O	saptandı.	report076
+O	YORUM:	report076
+OBS-P	Normal sınırlarda	report076
+ANAT	sol	report076
+OBS-P	dijital mammografi	report076
+IMP	BIRADS I	report076
+O	(HASTANIN SAĞ MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR)	report076
+O	Sol memenin MLO ve CC mammogramları elde olunmuştur.	report077
+ANAT	Sol meme parankimi	report077
+OBS-P	dens	report077
+OBS-P	Tip C	report077
+ANAT	meme	report077
+OBS-P	görünümdedir	report077
+ANAT	Sol memede	report077
+O	CC mamogramda	report077
+ANAT	dış kesimde	report077
+O	yaklaşık	report077
+OBS-P	4 mm çaplı	report077
+ANAT	bir alanda	report077
+OBS-P	minimal	report077
+OBS-P	pleomorfizmde izlendiği mikrokalsifikasyonların	report077
+OBS-P	kümelendiği	report077
+O	dikkati çekti.	report077
+OBS-P	Tanımlanan alanın	report077
+O	MLO mamogramda	report077
+ANAT	retroareolar bölgede	report077
+OBS-P	lokalize olduğu	report077
+O	dikkati çekti. Hastanın	report077
+OBS-A	eski filmleri	report077
+O	olmadığı için	report077
+OBS-A	korelasyon	report077
+O	yapılamadı.	report077
+ANAT	Bu alanın	report077
+IMP	işaretlemeyi takiben eksizyonu önerilir	report077
+OBS-A	Belirgin kitle, nodül	report077
+O	saptanmadı.	report077
+ANAT	Sol memede	report077
+OBS-A	doku distorsiyonu	report077
+O	izlenmedi.	report077
+O	Grafiye dahil olan	report077
+ANAT	sol ön aksiller kesimde	report077
+O	, muhtemelen	report077
+IMP	benign	report077
+OBS-U	oldukları düşünülen	report077
+OBS-P	reaktif görünümlü	report077
+OBS-P	lenf nodları	report077
+O	saptandı.	report077
+O	YORUM:	report077
+OBS-P	Dens	report077
+ANAT	meme parankimi	report077
+IMP	US korelasyonu önerilir	report077
+IMP	BIRADS 0	report077
+ANAT	Sol memede	report077
+IMP	işaretlemeyi takiben eksizyonu önerilen	report077
+OBS-P	mikrokalsifikasyon kümesi	report077
+IMP	BIRADS 4B	report077
+O	(HASTANIN SAĞ MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR)	report077
+O	Sol memenin MLO ve CC mammogramları elde olunmuştur.	report078
+ANAT	Sol meme parankimi	report078
+OBS-P	dens	report078
+OBS-P	Tip D	report078
+ANAT	meme	report078
+OBS-P	görünümdedir	report078
+ANAT	Sol memede	report078
+OBS-A	belirgin sınır veren kitle, nodül	report078
+O	saptanmadı.	report078
+ANAT	Sol memede	report078
+OBS-A	asimetrik doku dansitesi	report078
+OBS-A	doku distorsiyonu	report078
+O	izlenmedi.	report078
+ANAT	Sol memede	report078
+OBS-A	malignensi açısından şüphe uyandıran mikrokalsifikasyon kümesi	report078
+O	mevcut değildir.	report078
+O	Grafiye dahil olan	report078
+ANAT	sol ön aksiller kesimde	report078
+OBS-A	lenf nodu	report078
+O	saptanmadı.	report078
+OBS-P	Yoğun	report078
+ANAT	meme parankimi	report078
+O	nedeniyle	report078
+OBS-U	değerlendirme	report078
+O	sınırlı düzeyde kalmıştır)	report078
+O	YORUM:	report078
+OBS-P	Dens	report078
+ANAT	meme parankimi	report078
+IMP	US korelasyonu önerilir	report078
+IMP	BIRADS 0	report078
+O	(HASTANIN SAĞ MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR)	report078
+O	Sağ memenin MLO ve CC mammogramları elde olunmuştur.	report079
+ANAT	Sağ meme parankimi	report079
+OBS-P	dens	report079
+OBS-P	Tip D	report079
+ANAT	meme	report079
+OBS-P	görünümdedir	report079
+ANAT	Sağ memede	report079
+OBS-A	belirgin sınır veren kitle, nodül	report079
+O	saptanmadı.	report079
+ANAT	Sağ memede	report079
+OBS-A	asimetrik doku dansitesi	report079
+OBS-A	doku distorsiyonu	report079
+O	izlenmedi.	report079
+ANAT	Sağ memede	report079
+OBS-A	malignensi açısından şüphe uyandıran mikrokalsifikasyon kümesi	report079
+O	mevcut değildir.	report079
+O	Grafiye dahil olan	report079
+ANAT	sağ ön aksiller kesimde	report079
+O	,  grafiye kısmen dahil olan, muhtemelen	report079
+IMP	benign	report079
+OBS-U	oldukları düşünülen	report079
+OBS-P	lenf nodları	report079
+O	saptandı.	report079
+O	(Yoğun	report079
+OBS-P	meme parankimi	report079
+O	nedeniyle	report079
+OBS-U	değerlendirme	report079
+O	sınırlı düzeyde kalmıştır)	report079
+O	YORUM:	report079
+OBS-P	Dens	report079
+ANAT	meme parankimi	report079
+IMP	US korelasyonu önerilir	report079
+IMP	BIRADS 0	report079
+O	(HASTANIN SOL MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR)	report079
+O	Sol memenin MLO ve CC mammogramları elde olunmuştur.	report080
+ANAT	Sol meme parankimi	report080
+OBS-P	dens	report080
+OBS-P	Tip D	report080
+ANAT	meme	report080
+OBS-P	görünümdedir	report080
+ANAT	Sol memede	report080
+OBS-A	belirgin sınır veren kitle, nodül	report080
+O	saptanmadı.	report080
+ANAT	Sol memede	report080
+OBS-A	asimetrik doku dansitesi	report080
+OBS-A	doku distorsiyonu	report080
+O	izlenmedi.	report080
+ANAT	Sol memede	report080
+OBS-A	malignensi açısından şüphe uyandıran mikrokalsifikasyon kümesi	report080
+O	mevcut değildir.	report080
+O	Grafiye dahil olan	report080
+ANAT	sol ön aksiller kesimde	report080
+O	, grafiye kısmen dahil olan, muhtemelen	report080
+IMP	benign	report080
+OBS-U	olduğu düşünülen	report080
+OBS-P	lenf nodu	report080
+O	saptandı.	report080
+OBS-P	Yoğun	report080
+ANAT	meme parankimi	report080
+O	nedeniyle	report080
+OBS-U	değerlendirme	report080
+O	sınırlı düzeyde kalmıştır)	report080
+O	YORUM:	report080
+OBS-P	Dens	report080
+ANAT	meme parankimi	report080
+IMP	US korelasyonu önerilir	report080
+IMP	BIRADS 0	report080
+O	(HASTANIN SAĞ MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR)	report080
+O	Sağ memenin MLO ve CC mammogramları elde olunmuştur.	report081
+ANAT	Sağ meme parankimi	report081
+OBS-P	dens	report081
+OBS-P	Tip D	report081
+ANAT	meme	report081
+OBS-P	görünümdedir	report081
+ANAT	Sağ memede	report081
+OBS-A	belirgin sınır veren kitle, nodül	report081
+O	saptanmadı.	report081
+ANAT	Sağ memede	report081
+OBS-A	asimetrik doku dansitesi	report081
+OBS-A	doku distorsiyonu	report081
+O	izlenmedi.	report081
+ANAT	Sağ memede	report081
+OBS-A	malignensi açısından şüphe uyandıran mikrokalsifikasyon kümesi	report081
+O	mevcut değildir.	report081
+O	Grafiye dahil olan	report081
+ANAT	sağ ön aksiller kesimde	report081
+OBS-A	lenf nodu	report081
+O	saptanmadı.	report081
+OBS-P	Yoğun	report081
+ANAT	meme parankimi	report081
+O	nedeniyle	report081
+OBS-U	değerlendirme	report081
+O	sınırlı düzeyde kalmıştır)	report081
+O	YORUM:	report081
+OBS-P	Dens	report081
+ANAT	meme parankimi	report081
+IMP	US korelasyonu önerilir	report081
+IMP	BIRADS 0	report081
+O	(HASTANIN SOL MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR)	report081
+O	Sol memenin MLO ve CC mammogramları elde olunmuştur.	report082
+ANAT	Sol memede	report082
+OBS-P	dağınık fibroglandüler dansiteler	report082
+O	izlenmiştir (	report082
+OBS-P	Tip B	report082
+ANAT	meme	report082
+ANAT	Sol memede	report082
+OBS-A	belirgin sınır veren kitle, nodül	report082
+O	saptanmadı.	report082
+ANAT	Sol memede	report082
+OBS-A	asimetrik doku dansitesi	report082
+OBS-A	doku distorsiyonu	report082
+O	izlenmedi.	report082
+ANAT	Sol memede	report082
+OBS-A	malignensi açısından şüphe uyandıran mikrokalsifikasyon kümesi	report082
+O	mevcut değildir.	report082
+O	Grafiye dahil olan	report082
+ANAT	sol ön aksiller kesimde	report082
+O	, muhtemelen	report082
+IMP	benign natürde	report082
+OBS-U	oldukları düşünülen	report082
+OBS-P	lenf nodları	report082
+ANAT	cilt	report082
+OBS-P	lezyonuna ait görünüm	report082
+O	dikkati çekti.	report082
+O	09.09.2019 tarihli	report082
+ANAT	sol	report082
+O	mamogramları ile	report082
+OBS-A	anlamlı interval farklılık	report082
+O	saptanmamıştır.	report082
+O	YORUM:	report082
+OBS-P	Normal sınırlarda	report082
+ANAT	sol	report082
+OBS-P	dijital mammografi	report082
+IMP	BIRADS I	report082
+O	(HASTANIN SAĞ MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR)	report082
+O	Sağ memenin MLO ve CC mammogramları elde olunmuştur.	report083
+ANAT	Sağ memede	report083
+OBS-P	dağınık fibroglandüler dansiteler	report083
+O	izlenmiştir (	report083
+OBS-P	Tip B	report083
+ANAT	meme	report083
+ANAT	Sağ memede	report083
+OBS-A	belirgin sınır veren kitle, nodül	report083
+O	saptanmadı.	report083
+ANAT	Sağ memede	report083
+OBS-A	asimetrik doku dansitesi	report083
+OBS-A	doku distorsiyonu	report083
+O	izlenmedi.	report083
+ANAT	Sağ memede	report083
+OBS-A	malignensi açısından şüphe uyandıran mikrokalsifikasyon kümesi	report083
+O	mevcut değildir.	report083
+O	Grafiye dahil olan	report083
+ANAT	sağ ön aksiller kesimde	report083
+O	, muhtemelen	report083
+IMP	benign natürde	report083
+OBS-U	oldukları düşünülen	report083
+OBS-P	lenf nodları	report083
+O	saptandı.	report083
+O	22/09/2019 tarihli mamogramları ile karşılaştırıldığında	report083
+OBS-A	malignite lehine anlamlı interval farklılık	report083
+O	saptanmamıştır.	report083
+O	YORUM:	report083
+OBS-P	Normal sınırlarda	report083
+ANAT	sağ	report083
+OBS-P	dijital mammografi	report083
+IMP	BIRADS I	report083
+O	(HASTANIN SOL MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR)	report083
+O	Sağ memenin MLO ve CC mammogramları elde olunmuştur.	report084
+ANAT	Sağ meme parankimi	report084
+OBS-P	dens	report084
+OBS-P	Tip C	report084
+ANAT	meme	report084
+OBS-P	görünümdedir	report084
+ANAT	Sağ memede	report084
+OBS-A	belirgin sınır veren kitle, nodül	report084
+O	saptanmadı.	report084
+ANAT	Sağ memede	report084
+OBS-A	asimetrik doku dansitesi	report084
+OBS-A	doku distorsiyonu	report084
+O	izlenmedi.	report084
+ANAT	Sağ memede	report084
+OBS-A	malignensi açısından şüphe uyandıran mikrokalsifikasyon kümesi	report084
+O	mevcut değildir.	report084
+O	Grafiye dahil olan	report084
+ANAT	sağ ön aksiller foldda	report084
+O	, grafiye kısmen dahil olan	report084
+OBS-P	reaktif görünümlü lenf nodları	report084
+O	saptandı.	report084
+O	YORUM:	report084
+OBS-P	Dens	report084
+ANAT	meme parankimi	report084
+IMP	US korelasyonu önerilir	report084
+IMP	BIRADS 0	report084
+O	(HASTANIN SOL MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR)	report084
+O	Sağ memenin MLO ve CC mammogramları elde olunmuştur.	report085
+ANAT	Sağ meme parankimi	report085
+OBS-P	heterojen dens	report085
+OBS-P	Tip C	report085
+ANAT	meme	report085
+OBS-P	görünümdedir	report085
+ANAT	Sağ memede	report085
+OBS-A	belirgin sınır veren kitle, nodül	report085
+O	saptanmadı.	report085
+ANAT	Sağ memede	report085
+O	MLO grafide	report085
+ANAT	üst kadranda	report085
+OBS-P	asimetrik dansite artışı	report085
+O	izlenmektedir.	report085
+ANAT	Sağ memede	report085
+OBS-A	asimetrik doku dansitesi	report085
+OBS-A	doku distorsiyonu	report085
+O	izlenmedi.	report085
+ANAT	Sağ memede	report085
+OBS-A	malignensi açısından şüphe uyandıran mikrokalsifikasyon kümesi	report085
+O	mevcut değildir.	report085
+O	Grafiye dahil olan	report085
+ANAT	sağ ön aksiller kesimde	report085
+O	, muhtemelen	report085
+IMP	benign	report085
+OBS-U	oldukları düşünülen	report085
+OBS-P	eliptik şekilli lenf nodları	report085
+O	saptandı.	report085
+O	YORUM:	report085
+OBS-P	Heterojen dens	report085
+ANAT	meme parankimi	report085
+IMP	US korelasyonu önerilir	report085
+IMP	BIRADS 0	report085
+ANAT	Sağ meme	report085
+ANAT	üst kadranda	report085
+OBS-P	asimetrik dansite artışı	report085
+IMP	BIRADS III	report085
+IMP	Meme USG ile birlikte değerlendirildiğinde asimetrik meme parankimi ile uyumludur	report085
+O	(HASTANIN SOL MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR)	report085

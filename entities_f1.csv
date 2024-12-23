@@ -1,0 +1,3451 @@
+﻿compare;y_true;y_pred;entity;report
+TRUE;O;O;Sağ memenin MLO ve CC mammogramları elde olunmuştur.;report001
+TRUE;ANAT;ANAT;Sağ meme parankimi;report001
+TRUE;OBS-P;OBS-P;dens;report001
+TRUE;OBS-P;OBS-P;Tip D;report001
+TRUE;ANAT;ANAT;meme;report001
+TRUE;OBS-P;OBS-P;görünümdedir;report001
+TRUE;ANAT;ANAT;Sağ memede;report001
+TRUE;OBS-A;OBS-A;belirgin sınır veren kitle;report001
+TRUE;O;O;saptanmadı.;report001
+TRUE;ANAT;ANAT;Sağ memede;report001
+TRUE;OBS-P;OBS-P;en büyükleri;report001
+TRUE;ANAT;ANAT;üst iç kadranda;report001
+TRUE;O;O;yaklaşık;report001
+TRUE;OBS-P;OBS-P;7.5x5 mm boyutunda;report001
+TRUE;ANAT;ANAT;parankim;report001
+TRUE;OBS-P;OBS-P;ile örtülü;report001
+TRUE;OBS-P;OBS-P;düzgün sınırlı;report001
+TRUE;OBS-P;OBS-P;düşük dansiteli;report001
+TRUE;OBS-P;OBS-P;birkaç adet;report001
+TRUE;OBS-P;OBS-P;nodüler opasite;report001
+TRUE;O;O;mevcuttur.;report001
+TRUE;ANAT;ANAT;Sağ memede;report001
+TRUE;OBS-A;OBS-A;asimetrik doku dansitesi;report001
+TRUE;OBS-A;OBS-A;doku distorsiyonu;report001
+TRUE;O;O;izlenmedi.;report001
+TRUE;ANAT;ANAT;Sağ memede;report001
+TRUE;OBS-A;OBS-A;malignensi açısından şüphe uyandıran mikrokalsifikasyon kümesi;report001
+TRUE;O;O;mevcut değildir.;report001
+TRUE;O;O;Grafiye dahil olan;report001
+TRUE;ANAT;ANAT;sağ ön aksiller kesimde;report001
+TRUE;O;O;, muhtemelen;report001
+TRUE;IMP;IMP;benign;report001
+TRUE;OBS-U;OBS-U;oldukları düşünülen;report001
+TRUE;OBS-P;OBS-P;eliptik şekilli;report001
+TRUE;OBS-P;OBS-P;lenf nodları;report001
+TRUE;O;O;saptandı.;report001
+TRUE;OBS-P;OBS-P;Yoğun;report001
+TRUE;ANAT;ANAT;meme parankimi;report001
+TRUE;O;O;nedeniyle;report001
+TRUE;OBS-U;OBS-U;değerlendirme;report001
+TRUE;O;O;sınırlı düzeyde kalmıştır.);report001
+TRUE;O;O;YORUM:;report001
+TRUE;OBS-P;OBS-P;Dens;report001
+TRUE;ANAT;ANAT;meme parankimi;report001
+TRUE;ANAT;ANAT;sağ memede;report001
+TRUE;OBS-P;OBS-P;nodüler opasiteler;report001
+TRUE;IMP;IMP;US korelasyonu önerilir;report001
+TRUE;IMP;IMP;BIRADS 0;report001
+TRUE;O;O;(HASTANIN SOL MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR);report001
+TRUE;O;O;Sol memenin MLO ve CC mammogramları elde olunmuştur.;report002
+TRUE;ANAT;ANAT;Sol meme parankimi;report002
+TRUE;OBS-P;OBS-P;heterojen dens;report002
+TRUE;OBS-P;OBS-P;Tip C;report002
+TRUE;ANAT;ANAT;meme;report002
+TRUE;OBS-P;OBS-P;görünümdedir;report002
+TRUE;OBS-P;OBS-P;Yoğun;report002
+TRUE;ANAT;ANAT;meme parankimi;report002
+TRUE;O;O;nedeniyle;report002
+TRUE;OBS-U;OBS-U;inceleme;report002
+TRUE;O;O;"sınırlı düzeyde kalmıştır. Değerlendirilebildiği kadarıyla;";report002
+TRUE;ANAT;ANAT;sol memede;report002
+TRUE;OBS-A;OBS-A;belirgin sınır veren kitle, nodül;report002
+TRUE;O;O;saptanmadı.;report002
+TRUE;ANAT;ANAT;Sol memede;report002
+TRUE;OBS-P;OBS-P;dağınık yerleşimli;report002
+TRUE;OBS-P;OBS-P;birkaç adet;report002
+TRUE;IMP;IMP;benign natürde;report002
+TRUE;OBS-P;OBS-P;punktat mikrokalsifikasyon;report002
+TRUE;O;O;izlendi.;report002
+TRUE;ANAT;ANAT;Sol memede;report002
+TRUE;OBS-A;OBS-A;malignensi açısından şüphe uyandıran mikrokalsifikasyon kümesi;report002
+TRUE;O;O;mevcut değildir.;report002
+TRUE;ANAT;ANAT;Sol memede;report002
+TRUE;OBS-A;OBS-A;asimetrik doku dansitesi;report002
+TRUE;OBS-A;OBS-A;doku distorsiyonu;report002
+TRUE;O;O;izlenmedi.;report002
+TRUE;O;O;Grafiye dahil olan;report002
+TRUE;ANAT;ANAT;sol ön aksiller kesimde;report002
+TRUE;OBS-A;OBS-A;lenf nodu;report002
+TRUE;O;O;saptanmadı.;report002
+TRUE;O;O;2017 tarihli;report002
+FALSE;O;ANAT;sol;report002
+TRUE;O;O;mammogramları ile;report002
+TRUE;OBS-A;OBS-A;anlamlı interval farklılık;report002
+TRUE;O;O;saptanmadı.;report002
+TRUE;O;O;YORUM:;report002
+TRUE;IMP;IMP;Benign natürde;report002
+TRUE;OBS-P;OBS-P;kalsifikasyonlar;report002
+TRUE;IMP;IMP;BIRADS II;report002
+TRUE;OBS-P;OBS-P;Heterojen dens;report002
+TRUE;ANAT;ANAT;meme parankimi;report002
+TRUE;IMP;IMP;US korelasyonu önerilir;report002
+TRUE;IMP;IMP;BIRADS 0;report002
+TRUE;O;O;(HASTANIN SAĞ MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR);report002
+TRUE;O;O;Sağ memenin MLO ve CC mammogramları elde olunmuştur.;report003
+TRUE;ANAT;ANAT;Sağ meme parankimi;report003
+TRUE;OBS-P;OBS-P;heterojen dens;report003
+TRUE;OBS-P;OBS-P;Tip C;report003
+TRUE;ANAT;ANAT;meme;report003
+TRUE;OBS-P;OBS-P;görünümdedir;report003
+TRUE;OBS-P;OBS-P;Yoğun;report003
+TRUE;ANAT;ANAT;meme parankimi;report003
+TRUE;O;O;nedeniyle;report003
+TRUE;OBS-U;OBS-U;inceleme;report003
+TRUE;O;O;"sınırlı düzeyde kalmıştır. Değerlendirilebildiği kadarıyla;";report003
+TRUE;ANAT;ANAT;sağ memede;report003
+TRUE;OBS-A;OBS-A;belirgin sınır veren kitle, nodül;report003
+TRUE;O;O;saptanmadı.;report003
+TRUE;ANAT;ANAT;Sağ memede;report003
+TRUE;OBS-P;OBS-P;dağınık yerleşimli;report003
+TRUE;OBS-P;OBS-P;birkaç adet;report003
+TRUE;IMP;IMP;benign natürde;report003
+TRUE;OBS-P;OBS-P;punktat mikrokalsifikasyon;report003
+TRUE;O;O;izlendi.;report003
+TRUE;ANAT;ANAT;Sağ memede;report003
+TRUE;OBS-A;OBS-A;malignensi açısından şüphe uyandıran mikrokalsifikasyon kümesi;report003
+TRUE;O;O;mevcut değildir.;report003
+TRUE;ANAT;ANAT;Sağ memede;report003
+TRUE;OBS-A;OBS-A;asimetrik doku dansitesi;report003
+TRUE;OBS-A;OBS-A;doku distorsiyonu;report003
+TRUE;O;O;izlenmedi.;report003
+TRUE;O;O;Grafiye dahil olan;report003
+TRUE;ANAT;ANAT;sağ ön aksiller kesimde;report003
+TRUE;OBS-A;OBS-A;lenf nodu;report003
+TRUE;O;O;saptanmadı.;report003
+TRUE;O;O;11.11.2011 tarihli;report003
+FALSE;O;ANAT;sağ;report003
+TRUE;O;O;mammogramları ile;report003
+TRUE;OBS-A;OBS-A;anlamlı interval farklılık;report003
+TRUE;O;O;saptanmadı.;report003
+TRUE;O;O;YORUM:;report003
+TRUE;IMP;IMP;Benign natürde;report003
+TRUE;OBS-P;OBS-P;kalsifikasyonlar;report003
+TRUE;IMP;IMP;BIRADS II;report003
+TRUE;OBS-P;OBS-P;Heterojen dens;report003
+TRUE;ANAT;ANAT;meme parankimi;report003
+TRUE;IMP;IMP;US korelasyonu önerilir;report003
+TRUE;IMP;IMP;BIRADS 0;report003
+TRUE;O;O;(HASTANIN SOL MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR);report003
+TRUE;O;O;Sol memenin MLO ve CC mammogramları elde olunmuştur.;report004
+TRUE;ANAT;ANAT;Sol meme parankimi;report004
+TRUE;OBS-P;OBS-P;heterojen dens;report004
+TRUE;OBS-P;OBS-P;Tip C;report004
+TRUE;ANAT;ANAT;meme;report004
+TRUE;OBS-P;OBS-P;görünümdedir;report004
+TRUE;OBS-P;OBS-P;Yoğun;report004
+TRUE;ANAT;ANAT;meme parankimi;report004
+TRUE;O;O;nedeniyle;report004
+TRUE;OBS-U;OBS-U;inceleme;report004
+TRUE;O;O;"sınırlı düzeyde kalmıştır. Değerlendirilebildiği kadarıyla;";report004
+TRUE;ANAT;ANAT;sol memede;report004
+TRUE;OBS-A;OBS-A;belirgin sınır veren kitle, nodül;report004
+TRUE;O;O;saptanmadı.;report004
+TRUE;ANAT;ANAT;Sol memede;report004
+TRUE;OBS-A;OBS-A;asimetrik doku dansitesi;report004
+TRUE;OBS-A;OBS-A;doku distorsiyonu;report004
+TRUE;O;O;izlenmedi.;report004
+TRUE;ANAT;ANAT;Sol memede;report004
+TRUE;OBS-A;OBS-A;malignensi açısından şüphe uyandıran mikrokalsifikasyon kümesi;report004
+TRUE;O;O;mevcut değildir.;report004
+TRUE;O;O;Grafiye dahil olan;report004
+TRUE;ANAT;ANAT;sol ön aksiller kesimde;report004
+TRUE;OBS-A;OBS-A;lenf nodu;report004
+TRUE;O;O;saptanmadı.;report004
+TRUE;O;O;17/2017 tarihli mammogramları ile karşılaştırıldığında;report004
+TRUE;OBS-A;OBS-A;malignite lehine anlamlı interval farklılık;report004
+TRUE;O;O;saptanmadı.;report004
+TRUE;O;O;YORUM:;report004
+TRUE;OBS-P;OBS-P;Heterojen dens;report004
+TRUE;ANAT;ANAT;meme parankimi;report004
+TRUE;IMP;IMP;US korelasyonu önerilir;report004
+TRUE;IMP;IMP;BIRADS 0;report004
+TRUE;O;O;(HASTANIN SAĞ MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR);report004
+TRUE;O;O;Sağ memenin MLO ve CC mammogramları elde olunmuştur.;report005
+TRUE;ANAT;ANAT;Sağ meme parankimi;report005
+TRUE;OBS-P;OBS-P;heterojen dens;report005
+TRUE;OBS-P;OBS-P;Tip C;report005
+TRUE;ANAT;ANAT;meme;report005
+TRUE;OBS-P;OBS-P;görünümdedir;report005
+TRUE;OBS-P;OBS-P;Yoğun;report005
+TRUE;ANAT;ANAT;meme parankimi;report005
+TRUE;O;O;nedeniyle;report005
+TRUE;OBS-U;OBS-U;inceleme;report005
+TRUE;O;O;"sınırlı düzeyde kalmıştır. Değerlendirilebildiği kadarıyla;";report005
+TRUE;ANAT;ANAT;sağ memede;report005
+TRUE;OBS-A;OBS-A;belirgin sınır veren kitle, nodül;report005
+TRUE;O;O;saptanmadı.;report005
+TRUE;ANAT;ANAT;Sağ;report005
+TRUE;O;O;CC grafi;report005
+TRUE;ANAT;ANAT;dış kesimde;report005
+TRUE;ANAT;ANAT;periareolar bölgede;report005
+TRUE;IMP;IMP;geçirilmiş cerrahiye bağlı;report005
+TRUE;OBS-P;OBS-P;hafif yapısal distorsiyon;report005
+TRUE;O;O;dikkati çekti.;report005
+TRUE;ANAT;ANAT;Sağ memede;report005
+TRUE;OBS-A;OBS-A;asimetrik doku dansitesi;report005
+TRUE;O;O;izlenmedi.;report005
+TRUE;ANAT;ANAT;Sağ memede;report005
+TRUE;OBS-A;OBS-A;malignensi açısından şüphe uyandıran mikrokalsifikasyon kümesi;report005
+TRUE;O;O;mevcut değildir.;report005
+TRUE;O;O;Grafiye dahil olan;report005
+TRUE;ANAT;ANAT;sağ ön aksiller kesimde;report005
+TRUE;O;O;, muhtemelen;report005
+TRUE;IMP;IMP;benign natürde;report005
+TRUE;OBS-U;OBS-U;oldukları düşünülen;report005
+TRUE;OBS-P;OBS-P;lenf nodları;report005
+TRUE;O;O;saptandı.;report005
+TRUE;O;O;2011 tarihli mammogramları ile karşılaştırıldığında;report005
+TRUE;OBS-A;OBS-A;malignite lehine anlamlı interval farklılık;report005
+TRUE;O;O;saptanmadı.;report005
+TRUE;O;O;YORUM:;report005
+TRUE;ANAT;ANAT;Sağ memede;report005
+TRUE;IMP;IMP;geçirilmiş cerrahiye sekonder;report005
+TRUE;OBS-P;OBS-P;değişiklikler;report005
+TRUE;OBS-P;OBS-P;heterojen dens;report005
+TRUE;ANAT;ANAT;meme parankimi;report005
+TRUE;IMP;IMP;US korelasyonu önerilir;report005
+TRUE;IMP;IMP;BIRADS 0;report005
+TRUE;O;O;(HASTANIN SOL MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR);report005
+TRUE;O;O;Sağ memenin MLO ve CC mammogramları elde olunmuştur.;report006
+TRUE;ANAT;ANAT;Sağ meme parankimi;report006
+TRUE;OBS-P;OBS-P;heterojen dens;report006
+TRUE;OBS-P;OBS-P;Tip C;report006
+TRUE;ANAT;ANAT;meme;report006
+TRUE;OBS-P;OBS-P;görünümdedir;report006
+TRUE;OBS-P;OBS-P;Yoğun;report006
+TRUE;ANAT;ANAT;meme parankimi;report006
+TRUE;O;O;nedeniyle;report006
+TRUE;OBS-U;OBS-U;inceleme;report006
+TRUE;O;O;"sınırlı düzeyde kalmıştır. Değerlendirilebildiği kadarıyla;";report006
+TRUE;ANAT;ANAT;sağ meme üst kadran orta hatta;report006
+TRUE;O;O;yaklaşık;report006
+TRUE;OBS-P;OBS-P;14x9 mm;report006
+TRUE;OBS-P;OBS-P;düzensiz sınırlı;report006
+TRUE;ANAT;ANAT;parankimde;report006
+TRUE;OBS-P;OBS-P;distorsiyona yol açan;report006
+TRUE;OBS-P;OBS-P;orta-yüksek dansiteli kitle;report006
+TRUE;O;O;izlenmektedir.  Bunun dışında;report006
+TRUE;ANAT;ANAT;sağ memede;report006
+TRUE;ANAT;ANAT;alt kadranda;report006
+TRUE;OBS-P;OBS-P;9x6 mm;report006
+TRUE;OBS-P;OBS-P;düzgün sınırlı;report006
+TRUE;OBS-P;OBS-P;düşük dansiteli nodüler opasite;report006
+TRUE;O;O;mevcuttur.;report006
+TRUE;ANAT;ANAT;Sağ meme üst dış kadranda;report006
+TRUE;OBS-P;OBS-P;3 mm çaplı;report006
+TRUE;ANAT;ANAT;intramammarian lenf nodu;report006
+TRUE;O;O;mevcuttur.;report006
+TRUE;ANAT;ANAT;Sağ memede;report006
+TRUE;OBS-A;OBS-A;asimetrik doku dansitesi;report006
+TRUE;OBS-A;OBS-A;doku distorsiyonu;report006
+TRUE;O;O;izlenmedi.;report006
+TRUE;ANAT;ANAT;Sağ memede;report006
+TRUE;OBS-A;OBS-A;malignensi açısından şüphe uyandıran mikrokalsifikasyon kümesi;report006
+TRUE;O;O;mevcut değildir.;report006
+TRUE;O;O;Grafiye dahil olan;report006
+TRUE;ANAT;ANAT;sağ ön aksiller kesimde;report006
+TRUE;O;O;, muhtemelen;report006
+TRUE;IMP;IMP;benign;report006
+TRUE;OBS-U;OBS-U;oldukları düşünülen;report006
+TRUE;OBS-P;OBS-P;eliptik şekilli lenf nodları;report006
+TRUE;O;O;saptandı.;report006
+TRUE;O;O;YORUM:;report006
+TRUE;ANAT;ANAT;Sağ meme üst kadran orta hatta;report006
+TRUE;O;O;tanımlanan ,;report006
+TRUE;IMP;IMP;malign natüede;report006
+FALSE;OBS-U;IMP;olduğu düşünülen;report006
+TRUE;OBS-P;OBS-P;lezyon;report006
+TRUE;IMP;IMP;BIRADS 4C;report006
+TRUE;ANAT;ANAT;Sağ memede;report006
+TRUE;O;O;tariflenen;report006
+TRUE;OBS-P;OBS-P;nodüler opasiteler;report006
+TRUE;IMP;IMP;US korelasyonu önerilir;report006
+TRUE;IMP;IMP;BIRADS 0;report006
+TRUE;OBS-P;OBS-P;Heterojen dens;report006
+TRUE;ANAT;ANAT;meme parankimi;report006
+TRUE;IMP;IMP;US korelasyonu önerilir;report006
+TRUE;IMP;IMP;BIRADS 0;report006
+TRUE;O;O;(HASTANIN SOL MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR);report006
+TRUE;O;O;Sağ memenin MLO ve CC mammogramları elde olunmuştur.;report007
+TRUE;ANAT;ANAT;Sağ memede;report007
+TRUE;OBS-P;OBS-P;dağınık fibroglandüler dansiteler;report007
+TRUE;OBS-P;OBS-P;Tip B;report007
+TRUE;ANAT;ANAT;meme;report007
+TRUE;O;O;) izlendi.;report007
+TRUE;ANAT;ANAT;Sağ memede;report007
+TRUE;OBS-A;OBS-A;belirgin sınır veren kitle, nodül;report007
+TRUE;O;O;saptanmadı.;report007
+TRUE;ANAT;ANAT;Sağ meme;report007
+TRUE;ANAT;ANAT;retroareolar bölgede;report007
+TRUE;IMP;IMP;benign natürde;report007
+TRUE;OBS-P;OBS-P;makrokalsifikasyon;report007
+TRUE;O;O;izlendi.;report007
+TRUE;ANAT;ANAT;Sağ memede;report007
+TRUE;OBS-A;OBS-A;malignensi açısından şüphe uyandıran mikrokalsifikasyon kümesi;report007
+TRUE;O;O;mevcut değildir.;report007
+TRUE;ANAT;ANAT;Sağ memede;report007
+TRUE;OBS-A;OBS-A;asimetrik doku dansitesi;report007
+TRUE;OBS-A;OBS-A;doku distorsiyonu;report007
+TRUE;O;O;izlenmedi.;report007
+TRUE;O;O;Grafiye dahil olan;report007
+TRUE;ANAT;ANAT;sağ ön aksiller kesimde;report007
+TRUE;O;O;, muhtemelen;report007
+TRUE;IMP;IMP;benign natürde;report007
+TRUE;OBS-U;OBS-U;oldukları düşünülen;report007
+TRUE;OBS-P;OBS-P;lenf nodları;report007
+TRUE;O;O;saptandı.;report007
+TRUE;O;O;YORUM:;report007
+TRUE;IMP;IMP;Benign natürde;report007
+TRUE;OBS-P;OBS-P;kalsifikasyon;report007
+TRUE;IMP;IMP;BIRADS II;report007
+TRUE;O;O;(HASTANIN SOL MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR);report007
+TRUE;O;O;Sol memenin MLO ve CC mammogramları elde olunmuştur.;report008
+TRUE;ANAT;ANAT;Sol meme parankimi;report008
+TRUE;OBS-P;OBS-P;dens;report008
+TRUE;OBS-P;OBS-P;Tip D;report008
+TRUE;ANAT;ANAT;meme;report008
+TRUE;OBS-P;OBS-P;görünümdedir;report008
+TRUE;ANAT;ANAT;Sol memede;report008
+TRUE;OBS-A;OBS-A;belirgin sınır veren kitle, nodül;report008
+TRUE;O;O;saptanmadı.;report008
+TRUE;ANAT;ANAT;Sol memede;report008
+TRUE;OBS-P;OBS-P;dağınık yerleşimli;report008
+TRUE;ANAT;ANAT;periareolar bölgede;report008
+TRUE;OBS-P;OBS-P;yoğunlaşan;report008
+TRUE;OBS-A;OBS-A;belirgin pleomorfizm;report008
+TRUE;OBS-A;OBS-A;patolojik kümeleşme;report008
+TRUE;O;O;göstermeyen;report008
+TRUE;OBS-P;OBS-P;mikrokalsifikasyonlar;report008
+TRUE;O;O;dikkati çekmiş olup;report008
+TRUE;IMP;IMP;benign natürde oldukları;report008
+TRUE;OBS-U;OBS-U;düşünüldü;report008
+TRUE;O;O;. Hastanın mamografi bulgularında mevcut 2013 tarihli mamogramla karşılaştırıldığında;report008
+TRUE;OBS-A;OBS-A;belirgin interval farklılık;report008
+TRUE;O;O;saptanmadı.;report008
+TRUE;ANAT;ANAT;Sol memede;report008
+TRUE;OBS-A;OBS-A;asimetrik doku dansitesi;report008
+TRUE;OBS-A;OBS-A;doku distorsiyonu;report008
+TRUE;O;O;izlenmedi.;report008
+TRUE;ANAT;ANAT;Sol memede;report008
+TRUE;OBS-A;OBS-A;malignensi açısından şüphe uyandıran mikrokalsifikasyon kümesi;report008
+TRUE;O;O;mevcut değildir.;report008
+TRUE;O;O;Grafiye dahil olan;report008
+TRUE;ANAT;ANAT;sol ön aksiller kesimde;report008
+TRUE;OBS-A;OBS-A;lenf nodu;report008
+TRUE;O;O;"saptanmadı.
+(";report008
+TRUE;OBS-P;OBS-P;Yoğun;report008
+TRUE;ANAT;ANAT;meme parankimi;report008
+TRUE;O;O;nedeniyle;report008
+TRUE;OBS-U;OBS-U;değerlendirme;report008
+TRUE;O;O;sınırlı düzeyde kalmıştır);report008
+TRUE;O;O;YORUM:;report008
+TRUE;OBS-P;OBS-P;Dens;report008
+TRUE;ANAT;ANAT;meme parankimi;report008
+TRUE;IMP;IMP;US korelasyonu önerilir;report008
+TRUE;IMP;IMP;BIRADS 0;report008
+TRUE;O;O;")
+(HASTANIN SAĞ MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR)";report008
+TRUE;O;O;Sağ memenin MLO ve CC mammogramları elde olunmuştur.;report009
+TRUE;ANAT;ANAT;Sağ meme parankimi;report009
+TRUE;OBS-P;OBS-P;dens;report009
+TRUE;OBS-P;OBS-P;Tip D;report009
+TRUE;ANAT;ANAT;meme;report009
+TRUE;OBS-P;OBS-P;görünümdedir;report009
+TRUE;ANAT;ANAT;Sağ memede;report009
+TRUE;OBS-A;OBS-A;belirgin sınır veren kitle, nodül;report009
+TRUE;O;O;saptanmadı.;report009
+TRUE;ANAT;ANAT;Sağ memede;report009
+TRUE;OBS-P;OBS-P;dağınık yerleşimli;report009
+TRUE;OBS-A;OBS-A;belirgin pleomorfizm;report009
+TRUE;OBS-A;OBS-A;patolojik kümeleşme;report009
+TRUE;O;O;göstermeyen;report009
+TRUE;OBS-P;OBS-P;mikrokalsifikasyonlar;report009
+TRUE;O;O;izlenmiş olup hastanın mevcut 2021 tarihli mamogramı ile karşılaştırıldığında;report009
+TRUE;OBS-A;OBS-A;belirgin interval farklılık;report009
+TRUE;O;O;saptanmadı.;report009
+TRUE;ANAT;ANAT;Sağ memede;report009
+TRUE;OBS-A;OBS-A;asimetrik doku dansitesi;report009
+TRUE;OBS-A;OBS-A;doku distorsiyonu;report009
+TRUE;O;O;izlenmedi.;report009
+TRUE;ANAT;ANAT;Sağ memede;report009
+TRUE;OBS-A;OBS-A;malignensi açısından şüphe uyandıran mikrokalsifikasyon kümesi;report009
+TRUE;O;O;mevcut değildir.;report009
+TRUE;O;O;Grafiye dahil olan;report009
+TRUE;ANAT;ANAT;sağ ön aksiller kesimde;report009
+TRUE;O;O;, grafiye kısmen dahil olan, muhtemelen;report009
+TRUE;IMP;IMP;benign;report009
+TRUE;OBS-U;OBS-U;oldukları düşünülen;report009
+TRUE;OBS-P;OBS-P;lenf nodları;report009
+TRUE;O;O;"saptandı.
+(";report009
+TRUE;OBS-P;OBS-P;Yoğun;report009
+TRUE;ANAT;ANAT;meme parankimi;report009
+TRUE;O;O;nedeniyle;report009
+TRUE;OBS-U;OBS-U;değerlendirme;report009
+TRUE;O;O;sınırlı düzeyde kalmıştır);report009
+TRUE;O;O;YORUM:;report009
+TRUE;OBS-P;OBS-P;Dens;report009
+TRUE;ANAT;ANAT;meme parankimi;report009
+TRUE;IMP;IMP;US korelasyonu önerilir;report009
+TRUE;IMP;IMP;BIRADS 0;report009
+TRUE;O;O;")
+(HASTANIN SOL MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR)";report009
+TRUE;O;O;Sol memenin MLO ve CC mammogramları elde olunmuştur.;report010
+TRUE;ANAT;ANAT;Sol meme parankimi;report010
+TRUE;OBS-P;OBS-P;dens;report010
+TRUE;OBS-P;OBS-P;Tip D;report010
+TRUE;ANAT;ANAT;meme;report010
+TRUE;OBS-P;OBS-P;görünümdedir;report010
+TRUE;ANAT;ANAT;Sol memede;report010
+TRUE;OBS-A;OBS-A;belirgin sınır veren kitle, nodül;report010
+TRUE;O;O;saptanmadı.;report010
+TRUE;ANAT;ANAT;Sol memede;report010
+TRUE;OBS-A;OBS-A;asimetrik doku dansitesi;report010
+TRUE;OBS-A;OBS-A;doku distorsiyonu;report010
+TRUE;O;O;izlenmedi.;report010
+TRUE;ANAT;ANAT;Sol memede;report010
+TRUE;OBS-P;OBS-P;bir-iki adet;report010
+TRUE;IMP;IMP;benign  natürde;report010
+TRUE;OBS-P;OBS-P;punktat mikrokalsifkasyon;report010
+TRUE;O;O;izlenmiştir.;report010
+TRUE;ANAT;ANAT;Sol memede;report010
+TRUE;OBS-A;OBS-A;malignensi açısından şüphe uyandıran mikrokalsifikasyon kümesi;report010
+TRUE;O;O;mevcut değildir.;report010
+TRUE;O;O;Grafiye dahil olan;report010
+TRUE;ANAT;ANAT;sol ön aksiller kesimde;report010
+TRUE;O;O;, muhtemelen;report010
+TRUE;IMP;IMP;benign;report010
+TRUE;OBS-U;OBS-U;oldukları düşünülen;report010
+TRUE;OBS-P;OBS-P;eliptik şekilli lenf nodları;report010
+TRUE;O;O;saptandı.;report010
+TRUE;OBS-P;OBS-P;Yoğun;report010
+TRUE;ANAT;ANAT;meme parankimi;report010
+TRUE;O;O;nedeniyle;report010
+TRUE;OBS-U;OBS-U;değerlendirme;report010
+TRUE;O;O;sınırlı düzeyde kalmıştır.);report010
+TRUE;O;O;09.09.2009 tarihli;report010
+FALSE;O;ANAT;sol;report010
+TRUE;O;O;mamogramları ile karşılaştırıldığında;report010
+TRUE;OBS-A;OBS-A;anlamlı interval farklılık;report010
+TRUE;O;O;saptanmamıştır.;report010
+TRUE;O;O;YORUM:;report010
+TRUE;OBS-P;OBS-P;Dens;report010
+TRUE;ANAT;ANAT;meme parankimi;report010
+TRUE;IMP;IMP;US korelasyonu önerilir;report010
+TRUE;IMP;IMP;BIRADS 0;report010
+TRUE;ANAT;ANAT;Sol memede;report010
+TRUE;IMP;IMP;benign;report010
+TRUE;OBS-P;OBS-P;kalsifikasyonlar;report010
+TRUE;IMP;IMP;BIRADS II;report010
+TRUE;O;O;(HASTANIN SAĞ MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR);report010
+TRUE;O;O;Sağ memenin MLO ve CC mammogramları elde olunmuştur.;report011
+TRUE;ANAT;ANAT;Sağ meme parankimi;report011
+TRUE;OBS-P;OBS-P;dens;report011
+TRUE;OBS-P;OBS-P;Tip D;report011
+TRUE;ANAT;ANAT;meme;report011
+TRUE;OBS-P;OBS-P;görünümdedir;report011
+TRUE;ANAT;ANAT;Sağ memede;report011
+TRUE;OBS-A;OBS-A;belirgin sınır veren kitle, nodül;report011
+TRUE;O;O;saptanmadı.;report011
+TRUE;ANAT;ANAT;Sağ memede;report011
+TRUE;OBS-A;OBS-A;asimetrik doku dansitesi;report011
+TRUE;OBS-A;OBS-A;doku distorsiyonu;report011
+TRUE;O;O;izlenmedi.;report011
+TRUE;ANAT;ANAT;Sağ memede;report011
+TRUE;OBS-A;OBS-A;malignensi açısından şüphe uyandıran mikrokalsifikasyon kümesi;report011
+TRUE;O;O;mevcut değildir.;report011
+TRUE;O;O;Grafiye dahil olan;report011
+TRUE;ANAT;ANAT;sağ ön aksiller kesimde;report011
+TRUE;O;O;, muhtemelen;report011
+TRUE;IMP;IMP;benign;report011
+TRUE;OBS-U;OBS-U;oldukları düşünülen;report011
+TRUE;OBS-P;OBS-P;eliptik şekilli lenf nodları;report011
+TRUE;O;O;saptandı.;report011
+TRUE;OBS-P;OBS-P;Yoğun;report011
+TRUE;ANAT;ANAT;meme parankimi;report011
+TRUE;O;O;nedeniyle;report011
+TRUE;OBS-U;OBS-U;değerlendirme;report011
+TRUE;O;O;sınırlı düzeyde kalmıştır.);report011
+TRUE;O;O;YORUM:;report011
+TRUE;OBS-P;OBS-P;Dens;report011
+TRUE;ANAT;ANAT;meme parankimi;report011
+TRUE;IMP;IMP;US korelasyonu önerilir;report011
+TRUE;IMP;IMP;BIRADS 0;report011
+TRUE;O;O;07.07.1997 tarihli tetkikinde;report011
+TRUE;ANAT;ANAT;sağ memede;report011
+TRUE;O;O;mevcut;report011
+TRUE;OBS-P;OBS-P;gevşek kümeleşme oluşturmuş pleomorfik mikrokalsifikasyonların;report011
+TRUE;IMP;IMP;eksize edildidği;report011
+TRUE;O;O;anlaşılmıştır.;report011
+TRUE;ANAT;ANAT;Bu düzeyde;report011
+TRUE;OBS-A;OBS-A;rezidü kalsifikasyon;report011
+TRUE;O;O;saptanmamıştır.;report011
+TRUE;O;O;(HASTANIN SOL MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR);report011
+TRUE;O;O;Sol memenin MLO ve CC mammogramları elde olunmuştur.;report012
+TRUE;ANAT;ANAT;Sol meme parankimi;report012
+TRUE;OBS-P;OBS-P;dens;report012
+TRUE;OBS-P;OBS-P;Tip C;report012
+TRUE;ANAT;ANAT;meme;report012
+TRUE;OBS-P;OBS-P;görünümdedir;report012
+TRUE;ANAT;ANAT;Sol memede;report012
+TRUE;ANAT;ANAT;retroareolar bölgede;report012
+TRUE;OBS-P;OBS-P;büyüğü 12 mm çapında;report012
+TRUE;OBS-P;OBS-P;birkaç adet  yağ nekrozu kalsifikasyonu;report012
+TRUE;O;O;dikkati çekti.;report012
+TRUE;ANAT;ANAT;Sol memede;report012
+TRUE;OBS-A;OBS-A;doku distorsiyonu;report012
+TRUE;OBS-A;OBS-A;izlenmedi;report012
+TRUE;ANAT;ANAT;Sol memede;report012
+TRUE;OBS-A;OBS-A;malignensi açısından şüphe uyandıran mikrokalsifikasyon kümesi;report012
+FALSE;O;OBS-A;mevcut değildir;report012
+TRUE;O;O;Grafiye dahil olan;report012
+TRUE;ANAT;ANAT;sol ön aksiller kesimde;report012
+TRUE;O;O;, grafiye kısmen dahil olan, muhtemelen;report012
+TRUE;IMP;IMP;benign;report012
+TRUE;OBS-U;OBS-U;oldukları düşünülen;report012
+TRUE;OBS-P;OBS-P;reaktif görünümlü;report012
+TRUE;OBS-P;OBS-P;lenf nodları;report012
+TRUE;OBS-P;OBS-P;saptandı;report012
+TRUE;O;O;YORUM:;report012
+TRUE;OBS-P;OBS-P;Dens;report012
+TRUE;ANAT;ANAT;meme parankimi;report012
+TRUE;IMP;IMP;US korelasyonu önerilir;report012
+TRUE;IMP;IMP;BIRADS 0;report012
+TRUE;O;O;(HASTANIN SAĞ MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR);report012
+TRUE;O;O;Sağ memenin MLO ve CC mammogramları elde olunmuştur.;report013
+TRUE;ANAT;ANAT;Sağ meme parankimi;report013
+TRUE;OBS-P;OBS-P;dens;report013
+TRUE;OBS-P;OBS-P;Tip C;report013
+TRUE;ANAT;ANAT;meme;report013
+TRUE;OBS-P;OBS-P;görünümdedir;report013
+TRUE;ANAT;ANAT;Sağ memede;report013
+TRUE;OBS-A;OBS-A;belirgin sınır veren kitle, nodül;report013
+TRUE;O;O;saptanmadı.;report013
+TRUE;ANAT;ANAT;Sağ memede;report013
+TRUE;OBS-A;OBS-A;asimetrik doku dansitesi;report013
+TRUE;OBS-A;OBS-A;doku distorsiyonu;report013
+TRUE;O;O;izlenmedi.;report013
+TRUE;ANAT;ANAT;Sağ memede;report013
+TRUE;OBS-A;OBS-A;malignensi açısından şüphe uyandıran mikrokalsifikasyon kümesi;report013
+TRUE;O;O;mevcut değildir.;report013
+TRUE;O;O;Grafiye dahil olan;report013
+TRUE;ANAT;ANAT;sağ ön aksiller kesimde;report013
+TRUE;O;O;, muhtemelen;report013
+TRUE;IMP;IMP;benign;report013
+TRUE;OBS-U;OBS-U;oldukları düşünülen;report013
+TRUE;OBS-P;OBS-P;reaktif görünümlü;report013
+TRUE;OBS-P;OBS-P;lenf nodları;report013
+TRUE;O;O;saptandı.;report013
+TRUE;O;O;YORUM:;report013
+TRUE;OBS-P;OBS-P;Dens;report013
+TRUE;ANAT;ANAT;meme parankimi;report013
+TRUE;IMP;IMP;US korelasyonu önerilir;report013
+TRUE;IMP;IMP;BIRADS 0;report013
+TRUE;O;O;(HASTANIN SOL MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR);report013
+TRUE;O;O;Sol memenin MLO ve CC mammogramları elde olunmuştur.;report014
+TRUE;ANAT;ANAT;Sol meme parankimi;report014
+TRUE;OBS-P;OBS-P;heterojen dens;report014
+TRUE;OBS-P;OBS-P;Tip C;report014
+TRUE;ANAT;ANAT;meme;report014
+TRUE;OBS-P;OBS-P;görünümdedir;report014
+TRUE;OBS-P;OBS-P;Yoğun;report014
+TRUE;ANAT;ANAT;meme parankimi;report014
+TRUE;O;O;nedeniyle;report014
+TRUE;OBS-U;OBS-U;inceleme;report014
+TRUE;O;O;"sınırlı düzeyde kalmıştır. Değerlendirilebildiği kadarıyla;";report014
+TRUE;ANAT;ANAT;sol memede;report014
+TRUE;OBS-P;OBS-P;diffüz dağılımlı;report014
+TRUE;OBS-P;OBS-P;uniform mikrokalsifikasyonlar;report014
+TRUE;O;O;izlenmektedir.;report014
+TRUE;ANAT;ANAT;Sol memede;report014
+TRUE;OBS-P;OBS-P;en büyükleri alt-dış kadranda;report014
+TRUE;O;O;yaklaşık;report014
+TRUE;OBS-P;OBS-P;17x7 mm çaplı;report014
+TRUE;O;O;olmak üzere;report014
+TRUE;OBS-P;OBS-P;düzgün sınırlı;report014
+TRUE;OBS-P;OBS-P;keskin kenarlı;report014
+TRUE;ANAT;ANAT;parankime;report014
+TRUE;OBS-P;OBS-P;superpoze;report014
+TRUE;OBS-P;OBS-P;birkaç adet nodüler opasite;report014
+TRUE;O;O;izlenmektedir.;report014
+TRUE;ANAT;ANAT;Sol memede;report014
+TRUE;OBS-A;OBS-A;asimetrik doku dansitesi;report014
+TRUE;OBS-A;OBS-A;doku distorsiyonu;report014
+TRUE;O;O;izlenmedi.;report014
+TRUE;ANAT;ANAT;Sol memede;report014
+TRUE;OBS-A;OBS-A;malignensi açısından şüphe uyandıran mikrokalsifikasyon kümesi;report014
+TRUE;O;O;mevcut değildir.;report014
+TRUE;O;O;Grafiye dahil olan;report014
+TRUE;ANAT;ANAT;sol ön aksiller kesimde;report014
+TRUE;O;O;, muhtemelen;report014
+TRUE;IMP;IMP;benign;report014
+TRUE;OBS-U;OBS-U;oldukları düşünülen;report014
+TRUE;OBS-P;OBS-P;eliptik şekilli lenf nodları;report014
+TRUE;O;O;saptandı.;report014
+TRUE;O;O;YORUM:;report014
+TRUE;OBS-P;OBS-P;Heterojen dens;report014
+TRUE;ANAT;ANAT;meme parankimi;report014
+TRUE;IMP;IMP;US korelasyonu önerilir;report014
+TRUE;IMP;IMP;BIRADS 0;report014
+TRUE;ANAT;ANAT;Sol memede;report014
+TRUE;O;O;tariflenen;report014
+TRUE;OBS-P;OBS-P;kalsifikasyonlar;report014
+TRUE;IMP;IMP;BIRADS III;report014
+TRUE;ANAT;ANAT;Sol memede;report014
+TRUE;O;O;tariflenen;report014
+TRUE;OBS-P;OBS-P;nodüler opasiteler;report014
+TRUE;IMP;IMP;US korelasyonu önerilir;report014
+TRUE;IMP;IMP;BIRADS 0;report014
+TRUE;O;O;(HASTANIN SAĞ MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR);report014
+TRUE;O;O;BI-RADS KATEGORİ (ACR BI-RADS ATLAS FOR MAMMOGRAPHY);report014
+TRUE;O;O;Sağ memenin MLO ve CC mammogramları elde olunmuştur.;report015
+TRUE;ANAT;ANAT;Sağ meme parankimi;report015
+TRUE;OBS-P;OBS-P;heterojen dens;report015
+TRUE;OBS-P;OBS-P;Tip C;report015
+TRUE;ANAT;ANAT;meme;report015
+TRUE;OBS-P;OBS-P;görünümdedir;report015
+TRUE;OBS-P;OBS-P;Yoğun;report015
+TRUE;ANAT;ANAT;meme parankimi;report015
+TRUE;O;O;nedeniyle;report015
+TRUE;OBS-U;OBS-U;inceleme;report015
+TRUE;O;O;"sınırlı düzeyde kalmıştır. Değerlendirilebildiği kadarıyla;";report015
+TRUE;ANAT;ANAT;sağ memede;report015
+TRUE;OBS-P;OBS-P;diffüz dağılımlı;report015
+TRUE;OBS-P;OBS-P;uniform mikrokalsifikasyonlar;report015
+TRUE;O;O;izlenmektdir.;report015
+TRUE;ANAT;ANAT;Sağ memede;report015
+TRUE;OBS-P;OBS-P;en büyükleri;report015
+TRUE;ANAT;ANAT;üst iç kadranda;report015
+TRUE;O;O;yaklaşık;report015
+TRUE;OBS-P;OBS-P;26x12 mm çaplı;report015
+TRUE;OBS-P;OBS-P;düzgün sınırlı;report015
+TRUE;OBS-P;OBS-P;keskin kenarlı;report015
+TRUE;ANAT;ANAT;parankime;report015
+TRUE;OBS-P;OBS-P;superpoze;report015
+TRUE;O;O;olmak üzere;report015
+TRUE;OBS-P;OBS-P;birkaç adet;report015
+TRUE;OBS-P;OBS-P;nodüler opasite;report015
+TRUE;O;O;izlenmektedir.;report015
+TRUE;ANAT;ANAT;Sağ memede;report015
+TRUE;OBS-A;OBS-A;asimetrik doku dansitesi;report015
+TRUE;OBS-A;OBS-A;doku distorsiyonu;report015
+TRUE;O;O;izlenmedi.;report015
+TRUE;ANAT;ANAT;Sağ memede;report015
+TRUE;OBS-A;OBS-A;malignensi açısından şüphe uyandıran mikrokalsifikasyon kümesi;report015
+TRUE;O;O;mevcut değildir.;report015
+TRUE;O;O;Grafiye dahil olan;report015
+TRUE;ANAT;ANAT;sağ ön aksiller kesimde;report015
+TRUE;O;O;, muhtemelen;report015
+TRUE;IMP;IMP;benign;report015
+TRUE;OBS-U;OBS-U;oldukları düşünülen;report015
+TRUE;OBS-P;OBS-P;eliptik şekilli lenf nodları;report015
+TRUE;O;O;saptandı.;report015
+TRUE;O;O;YORUM:;report015
+TRUE;OBS-P;OBS-P;Heterojen dens;report015
+TRUE;ANAT;ANAT;meme parankimi;report015
+TRUE;IMP;IMP;US korelasyonu önerilir;report015
+TRUE;IMP;IMP;BIRADS 0;report015
+TRUE;ANAT;ANAT;Sağ memede;report015
+TRUE;OBS-P;OBS-P;diffüz dağılımlı mikrokalsifikasyonlar;report015
+TRUE;IMP;IMP;BIRADS III;report015
+TRUE;ANAT;ANAT;Sağ memede;report015
+TRUE;O;O;tariflenen;report015
+TRUE;OBS-P;OBS-P;nodüler opasiteler;report015
+TRUE;IMP;IMP;US korelasyonu önerilir;report015
+TRUE;IMP;IMP;BIRADS 0;report015
+TRUE;O;O;(HASTANIN SOL MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR);report015
+TRUE;O;O;BI-RADS KATEGORİ (ACR BI-RADS ATLAS FOR MAMMOGRAPHY);report015
+TRUE;O;O;Sol memenin MLO ve CC mammogramları elde olunmuştur.;report016
+TRUE;ANAT;ANAT;Sol meme parankimi;report016
+TRUE;OBS-P;OBS-P;dens;report016
+TRUE;OBS-P;OBS-P;Tip D;report016
+TRUE;ANAT;ANAT;meme;report016
+TRUE;OBS-P;OBS-P;görünümdedir;report016
+TRUE;ANAT;ANAT;Sol memede;report016
+TRUE;OBS-A;OBS-A;belirgin sınır veren kitle, nodül;report016
+TRUE;O;O;saptanmadı.;report016
+TRUE;ANAT;ANAT;Sol memede;report016
+TRUE;OBS-A;OBS-A;asimetrik doku dansitesi;report016
+TRUE;OBS-A;OBS-A;doku distorsiyonu;report016
+TRUE;O;O;izlenmedi.;report016
+TRUE;ANAT;ANAT;Sol memede;report016
+TRUE;OBS-A;OBS-A;malignensi açısından şüphe uyandıran mikrokalsifikasyon kümesi;report016
+TRUE;O;O;mevcut değildir.;report016
+TRUE;O;O;Grafiye dahil olan;report016
+TRUE;ANAT;ANAT;sol ön aksiller kesimde;report016
+TRUE;OBS-A;OBS-A;lenf nodu;report016
+TRUE;O;O;saptanmadı.;report016
+TRUE;OBS-P;OBS-P;Yoğun;report016
+TRUE;ANAT;ANAT;meme parankimi;report016
+TRUE;O;O;nedeniyle;report016
+TRUE;OBS-U;OBS-U;değerlendirme;report016
+TRUE;O;O;sınırlı düzeyde kalmıştır);report016
+TRUE;O;O;17.07.1997 tarihli;report016
+FALSE;O;ANAT;sol;report016
+TRUE;O;O;mamogramları ile karşılaştırıldığında;report016
+TRUE;OBS-A;OBS-A;anlamlı interval farklılık;report016
+TRUE;O;O;saptnmadı.;report016
+TRUE;O;O;YORUM:;report016
+TRUE;OBS-P;OBS-P;Dens;report016
+TRUE;ANAT;ANAT;meme parankimi;report016
+TRUE;IMP;IMP;US korelasyonu önerilir;report016
+TRUE;IMP;IMP;BIRADS 0;report016
+TRUE;O;O;(HASTANIN SAĞ MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR);report016
+TRUE;O;O;Sağ memenin MLO ve CC mammogramları elde olunmuştur.;report017
+TRUE;ANAT;ANAT;Sağ meme parankimi;report017
+TRUE;OBS-P;OBS-P;dens;report017
+TRUE;OBS-P;OBS-P;Tip D;report017
+TRUE;ANAT;ANAT;meme;report017
+TRUE;OBS-P;OBS-P;görünümdedir;report017
+TRUE;ANAT;ANAT;Sağ memede;report017
+TRUE;OBS-A;OBS-A;belirgin sınır veren kitle, nodül;report017
+TRUE;O;O;saptanmadı.;report017
+TRUE;ANAT;ANAT;Sağ memede;report017
+TRUE;OBS-A;OBS-A;asimetrik doku dansitesi;report017
+TRUE;OBS-A;OBS-A;doku distorsiyonu;report017
+TRUE;O;O;izlenmedi.;report017
+TRUE;ANAT;ANAT;Sağ memede;report017
+TRUE;OBS-A;OBS-A;malignensi açısından şüphe uyandıran mikrokalsifikasyon kümesi;report017
+TRUE;O;O;mevcut değildir.;report017
+TRUE;O;O;Grafiye dahil olan;report017
+TRUE;ANAT;ANAT;sağ ön aksiller kesimde;report017
+TRUE;O;O;, muhtemelen;report017
+TRUE;IMP;IMP;benign;report017
+TRUE;OBS-U;OBS-U;oldukları düşünülen;report017
+TRUE;OBS-P;OBS-P;eliptik şekilli lenf nodları;report017
+TRUE;O;O;"saptandı.
+(";report017
+TRUE;OBS-P;OBS-P;Yoğun;report017
+TRUE;ANAT;ANAT;meme parankimi;report017
+TRUE;O;O;nedeniyle;report017
+TRUE;OBS-U;OBS-U;değerlendirme;report017
+TRUE;O;O;"sınırlı düzeyde kalmıştır)
+09.09.2009 tarihli sağ mamogramları ile karşılaştırıldığında";report017
+TRUE;OBS-A;OBS-A;anlamlı interval farklılık;report017
+TRUE;O;O;saptnmadı.;report017
+TRUE;O;O;YORUM:;report017
+TRUE;OBS-P;OBS-P;Dens;report017
+TRUE;ANAT;ANAT;meme parankimi;report017
+TRUE;IMP;IMP;US korelasyonu önerilir;report017
+TRUE;IMP;IMP;BIRADS 0;report017
+TRUE;O;O;")
+(HASTANIN SOL MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR)";report017
+TRUE;O;O;Sol memenin MLO ve CC mammogramları elde olunmuştur.;report018
+TRUE;ANAT;ANAT;Sol meme parankimi;report018
+TRUE;OBS-P;OBS-P;dens;report018
+TRUE;OBS-P;OBS-P;Tip D;report018
+TRUE;ANAT;ANAT;meme;report018
+TRUE;OBS-P;OBS-P;görünümdedir;report018
+TRUE;OBS-P;OBS-P;Yoğun;report018
+TRUE;ANAT;ANAT;meme parankimi;report018
+TRUE;O;O;nedeniyle;report018
+TRUE;OBS-U;OBS-U;inceleme;report018
+TRUE;O;O;"sınırlı düzeyde kalmıştır. Değerlendirilebildiği kadarıyla;";report018
+TRUE;ANAT;ANAT;sol memede;report018
+TRUE;OBS-A;OBS-A;belirgin sınır veren kitle, nodül;report018
+TRUE;O;O;saptanmadı.;report018
+TRUE;ANAT;ANAT;Sol memede;report018
+TRUE;ANAT;ANAT;alt-iç kadranda;report018
+TRUE;O;O;yaklaşık;report018
+TRUE;OBS-P;OBS-P;4 mm'lik alanda;report018
+TRUE;O;O;genel olarak;report018
+TRUE;OBS-P;OBS-P;uniform özellikte;report018
+TRUE;OBS-P;OBS-P;hafif pleomorfizm gösteren;report018
+TRUE;O;O;, 07/2021 tarihli mamogramları ile karşılaştırıldığında;report018
+TRUE;OBS-U;OBS-U;sayılarında artış olduğu düşünülen;report018
+TRUE;OBS-P;OBS-P;mikrokalsifikasyonlar;report018
+TRUE;O;O;iziendi.;report018
+TRUE;IMP;IMP;Mamografi eşliğinde tel ile işaretlemeyi takiben eksizyonu önerilir;report018
+TRUE;O;O;Ayrıca;report018
+TRUE;ANAT;ANAT;sol memede;report018
+TRUE;OBS-P;OBS-P;dağınık yerleşimli;report018
+TRUE;OBS-P;OBS-P;birkaç adet;report018
+TRUE;IMP;IMP;benign natürde;report018
+TRUE;OBS-P;OBS-P;punktat mikrokalsifikasyon;report018
+TRUE;O;O;dikkati  çekti.;report018
+TRUE;ANAT;ANAT;Sol memede;report018
+TRUE;OBS-A;OBS-A;asimetrik doku dansitesi;report018
+TRUE;OBS-A;OBS-A;doku distorsiyonu;report018
+TRUE;O;O;izlenmedi.;report018
+TRUE;O;O;Grafiye dahil olan;report018
+TRUE;ANAT;ANAT;sol ön aksiller kesimde;report018
+TRUE;OBS-A;OBS-A;lenf nodu;report018
+TRUE;O;O;saptanmadı.;report018
+TRUE;O;O;YORUM:;report018
+TRUE;ANAT;ANAT;Sol memede;report018
+TRUE;O;O;tanımlanan;report018
+TRUE;OBS-P;OBS-P;mikrokalsifikasyon kümesi;report018
+TRUE;IMP;IMP;BIRADS IVA. Mamografi eşliğinde tel ile işaretlemeyi takiben eksizyonu önerilir.;report018
+TRUE;OBS-P;OBS-P;Dens;report018
+TRUE;ANAT;ANAT;meme parankimi;report018
+TRUE;IMP;IMP;US korelasyonu önerilir;report018
+TRUE;IMP;IMP;BIRADS 0;report018
+TRUE;O;O;(HASTANIN SAĞ MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR);report018
+TRUE;O;O;Sol memenin MLO ve CC mammogramları elde olunmuştur.;report019
+TRUE;ANAT;ANAT;Sol meme parankimi;report019
+TRUE;OBS-P;OBS-P;dens;report019
+TRUE;OBS-P;OBS-P;Tip D;report019
+TRUE;ANAT;ANAT;meme;report019
+TRUE;OBS-P;OBS-P;görünümdedir;report019
+TRUE;OBS-P;OBS-P;Yoğun;report019
+TRUE;ANAT;ANAT;meme parankimi;report019
+TRUE;O;O;nedeniyle;report019
+TRUE;OBS-U;OBS-U;inceleme;report019
+TRUE;O;O;"sınırlı düzeyde kalmıştır. Değerlendirilebildiği kadarıyla;";report019
+TRUE;ANAT;ANAT;sol memede;report019
+TRUE;OBS-A;OBS-A;belirgin sınır veren kitle, nodül;report019
+TRUE;O;O;saptanmadı.;report019
+TRUE;ANAT;ANAT;Sol memede;report019
+TRUE;OBS-A;OBS-A;asimetrik doku dansitesi;report019
+TRUE;OBS-A;OBS-A;doku distorsiyonu;report019
+TRUE;O;O;izlenmedi.;report019
+TRUE;ANAT;ANAT;Sol memede;report019
+TRUE;OBS-A;OBS-A;malignensi açısından şüphe uyandıran mikrokalsifikasyon kümesi;report019
+TRUE;O;O;mevcut değildir.;report019
+TRUE;O;O;Grafiye dahil olan;report019
+TRUE;ANAT;ANAT;sol ön aksiller kesimde;report019
+TRUE;O;O;, muhtemelen;report019
+TRUE;IMP;IMP;benign natürde;report019
+TRUE;OBS-U;OBS-U;oldukları düşünülen;report019
+TRUE;OBS-P;OBS-P;lenf nodları;report019
+TRUE;O;O;saptandı.;report019
+TRUE;O;O;YORUM:;report019
+TRUE;OBS-P;OBS-P;Dens;report019
+TRUE;ANAT;ANAT;meme parankimi;report019
+TRUE;IMP;IMP;US korelasyonu önerilir;report019
+TRUE;IMP;IMP;BIRADS 0;report019
+TRUE;O;O;(HASTANIN SAĞ MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR);report019
+TRUE;O;O;Sağ memenin MLO ve CC mammogramları elde olunmuştur.;report020
+TRUE;ANAT;ANAT;Sağ meme parankimi;report020
+TRUE;OBS-P;OBS-P;dens;report020
+TRUE;OBS-P;OBS-P;Tip D;report020
+TRUE;ANAT;ANAT;meme;report020
+TRUE;OBS-P;OBS-P;görünümdedir;report020
+TRUE;OBS-P;OBS-P;Yoğun;report020
+TRUE;ANAT;ANAT;meme parankimi;report020
+TRUE;O;O;nedeniyle;report020
+TRUE;OBS-U;OBS-U;inceleme;report020
+TRUE;O;O;"sınırlı düzeyde kalmıştır. Değerlendirilebildiği kadarıyla;";report020
+TRUE;ANAT;ANAT;sağ meme üst-dış kadranda;report020
+TRUE;O;O;yaklaşık;report020
+TRUE;OBS-P;OBS-P;5 mm çapında;report020
+TRUE;O;O;ölçülen;report020
+TRUE;ANAT;ANAT;meme içi lenf nodu;report020
+TRUE;IMP;IMP;ile uyumlu görünümde;report020
+TRUE;OBS-P;OBS-P;nodüler opasite;report020
+TRUE;O;O;dikkati çekmiştir.;report020
+TRUE;ANAT;ANAT;Sağ memede;report020
+TRUE;OBS-A;OBS-A;asimetrik doku dansitesi;report020
+TRUE;OBS-A;OBS-A;doku distorsiyonu;report020
+TRUE;O;O;izlenmedi.;report020
+TRUE;ANAT;ANAT;Sağ memede;report020
+TRUE;OBS-A;OBS-A;malignensi açısından şüphe uyandıran mikrokalsifikasyon kümesi;report020
+TRUE;O;O;mevcut değildir.;report020
+TRUE;O;O;Grafiye dahil olan;report020
+TRUE;ANAT;ANAT;sağ ön aksiller kesimde;report020
+TRUE;OBS-A;OBS-A;lenf nodu;report020
+TRUE;O;O;saptanmadı.;report020
+TRUE;O;O;YORUM:;report020
+TRUE;OBS-P;OBS-P;Dens;report020
+TRUE;ANAT;ANAT;meme parankimi;report020
+TRUE;ANAT;ANAT;sağ meme;report020
+TRUE;ANAT;ANAT;meme içi lenf nodu;report020
+TRUE;IMP;IMP;ile uyumlu;report020
+TRUE;OBS-P;OBS-P;nodüler opasite;report020
+TRUE;IMP;IMP;US korelasyonu önerilir;report020
+TRUE;IMP;IMP;BIRADS 0;report020
+TRUE;O;O;(HASTANIN SOL MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR);report020
+TRUE;O;O;Sol memenin MLO ve CC mammogramları elde olunmuştur.;report021
+TRUE;ANAT;ANAT;Sol meme parankimi;report021
+TRUE;OBS-P;OBS-P;dens;report021
+TRUE;OBS-P;OBS-P;Tip D;report021
+TRUE;ANAT;ANAT;meme;report021
+TRUE;OBS-P;OBS-P;görünümdedir;report021
+TRUE;OBS-P;OBS-P;Yoğun;report021
+TRUE;ANAT;ANAT;meme parankimi;report021
+TRUE;O;O;nedeniyle;report021
+TRUE;OBS-U;OBS-U;inceleme;report021
+TRUE;O;O;sınırlı düzeyde kalmıştır. Değerlendirilebildiği kadarıyla;report021
+TRUE;ANAT;ANAT;sol memede;report021
+TRUE;OBS-A;OBS-A;belirgin sınır veren kitle, nodül;report021
+TRUE;O;O;saptanmadı.;report021
+TRUE;ANAT;ANAT;Sol memede;report021
+TRUE;OBS-A;OBS-A;asimetrik doku dansitesi;report021
+TRUE;OBS-A;OBS-A;doku distorsiyonu;report021
+TRUE;O;O;izlenmedi.;report021
+TRUE;ANAT;ANAT;Sol memede;report021
+TRUE;OBS-A;OBS-A;malignensi açısından şüphe uyandıran mikrokalsifikasyon kümesi;report021
+TRUE;O;O;mevcut değildir.;report021
+TRUE;O;O;Grafiye dahil olan;report021
+TRUE;ANAT;ANAT;sol ön aksiller kesimde;report021
+TRUE;O;O;, muhtemelen;report021
+TRUE;IMP;IMP;benign natürde;report021
+TRUE;OBS-U;OBS-U;oldukları düşünülen;report021
+TRUE;OBS-P;OBS-P;lenf nodları;report021
+TRUE;O;O;saptandı.;report021
+TRUE;O;O;13/01/1993 tarihli mammogramları ile karşılaştırıldığında;report021
+TRUE;OBS-A;OBS-A;anlamlı interval farklılık;report021
+TRUE;O;O;saptanmadı.;report021
+TRUE;O;O;YORUM:;report021
+TRUE;OBS-P;OBS-P;Dens;report021
+TRUE;ANAT;ANAT;meme parankimi;report021
+TRUE;IMP;IMP;US korelasyonu önerilir;report021
+TRUE;IMP;IMP;BIRADS 0;report021
+TRUE;O;O;(HASTANIN SAĞ MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR);report021
+TRUE;O;O;Sağ memenin MLO ve CC mammogramları elde olunmuştur.;report022
+TRUE;ANAT;ANAT;Sağ meme parankimi;report022
+TRUE;OBS-P;OBS-P;dens;report022
+TRUE;OBS-P;OBS-P;Tip D;report022
+TRUE;ANAT;ANAT;meme;report022
+TRUE;OBS-P;OBS-P;görünümdedir;report022
+TRUE;OBS-P;OBS-P;Yoğun;report022
+TRUE;ANAT;ANAT;meme parankimi;report022
+TRUE;O;O;nedeniyle;report022
+TRUE;OBS-U;OBS-U;inceleme;report022
+TRUE;O;O;sınırlı düzeyde kalmıştır. Değerlendirilebildiği kadarıyla;report022
+TRUE;ANAT;ANAT;sağ memede;report022
+TRUE;OBS-A;OBS-A;belirgin sınır veren kitle, nodül;report022
+TRUE;O;O;saptanmadı.;report022
+TRUE;ANAT;ANAT;Sağ memede;report022
+TRUE;OBS-A;OBS-A;asimetrik doku dansitesi;report022
+TRUE;OBS-A;OBS-A;doku distorsiyonu;report022
+TRUE;O;O;izlenmedi.;report022
+TRUE;ANAT;ANAT;Sağ memede;report022
+TRUE;OBS-A;OBS-A;malignensi açısından şüphe uyandıran mikrokalsifikasyon kümesi;report022
+TRUE;O;O;mevcut değildir.;report022
+TRUE;O;O;Grafiye dahil olan;report022
+TRUE;ANAT;ANAT;sağ ön aksiller kesimde;report022
+TRUE;O;O;, muhtemelen;report022
+TRUE;IMP;IMP;benign natürde;report022
+TRUE;OBS-U;OBS-U;oldukları düşünülen;report022
+TRUE;OBS-P;OBS-P;lenf nodları;report022
+TRUE;O;O;saptandı.;report022
+TRUE;O;O;13/12/2012 tarihli mammogramları ile karşılaştırıldığında;report022
+TRUE;OBS-A;OBS-A;anlamlı interval farklılık;report022
+TRUE;O;O;saptanmadı.;report022
+TRUE;O;O;YORUM:;report022
+TRUE;OBS-P;OBS-P;Dens;report022
+TRUE;ANAT;ANAT;meme parankimi;report022
+TRUE;IMP;IMP;US korelasyonu önerilir;report022
+TRUE;IMP;IMP;BIRADS 0;report022
+TRUE;O;O;(HASTANIN SOL MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR);report022
+TRUE;ANAT;ANAT;Sağ memenin;report023
+TRUE;O;O;CC mammogramları elde olunmuştur.;report023
+TRUE;ANAT;ANAT;Sağ meme parankimi;report023
+TRUE;OBS-P;OBS-P;heterojen dens;report023
+TRUE;OBS-P;OBS-P;Tip C;report023
+TRUE;ANAT;ANAT;meme;report023
+TRUE;OBS-P;OBS-P;görünümdedir;report023
+TRUE;OBS-P;OBS-P;Yoğun;report023
+TRUE;ANAT;ANAT;meme parankimi;report023
+TRUE;O;O;nedeniyle;report023
+TRUE;OBS-U;OBS-U;inceleme;report023
+TRUE;O;O;"sınırlı düzeyde kalmıştır. Değerlendirilebildiği kadarıyla;";report023
+TRUE;ANAT;ANAT;sağ memede;report023
+TRUE;OBS-A;OBS-A;belirgin sınır veren kitle, nodül;report023
+TRUE;O;O;saptanmadı.;report023
+TRUE;ANAT;ANAT;Sağ meme;report023
+TRUE;O;O;CC grafide;report023
+TRUE;ANAT;ANAT;iç yarıda;report023
+TRUE;OBS-P;OBS-P;gevşek kümeleşme oluşturmuş;report023
+TRUE;OBS-P;OBS-P;birkaç adet;report023
+TRUE;OBS-P;OBS-P;makrokalsifikasyon;report023
+TRUE;O;O;izlenmekedir. 12.12.1992 tarihli;report023
+FALSE;O;ANAT;sağ;report023
+TRUE;O;O;CC mamogramları ile karşılaştırıldığında;report023
+TRUE;IMP;IMP;stabildir;report023
+TRUE;ANAT;ANAT;Sağ;report023
+TRUE;O;O;CC grafi;report023
+TRUE;ANAT;ANAT;iç yarııda;report023
+TRUE;OBS-P;OBS-P;derin yerleşimli;report023
+TRUE;O;O;12.12.1992 tarihli mamografisinde belirtilen;report023
+TRUE;OBS-P;OBS-P;küme oluşturmuş mikrokalsifikasyonların sayısında artış;report023
+TRUE;O;O;mevcuttur.;report023
+TRUE;IMP;IMP;İşaretleme sonrası eksizyonu önerilir;report023
+TRUE;ANAT;ANAT;Sağ memede;report023
+TRUE;OBS-A;OBS-A;asimetrik doku dansitesi;report023
+TRUE;OBS-A;OBS-A;doku distorsiyonu;report023
+TRUE;O;O;"izlenmedi. 
+ 
+Grafiye dahil olan";report023
+TRUE;ANAT;ANAT;sağ ön aksiller kesimde;report023
+TRUE;O;O;,  grafiye  kısmen dahil olan muhtemelen;report023
+TRUE;IMP;IMP;benign natürde;report023
+TRUE;OBS-U;OBS-U;olduğu düşünülen;report023
+TRUE;OBS-P;OBS-P;lenf nodu;report023
+TRUE;O;O;"saptandı. 
+
+YORUM:
+
+-";report023
+TRUE;ANAT;ANAT;Sağ;report023
+TRUE;O;O;CC grafi;report023
+TRUE;ANAT;ANAT;iç yarııda;report023
+TRUE;OBS-P;OBS-P;derin yerleşimli;report023
+TRUE;O;O;12.12.1992 tarihli mamografisinde belirtilen;report023
+TRUE;OBS-P;OBS-P;küme oluşturmuş mikrokalsifikasyonların;report023
+FALSE;IMP;OBS-P;sayısında artış;report023
+TRUE;O;O;mevcuttur.;report023
+TRUE;IMP;IMP;İşaretleme sonrası eksizyonu önerilir;report023
+TRUE;IMP;IMP;BIRADS IV;report023
+TRUE;O;O;")
+-CC grafi";report023
+TRUE;ANAT;ANAT;iç yarıda;report023
+TRUE;O;O;tanımlanan;report023
+TRUE;IMP;IMP;stabil görünümlü;report023
+TRUE;IMP;IMP;benign natürlü;report023
+TRUE;OBS-P;OBS-P;kalsifikasyonlar;report023
+TRUE;IMP;IMP;BIRADS II;report023
+TRUE;OBS-P;OBS-P;Heterojen dens;report023
+TRUE;ANAT;ANAT;meme parankimi;report023
+TRUE;IMP;IMP;BIRADS 0;report023
+TRUE;IMP;IMP;US korelasyonu önerilir;report023
+TRUE;IMP;IMP;Rutin yıllık mamografi takibi önerilir;report023
+TRUE;O;O;Sağ memenin MLO ve CC mammogramları elde olunmuştur.;report024
+TRUE;ANAT;ANAT;Sağ meme parankimi;report024
+TRUE;OBS-P;OBS-P;dens;report024
+TRUE;OBS-P;OBS-P;Tip D;report024
+TRUE;ANAT;ANAT;meme;report024
+TRUE;OBS-P;OBS-P;görünümdedir;report024
+TRUE;OBS-P;OBS-P;Yoğun;report024
+TRUE;ANAT;ANAT;meme parankimi;report024
+TRUE;O;O;nedeniyle;report024
+TRUE;OBS-U;OBS-U;inceleme;report024
+TRUE;O;O;"sınırlı düzeyde kalmıştır. Değerlendirilebildiği kadarıyla;";report024
+TRUE;ANAT;ANAT;sağ memede;report024
+TRUE;OBS-A;OBS-A;belirgin sınır veren kitle, nodül;report024
+TRUE;O;O;saptanmadı.;report024
+TRUE;ANAT;ANAT;Sağ meme;report024
+TRUE;OBS-P;OBS-P;ödemli görünümde;report024
+TRUE;O;O;olup;report024
+TRUE;ANAT;ANAT;ödemin;report024
+TRUE;O;O;07.2027 tarihli mammografi incelemesine göre;report024
+TRUE;IMP;IMP;artış gösterdiği;report024
+TRUE;O;O;anlaşılmıştır.;report024
+TRUE;ANAT;ANAT;Sağ memede;report024
+TRUE;OBS-P;OBS-P;vasküler cidar kalsifikasyonlarına ait görünümler;report024
+TRUE;OBS-P;OBS-P;dağınık yerleşimli;report024
+TRUE;IMP;IMP;benign natürde;report024
+TRUE;OBS-P;OBS-P;punktat mikrokalsifikasyonlar;report024
+TRUE;O;O;izlendi. Ayrıca;report024
+TRUE;ANAT;ANAT;üst-orta kesimde;report024
+TRUE;ANAT;ANAT;üst-dış kadranda;report024
+TRUE;OBS-P;OBS-P;birkaç  adet;report024
+TRUE;OBS-P;OBS-P;grup yapmış;report024
+TRUE;OBS-P;OBS-P;bir kısmı hafif pleomorfizm gösteren;report024
+TRUE;OBS-P;OBS-P;mikrokalsifikasyon kümesi;report024
+TRUE;O;O;izlenmiştir. 07.2027 tarihli mamogramlı ile karşılaştırıldığında;report024
+TRUE;ANAT;ANAT;sol;report024
+TRUE;O;O;MLO grafi;report024
+TRUE;ANAT;ANAT;orta kesimde;report024
+TRUE;O;O;izlenen;report024
+TRUE;OBS-P;OBS-P;mikrokalsifikasyon kümesinde;report024
+TRUE;OBS-U;OBS-U;sayılarında artış olduğu düşünüldü;report024
+TRUE;ANAT;ANAT;Diğer kümelerde;report024
+TRUE;OBS-A;OBS-A;anlamlı farklılık;report024
+TRUE;O;O;saptanmadı.;report024
+TRUE;ANAT;ANAT;Sağ memede;report024
+TRUE;OBS-A;OBS-A;asimetrik doku dansitesi;report024
+TRUE;OBS-A;OBS-A;doku distorsiyonu;report024
+TRUE;O;O;izlenmedi.;report024
+TRUE;O;O;Grafiye dahil olan;report024
+TRUE;ANAT;ANAT;sağ ön aksiller kesimde;report024
+TRUE;OBS-P;OBS-P;lenf nodu;report024
+TRUE;O;O;saptandı.;report024
+TRUE;O;O;YORUM:;report024
+TRUE;ANAT;ANAT;Sağ memede;report024
+TRUE;O;O;tanımlanan;report024
+TRUE;OBS-P;OBS-P;mikrokalsifikasyonlar;report024
+TRUE;ANAT;ANAT;Sağ;report024
+TRUE;O;O;MLO grafi;report024
+TRUE;ANAT;ANAT;orta kesimde;report024
+FALSE;O;OBS-P;sayılarında artış izlenen mikrokalsifikasyon kümesinin kontrolü;report024
+TRUE;O;O;amacıyla;report024
+TRUE;IMP;IMP;6 ay sonra sınırlı sağ MLO grafi önerilir;report024
+TRUE;IMP;IMP;BIRADS III;report024
+TRUE;OBS-P;OBS-P;Dens;report024
+TRUE;ANAT;ANAT;meme parankimi;report024
+TRUE;ANAT;ANAT;sağ memede;report024
+TRUE;IMP;IMP;önceki mamografiye göre artış gösterdiği anlaşılan;report024
+TRUE;OBS-P;OBS-P;ödemli görünüm;report024
+TRUE;IMP;IMP;US korelasyonu önerilir;report024
+TRUE;IMP;IMP;BIRADS 0;report024
+TRUE;O;O;Sağ memenin MLO ve CC mammogramları elde olunmuştur.;report025
+TRUE;ANAT;ANAT;Sağ meme parankimi;report025
+TRUE;OBS-P;OBS-P;dens;report025
+TRUE;OBS-P;OBS-P;Tip C;report025
+TRUE;ANAT;ANAT;meme;report025
+TRUE;OBS-P;OBS-P;görünümdedir;report025
+TRUE;ANAT;ANAT;Sağ memede;report025
+TRUE;OBS-A;OBS-A;belirgin sınır veren kitle, nodül;report025
+TRUE;O;O;saptanmadı.;report025
+TRUE;ANAT;ANAT;Sağ memede;report025
+TRUE;OBS-P;OBS-P;dağınık yerleşimli;report025
+TRUE;OBS-A;OBS-A;belirgin pleomorfizm;report025
+TRUE;OBS-A;OBS-A;patolojik kümeleşme;report025
+TRUE;O;O;göstermeyen,;report025
+TRUE;OBS-P;OBS-P;yuvarlak konfigürasyonlu mikrokalsifikasyonlar;report025
+TRUE;O;O;dikkati çekti. Ayrıca;report025
+TRUE;ANAT;ANAT;sağ memede;report025
+TRUE;ANAT;ANAT;üst dış kadranda;report025
+TRUE;O;O;hastanın mevcut 2019 tarihli mamogramı ile karşılaştırıldığında;report025
+FALSE;IMP;OBS-P;sayısında;report025
+FALSE;IMP;OBS-P;boyutunda artış;report025
+TRUE;O;O;saptanan,;report025
+TRUE;OBS-P;OBS-P;minimal pleomorfizm;report025
+TRUE;O;O;gösteren;report025
+TRUE;OBS-P;OBS-P;mikrokalsifikasyon kümesi;report025
+TRUE;O;O;dikkati çekti. Tanımlanan;report025
+TRUE;OBS-P;OBS-P;mikrokalsifikasyonların;report025
+TRUE;IMP;IMP;işaretlemeyi takiben eksizyonu önerilir;report025
+TRUE;ANAT;ANAT;Sağ memede;report025
+TRUE;OBS-A;OBS-A;doku distorsiyonu;report025
+TRUE;O;O;izlenmedi.;report025
+TRUE;ANAT;ANAT;Sağ memede;report025
+TRUE;OBS-A;OBS-A;malignensi açısından şüphe uyandıran mikrokalsifikasyon kümesi;report025
+TRUE;O;O;mevcut değildir.;report025
+TRUE;O;O;Grafiye dahil olan;report025
+TRUE;ANAT;ANAT;sağ ön aksiller kesimde;report025
+TRUE;OBS-P;OBS-P;multipl sayıda;report025
+TRUE;OBS-P;OBS-P;yuvarlak konfigürasyonlu;report025
+TRUE;OBS-P;OBS-P;dens görünümlü;report025
+TRUE;OBS-P;OBS-P;patolojik lenf nodu;report025
+TRUE;O;O;izlendi.;report025
+TRUE;O;O;YORUM:;report025
+TRUE;OBS-P;OBS-P;Dens;report025
+TRUE;ANAT;ANAT;meme parankimi;report025
+TRUE;ANAT;ANAT;sağ aksillada;report025
+TRUE;OBS-P;OBS-P;patolojik lenf nodları;report025
+TRUE;IMP;IMP;US korelasyonu önerilir;report025
+TRUE;IMP;IMP;BIRADS 0;report025
+TRUE;ANAT;ANAT;Sağ memede;report025
+TRUE;IMP;IMP;işaretlemeyi takiben eksizyonu önerilen;report025
+TRUE;OBS-P;OBS-P;mikrokalsifikasyon kümesi;report025
+TRUE;IMP;IMP;BIRADS 4B;report025
+TRUE;O;O;(HASTANIN SOL MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR);report025
+TRUE;O;O;Sol memenin MLO ve CC mammogramları elde olunmuştur.;report026
+TRUE;ANAT;ANAT;Sol meme parankimi;report026
+TRUE;OBS-P;OBS-P;heterojen dens;report026
+TRUE;OBS-P;OBS-P;Tip C;report026
+TRUE;ANAT;ANAT;meme;report026
+TRUE;OBS-P;OBS-P;görünümdedir;report026
+TRUE;ANAT;ANAT;Sol memede;report026
+TRUE;OBS-A;OBS-A;belirgin sınır veren kitle, nodül;report026
+TRUE;O;O;saptanmadı.;report026
+TRUE;ANAT;ANAT;Sol memede;report026
+TRUE;OBS-A;OBS-A;asimetrik doku dansitesi;report026
+TRUE;OBS-A;OBS-A;doku distorsiyonu;report026
+TRUE;O;O;izlenmedi.;report026
+TRUE;ANAT;ANAT;Sol memede;report026
+TRUE;OBS-A;OBS-A;malignensi açısından şüphe uyandıran mikrokalsifikasyon kümesi;report026
+TRUE;O;O;mevcut değildir.;report026
+TRUE;O;O;Grafiye dahil olan;report026
+TRUE;ANAT;ANAT;sol ön aksiller kesimde;report026
+TRUE;O;O;, muhtemelen;report026
+TRUE;IMP;IMP;benign;report026
+TRUE;OBS-U;OBS-U;oldukları düşünülen;report026
+TRUE;OBS-P;OBS-P;eliptik şekilli lenf nodları;report026
+TRUE;O;O;saptandı.;report026
+TRUE;O;O;YORUM:;report026
+TRUE;OBS-P;OBS-P;Heterojen dens;report026
+TRUE;ANAT;ANAT;meme parankimi;report026
+TRUE;IMP;IMP;US korelasyonu önerilir;report026
+TRUE;IMP;IMP;BIRADS 0;report026
+TRUE;O;O;(HASTANIN SAĞ MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR);report026
+TRUE;O;O;Sağ memenin MLO ve CC mammogramları elde olunmuştur.;report027
+TRUE;ANAT;ANAT;Sağ meme parankimi;report027
+TRUE;OBS-P;OBS-P;heterojen dens;report027
+TRUE;OBS-P;OBS-P;Tip C;report027
+TRUE;ANAT;ANAT;meme;report027
+TRUE;OBS-P;OBS-P;görünümdedir;report027
+TRUE;ANAT;ANAT;Sağ memede;report027
+TRUE;OBS-A;OBS-A;belirgin sınır veren kitle, nodül;report027
+TRUE;O;O;saptanmadı.;report027
+TRUE;ANAT;ANAT;Sağ memede;report027
+TRUE;IMP;IMP;benign natürlü;report027
+TRUE;OBS-P;OBS-P;birkaç adet kaba makrokalsifikasyon;report027
+TRUE;O;O;izlenmektedir.;report027
+TRUE;ANAT;ANAT;Sağ memede;report027
+TRUE;OBS-A;OBS-A;asimetrik doku dansitesi;report027
+TRUE;OBS-A;OBS-A;doku distorsiyonu;report027
+TRUE;O;O;izlenmedi.;report027
+TRUE;ANAT;ANAT;Sağ memede;report027
+TRUE;OBS-A;OBS-A;malignensi açısından şüphe uyandıran mikrokalsifikasyon kümesi;report027
+TRUE;O;O;mevcut değildir.;report027
+TRUE;O;O;Grafiye dahil olan;report027
+TRUE;ANAT;ANAT;sağ ön aksiller kesimde;report027
+TRUE;O;O;, muhtemelen;report027
+TRUE;IMP;IMP;benign;report027
+TRUE;OBS-U;OBS-U;oldukları düşünülen;report027
+TRUE;OBS-P;OBS-P;eliptik şekilli lenf nodları;report027
+TRUE;O;O;saptandı.;report027
+TRUE;O;O;YORUM:;report027
+TRUE;OBS-P;OBS-P;Heterojen dens;report027
+TRUE;ANAT;ANAT;meme parankimi;report027
+TRUE;IMP;IMP;US korelasyonu önerilir;report027
+TRUE;IMP;IMP;BIRADS 0;report027
+TRUE;ANAT;ANAT;Sağ memede;report027
+TRUE;O;O;tariflenen;report027
+TRUE;OBS-P;OBS-P;kalsifikasyonlar;report027
+TRUE;IMP;IMP;BIRADS II;report027
+TRUE;O;O;(HASTANIN SOL MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR);report027
+TRUE;O;O;Sağ memenin MLO ve CC mammogramları elde olunmuştur.;report028
+TRUE;ANAT;ANAT;Sağ meme parankimi;report028
+TRUE;OBS-P;OBS-P;heterojen dens;report028
+TRUE;OBS-P;OBS-P;Tip C;report028
+TRUE;ANAT;ANAT;meme;report028
+TRUE;OBS-P;OBS-P;görünümdedir;report028
+TRUE;OBS-P;OBS-P;Yoğun;report028
+TRUE;ANAT;ANAT;meme parankimi;report028
+TRUE;O;O;nedeniyle;report028
+TRUE;OBS-U;OBS-U;inceleme;report028
+TRUE;O;O;"sınırlı düzeyde kalmıştır. Değerlendirilebildiği kadarıyla;";report028
+TRUE;ANAT;ANAT;sağ meme üst -orta kesiminde;report028
+TRUE;OBS-P;OBS-P;hafif pleomorfizm gösteren;report028
+TRUE;OBS-P;OBS-P;grup yapmış mikrokalsifikasyon kümesi;report028
+TRUE;O;O;zemininde yaklaşık;report028
+TRUE;OBS-P;OBS-P;5 mm çapında;report028
+TRUE;O;O;ölçülen;report028
+TRUE;OBS-P;OBS-P;nodüler görünüm;report028
+TRUE;O;O;dikkati çekti. Hastanın;report028
+TRUE;IMP;IMP;dış merkezli;report028
+TRUE;O;O;2019;report028
+FALSE;O;OBS-A;tarihli;report028
+FALSE;IMP;OBS-A;mamografi incelemesinde;report028
+TRUE;OBS-A;OBS-A;tanımlanan mikrokalsifikasyon;report028
+TRUE;O;O;izlenmediği anlaşıldı.;report028
+TRUE;O;O;Bunun dışında;report028
+TRUE;ANAT;ANAT;sağ memede;report028
+TRUE;OBS-P;OBS-P;birkaç adet;report028
+TRUE;IMP;IMP;benign natürde;report028
+TRUE;OBS-P;OBS-P;makrokalsifikasyon-punktat mikrokalsifikasyon;report028
+TRUE;O;O;izlendi.;report028
+TRUE;ANAT;ANAT;Sağ memede;report028
+TRUE;OBS-A;OBS-A;asimetrik doku dansitesi;report028
+TRUE;OBS-A;OBS-A;doku distorsiyonu;report028
+TRUE;O;O;izlenmedi.;report028
+TRUE;O;O;Grafiye dahil olan;report028
+TRUE;ANAT;ANAT;sağ ön aksiller kesimde;report028
+TRUE;O;O;, muhtemelen;report028
+TRUE;IMP;IMP;benign natürde;report028
+TRUE;OBS-U;OBS-U;oldukları düşünülen;report028
+TRUE;OBS-P;OBS-P;lenf nodları;report028
+TRUE;O;O;saptandı.;report028
+TRUE;O;O;YORUM:;report028
+TRUE;OBS-P;OBS-P;Heterojen dens;report028
+TRUE;ANAT;ANAT;meme parankimi;report028
+TRUE;ANAT;ANAT;sağ memede;report028
+TRUE;O;O;tanımlanan;report028
+TRUE;OBS-P;OBS-P;mikrokalsifikasyonlar;report028
+TRUE;O;O;barındıran;report028
+TRUE;OBS-P;OBS-P;nodüler alan;report028
+TRUE;IMP;IMP;BIRADS IV. Öncelikle US korelasyonu, US 'de vizüalize edilememesi halinde mamografi eşliğinde tel ile işaretlemeyi takiben eksizyonu önerilir.;report028
+TRUE;O;O;") 
+(HASTANIN SOL MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR)";report028
+TRUE;O;O;Sol memenin MLO ve CC mammogramları elde olunmuştur.;report029
+TRUE;ANAT;ANAT;Sol meme parankimi;report029
+TRUE;OBS-P;OBS-P;dens;report029
+TRUE;OBS-P;OBS-P;Tip C;report029
+TRUE;ANAT;ANAT;meme;report029
+TRUE;OBS-P;OBS-P;görünümdedir;report029
+TRUE;ANAT;ANAT;Sol memede;report029
+TRUE;OBS-A;OBS-A;belirgin sınır veren kitle, nodül;report029
+TRUE;O;O;saptanmadı.;report029
+TRUE;ANAT;ANAT;Sol memede;report029
+TRUE;OBS-A;OBS-A;asimetrik doku dansitesi;report029
+TRUE;OBS-A;OBS-A;doku distorsiyonu;report029
+TRUE;O;O;izlenmedi.;report029
+TRUE;ANAT;ANAT;Sol memede;report029
+TRUE;OBS-A;OBS-A;malignensi açısından şüphe uyandıran mikrokalsifikasyon kümesi;report029
+TRUE;O;O;mevcut değildir.;report029
+TRUE;O;O;Grafiye dahil olan;report029
+TRUE;ANAT;ANAT;sol ön aksiller kesimde;report029
+TRUE;OBS-A;OBS-A;lenf nodu;report029
+TRUE;O;O;saptanmadı.;report029
+TRUE;O;O;YORUM:;report029
+TRUE;OBS-P;OBS-P;Dens;report029
+TRUE;ANAT;ANAT;meme parankimi;report029
+TRUE;IMP;IMP;US korelasyonu önerilir;report029
+TRUE;IMP;IMP;BIRADS 0;report029
+TRUE;O;O;(HASTANIN SAĞ MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR);report029
+TRUE;O;O;Sağ memenin MLO ve CC mammogramları elde olunmuştur.;report030
+TRUE;ANAT;ANAT;Sağ meme parankimi;report030
+TRUE;OBS-P;OBS-P;dens;report030
+TRUE;OBS-P;OBS-P;Tip C;report030
+TRUE;ANAT;ANAT;meme;report030
+TRUE;OBS-P;OBS-P;görünümdedir;report030
+TRUE;ANAT;ANAT;Sağ memede;report030
+TRUE;OBS-A;OBS-A;belirgin sınır veren kitle, nodül;report030
+TRUE;O;O;saptanmadı.;report030
+TRUE;ANAT;ANAT;Sağ memede;report030
+TRUE;OBS-A;OBS-A;asimetrik doku dansitesi;report030
+TRUE;OBS-A;OBS-A;doku distorsiyonu;report030
+TRUE;O;O;izlenmedi.;report030
+TRUE;ANAT;ANAT;Sağ memede;report030
+TRUE;OBS-A;OBS-A;malignensi açısından şüphe uyandıran mikrokalsifikasyon kümesi;report030
+TRUE;O;O;mevcut değildir.;report030
+TRUE;O;O;Grafiye dahil olan;report030
+TRUE;ANAT;ANAT;sağ ön aksiller kesimde;report030
+TRUE;OBS-A;OBS-A;lenf nodu;report030
+TRUE;O;O;saptanmadı.;report030
+TRUE;O;O;YORUM:;report030
+TRUE;OBS-P;OBS-P;Dens;report030
+TRUE;ANAT;ANAT;meme parankimi;report030
+TRUE;IMP;IMP;US korelasyonu önerilir;report030
+TRUE;IMP;IMP;BIRADS 0;report030
+TRUE;O;O;(HASTANIN SOL MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR);report030
+TRUE;O;O;Sol memenin MLO ve CC mammogramları elde olunmuştur.;report031
+TRUE;ANAT;ANAT;Sol meme parankimi;report031
+TRUE;OBS-P;OBS-P;yağ infiltrasyonu;report031
+TRUE;IMP;IMP;ile uyumlu;report031
+TRUE;OBS-P;OBS-P;Tip A;report031
+TRUE;ANAT;ANAT;meme;report031
+TRUE;OBS-P;OBS-P;görünümdedir;report031
+TRUE;ANAT;ANAT;Sol memede;report031
+TRUE;OBS-A;OBS-A;belirgin sınır veren kitle, nodül;report031
+TRUE;O;O;saptanmadı.;report031
+TRUE;ANAT;ANAT;Sol memede;report031
+TRUE;OBS-A;OBS-A;asimetrik doku dansitesi;report031
+TRUE;OBS-A;OBS-A;doku distorsiyonu;report031
+TRUE;O;O;izlenmedi.;report031
+TRUE;ANAT;ANAT;Sol memede;report031
+TRUE;OBS-A;OBS-A;malignensi açısından şüphe uyandıran mikrokalsifikasyon kümesi;report031
+TRUE;O;O;mevcut değildir.;report031
+TRUE;O;O;Grafiye dahil olan;report031
+TRUE;ANAT;ANAT;sol  ön aksiller kesimde;report031
+TRUE;OBS-A;OBS-A;lenf nodu;report031
+TRUE;O;O;saptanmadı.;report031
+TRUE;O;O;YORUM:;report031
+TRUE;OBS-P;OBS-P;Normal sınırlarda;report031
+TRUE;ANAT;ANAT;sol;report031
+TRUE;OBS-P;OBS-P;dijital mammografi;report031
+TRUE;IMP;IMP;BIRADS I;report031
+TRUE;O;O;(HASTANIN SAĞ MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR);report031
+TRUE;O;O;Sağ memenin MLO ve CC mammogramları elde olunmuştur.;report032
+TRUE;ANAT;ANAT;Sağ meme parankimi;report032
+TRUE;OBS-P;OBS-P;yağ infiltrasyonu;report032
+TRUE;IMP;IMP;ile uyumlu;report032
+TRUE;OBS-P;OBS-P;Tip A;report032
+TRUE;ANAT;ANAT;meme;report032
+TRUE;OBS-P;OBS-P;görünümdedir;report032
+TRUE;ANAT;ANAT;Sağ memede;report032
+TRUE;OBS-A;OBS-A;belirgin sınır veren kitle, nodül;report032
+TRUE;O;O;saptanmadı.;report032
+TRUE;ANAT;ANAT;Sağ memede;report032
+TRUE;OBS-A;OBS-A;asimetrik doku dansitesi;report032
+TRUE;OBS-A;OBS-A;doku distorsiyonu;report032
+TRUE;O;O;izlenmedi.;report032
+TRUE;ANAT;ANAT;Sağ memede;report032
+TRUE;OBS-A;OBS-A;malignensi açısından şüphe uyandıran mikrokalsifikasyon kümesi;report032
+TRUE;O;O;mevcut değildir.;report032
+TRUE;O;O;Grafiye dahil olan;report032
+TRUE;ANAT;ANAT;sağ ön aksiller kesimde;report032
+TRUE;OBS-A;OBS-A;lenf nodu;report032
+TRUE;O;O;saptanmadı.;report032
+TRUE;O;O;YORUM:;report032
+TRUE;OBS-P;OBS-P;Normal sınırlarda;report032
+TRUE;ANAT;ANAT;sağ;report032
+TRUE;OBS-P;OBS-P;dijital mammografi;report032
+TRUE;IMP;IMP;BIRADS I;report032
+TRUE;O;O;(HASTANIN SOL MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR);report032
+TRUE;O;O;Sağ memenin MLO ve CC mammogramları elde olunmuştur.;report033
+TRUE;ANAT;ANAT;Sağ meme parankimi;report033
+TRUE;OBS-P;OBS-P;minimal dens;report033
+TRUE;OBS-P;OBS-P;Tip B;report033
+TRUE;ANAT;ANAT;meme;report033
+TRUE;OBS-P;OBS-P;görünümdedir;report033
+TRUE;ANAT;ANAT;Sağ memede;report033
+TRUE;O;O;MLO mamogramda;report033
+TRUE;ANAT;ANAT;superiorda;report033
+TRUE;OBS-P;OBS-P;8 mm çaplı;report033
+TRUE;OBS-P;OBS-P;düşük dansiteli;report033
+TRUE;OBS-P;OBS-P;düzensiz konturlu;report033
+TRUE;O;O;, CC mamogramda net olarak demonstre edilemeyen;report033
+TRUE;OBS-U;OBS-U;nodüler lezyon varlığından şüphe edildi;report033
+TRUE;O;O;. Ayrıca;report033
+TRUE;ANAT;ANAT;sağ memede;report033
+TRUE;OBS-P;OBS-P;5 mm;report033
+TRUE;OBS-P;OBS-P;daha küçük çaplı;report033
+TRUE;OBS-P;OBS-P;birkaç adet;report033
+TRUE;OBS-P;OBS-P;düşük dansiteli nodüler  lezyon;report033
+TRUE;O;O;dikkati çekti.;report033
+TRUE;ANAT;ANAT;Sağ memede;report033
+TRUE;OBS-A;OBS-A;doku distorsiyonu;report033
+TRUE;O;O;izlenmedi.;report033
+TRUE;ANAT;ANAT;Sağ memede;report033
+TRUE;OBS-A;OBS-A;malignensi açısından şüphe uyandıran mikrokalsifikasyon kümesi;report033
+TRUE;O;O;mevcut değildir.;report033
+TRUE;O;O;Grafiye dahil olan;report033
+TRUE;ANAT;ANAT;sağ ön aksiller kesimde;report033
+TRUE;O;O;, grafiye kısmen dahil olan, muhtemelen;report033
+TRUE;IMP;IMP;benign;report033
+TRUE;OBS-U;OBS-U;oldukları düşünülen;report033
+TRUE;OBS-P;OBS-P;lenf nodları;report033
+TRUE;O;O;saptandı.;report033
+TRUE;O;O;YORUM:;report033
+TRUE;ANAT;ANAT;Sağ memede;report033
+TRUE;OBS-U;OBS-U;nodüler lezyon şüphesi;report033
+TRUE;IMP;IMP;US korelasyonu önerilir;report033
+TRUE;IMP;IMP;BIRADS 0;report033
+TRUE;O;O;(HASTANIN SOL MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR);report033
+TRUE;O;O;Sol memenin MLO ve CC mammogramları elde olunmuştur.;report034
+TRUE;ANAT;ANAT;Sol memede;report034
+TRUE;OBS-P;OBS-P;dağınık fibroglandüler dansiteler;report034
+TRUE;O;O;izlenmiştir (;report034
+TRUE;OBS-P;OBS-P;Tip B;report034
+TRUE;ANAT;ANAT;meme;report034
+TRUE;ANAT;ANAT;Sol;report034
+TRUE;O;O;MLO grafi;report034
+TRUE;ANAT;ANAT;üst kesiminde;report034
+TRUE;O;O;CC grafiye dahil olmadığı anlaşılan yaklaşık;report034
+TRUE;OBS-P;OBS-P;20 mm çapında;report034
+TRUE;O;O;ölçülen,;report034
+TRUE;OBS-P;OBS-P;düzensiz;report034
+TRUE;OBS-P;OBS-P;yer yer spiküle konturlu  kitle lezyonu;report034
+TRUE;O;O;mevcuttur.;report034
+TRUE;ANAT;ANAT;Sol meme;report034
+TRUE;ANAT;ANAT;üst-dış kadranda;report034
+TRUE;IMP;IMP;benign natürde;report034
+TRUE;OBS-P;OBS-P;punktat mikrokalsifikasyon;report034
+TRUE;O;O;izlendi.;report034
+TRUE;ANAT;ANAT;Sol memede;report034
+TRUE;OBS-A;OBS-A;malignensi açısından şüphe uyandıran mikrokalsifikasyon kümesi;report034
+TRUE;O;O;mevcut değildir.;report034
+TRUE;ANAT;ANAT;Sol memede;report034
+TRUE;OBS-A;OBS-A;asimetrik doku dansitesi;report034
+TRUE;OBS-A;OBS-A;doku distorsiyonu;report034
+TRUE;O;O;izlenmedi.;report034
+TRUE;O;O;Grafiye dahil olan;report034
+TRUE;ANAT;ANAT;sol ön aksiller kesimde;report034
+TRUE;O;O;, muhtemelen;report034
+TRUE;IMP;IMP;benign natürde;report034
+TRUE;OBS-U;OBS-U;oldukları düşünülen;report034
+TRUE;OBS-P;OBS-P;lenf nodları;report034
+TRUE;O;O;saptandı.;report034
+TRUE;O;O;YORUM:;report034
+TRUE;IMP;IMP;Benign natürde;report034
+TRUE;OBS-P;OBS-P;kalsifikasyonllar;report034
+TRUE;ANAT;ANAT;Sol memede;report034
+TRUE;O;O;tanımlanan;report034
+TRUE;IMP;IMP;yüksek olasılıkla malign;report034
+TRUE;OBS-P;OBS-P;kitle lezyonu;report034
+TRUE;IMP;IMP;Doku tanısı önerilir;report034
+TRUE;IMP;IMP;BIRADS V;report034
+TRUE;O;O;(HASTANIN SAĞ MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR);report034
+TRUE;O;O;Sağ memenin MLO ve CC mammogramları elde olunmuştur.;report035
+TRUE;ANAT;ANAT;Sağ memede;report035
+TRUE;OBS-P;OBS-P;dağınık fibroglandüler dansiteler;report035
+TRUE;O;O;izlenmiştir (;report035
+TRUE;OBS-P;OBS-P;Tip B;report035
+TRUE;ANAT;ANAT;meme;report035
+TRUE;ANAT;ANAT;Sağ memede;report035
+TRUE;OBS-A;OBS-A;belirgin sınır veren kitle, nodül;report035
+TRUE;O;O;saptanmadı.;report035
+TRUE;ANAT;ANAT;Sağ memede;report035
+TRUE;OBS-P;OBS-P;dağınık yerleşimli;report035
+TRUE;IMP;IMP;benign natürde;report035
+TRUE;OBS-P;OBS-P;makrokalsifikasyon- punktat  mikrokalsifikasyonlar;report035
+TRUE;O;O;izlenmiştir. Ayrıca;report035
+TRUE;ANAT;ANAT;sağ meme orta kesiminde;report035
+TRUE;O;O;, eski mamogramları ile karşılaştırıldığında özellikle MLO mamogramda;report035
+FALSE;IMP;OBS-P;sayılarında artış;report035
+FALSE;IMP;O;olduğu görülen,;report035
+TRUE;OBS-P;OBS-P;mikrokalsifiyon kümesi;report035
+TRUE;O;O;izlendi.;report035
+TRUE;IMP;IMP;Aile hikayesi olan;report035
+TRUE;IMP;IMP;kendisi opere sol meme Ca olan hastada;report035
+TRUE;O;O;tanımlanan;report035
+TRUE;OBS-P;OBS-P;mikrokalsifikasyon alanının;report035
+TRUE;IMP;IMP;mamografi eşliğinde tel ile işaretlemeyi takiben eksizyonu;report035
+TRUE;O;O;önerilir.;report035
+TRUE;ANAT;ANAT;Sağ memede;report035
+TRUE;OBS-A;OBS-A;asimetrik doku dansitesi;report035
+TRUE;OBS-A;OBS-A;doku distorsiyonu;report035
+TRUE;O;O;izlenmedi.;report035
+TRUE;O;O;Grafiye dahil olan;report035
+TRUE;ANAT;ANAT;sağ ön aksiller kesimde;report035
+TRUE;O;O;, muhtemelen;report035
+TRUE;IMP;IMP;benign natürde;report035
+TRUE;OBS-U;OBS-U;olduğu düşünülen;report035
+TRUE;OBS-P;OBS-P;lenf nodu;report035
+TRUE;O;O;saptandı.;report035
+TRUE;O;O;YORUM:;report035
+TRUE;ANAT;ANAT;Sağ memede;report035
+TRUE;O;O;tanımlanan;report035
+TRUE;OBS-P;OBS-P;mikrokalsifikasyon kümesi;report035
+TRUE;IMP;IMP;BIRADS IVA, eksizyonu önerilir;report035
+TRUE;O;O;(HASTANIN SOL MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR);report035
+TRUE;O;O;Sol memenin MLO ve CC mammogramları elde olunmuştur.;report036
+TRUE;ANAT;ANAT;Sol meme parankimi;report036
+TRUE;OBS-P;OBS-P;minimal dens;report036
+TRUE;OBS-P;OBS-P;Tip B;report036
+TRUE;ANAT;ANAT;meme;report036
+TRUE;OBS-P;OBS-P;görünümdedir;report036
+TRUE;ANAT;ANAT;Sol memede;report036
+TRUE;OBS-A;OBS-A;belirgin sınır veren kitle, nodül;report036
+TRUE;O;O;saptanmadı.;report036
+TRUE;ANAT;ANAT;Sol memede;report036
+TRUE;OBS-A;OBS-A;asimetrik doku dansitesi;report036
+TRUE;OBS-A;OBS-A;doku distorsiyonu;report036
+TRUE;O;O;izlenmedi.;report036
+TRUE;ANAT;ANAT;Sol memede;report036
+TRUE;OBS-A;OBS-A;malignensi açısından şüphe uyandıran mikrokalsifikasyon kümesi;report036
+TRUE;O;O;mevcut değildir.;report036
+TRUE;O;O;Grafiye dahil olan;report036
+TRUE;ANAT;ANAT;sol ön aksiller foldda;report036
+TRUE;O;O;, muhtemelen;report036
+TRUE;IMP;IMP;benign;report036
+TRUE;OBS-U;OBS-U;oldukları düşünülen;report036
+TRUE;OBS-P;OBS-P;eliptik şekilli;report036
+TRUE;OBS-P;OBS-P;reaktif görünümlü;report036
+TRUE;OBS-P;OBS-P;lenf nodları;report036
+TRUE;O;O;saptandı.;report036
+TRUE;O;O;16.06.2016 tarihli;report036
+FALSE;O;ANAT;sol;report036
+TRUE;O;O;mamogramları ile karşılaştırıldığında;report036
+TRUE;OBS-A;OBS-A;anlamlı interval farklılık;report036
+TRUE;O;O;saptanmamıştır.;report036
+TRUE;O;O;YORUM:;report036
+TRUE;OBS-P;OBS-P;Normal sınırlarda;report036
+TRUE;ANAT;ANAT;sol;report036
+TRUE;OBS-P;OBS-P;dijital mammografi;report036
+TRUE;IMP;IMP;BIRADS I;report036
+TRUE;O;O;(HASTANIN SAĞ MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR);report036
+TRUE;O;O;Sağ memenin MLO ve CC mammogramları elde olunmuştur.;report037
+TRUE;ANAT;ANAT;Sağ meme parankimi;report037
+TRUE;OBS-P;OBS-P;minimal dens;report037
+TRUE;OBS-P;OBS-P;Tip B;report037
+TRUE;ANAT;ANAT;meme;report037
+TRUE;OBS-P;OBS-P;görünümdedir;report037
+TRUE;ANAT;ANAT;Sağ memede;report037
+TRUE;O;O;MLO mammogramda;report037
+TRUE;ANAT;ANAT;superiorda;report037
+TRUE;OBS-P;OBS-P;5 mm çaplı;report037
+TRUE;OBS-P;OBS-P;düşük dansiteli;report037
+TRUE;O;O;, CC mommogramda net olarak demonstre edilemeyen;report037
+TRUE;OBS-U;OBS-U;nodüler lezyon varlığında şüphe edildi;report037
+TRUE;ANAT;ANAT;Sağ memede;report037
+TRUE;OBS-A;OBS-A;doku distorsiyonu;report037
+TRUE;O;O;izlenmedi.;report037
+TRUE;ANAT;ANAT;Sağ memede;report037
+TRUE;OBS-A;OBS-A;malignensi açısından şüphe uyandıran mikrokalsifikasyon kümesi;report037
+TRUE;O;O;mevcut değildir.;report037
+TRUE;O;O;Grafiye dahil olan;report037
+TRUE;ANAT;ANAT;sağ ön aksiller foldda;report037
+TRUE;O;O;, muhtemelen;report037
+TRUE;IMP;IMP;benign;report037
+TRUE;OBS-U;OBS-U;oldukları düşünülen;report037
+TRUE;OBS-P;OBS-P;eliptik şekilli;report037
+TRUE;OBS-P;OBS-P;reaktif görünümlü;report037
+TRUE;OBS-P;OBS-P;lenf nodları;report037
+TRUE;O;O;saptandı.;report037
+TRUE;O;O;16.06.2016 tarihli sağ mamogramları ile karşılaştırıldığında;report037
+TRUE;OBS-A;OBS-A;anlamlı interval farklılık;report037
+TRUE;O;O;saptanmamıştır.;report037
+TRUE;O;O;YORUM:;report037
+TRUE;ANAT;ANAT;Sağ memede;report037
+TRUE;OBS-U;OBS-U;nodüler lezyon şüphesi;report037
+TRUE;IMP;IMP;US kontrolü önerilir;report037
+TRUE;IMP;IMP;BIRADS 0;report037
+TRUE;O;O;(HASTANIN SOL MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR);report037
+TRUE;O;O;Sağ memenin MLO ve CC mammogramları elde olunmuştur.;report038
+TRUE;ANAT;ANAT;Sağ meme parankimi;report038
+TRUE;OBS-P;OBS-P;dens;report038
+TRUE;OBS-P;OBS-P;Tip C;report038
+TRUE;ANAT;ANAT;meme;report038
+TRUE;OBS-P;OBS-P;görünümdedir;report038
+TRUE;ANAT;ANAT;Sağ memede;report038
+TRUE;OBS-A;OBS-A;belirgin sınır veren kitle, nodül;report038
+TRUE;O;O;saptanmadı.;report038
+TRUE;ANAT;ANAT;Sağ memede;report038
+TRUE;OBS-A;OBS-A;asimetrik doku dansitesi;report038
+TRUE;OBS-A;OBS-A;doku distorsiyonu;report038
+TRUE;O;O;izlenmedi.;report038
+TRUE;ANAT;ANAT;Sağ memede;report038
+TRUE;OBS-A;OBS-A;malignensi açısından şüphe uyandıran mikrokalsifikasyon kümesi;report038
+TRUE;O;O;mevcut değildir.;report038
+TRUE;O;O;Grafiye dahil olan;report038
+TRUE;ANAT;ANAT;sağ ön aksiller kesimde;report038
+TRUE;O;O;, muhtemelen;report038
+TRUE;IMP;IMP;benign;report038
+TRUE;OBS-U;OBS-U;oldukları düşünülen;report038
+TRUE;OBS-P;OBS-P;eliptik şekilli lenf nodları;report038
+TRUE;O;O;saptandı.;report038
+TRUE;O;O;08.08.1998 tarihli sağ mammogramları ile karşılaştırıldığında;report038
+TRUE;OBS-A;OBS-A;anlamlı interval farklılık;report038
+TRUE;O;O;saptanmamıştır.;report038
+TRUE;O;O;YORUM:;report038
+TRUE;OBS-P;OBS-P;Dens;report038
+TRUE;ANAT;ANAT;meme parankimi;report038
+TRUE;IMP;IMP;US korelasyonu önerilir;report038
+TRUE;IMP;IMP;BIRADS 0;report038
+TRUE;O;O;(HASTANIN SOL MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR);report038
+TRUE;O;O;Sol memenin MLO ve CC mammogramları elde olunmuştur.;report039
+TRUE;ANAT;ANAT;Sol meme parankimi;report039
+TRUE;OBS-P;OBS-P;dens;report039
+TRUE;OBS-P;OBS-P;Tip C;report039
+TRUE;ANAT;ANAT;meme;report039
+TRUE;OBS-P;OBS-P;görünümdedir;report039
+TRUE;ANAT;ANAT;Sol memede;report039
+TRUE;OBS-A;OBS-A;belirgin sınır veren kitle, nodül;report039
+TRUE;O;O;saptanmadı.;report039
+TRUE;ANAT;ANAT;Sol memede;report039
+TRUE;OBS-A;OBS-A;doku distorsiyonu;report039
+TRUE;O;O;izlenmedi.;report039
+TRUE;ANAT;ANAT;Sol memede;report039
+TRUE;OBS-A;OBS-A;malignensi açısından şüphe uyandıran mikrokalsifikasyon kümesi;report039
+TRUE;O;O;mevcut değildir.;report039
+TRUE;O;O;Grafiye dahil olan;report039
+TRUE;ANAT;ANAT;sol ön aksiller kesimde;report039
+TRUE;OBS-P;OBS-P;reaktif görünümlü lenf nodları;report039
+TRUE;O;O;ile birlikte ,;report039
+TRUE;ANAT;ANAT;superiorda;report039
+TRUE;O;O;öncelikle artefakta ait olabilecek ancak;report039
+TRUE;ANAT;ANAT;cilt kalsifikasyonlarından;report039
+FALSE;OBS-U;O;ayrımı yapılamayan;report039
+TRUE;O;O;yaklaşık;report039
+TRUE;OBS-P;OBS-P;13 mm çapında;report039
+TRUE;ANAT;ANAT;bir alanda;report039
+TRUE;OBS-P;OBS-P;lokalize;report039
+TRUE;O;O;ve 2021 tarihli mamogramında;report039
+TRUE;ANAT;ANAT;cilt kalsifikasyonu;report039
+TRUE;O;O;açısından;report039
+TRUE;OBS-U;OBS-U;şüpheli alan;report039
+TRUE;O;O;dikkati çekti.;report039
+TRUE;ANAT;ANAT;Bu alanın;report039
+TRUE;IMP;IMP;3 ay sonra sol unilateral MLO planda mamogramla korelasyonu önerilir;report039
+TRUE;O;O;YORUM:;report039
+TRUE;OBS-P;OBS-P;Dens;report039
+TRUE;ANAT;ANAT;meme parankimi;report039
+TRUE;IMP;IMP;US korelasyonu önerilir;report039
+TRUE;IMP;IMP;BIRADS 0;report039
+TRUE;ANAT;ANAT;Sol ön aksiller fold düzeyinde;report039
+TRUE;O;O;yukarıda tanımlanan  ve;report039
+TRUE;ANAT;ANAT;cilt kalsifikasyonu;report039
+TRUE;O;O;açısından;report039
+TRUE;OBS-U;OBS-U;şüpheli bulunan;report039
+FALSE;ANAT;OBS-U;alan;report039
+TRUE;IMP;IMP;3 ay sonra sol unilateral MLO planda mamogramla korelasyonu önerilir.;report039
+TRUE;IMP;IMP;BIRADS III;report039
+TRUE;O;O;(HASTANIN SAĞ MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR);report039
+TRUE;O;O;Sağ memenin MLO ve CC mammogramları elde olunmuştur.;report040
+TRUE;ANAT;ANAT;Sağ meme parankimi;report040
+TRUE;OBS-P;OBS-P;heterojen dens;report040
+TRUE;OBS-P;OBS-P;Tip C;report040
+TRUE;ANAT;ANAT;meme;report040
+TRUE;OBS-P;OBS-P;görünümdedir;report040
+TRUE;OBS-P;OBS-P;Yoğun;report040
+TRUE;ANAT;ANAT;meme parankimi;report040
+TRUE;O;O;nedeniyle;report040
+TRUE;OBS-U;OBS-U;inceleme;report040
+TRUE;O;O;"sınırlı düzeyde kalmıştır. Değerlendirilebildiği kadarıyla;";report040
+TRUE;ANAT;ANAT;sağ memede;report040
+TRUE;OBS-A;OBS-A;belirgin sınır veren kitle, nodül;report040
+TRUE;O;O;saptanmadı.;report040
+TRUE;ANAT;ANAT;Sağ memede;report040
+TRUE;OBS-P;OBS-P;dağınık yerleşimli;report040
+TRUE;OBS-P;OBS-P;birkaç adet;report040
+TRUE;IMP;IMP;benign natürde;report040
+TRUE;OBS-P;OBS-P;makro-mikrokalsifikasyon;report040
+TRUE;O;O;izlendi.;report040
+TRUE;ANAT;ANAT;Sağ memede;report040
+TRUE;OBS-A;OBS-A;malignensi açısından şüphe uyandıran mikrokalsifikasyon kümesi;report040
+TRUE;O;O;mevcut değildir.;report040
+TRUE;ANAT;ANAT;Sağ memede;report040
+TRUE;OBS-A;OBS-A;asimetrik doku dansitesi;report040
+TRUE;OBS-A;OBS-A;doku distorsiyonu;report040
+TRUE;O;O;izlenmedi.;report040
+TRUE;O;O;Grafiye dahil olan;report040
+TRUE;ANAT;ANAT;sağ ön aksiller kesimde;report040
+TRUE;OBS-A;OBS-A;lenf nodu;report040
+TRUE;O;O;saptanmadı.;report040
+TRUE;O;O;03/2025 tarihli mammogramları ile karşılaştırıldığında;report040
+TRUE;OBS-A;OBS-A;malignite lehine anlamlı interval farklılık;report040
+TRUE;O;O;saptanmadı.;report040
+TRUE;O;O;YORUM:;report040
+TRUE;IMP;IMP;Benign natürde;report040
+TRUE;OBS-P;OBS-P;kalsifikasyonlar;report040
+TRUE;IMP;IMP;BIRADS II;report040
+TRUE;OBS-P;OBS-P;Heterojen dens;report040
+TRUE;ANAT;ANAT;meme parankimi;report040
+TRUE;IMP;IMP;US korelasyonu önerilir;report040
+TRUE;IMP;IMP;BIRADS 0;report040
+TRUE;O;O;(HASTANIN SOL MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR);report040
+TRUE;O;O;Sol memenin MLO ve CC mammogramları elde olunmuştur.;report041
+TRUE;ANAT;ANAT;Sol memede;report041
+TRUE;OBS-P;OBS-P;dağınık fibroglandüler dansiteler;report041
+TRUE;OBS-P;OBS-P;Tip B;report041
+TRUE;ANAT;ANAT;meme;report041
+TRUE;O;O;) izlendi.;report041
+TRUE;ANAT;ANAT;Sol memede;report041
+TRUE;OBS-A;OBS-A;belirgin sınır veren kitle, nodül;report041
+TRUE;O;O;saptanmadı.;report041
+TRUE;ANAT;ANAT;Sol memede;report041
+TRUE;OBS-A;OBS-A;asimetrik doku dansitesi;report041
+TRUE;OBS-A;OBS-A;doku distorsiyonu;report041
+TRUE;O;O;izlenmedi.;report041
+TRUE;ANAT;ANAT;Sol memede;report041
+TRUE;OBS-A;OBS-A;malignensi açısından şüphe uyandıran mikrokalsifikasyon kümesi;report041
+TRUE;O;O;mevcut değildir.;report041
+TRUE;O;O;Grafiye dahil olan;report041
+TRUE;ANAT;ANAT;sol  ön aksiller kesimde;report041
+TRUE;O;O;, muhtemelen;report041
+TRUE;IMP;IMP;benign natürde;report041
+TRUE;OBS-U;OBS-U;oldukları düşünülen;report041
+TRUE;OBS-P;OBS-P;lenf nodları;report041
+TRUE;O;O;saptandı.;report041
+TRUE;O;O;11/2011 tarihli mammogramları ile karşılaştırıldığında;report041
+TRUE;OBS-A;OBS-A;anlamlı interval farklılık;report041
+TRUE;O;O;saptanmadı.;report041
+TRUE;O;O;YORUM:;report041
+TRUE;OBS-P;OBS-P;Normal sınırlarda;report041
+TRUE;ANAT;ANAT;sol;report041
+TRUE;OBS-P;OBS-P;dijital mammografi;report041
+TRUE;IMP;IMP;BIRADS I;report041
+TRUE;O;O;(HASTANIN SAĞ MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR);report041
+TRUE;O;O;Sağ memenin MLO ve CC mammogramları elde olunmuştur.;report042
+TRUE;ANAT;ANAT;Sağ memede;report042
+TRUE;OBS-P;OBS-P;dağınık fibroglandüler dansiteler;report042
+TRUE;OBS-P;OBS-P;Tip B;report042
+TRUE;ANAT;ANAT;meme;report042
+TRUE;O;O;) izlendi.;report042
+TRUE;ANAT;ANAT;Sağ memede;report042
+TRUE;OBS-A;OBS-A;belirgin sınır veren kitle, nodül;report042
+TRUE;O;O;saptanmadı.;report042
+TRUE;ANAT;ANAT;Sağ memede;report042
+TRUE;OBS-A;OBS-A;asimetrik doku dansitesi;report042
+TRUE;OBS-A;OBS-A;doku distorsiyonu;report042
+TRUE;O;O;izlenmedi.;report042
+TRUE;ANAT;ANAT;Sağ memede;report042
+TRUE;OBS-A;OBS-A;malignensi açısından şüphe uyandıran mikrokalsifikasyon kümesi;report042
+TRUE;O;O;mevcut değildir.;report042
+TRUE;O;O;Grafiye dahil olan;report042
+TRUE;ANAT;ANAT;sağ ön aksiller kesimde;report042
+TRUE;O;O;, muhtemelen;report042
+TRUE;IMP;IMP;benign natürde;report042
+TRUE;OBS-U;OBS-U;oldukları düşünülen;report042
+TRUE;OBS-P;OBS-P;lenf nodları;report042
+TRUE;O;O;saptandı.;report042
+TRUE;O;O;11/2011 tarihli mammogramları ile karşılaştırıldığında;report042
+TRUE;OBS-A;OBS-A;anlamlı interval farklılık;report042
+TRUE;O;O;saptanmadı.;report042
+TRUE;O;O;YORUM:;report042
+TRUE;OBS-P;OBS-P;Normal sınırlarda;report042
+TRUE;ANAT;ANAT;sağ;report042
+TRUE;OBS-P;OBS-P;dijital mammografi;report042
+TRUE;IMP;IMP;BIRADS I;report042
+TRUE;O;O;(HASTANIN SOL MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR);report042
+TRUE;O;O;Sol memenin MLO ve CC mammogramları elde olunmuştur.;report043
+TRUE;ANAT;ANAT;Sol meme parankimi;report043
+TRUE;OBS-P;OBS-P;dens;report043
+TRUE;OBS-P;OBS-P;Tip D;report043
+TRUE;ANAT;ANAT;meme;report043
+TRUE;OBS-P;OBS-P;görünümdedir;report043
+TRUE;ANAT;ANAT;Sol memede;report043
+TRUE;OBS-A;OBS-A;belirgin sınır veren kitle, nodül;report043
+TRUE;O;O;saptanmadı.;report043
+TRUE;O;O;MLO mamogramda;report043
+TRUE;ANAT;ANAT;süperiorda;report043
+TRUE;OBS-U;OBS-U;lokalize olduğu düşünülen;report043
+TRUE;O;O;ancak;report043
+TRUE;OBS-P;OBS-P;dağılım gösteren;report043
+TRUE;O;O;CC mamogramda;report043
+TRUE;ANAT;ANAT;iç kesimde;report043
+TRUE;OBS-P;OBS-P;gevşek kümelenmiş;report043
+TRUE;OBS-P;OBS-P;birkaç adet;report043
+TRUE;OBS-P;OBS-P;uniform özellikte;report043
+TRUE;O;O;ve yaklaşık;report043
+TRUE;OBS-P;OBS-P;5 mm çapında;report043
+TRUE;ANAT;ANAT;bir alanda;report043
+TRUE;OBS-P;OBS-P;lokalize mikrokalsifikasyonlar;report043
+TRUE;O;O;izlenmiş olup;report043
+TRUE;OBS-P;OBS-P;kalsifikasyonların;report043
+TRUE;O;O;hastanın 2022 tarihli mamogramında da;report043
+FALSE;O;OBS-P;kısmen;report043
+TRUE;O;O;izlendiği;report043
+TRUE;O;O;ancak;report043
+TRUE;IMP;IMP;bu tetkikte;report043
+TRUE;OBS-P;OBS-P;süperpozisyonun;report043
+TRUE;IMP;IMP;ortadan kalktığı;report043
+TRUE;O;O;için;report043
+TRUE;IMP;IMP;daha belirgin demonstre edilebildiği;report043
+TRUE;O;O;düşünüldü. Tanımlanan;report043
+TRUE;OBS-P;OBS-P;mikrokalsifikasyonların;report043
+TRUE;IMP;IMP;benign natürde;report043
+TRUE;OBS-U;OBS-U;olduğu düşünüldü;report043
+TRUE;O;O;ancak;report043
+TRUE;IMP;IMP;perimenapozal dönemde olduğu bilinen;report043
+TRUE;O;O;hastanın;report043
+TRUE;IMP;IMP;6 ay sonra sol unilateral CC planda mammogramla korelasyonu önerilir;report043
+TRUE;ANAT;ANAT;Sol memede;report043
+TRUE;OBS-A;OBS-A;asimetrik doku dansitesi;report043
+TRUE;OBS-A;OBS-A;doku distorsiyonu;report043
+TRUE;O;O;izlenmedi.;report043
+TRUE;ANAT;ANAT;Sol memede;report043
+TRUE;OBS-A;OBS-A;malignensi açısından şüphe uyandıran mikrokalsifikasyon kümesi;report043
+TRUE;O;O;mevcut değildir.;report043
+TRUE;O;O;Grafiye dahil olan;report043
+TRUE;ANAT;ANAT;sol ön aksiller kesimde;report043
+TRUE;O;O;, muhtemelen;report043
+TRUE;IMP;IMP;benign;report043
+TRUE;OBS-U;OBS-U;oldukları düşünülen;report043
+TRUE;OBS-P;OBS-P;eliptik şekilli;report043
+TRUE;OBS-P;OBS-P;reaktif görünümlü;report043
+TRUE;OBS-P;OBS-P;lenf nodları;report043
+TRUE;O;O;saptandı.;report043
+TRUE;OBS-P;OBS-P;Yoğun;report043
+TRUE;ANAT;ANAT;meme parankimi;report043
+TRUE;O;O;nedeniyle;report043
+TRUE;OBS-U;OBS-U;değerlendirme;report043
+TRUE;O;O;sınırlı düzeyde kalmıştır.);report043
+TRUE;O;O;YORUM:;report043
+TRUE;OBS-P;OBS-P;Dens;report043
+TRUE;ANAT;ANAT;meme parankimi;report043
+TRUE;IMP;IMP;US korelasyonu önerilir;report043
+TRUE;IMP;IMP;BIRADS 0;report043
+TRUE;ANAT;ANAT;Sol memede;report043
+TRUE;IMP;IMP;6 ay sonra kontrolü önerilen;report043
+TRUE;OBS-P;OBS-P;mikrokalsifikasyonlar;report043
+TRUE;IMP;IMP;BIRADS III;report043
+TRUE;O;O;(HASTANIN SAĞ MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR);report043
+TRUE;O;O;Sağ memenin MLO ve CC mammogramları elde olunmuştur.;report044
+TRUE;ANAT;ANAT;Sağ meme parankimi;report044
+TRUE;OBS-P;OBS-P;dens;report044
+TRUE;OBS-P;OBS-P;Tip C;report044
+TRUE;ANAT;ANAT;meme;report044
+TRUE;OBS-P;OBS-P;görünümdedir;report044
+TRUE;ANAT;ANAT;Sağ memede;report044
+TRUE;OBS-P;OBS-P;büyüğü;report044
+TRUE;O;O;CC mamogramda;report044
+TRUE;ANAT;ANAT;orta kesimde;report044
+TRUE;OBS-P;OBS-P;10 mm çapında;report044
+TRUE;O;O;ölçülen olmak üzere;report044
+TRUE;OBS-P;OBS-P;bir-iki adet;report044
+TRUE;OBS-P;OBS-P;kenarları;report044
+TRUE;ANAT;ANAT;meme parankimi;report044
+TRUE;OBS-P;OBS-P;ile örtülü;report044
+TRUE;OBS-P;OBS-P;nodüler opasite;report044
+TRUE;O;O;izlendi.;report044
+TRUE;IMP;IMP;US korelasyonu önerilir;report044
+TRUE;ANAT;ANAT;Sağ memede;report044
+TRUE;OBS-A;OBS-A;asimetrik doku dansitesi;report044
+TRUE;OBS-A;OBS-A;doku distorsiyonu;report044
+TRUE;O;O;izlenmedi.;report044
+TRUE;ANAT;ANAT;Sağ memede;report044
+TRUE;OBS-A;OBS-A;malignensi açısından şüphe uyandıran mikrokalsifikasyon kümesi;report044
+TRUE;O;O;mevcut değildir.;report044
+TRUE;ANAT;ANAT;Sağ memede;report044
+TRUE;IMP;IMP;benign radyolojik karakterde;report044
+TRUE;OBS-P;OBS-P;dağınık yerleşimli;report044
+TRUE;OBS-P;OBS-P;uniform mikrokalsifikasyonlar;report044
+TRUE;O;O;izlendi.;report044
+TRUE;O;O;Grafiye dahil olan;report044
+TRUE;ANAT;ANAT;sağ ön aksiller kesimde;report044
+TRUE;OBS-A;OBS-A;lenf nodu;report044
+TRUE;O;O;saptanmadı.;report044
+TRUE;O;O;10/10/2010 tarihli mammogramları ile karşılaştırıldığında;report044
+TRUE;OBS-A;OBS-A;anlamlı interval farklılık;report044
+TRUE;O;O;saptanmadı.;report044
+TRUE;O;O;YORUM:;report044
+TRUE;OBS-P;OBS-P;Dens;report044
+TRUE;ANAT;ANAT;meme parankimi;report044
+TRUE;ANAT;ANAT;sağ memede;report044
+TRUE;OBS-P;OBS-P;nodüler opasiteler;report044
+TRUE;IMP;IMP;US korelasyonu önerilir;report044
+TRUE;IMP;IMP;BIRADS 0;report044
+TRUE;O;O;(HASTANIN SOL MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR);report044
+TRUE;O;O;Sol memenin MLO ve CC mammogramları elde olunmuştur.;report045
+TRUE;ANAT;ANAT;Sol meme parankimi;report045
+TRUE;OBS-P;OBS-P;heterojen dens;report045
+TRUE;OBS-P;OBS-P;Tip C;report045
+TRUE;ANAT;ANAT;meme;report045
+TRUE;OBS-P;OBS-P;görünümdedir;report045
+TRUE;OBS-P;OBS-P;Yoğun;report045
+TRUE;ANAT;ANAT;meme parankimi;report045
+TRUE;O;O;nedeniyle;report045
+TRUE;OBS-U;OBS-U;inceleme;report045
+TRUE;O;O;"sınırlı düzeyde kalmıştır. Değerlendirilebildiği kadarıyla;";report045
+TRUE;ANAT;ANAT;sol meme üst-dış kadranda;report045
+TRUE;OBS-P;OBS-P;5 mm çapında;report045
+TRUE;O;O;ölçülen;report045
+TRUE;OBS-P;OBS-P;düzgün sınırlı nodüler opasite;report045
+TRUE;O;O;izlendi.;report045
+TRUE;ANAT;ANAT;Sol memede;report045
+TRUE;OBS-A;OBS-A;asimetrik doku dansitesi;report045
+TRUE;OBS-A;OBS-A;doku distorsiyonu;report045
+TRUE;O;O;izlenmedi.;report045
+TRUE;ANAT;ANAT;Sol memede;report045
+TRUE;OBS-A;OBS-A;malignensi açısından şüphe uyandıran mikrokalsifikasyon kümesi;report045
+TRUE;O;O;mevcut değildir.;report045
+TRUE;O;O;Grafiye dahil olan;report045
+TRUE;ANAT;ANAT;sol ön aksiller kesimde;report045
+TRUE;OBS-A;OBS-A;lenf nodu;report045
+TRUE;O;O;saptanmadı.;report045
+TRUE;ANAT;ANAT;Aksiller bölge komşuluğunda;report045
+TRUE;OBS-P;OBS-P;5 mm çapında;report045
+TRUE;O;O;ölçülen;report045
+TRUE;OBS-P;OBS-P;nevüs;report045
+TRUE;O;O;izlenmiştir.;report045
+TRUE;O;O;03.2013 tarihli mamogramları ile karşılaştırıldığında;report045
+TRUE;OBS-A;OBS-A;malignite lehine anlamlı interval farklılık;report045
+TRUE;O;O;saptanmamıştır.;report045
+TRUE;O;O;YORUM:;report045
+TRUE;OBS-P;OBS-P;Heterojen dens;report045
+TRUE;ANAT;ANAT;meme parankimi;report045
+TRUE;ANAT;ANAT;sol memede;report045
+TRUE;OBS-P;OBS-P;nodüler opasite;report045
+TRUE;IMP;IMP;US korelasyonu önerilir;report045
+TRUE;IMP;IMP;BIRADS 0;report045
+TRUE;O;O;(HASTANIN SAĞ MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR);report045
+TRUE;O;O;Sağ memenin MLO ve CC mammogramları elde olunmuştur.;report046
+TRUE;ANAT;ANAT;Sağ meme parankimi;report046
+TRUE;OBS-P;OBS-P;heterojen dens;report046
+TRUE;OBS-P;OBS-P;Tip C;report046
+TRUE;ANAT;ANAT;meme;report046
+TRUE;OBS-P;OBS-P;görünümdedir;report046
+TRUE;OBS-P;OBS-P;Yoğun;report046
+TRUE;ANAT;ANAT;meme parankimi;report046
+TRUE;O;O;nedeniyle;report046
+TRUE;OBS-U;OBS-U;inceleme;report046
+TRUE;O;O;"sınırlı düzeyde kalmıştır. Değerlendirilebildiği kadarıyla;";report046
+TRUE;ANAT;ANAT;sağ memede;report046
+TRUE;OBS-A;OBS-A;belirgin sınır veren kitle, nodül;report046
+TRUE;O;O;saptanmadı.;report046
+TRUE;ANAT;ANAT;Sağ memede;report046
+TRUE;OBS-A;OBS-A;asimetrik doku dansitesi;report046
+TRUE;OBS-A;OBS-A;doku distorsiyonu;report046
+TRUE;O;O;izlenmedi.;report046
+TRUE;ANAT;ANAT;Sağ memede;report046
+TRUE;OBS-A;OBS-A;malignensi açısından şüphe uyandıran mikrokalsifikasyon kümesi;report046
+TRUE;O;O;mevcut değildir.;report046
+TRUE;O;O;Grafiye dahil olan;report046
+TRUE;ANAT;ANAT;sağ ön aksiller kesimde;report046
+TRUE;O;O;, muhtemelen;report046
+TRUE;IMP;IMP;benign natürde;report046
+TRUE;OBS-U;OBS-U;oldukları düşünülen;report046
+TRUE;OBS-P;OBS-P;lenf nodları;report046
+TRUE;O;O;saptandı.;report046
+TRUE;O;O;03.2013 tarihli mamogramları ile karşılaştırıldığında;report046
+TRUE;OBS-A;OBS-A;malignite lehine anlamlı interval farklılık;report046
+TRUE;O;O;saptanmamıştır.;report046
+TRUE;O;O;YORUM:;report046
+TRUE;OBS-P;OBS-P;Heterojen dens;report046
+TRUE;ANAT;ANAT;meme parankimi;report046
+TRUE;IMP;IMP;US korelasyonu önerilir;report046
+TRUE;IMP;IMP;BIRADS 0;report046
+TRUE;O;O;(HASTANIN SOL MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR);report046
+TRUE;O;O;Sol memenin MLO ve CC mammogramları elde olunmuştur.;report047
+TRUE;ANAT;ANAT;Sol meme parankimi;report047
+TRUE;OBS-P;OBS-P;dens;report047
+TRUE;OBS-P;OBS-P;Tip D;report047
+TRUE;ANAT;ANAT;meme;report047
+TRUE;OBS-P;OBS-P;görünümdedir;report047
+TRUE;OBS-P;OBS-P;Yoğun;report047
+TRUE;ANAT;ANAT;meme parankimi;report047
+TRUE;O;O;nedeniyle;report047
+TRUE;OBS-U;OBS-U;inceleme;report047
+TRUE;O;O;"sınırlı düzeyde kalmıştır. Değerlendirilebildiği kadarıyla;";report047
+TRUE;ANAT;ANAT;sol memede;report047
+TRUE;OBS-A;OBS-A;belirgin sınır veren kitle, nodül;report047
+TRUE;O;O;saptanmadı.;report047
+TRUE;ANAT;ANAT;Sol memede;report047
+TRUE;OBS-A;OBS-A;asimetrik doku dansitesi;report047
+TRUE;OBS-A;OBS-A;doku distorsiyonu;report047
+TRUE;O;O;izlenmedi.;report047
+TRUE;ANAT;ANAT;Sol memede;report047
+TRUE;OBS-A;OBS-A;malignensi açısından şüphe uyandıran mikrokalsifikasyon kümesi;report047
+TRUE;O;O;mevcut değildir.;report047
+TRUE;O;O;Grafiye dahil olan;report047
+TRUE;ANAT;ANAT;sol ön aksiller kesimde;report047
+TRUE;O;O;, muhtemelen;report047
+TRUE;IMP;IMP;benign natürde;report047
+TRUE;OBS-U;OBS-U;oldukları düşünülen;report047
+TRUE;OBS-P;OBS-P;lenf nodları;report047
+TRUE;O;O;saptandı.;report047
+TRUE;O;O;YORUM:;report047
+TRUE;OBS-P;OBS-P;Dens;report047
+TRUE;ANAT;ANAT;meme parankimi;report047
+TRUE;IMP;IMP;US korelasyonu önerilir;report047
+TRUE;IMP;IMP;BIRADS 0;report047
+TRUE;O;O;(HASTANIN SAĞ MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR);report047
+TRUE;O;O;Sağ memenin MLO ve CC mammogramları elde olunmuştur.;report048
+TRUE;ANAT;ANAT;Sağ meme parankimi;report048
+TRUE;OBS-P;OBS-P;dens;report048
+TRUE;OBS-P;OBS-P;Tip D;report048
+TRUE;ANAT;ANAT;meme;report048
+TRUE;OBS-P;OBS-P;görünümdedir;report048
+TRUE;OBS-P;OBS-P;Yoğun;report048
+TRUE;ANAT;ANAT;meme parankimi;report048
+TRUE;O;O;nedeniyle;report048
+TRUE;OBS-U;OBS-U;inceleme;report048
+TRUE;O;O;"sınırlı düzeyde kalmıştır. Değerlendirilebildiği kadarıyla;";report048
+TRUE;ANAT;ANAT;sağ memede;report048
+TRUE;O;O;MLO grafi;report048
+TRUE;ANAT;ANAT;üst kesiminde;report048
+TRUE;O;O;yaklaşık;report048
+TRUE;OBS-P;OBS-P;8 mm çapında;report048
+TRUE;O;O;ölçülen;report048
+TRUE;OBS-P;OBS-P;nodüler opasite;report048
+TRUE;O;O;dikkati çekti.;report048
+TRUE;ANAT;ANAT;Sağ memede;report048
+TRUE;OBS-P;OBS-P;bir iki adet;report048
+TRUE;IMP;IMP;benign natürde;report048
+TRUE;OBS-P;OBS-P;punktat mikrokalsifikasyon;report048
+TRUE;O;O;izlendi.;report048
+TRUE;ANAT;ANAT;Sağ memede;report048
+TRUE;OBS-A;OBS-A;malignensi açısından şüphe uyandıran mikrokalsifikasyon kümesi;report048
+TRUE;O;O;mevcut değildir.;report048
+TRUE;ANAT;ANAT;Sağ memede;report048
+TRUE;OBS-A;OBS-A;asimetrik doku dansitesi;report048
+TRUE;OBS-A;OBS-A;doku distorsiyonu;report048
+TRUE;O;O;izlenmedi.;report048
+TRUE;O;O;Grafiye dahil olan;report048
+TRUE;ANAT;ANAT;sağ ön aksiller kesimde;report048
+TRUE;O;O;, muhtemelen;report048
+TRUE;IMP;IMP;benign natürde;report048
+TRUE;OBS-U;OBS-U;oldukları düşünülen;report048
+TRUE;OBS-P;OBS-P;lenf nodları;report048
+TRUE;O;O;saptandı.;report048
+TRUE;O;O;YORUM:;report048
+TRUE;IMP;IMP;Benign natürde;report048
+TRUE;OBS-P;OBS-P;kalsifikasyonlar;report048
+TRUE;IMP;IMP;BIRADS II;report048
+TRUE;OBS-P;OBS-P;Heterojen dens;report048
+TRUE;ANAT;ANAT;meme parankimi;report048
+TRUE;ANAT;ANAT;sağ memede;report048
+TRUE;OBS-P;OBS-P;nodüler opasite;report048
+TRUE;IMP;IMP;US korelasyonu önerilir;report048
+TRUE;IMP;IMP;BIRADS 0;report048
+TRUE;O;O;(HASTANIN SOL MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR);report048
+TRUE;O;O;Sol memenin MLO ve CC mammogramları elde olunmuştur.;report049
+TRUE;ANAT;ANAT;Sol memede;report049
+TRUE;ANAT;ANAT;retroareolar bölgede;report049
+TRUE;OBS-P;OBS-P;yoğunlaşan;report049
+TRUE;OBS-P;OBS-P;dağınık fibroglandüler doku alanları;report049
+TRUE;O;O;izlenmiştir (;report049
+TRUE;OBS-P;OBS-P;Tip B;report049
+TRUE;ANAT;ANAT;meme;report049
+TRUE;ANAT;ANAT;Sol memede;report049
+TRUE;OBS-A;OBS-A;belirgin sınır veren kitle, nodül;report049
+TRUE;O;O;saptanmadı.;report049
+TRUE;ANAT;ANAT;Sol memede;report049
+TRUE;OBS-A;OBS-A;asimetrik doku dansitesi;report049
+TRUE;OBS-A;OBS-A;doku distorsiyonu;report049
+TRUE;O;O;izlenmedi.;report049
+TRUE;ANAT;ANAT;Sol memede;report049
+TRUE;OBS-A;OBS-A;malignensi açısından şüphe uyandıran mikrokalsifikasyon kümesi;report049
+TRUE;O;O;mevcut değildir.;report049
+TRUE;O;O;Grafiye dahil olan;report049
+TRUE;ANAT;ANAT;sol ön aksiller kesimde;report049
+TRUE;O;O;, muhtemelen;report049
+TRUE;IMP;IMP;benign natürde;report049
+TRUE;OBS-U;OBS-U;oldukları düşünülen;report049
+TRUE;OBS-P;OBS-P;lenf nodları;report049
+TRUE;O;O;saptandı.;report049
+TRUE;O;O;YORUM:;report049
+TRUE;OBS-P;OBS-P;Normal sınırlarda;report049
+TRUE;ANAT;ANAT;sol;report049
+TRUE;OBS-P;OBS-P;dijital mammografi;report049
+TRUE;IMP;IMP;BIRADS I;report049
+TRUE;O;O;(HASTANIN SAĞ MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR);report049
+TRUE;O;O;Sağ memenin MLO ve CC mammogramları elde olunmuştur.;report050
+TRUE;ANAT;ANAT;Sağ memede;report050
+TRUE;ANAT;ANAT;retroareolar bölgede;report050
+TRUE;OBS-P;OBS-P;yoğunlaşan;report050
+TRUE;OBS-P;OBS-P;dağınık fibroglandüler doku alanları;report050
+TRUE;O;O;izlenmiştir (;report050
+TRUE;OBS-P;OBS-P;Tip B;report050
+TRUE;ANAT;ANAT;meme;report050
+TRUE;ANAT;ANAT;Sağ memede;report050
+TRUE;OBS-A;OBS-A;belirgin sınır veren kitle, nodül;report050
+TRUE;O;O;saptanmadı.;report050
+TRUE;ANAT;ANAT;Sağ memede;report050
+TRUE;OBS-A;OBS-A;asimetrik doku dansitesi;report050
+TRUE;OBS-A;OBS-A;doku distorsiyonu;report050
+TRUE;O;O;izlenmedi.;report050
+TRUE;ANAT;ANAT;Sağ memede;report050
+TRUE;OBS-A;OBS-A;malignensi açısından şüphe uyandıran mikrokalsifikasyon kümesi;report050
+TRUE;O;O;mevcut değildir.;report050
+TRUE;O;O;Grafiye dahil olan;report050
+TRUE;ANAT;ANAT;sağ ön aksiller kesimde;report050
+TRUE;O;O;, muhtemelen;report050
+TRUE;IMP;IMP;benign natürde;report050
+TRUE;OBS-U;OBS-U;oldukları düşünülen;report050
+TRUE;OBS-P;OBS-P;lenf nodları;report050
+TRUE;O;O;saptandı.;report050
+TRUE;O;O;YORUM:;report050
+TRUE;OBS-P;OBS-P;Normal sınırlarda;report050
+TRUE;ANAT;ANAT;sağ;report050
+TRUE;OBS-P;OBS-P;dijital mammografi;report050
+TRUE;IMP;IMP;BIRADS I;report050
+TRUE;O;O;(HASTANIN SOL MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR);report050
+TRUE;O;O;Sol memenin MLO ve CC mammogramları elde olunmuştur.;report051
+TRUE;ANAT;ANAT;Sol meme parankimi;report051
+TRUE;OBS-P;OBS-P;heterojen dens;report051
+TRUE;OBS-P;OBS-P;Tip C;report051
+TRUE;ANAT;ANAT;meme;report051
+TRUE;OBS-P;OBS-P;görünümdedir;report051
+TRUE;OBS-P;OBS-P;Yoğun;report051
+TRUE;ANAT;ANAT;meme parankimi;report051
+TRUE;O;O;nedeniyle;report051
+TRUE;OBS-U;OBS-U;inceleme;report051
+TRUE;O;O;"sınırlı düzeyde kalmıştır. Değerlendirilebildiği kadarıyla;";report051
+TRUE;ANAT;ANAT;sol memede;report051
+TRUE;OBS-A;OBS-A;belirgin sınır veren kitle, nodül;report051
+TRUE;O;O;saptanmadı.;report051
+TRUE;ANAT;ANAT;Sol memede;report051
+TRUE;OBS-P;OBS-P;birkaç adet;report051
+TRUE;IMP;IMP;benign natürde;report051
+TRUE;OBS-P;OBS-P;punktat-tozsu mikrokalsifikasyon;report051
+TRUE;O;O;izlenmiştir. Ayrıca;report051
+TRUE;ANAT;ANAT;sol meme;report051
+TRUE;ANAT;ANAT;üst dış kadranda;report051
+TRUE;O;O;yaklaşık;report051
+TRUE;OBS-P;OBS-P;3 mm'lik alanda;report051
+TRUE;OBS-P;OBS-P;gruplaşmış;report051
+TRUE;O;O;, önceki mamografi incelemesi ile karşılaştırıldığında;report051
+TRUE;OBS-P;OBS-P;sayılarında artış olduğu anlaşılan;report051
+TRUE;OBS-A;OBS-A;pleomorfizm;report051
+TRUE;O;O;göstermeyen;report051
+TRUE;OBS-P;OBS-P;mikrokalsifikasyonlar;report051
+TRUE;O;O;dikkati çekti.;report051
+TRUE;IMP;IMP;6 ay sonra sınırlı sol CC grafi ile kontrolü önerilir;report051
+TRUE;ANAT;ANAT;Sol memede;report051
+TRUE;OBS-A;OBS-A;asimetrik doku dansitesi;report051
+TRUE;OBS-A;OBS-A;doku distorsiyonu;report051
+TRUE;O;O;izlenmedi.;report051
+TRUE;O;O;Grafiye dahil olan;report051
+TRUE;ANAT;ANAT;sol ön aksiller kesimde;report051
+TRUE;O;O;, muhtemelen;report051
+TRUE;IMP;IMP;benign natürde;report051
+TRUE;OBS-U;OBS-U;oldukları düşünülen;report051
+TRUE;OBS-P;OBS-P;lenf nodları;report051
+TRUE;O;O;saptandı.;report051
+TRUE;O;O;YORUM:;report051
+TRUE;IMP;IMP;Benign natürde;report051
+TRUE;OBS-P;OBS-P;kalsifikasyonlar;report051
+TRUE;ANAT;ANAT;sol meme;report051
+TRUE;ANAT;ANAT;üst dış kadranda;report051
+TRUE;IMP;IMP;takibi önerilen;report051
+TRUE;OBS-P;OBS-P;mikrokalsifikasyon kümesi;report051
+TRUE;IMP;IMP;BIRADS III, 6 ay sonra sınırlı sol CC grafi ile kontrolü önerilir.;report051
+TRUE;OBS-P;OBS-P;Heterojen dens;report051
+TRUE;ANAT;ANAT;meme parankimi;report051
+TRUE;IMP;IMP;US korelasyonu önerilir;report051
+TRUE;IMP;IMP;BIRADS 0;report051
+TRUE;O;O;(HASTANIN SAĞ MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR);report051
+TRUE;O;O;Sol memenin MLO ve CC mammogramları elde olunmuştur.;report052
+TRUE;ANAT;ANAT;Sol meme parankimi;report052
+TRUE;OBS-P;OBS-P;heterojen dens;report052
+TRUE;OBS-P;OBS-P;Tip C;report052
+TRUE;ANAT;ANAT;meme;report052
+TRUE;OBS-P;OBS-P;görünümdedir;report052
+TRUE;OBS-P;OBS-P;Yoğun;report052
+TRUE;ANAT;ANAT;meme parankimi;report052
+TRUE;O;O;nedeniyle;report052
+TRUE;OBS-U;OBS-U;inceleme;report052
+TRUE;O;O;"sınırlı düzeyde kalmıştır. Değerlendirilebildiği kadarıyla;";report052
+TRUE;ANAT;ANAT;sol memede;report052
+TRUE;OBS-A;OBS-A;belirgin sınır veren kitle, nodül;report052
+TRUE;O;O;saptanmadı.;report052
+TRUE;ANAT;ANAT;Sol memede;report052
+TRUE;OBS-P;OBS-P;birkaç adet;report052
+TRUE;IMP;IMP;benign natürde;report052
+TRUE;OBS-P;OBS-P;punktat mikrokalsifikasyon;report052
+TRUE;O;O;dikkati çekmiştir.;report052
+TRUE;ANAT;ANAT;Sol memede;report052
+TRUE;OBS-A;OBS-A;malignensi açısından şüphe uyandıran mikrokalsifikasyon kümesi;report052
+TRUE;O;O;mevcut değildir.;report052
+TRUE;ANAT;ANAT;Sol memede;report052
+TRUE;OBS-A;OBS-A;asimetrik doku dansitesi;report052
+TRUE;OBS-A;OBS-A;doku distorsiyonu;report052
+TRUE;O;O;izlenmedi.;report052
+TRUE;O;O;Grafiye dahil olan;report052
+TRUE;ANAT;ANAT;sol ön aksiller kesimde;report052
+TRUE;O;O;, muhtemelen;report052
+TRUE;IMP;IMP;benign natürde;report052
+TRUE;OBS-U;OBS-U;oldukları düşünülen;report052
+TRUE;OBS-P;OBS-P;lenf nodları;report052
+TRUE;O;O;saptandı.;report052
+TRUE;O;O;17.07.1987 tarihli;report052
+FALSE;O;ANAT;sol;report052
+TRUE;O;O;mamogramları ile karşılaştırıldığında;report052
+TRUE;OBS-A;OBS-A;anlamlı interval farklılık;report052
+TRUE;O;O;saptanmamıştır.;report052
+TRUE;O;O;YORUM:;report052
+TRUE;IMP;IMP;Benign natürde;report052
+TRUE;OBS-P;OBS-P;kalsifikasyonlar;report052
+TRUE;IMP;IMP;BIRADS II;report052
+TRUE;OBS-P;OBS-P;Heterojen dens;report052
+TRUE;ANAT;ANAT;meme parankimi;report052
+TRUE;IMP;IMP;US korelasyonu önerilir;report052
+TRUE;IMP;IMP;BIRADS 0;report052
+TRUE;O;O;(HASTANIN SAĞ MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR);report052
+TRUE;O;O;Sağ memenin MLO ve CC mammogramları elde olunmuştur.;report053
+TRUE;ANAT;ANAT;Sağ meme parankimi;report053
+TRUE;OBS-P;OBS-P;heterojen dens;report053
+TRUE;OBS-P;OBS-P;Tip C;report053
+TRUE;ANAT;ANAT;meme;report053
+TRUE;OBS-P;OBS-P;görünümdedir;report053
+TRUE;OBS-P;OBS-P;Yoğun;report053
+TRUE;ANAT;ANAT;meme parankimi;report053
+TRUE;O;O;nedeniyle;report053
+TRUE;OBS-U;OBS-U;inceleme;report053
+TRUE;O;O;"sınırlı düzeyde kalmıştır. Değerlendirilebildiği kadarıyla;";report053
+TRUE;ANAT;ANAT;sağ memede;report053
+TRUE;OBS-A;OBS-A;belirgin sınır veren kitle, nodül;report053
+TRUE;O;O;saptanmadı.;report053
+TRUE;ANAT;ANAT;Sağ memede;report053
+TRUE;OBS-A;OBS-A;asimetrik doku dansitesi;report053
+TRUE;OBS-A;OBS-A;doku distorsiyonu;report053
+TRUE;O;O;izlenmedi.;report053
+TRUE;ANAT;ANAT;Sağ memede;report053
+TRUE;OBS-A;OBS-A;malignensi açısından şüphe uyandıran mikrokalsifikasyon kümesi;report053
+TRUE;O;O;mevcut değildir.;report053
+TRUE;O;O;Grafiye dahil olan;report053
+TRUE;ANAT;ANAT;sağ ön aksiller kesimde;report053
+TRUE;OBS-A;OBS-A;lenf nodu;report053
+TRUE;O;O;saptanmadı.;report053
+TRUE;O;O;11.11.2011 tarihli sağ mammogramları ile karşılaştırıldığında;report053
+TRUE;OBS-A;OBS-A;anlamlı interval farklılık;report053
+TRUE;O;O;saptanmamıştır.;report053
+TRUE;O;O;YORUM:;report053
+TRUE;OBS-P;OBS-P;Heterojen dens;report053
+TRUE;ANAT;ANAT;meme parankimi;report053
+TRUE;IMP;IMP;US korelasyonu önerilir;report053
+TRUE;IMP;IMP;BIRADS 0;report053
+TRUE;O;O;(HASTANIN SOL MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR);report053
+TRUE;O;O;Sol memenin MLO ve CC mammogramları elde olunmuştur.;report054
+TRUE;ANAT;ANAT;Sol memede;report054
+TRUE;OBS-P;OBS-P;dağınık fibroglandüler dansiteler;report054
+TRUE;OBS-P;OBS-P;Tip B;report054
+TRUE;ANAT;ANAT;meme;report054
+TRUE;O;O;) izlendi.;report054
+TRUE;ANAT;ANAT;Sol meme;report054
+TRUE;ANAT;ANAT;üst dış kadranda;report054
+TRUE;OBS-P;OBS-P;7 mm;report054
+TRUE;OBS-P;OBS-P;4 mm çapında;report054
+TRUE;O;O;ölçülen,;report054
+TRUE;OBS-P;OBS-P;düşük dansiteli;report054
+TRUE;OBS-P;OBS-P;düzgün sınırlı;report054
+TRUE;OBS-P;OBS-P;nodüler opasiteler;report054
+TRUE;O;O;izlendi. Ayrıca CC grafi;report054
+TRUE;ANAT;ANAT;orta kesimde;report054
+TRUE;O;O;, MLO  grafide demonstre edilemeyen, yaklaşık;report054
+TRUE;OBS-P;OBS-P;8 mm çapında;report054
+TRUE;O;O;ölçülen;report054
+TRUE;OBS-U;OBS-U;nodüler lezyon varlığından şüphe edildi;report054
+TRUE;ANAT;ANAT;Sol memede;report054
+TRUE;OBS-P;OBS-P;birkaç adet;report054
+TRUE;IMP;IMP;benign natürde;report054
+TRUE;OBS-P;OBS-P;punktat mikrokalsifikasyon;report054
+TRUE;O;O;izlendi.;report054
+TRUE;ANAT;ANAT;Sol memede;report054
+TRUE;OBS-A;OBS-A;malignensi açısından şüphe uyandıran mikrokalsifikasyon kümesi;report054
+TRUE;O;O;mevcut değildir.;report054
+TRUE;ANAT;ANAT;Sol memede;report054
+TRUE;OBS-A;OBS-A;asimetrik doku dansitesi;report054
+TRUE;OBS-A;OBS-A;doku distorsiyonu;report054
+TRUE;O;O;izlenmedi.;report054
+TRUE;O;O;Grafiye dahil olan;report054
+TRUE;ANAT;ANAT;sol ön aksiller kesimde;report054
+TRUE;O;O;, muhtemelen;report054
+TRUE;IMP;IMP;benign natürde;report054
+TRUE;OBS-U;OBS-U;olduğu  düşünülen;report054
+TRUE;OBS-P;OBS-P;lenf nodu;report054
+TRUE;O;O;saptandı.;report054
+TRUE;O;O;YORUM:;report054
+TRUE;IMP;IMP;Benign natürde;report054
+TRUE;OBS-P;OBS-P;kalsifikasyonlar;report054
+TRUE;ANAT;ANAT;Sol memede;report054
+TRUE;OBS-P;OBS-P;nodüler opasiteler;report054
+TRUE;IMP;IMP;Lütfen aynı tarihli US raporunu okuyunuz;report054
+TRUE;IMP;IMP;BIRADS III;report054
+TRUE;O;O;(HASTANIN SAĞ MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR);report054
+TRUE;O;O;Sol memenin MLO ve CC mammogramları elde olunmuştur.;report055
+TRUE;ANAT;ANAT;Sol meme parankimi;report055
+TRUE;OBS-P;OBS-P;dens;report055
+TRUE;OBS-P;OBS-P;Tip D;report055
+TRUE;ANAT;ANAT;meme;report055
+TRUE;OBS-P;OBS-P;görünümdedir;report055
+TRUE;ANAT;ANAT;Sol memede;report055
+TRUE;OBS-A;OBS-A;belirgin sınır veren kitle, nodül;report055
+TRUE;O;O;saptanmadı.;report055
+TRUE;ANAT;ANAT;Sol memede;report055
+TRUE;OBS-A;OBS-A;asimetrik doku dansitesi;report055
+TRUE;OBS-A;OBS-A;doku distorsiyonu;report055
+TRUE;O;O;izlenmedi.;report055
+TRUE;ANAT;ANAT;Sol memede;report055
+TRUE;OBS-A;OBS-A;malignensi açısından şüphe uyandıran mikrokalsifikasyon kümesi;report055
+TRUE;O;O;mevcut değildir.;report055
+TRUE;O;O;Grafiye dahil olan;report055
+TRUE;ANAT;ANAT;sol ön aksiller kesimde;report055
+TRUE;O;O;, muhtemelen;report055
+TRUE;IMP;IMP;benign;report055
+TRUE;OBS-U;OBS-U;olduğu düşünülen;report055
+TRUE;OBS-P;OBS-P;reaktif görünümlü;report055
+TRUE;OBS-P;OBS-P;lenf nodu;report055
+TRUE;O;O;saptandı.;report055
+TRUE;OBS-P;OBS-P;Yoğun;report055
+TRUE;ANAT;ANAT;meme parankimi;report055
+TRUE;O;O;nedeniyle;report055
+TRUE;OBS-U;OBS-U;değerlendirme;report055
+TRUE;O;O;sınırlı düzeyde kalmıştır.);report055
+TRUE;O;O;YORUM:;report055
+TRUE;OBS-P;OBS-P;Dens;report055
+TRUE;ANAT;ANAT;meme parankimi;report055
+TRUE;IMP;IMP;US korelasyonu önerilir;report055
+TRUE;IMP;IMP;BIRADS 0;report055
+TRUE;O;O;(HASTANIN SAĞ MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR);report055
+TRUE;O;O;Sağ memenin MLO ve CC mammogramları elde olunmuştur.;report056
+TRUE;ANAT;ANAT;Sağ meme parankimi;report056
+TRUE;OBS-P;OBS-P;dens;report056
+TRUE;OBS-P;OBS-P;Tip D;report056
+TRUE;ANAT;ANAT;meme;report056
+TRUE;OBS-P;OBS-P;görünümdedir;report056
+TRUE;ANAT;ANAT;Sağ memede;report056
+TRUE;OBS-A;OBS-A;belirgin sınır veren kitle, nodül;report056
+TRUE;O;O;saptanmadı.;report056
+TRUE;ANAT;ANAT;Sağ memede;report056
+TRUE;OBS-A;OBS-A;asimetrik doku dansitesi;report056
+TRUE;OBS-A;OBS-A;doku distorsiyonu;report056
+TRUE;O;O;izlenmedi.;report056
+TRUE;ANAT;ANAT;Sağ memede;report056
+TRUE;OBS-A;OBS-A;malignensi açısından şüphe uyandıran mikrokalsifikasyon kümesi;report056
+TRUE;O;O;mevcut değildir.;report056
+TRUE;O;O;Grafiye dahil olan;report056
+TRUE;ANAT;ANAT;sağ ön aksiller kesimde;report056
+TRUE;OBS-A;OBS-A;lenf nodu;report056
+TRUE;O;O;saptanmadı.;report056
+TRUE;OBS-P;OBS-P;Yoğun;report056
+TRUE;ANAT;ANAT;meme parankimi;report056
+TRUE;O;O;nedeniyle;report056
+TRUE;OBS-U;OBS-U;değerlendirme;report056
+TRUE;O;O;sınırlı düzeyde kalmıştır);report056
+TRUE;O;O;YORUM:;report056
+TRUE;OBS-P;OBS-P;Dens;report056
+TRUE;ANAT;ANAT;meme parankimi;report056
+TRUE;IMP;IMP;US korelasyonu önerilir;report056
+TRUE;IMP;IMP;BIRADS 0;report056
+TRUE;O;O;(HASTANIN SOL MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR);report056
+TRUE;O;O;Sol memenin MLO ve CC mammogramları elde olunmuştur.;report057
+TRUE;ANAT;ANAT;Sol meme parankimi;report057
+TRUE;OBS-P;OBS-P;dens;report057
+TRUE;OBS-P;OBS-P;Tip C;report057
+TRUE;ANAT;ANAT;meme;report057
+TRUE;OBS-P;OBS-P;görünümdedir;report057
+TRUE;ANAT;ANAT;Sol memede;report057
+TRUE;OBS-A;OBS-A;belirgin sınır veren kitle, nodül;report057
+TRUE;O;O;saptanmadı.;report057
+TRUE;ANAT;ANAT;Sol memede;report057
+TRUE;OBS-A;OBS-A;asimetrik doku dansitesi;report057
+TRUE;OBS-A;OBS-A;doku distorsiyonu;report057
+TRUE;O;O;izlenmedi.;report057
+TRUE;ANAT;ANAT;Sol memede;report057
+TRUE;OBS-A;OBS-A;malignensi açısından şüphe uyandıran mikrokalsifikasyon kümesi;report057
+TRUE;O;O;mevcut değildir.;report057
+TRUE;O;O;Grafiye dahil olan;report057
+TRUE;ANAT;ANAT;sol ön aksiller kesimde;report057
+TRUE;O;O;, grafiye kısmen dahil olan, muhtemelen;report057
+TRUE;IMP;IMP;benign;report057
+TRUE;OBS-U;OBS-U;oldukları düşünülen;report057
+TRUE;OBS-P;OBS-P;reaktif görünümlü lenf nodları;report057
+TRUE;O;O;saptandı.;report057
+TRUE;O;O;YORUM:;report057
+TRUE;OBS-P;OBS-P;Dens;report057
+TRUE;ANAT;ANAT;meme parankimi;report057
+TRUE;IMP;IMP;US korelasyonu önerilir;report057
+TRUE;IMP;IMP;BIRADS 0;report057
+TRUE;O;O;(HASTANIN SAĞ MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR);report057
+TRUE;O;O;Sağ memenin MLO ve CC mammogramları elde olunmuştur.;report058
+TRUE;ANAT;ANAT;Sağ meme parankimi;report058
+TRUE;OBS-P;OBS-P;dens;report058
+TRUE;OBS-P;OBS-P;Tip C;report058
+TRUE;ANAT;ANAT;meme;report058
+TRUE;OBS-P;OBS-P;görünümdedir;report058
+TRUE;ANAT;ANAT;Sağ memede;report058
+TRUE;OBS-A;OBS-A;belirgin sınır veren kitle, nodül;report058
+TRUE;O;O;saptanmadı.;report058
+TRUE;ANAT;ANAT;Sağ memede;report058
+TRUE;OBS-A;OBS-A;asimetrik doku dansitesi;report058
+TRUE;OBS-A;OBS-A;doku distorsiyonu;report058
+TRUE;O;O;izlenmedi.;report058
+TRUE;ANAT;ANAT;Sağ memede;report058
+TRUE;OBS-A;OBS-A;malignensi açısından şüphe uyandıran mikrokalsifikasyon kümesi;report058
+TRUE;O;O;mevcut değildir.;report058
+TRUE;O;O;Grafiye dahil olan;report058
+TRUE;ANAT;ANAT;sağ ön aksiller kesimde;report058
+TRUE;O;O;, muhtemelen;report058
+TRUE;IMP;IMP;benign;report058
+TRUE;OBS-U;OBS-U;oldukları düşünülen;report058
+TRUE;OBS-P;OBS-P;reaktif görünümlü lenf nodları;report058
+TRUE;O;O;saptandı.;report058
+TRUE;O;O;YORUM:;report058
+TRUE;OBS-P;OBS-P;Dens;report058
+TRUE;ANAT;ANAT;meme parankimi;report058
+TRUE;IMP;IMP;US korelasyonu önerilir;report058
+TRUE;IMP;IMP;BIRADS 0;report058
+TRUE;O;O;(HASTANIN SOL MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR);report058
+TRUE;O;O;Sol memenin MLO ve CC mammogramları elde olunmuştur.;report059
+TRUE;ANAT;ANAT;Sol meme parankimi;report059
+TRUE;OBS-P;OBS-P;heterojen dens;report059
+TRUE;OBS-P;OBS-P;Tip C;report059
+TRUE;ANAT;ANAT;meme;report059
+TRUE;OBS-P;OBS-P;görünümdedir;report059
+TRUE;ANAT;ANAT;Sol memede;report059
+TRUE;OBS-A;OBS-A;belirgin sınır veren kitle, nodül;report059
+TRUE;O;O;saptanmadı.;report059
+TRUE;ANAT;ANAT;Sol memede;report059
+TRUE;ANAT;ANAT;retroareolar bölgede;report059
+TRUE;OBS-P;OBS-P;uniform;report059
+TRUE;OBS-P;OBS-P;noktasal;report059
+TRUE;OBS-P;OBS-P;bölgesel dağılımlı;report059
+TRUE;OBS-P;OBS-P;kalsifikasyonlar;report059
+TRUE;O;O;izlenmektedir.;report059
+TRUE;ANAT;ANAT;Sol memede;report059
+TRUE;OBS-A;OBS-A;asimetrik doku dansitesi;report059
+TRUE;OBS-A;OBS-A;doku distorsiyonu;report059
+TRUE;O;O;izlenmedi.;report059
+TRUE;ANAT;ANAT;Sol memede;report059
+TRUE;OBS-A;OBS-A;malignensi açısından şüphe uyandıran mikrokalsifikasyon kümesi;report059
+TRUE;O;O;mevcut değildir.;report059
+TRUE;O;O;Grafiye dahil olan;report059
+TRUE;ANAT;ANAT;sol ön aksiller kesimde;report059
+TRUE;O;O;, muhtemelen;report059
+TRUE;IMP;IMP;benign;report059
+TRUE;OBS-U;OBS-U;oldukları düşünülen;report059
+TRUE;OBS-P;OBS-P;eliptik şekilli;report059
+TRUE;OBS-P;OBS-P;lenf nodları;report059
+TRUE;O;O;saptandı.;report059
+TRUE;O;O;03.03.2003 tarihli;report059
+FALSE;O;ANAT;sol;report059
+TRUE;O;O;mamogramları ile karşılaştırıldığında;report059
+TRUE;OBS-P;OBS-P;kalsifkasyonların;report059
+TRUE;IMP;IMP;belirginleşitiği;report059
+TRUE;IMP;IMP;bunun çekim tekniği nedeni ile olduğu;report059
+TRUE;O;O;düşülmektedir.;report059
+TRUE;O;O;YORUM:;report059
+TRUE;OBS-P;OBS-P;Heterojen dens;report059
+TRUE;ANAT;ANAT;meme parankimi;report059
+TRUE;IMP;IMP;US korelasyonu önerilir;report059
+TRUE;IMP;IMP;BIRADS 0;report059
+TRUE;ANAT;ANAT;Sol meme;report059
+TRUE;ANAT;ANAT;retroareolar bölgede;report059
+TRUE;OBS-P;OBS-P;bölgesel dağılımlı;report059
+TRUE;OBS-P;OBS-P;uniform;report059
+TRUE;OBS-P;OBS-P;mikrokalsifikasyonlar;report059
+TRUE;IMP;IMP;BIRADS III;report059
+TRUE;O;O;(HASTANIN SAĞ MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR);report059
+TRUE;O;O;Sağ memenin MLO ve CC mammogramları elde olunmuştur.;report060
+TRUE;ANAT;ANAT;Sağ meme parankimi;report060
+TRUE;OBS-P;OBS-P;heterojen dens;report060
+TRUE;OBS-P;OBS-P;Tip C;report060
+TRUE;ANAT;ANAT;meme;report060
+TRUE;OBS-P;OBS-P;görünümdedir;report060
+TRUE;OBS-P;OBS-P;Yoğun;report060
+TRUE;ANAT;ANAT;meme parankimi;report060
+TRUE;O;O;nedeniyle;report060
+TRUE;OBS-U;OBS-U;inceleme;report060
+TRUE;O;O;"sınırlı düzeyde kalmıştır. Değerlendirilebildiği kadarıyla;";report060
+TRUE;ANAT;ANAT;sağ memede;report060
+TRUE;OBS-A;OBS-A;belirgin sınır veren kitle, nodül;report060
+TRUE;O;O;saptanmadı.;report060
+TRUE;ANAT;ANAT;Sağ memede;report060
+TRUE;ANAT;ANAT;rereoareolar bölgede;report060
+TRUE;ANAT;ANAT;cilde;report060
+TRUE;O;O;yakın yerleşimli, yaklaşık;report060
+TRUE;OBS-P;OBS-P;5 mm'lik alanda;report060
+TRUE;OBS-P;OBS-P;grup yapmış;report060
+TRUE;OBS-A;OBS-A;belirgin pleomorfizm;report060
+TRUE;O;O;göstermeyen;report060
+TRUE;OBS-P;OBS-P;mikrokalsifikasyonlar;report060
+TRUE;O;O;dikkati çekti. Hastanın;report060
+TRUE;IMP;IMP;6 ay sonra sınırlı sağ MLO grafi ile kontrolü önerilir;report060
+TRUE;O;O;Ayrıca;report060
+TRUE;ANAT;ANAT;sağ memede;report060
+TRUE;ANAT;ANAT;retroareolar bölgede;report060
+TRUE;OBS-P;OBS-P;iki adet;report060
+TRUE;IMP;IMP;benign natürde;report060
+TRUE;OBS-P;OBS-P;makrokalsifikasyon;report060
+TRUE;OBS-P;OBS-P;dağınık yerleşimli;report060
+TRUE;OBS-P;OBS-P;birkaç adet;report060
+TRUE;IMP;IMP;benign natürde;report060
+TRUE;OBS-P;OBS-P;punktat mikrokalsifikasyon;report060
+TRUE;O;O;dikkati çekti.;report060
+TRUE;ANAT;ANAT;Sağ memede;report060
+TRUE;OBS-A;OBS-A;asimetrik doku dansitesi;report060
+TRUE;OBS-A;OBS-A;doku distorsiyonu;report060
+TRUE;O;O;izlenmedi.;report060
+TRUE;O;O;Grafiye dahil olan;report060
+TRUE;ANAT;ANAT;sağ ön aksiller kesimde;report060
+TRUE;O;O;, grafiye kısmen dahil olan, muhtemelen;report060
+TRUE;IMP;IMP;benign natürde;report060
+TRUE;OBS-U;OBS-U;oldukları düşünülen;report060
+TRUE;OBS-P;OBS-P;lenf nodları;report060
+TRUE;O;O;saptandı.;report060
+TRUE;O;O;YORUM:;report060
+TRUE;ANAT;ANAT;Sağ memede;report060
+TRUE;O;O;tanımlanan;report060
+TRUE;OBS-P;OBS-P;mikrokalsifikasyonlar;report060
+TRUE;ANAT;ANAT;Retroareolar bölgede;report060
+TRUE;O;O;izlenen;report060
+TRUE;OBS-P;OBS-P;mikrokalsifikasyon kümesinin;report060
+TRUE;IMP;IMP;kontrolüne yönelik olarak hastanın 6 ay sonra sınırlı sağ MLO grafi ile kontrolü önerilir;report060
+TRUE;IMP;IMP;BIRADS III;report060
+TRUE;OBS-P;OBS-P;Heterojen dens;report060
+TRUE;ANAT;ANAT;meme parankimi;report060
+TRUE;IMP;IMP;US korelasyonu önerilir;report060
+TRUE;IMP;IMP;BIRADS 0;report060
+TRUE;O;O;(HASTANIN SOL MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR);report060
+TRUE;O;O;Sol memenin MLO ve CC mammogramları elde olunmuştur.;report061
+TRUE;ANAT;ANAT;Sol meme parankimi;report061
+TRUE;OBS-P;OBS-P;dens;report061
+TRUE;OBS-P;OBS-P;Tip C;report061
+TRUE;ANAT;ANAT;meme;report061
+TRUE;OBS-P;OBS-P;görünümdedir;report061
+TRUE;ANAT;ANAT;Sol memede;report061
+TRUE;OBS-A;OBS-A;belirgin sınır veren kitle, nodül;report061
+TRUE;O;O;saptanmadı.;report061
+TRUE;ANAT;ANAT;Sol memede;report061
+TRUE;OBS-A;OBS-A;asimetrik doku dansitesi;report061
+TRUE;OBS-A;OBS-A;doku distorsiyonu;report061
+TRUE;O;O;izlenmedi.;report061
+TRUE;ANAT;ANAT;Sol memede;report061
+TRUE;OBS-A;OBS-A;malignensi açısından şüphe uyandıran mikrokalsifikasyon kümesi;report061
+TRUE;O;O;mevcut değildir.;report061
+TRUE;O;O;Grafiye dahil olan;report061
+TRUE;ANAT;ANAT;sol ön aksiller kesimde;report061
+TRUE;O;O;, grafiye kısmen dahil olan, muhtemelen;report061
+TRUE;IMP;IMP;benign;report061
+TRUE;OBS-U;OBS-U;olduğu  düşünülen;report061
+TRUE;OBS-P;OBS-P;lenf nodu;report061
+TRUE;O;O;saptandı.;report061
+TRUE;O;O;YORUM:;report061
+TRUE;OBS-P;OBS-P;Dens;report061
+TRUE;ANAT;ANAT;meme parankimi;report061
+TRUE;IMP;IMP;US korelasyonu önerilir;report061
+TRUE;IMP;IMP;BIRADS 0;report061
+TRUE;O;O;(HASTANIN SAĞ MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR);report061
+TRUE;O;O;Sağ memenin MLO ve CC mammogramları elde olunmuştur.;report062
+TRUE;ANAT;ANAT;Sağ meme parankimi;report062
+TRUE;OBS-P;OBS-P;dens;report062
+TRUE;OBS-P;OBS-P;Tip C;report062
+TRUE;ANAT;ANAT;meme;report062
+TRUE;OBS-P;OBS-P;görünümdedir;report062
+TRUE;ANAT;ANAT;Sağ memede;report062
+TRUE;OBS-A;OBS-A;belirgin sınır veren kitle, nodül;report062
+TRUE;O;O;saptanmadı.;report062
+TRUE;ANAT;ANAT;Sağ memede;report062
+TRUE;OBS-A;OBS-A;asimetrik doku dansitesi;report062
+TRUE;OBS-A;OBS-A;doku distorsiyonu;report062
+TRUE;O;O;izlenmedi.;report062
+TRUE;ANAT;ANAT;Sağ memede;report062
+TRUE;OBS-A;OBS-A;malignensi açısından şüphe uyandıran mikrokalsifikasyon kümesi;report062
+TRUE;O;O;mevcut değildir.;report062
+TRUE;O;O;Grafiye dahil olan;report062
+TRUE;ANAT;ANAT;sağ ön aksiller kesimde;report062
+TRUE;O;O;, grafiye kısmen dahil olan, muhtemelen;report062
+TRUE;IMP;IMP;benign;report062
+TRUE;OBS-U;OBS-U;oldukları düşünülen;report062
+TRUE;OBS-P;OBS-P;lenf nodları;report062
+TRUE;O;O;saptandı.;report062
+TRUE;O;O;YORUM:;report062
+TRUE;OBS-P;OBS-P;Dens;report062
+TRUE;ANAT;ANAT;meme parankimi;report062
+TRUE;IMP;IMP;US korelasyonu önerilir;report062
+TRUE;IMP;IMP;BIRADS 0;report062
+TRUE;O;O;(HASTANIN SOL MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR);report062
+TRUE;O;O;Sol memenin MLO ve CC mammogramları elde olunmuştur.;report063
+TRUE;ANAT;ANAT;Sol meme parankimi;report063
+TRUE;OBS-P;OBS-P;dens;report063
+TRUE;OBS-P;OBS-P;Tip D;report063
+TRUE;ANAT;ANAT;meme;report063
+TRUE;OBS-P;OBS-P;görünümdedir;report063
+TRUE;OBS-P;OBS-P;Yoğun;report063
+TRUE;ANAT;ANAT;meme parankimi;report063
+TRUE;O;O;nedeniyle;report063
+TRUE;OBS-U;OBS-U;inceleme;report063
+TRUE;O;O;"sınırlı düzeyde kalmıştır. Değerlendirilebildiği kadarıyla;";report063
+TRUE;ANAT;ANAT;sol memede;report063
+TRUE;OBS-A;OBS-A;belirgin sınır veren kitle, nodül;report063
+TRUE;O;O;saptanmadı.;report063
+TRUE;ANAT;ANAT;Periareolar bölgede;report063
+TRUE;IMP;IMP;benign natürde;report063
+TRUE;OBS-P;OBS-P;punktat mikrokalsifikasyon;report063
+TRUE;O;O;izlendi.;report063
+TRUE;ANAT;ANAT;Sol memede;report063
+TRUE;OBS-A;OBS-A;malignensi açısından şüphe uyandıran mikrokalsifikasyon kümesi;report063
+TRUE;O;O;mevcut değildir.;report063
+TRUE;ANAT;ANAT;Sol memede;report063
+TRUE;OBS-A;OBS-A;asimetrik doku dansitesi;report063
+TRUE;OBS-A;OBS-A;doku distorsiyonu;report063
+TRUE;O;O;izlenmedi.;report063
+TRUE;O;O;Grafiye dahil olan;report063
+TRUE;ANAT;ANAT;sol ön aksiller kesimde;report063
+TRUE;O;O;, grafiye kısmen dahil olan, muhtemelen;report063
+TRUE;IMP;IMP;benign natürde;report063
+TRUE;OBS-U;OBS-U;oldukları düşünülen;report063
+TRUE;OBS-P;OBS-P;lenf nodları;report063
+TRUE;O;O;saptandı.;report063
+TRUE;O;O;YORUM:;report063
+TRUE;IMP;IMP;Benign natürde;report063
+TRUE;OBS-P;OBS-P;kalsifikasyon;report063
+TRUE;IMP;IMP;BIRADS II;report063
+TRUE;OBS-P;OBS-P;Dens;report063
+TRUE;ANAT;ANAT;meme parankimi;report063
+TRUE;IMP;IMP;US korelasyonu önerilir;report063
+TRUE;IMP;IMP;BIRADS 0;report063
+TRUE;O;O;(HASTANIN SAĞ MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR);report063
+TRUE;O;O;Sağ memenin MLO ve CC mammogramları elde olunmuştur.;report064
+TRUE;ANAT;ANAT;Sağ meme parankimi;report064
+TRUE;OBS-P;OBS-P;dens;report064
+TRUE;OBS-P;OBS-P;Tip D;report064
+TRUE;ANAT;ANAT;meme;report064
+TRUE;OBS-P;OBS-P;görünümdedir;report064
+TRUE;OBS-P;OBS-P;Yoğun;report064
+TRUE;ANAT;ANAT;meme parankimi;report064
+TRUE;O;O;nedeniyle;report064
+TRUE;OBS-U;OBS-U;inceleme;report064
+TRUE;O;O;"sınırlı düzeyde kalmıştır. Değerlendirilebildiği kadarıyla;";report064
+TRUE;ANAT;ANAT;sağ memede;report064
+TRUE;OBS-A;OBS-A;belirgin sınır veren kitle, nodül;report064
+TRUE;O;O;saptanmadı.;report064
+TRUE;ANAT;ANAT;Sağ memede;report064
+TRUE;OBS-P;OBS-P;birkaç adet;report064
+TRUE;IMP;IMP;benign natürde;report064
+TRUE;OBS-P;OBS-P;punktat mikrokalsifikasyon;report064
+TRUE;O;O;izlendi.;report064
+TRUE;ANAT;ANAT;Sağ memede;report064
+TRUE;OBS-A;OBS-A;malignensi açısından şüphe uyandıran mikrokalsifikasyon kümesi;report064
+TRUE;O;O;mevcut değildir.;report064
+TRUE;ANAT;ANAT;Sağ memede;report064
+TRUE;OBS-A;OBS-A;asimetrik doku dansitesi;report064
+TRUE;OBS-A;OBS-A;doku distorsiyonu;report064
+TRUE;O;O;izlenmedi.;report064
+TRUE;O;O;Grafiye dahil olan;report064
+TRUE;ANAT;ANAT;sağ ön aksiller kesimde;report064
+TRUE;O;O;, muhtemelen;report064
+TRUE;IMP;IMP;benign natürde;report064
+TRUE;OBS-U;OBS-U;oldukları düşünülen;report064
+TRUE;OBS-P;OBS-P;lenf nodları;report064
+TRUE;O;O;saptandı.;report064
+TRUE;O;O;YORUM:;report064
+TRUE;IMP;IMP;Benign natürde;report064
+TRUE;OBS-P;OBS-P;kalsifikasyonlar;report064
+TRUE;IMP;IMP;BIRADS II;report064
+TRUE;OBS-P;OBS-P;Dens;report064
+TRUE;ANAT;ANAT;meme parankimi;report064
+TRUE;IMP;IMP;US korelasyonu önerilir;report064
+TRUE;IMP;IMP;BIRADS 0;report064
+TRUE;O;O;(HASTANIN SOL MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR);report064
+TRUE;O;O;Sol memenin MLO ve CC mammogramları elde olunmuştur.;report065
+TRUE;ANAT;ANAT;Sol meme parankimi;report065
+TRUE;OBS-P;OBS-P;yağ infiltrasyonu;report065
+TRUE;IMP;IMP;ile uyumlu;report065
+TRUE;OBS-P;OBS-P;Tip A;report065
+TRUE;ANAT;ANAT;meme;report065
+TRUE;OBS-P;OBS-P;görünümdedir;report065
+TRUE;ANAT;ANAT;Sol memede;report065
+TRUE;OBS-P;OBS-P;en büyükleri alt kadran orta hatta;report065
+TRUE;O;O;yaklaşık;report065
+TRUE;OBS-P;OBS-P;6.5x4 mm boyutunda;report065
+TRUE;OBS-P;OBS-P;düzgün sınırlı;report065
+TRUE;OBS-P;OBS-P;keskin kenarlı;report065
+TRUE;OBS-P;OBS-P;düşük dansiteli;report065
+TRUE;OBS-P;OBS-P;birkaç adet nodüler opasite;report065
+TRUE;O;O;mevcuttur.;report065
+TRUE;ANAT;ANAT;Sol memede;report065
+TRUE;OBS-P;OBS-P;en büyüğü üst-dış kadranda;report065
+TRUE;O;O;yaklaşık;report065
+TRUE;OBS-P;OBS-P;7x5 mm boyutunda;report065
+TRUE;O;O;olmak üzere;report065
+TRUE;OBS-P;OBS-P;birkaç adet;report065
+TRUE;IMP;IMP;benign;report065
+TRUE;OBS-P;OBS-P;kaba kalsifikasyon;report065
+TRUE;O;O;izlenmektedir.;report065
+TRUE;ANAT;ANAT;Sol memede;report065
+TRUE;OBS-A;OBS-A;asimetrik doku dansitesi;report065
+TRUE;OBS-A;OBS-A;doku distorsiyonu;report065
+TRUE;O;O;izlenmedi.;report065
+TRUE;ANAT;ANAT;Sol memede;report065
+TRUE;OBS-A;OBS-A;malignensi açısından şüphe uyandıran mikrokalsifikasyon kümesi;report065
+TRUE;O;O;mevcut değildir.;report065
+TRUE;O;O;Grafiye dahil olan;report065
+TRUE;ANAT;ANAT;sol ön aksiller kesimde;report065
+TRUE;O;O;, muhtemelen;report065
+TRUE;IMP;IMP;benign;report065
+TRUE;OBS-U;OBS-U;oldukları düşünülen;report065
+TRUE;OBS-P;OBS-P;eliptik şekilli lenf nodları;report065
+TRUE;O;O;saptandı.;report065
+TRUE;O;O;YORUM:;report065
+TRUE;ANAT;ANAT;Sol memede;report065
+TRUE;O;O;tanımlanan;report065
+TRUE;OBS-P;OBS-P;nodüler  opasiteler;report065
+TRUE;IMP;IMP;US korelasyonu önerilir;report065
+TRUE;IMP;IMP;BIRADS 0;report065
+TRUE;ANAT;ANAT;Sol memede;report065
+TRUE;O;O;tariflenen;report065
+TRUE;OBS-P;OBS-P;kalsifikasyonlar;report065
+TRUE;IMP;IMP;BIRADS II;report065
+TRUE;O;O;(HASTANIN SAĞ MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR);report065
+TRUE;O;O;Sağ memenin MLO ve CC mammogramları elde olunmuştur.;report066
+TRUE;ANAT;ANAT;Sağ meme parankimi;report066
+TRUE;OBS-P;OBS-P;yağ infiltrasyonu;report066
+TRUE;IMP;IMP;ile uyumlu;report066
+TRUE;OBS-P;OBS-P;Tip A;report066
+TRUE;ANAT;ANAT;meme;report066
+TRUE;OBS-P;OBS-P;görünümdedir;report066
+TRUE;ANAT;ANAT;Sağ memede;report066
+TRUE;OBS-A;OBS-A;belirgin sınır veren kitle, nodül;report066
+TRUE;O;O;saptanmadı.;report066
+TRUE;ANAT;ANAT;Sağ memede;report066
+TRUE;OBS-P;OBS-P;dağınık yerleşimli;report066
+TRUE;OBS-P;OBS-P;birkaç adet;report066
+TRUE;IMP;IMP;benign natürlü;report066
+TRUE;OBS-P;OBS-P;kaba kalsifikasyon;report066
+TRUE;O;O;mevcuttur.;report066
+TRUE;ANAT;ANAT;Sağ memede;report066
+TRUE;OBS-A;OBS-A;asimetrik doku dansitesi;report066
+TRUE;OBS-A;OBS-A;doku distorsiyonu;report066
+TRUE;O;O;izlenmedi.;report066
+TRUE;ANAT;ANAT;Sağ memede;report066
+TRUE;OBS-A;OBS-A;malignensi açısından şüphe uyandıran mikrokalsifikasyon kümesi;report066
+TRUE;O;O;mevcut değildir.;report066
+TRUE;O;O;Grafiye dahil olan;report066
+TRUE;ANAT;ANAT;sağ ön aksiller kesimde;report066
+TRUE;O;O;, muhtemelen;report066
+TRUE;IMP;IMP;benign;report066
+TRUE;OBS-U;OBS-U;oldukları düşünülen;report066
+TRUE;OBS-P;OBS-P;eliptik şekilli lenf nodları;report066
+TRUE;O;O;saptandı.;report066
+TRUE;O;O;YORUM:;report066
+TRUE;ANAT;ANAT;Sağ memede;report066
+TRUE;O;O;tanımlanan;report066
+TRUE;OBS-P;OBS-P;kalsifikasyonlar;report066
+TRUE;IMP;IMP;BIRADS II;report066
+TRUE;O;O;(HASTANIN SOL MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR);report066
+TRUE;O;O;Sol memenin MLO ve CC mammogramları elde olunmuştur.;report067
+TRUE;ANAT;ANAT;Sol meme parankimi;report067
+TRUE;OBS-P;OBS-P;yağ infiltrasyonu;report067
+TRUE;IMP;IMP;ile uyumlu;report067
+TRUE;OBS-P;OBS-P;Tip A;report067
+TRUE;ANAT;ANAT;meme;report067
+TRUE;OBS-P;OBS-P;görünümdedir;report067
+TRUE;ANAT;ANAT;Sol meme;report067
+TRUE;OBS-P;OBS-P;volümü;report067
+TRUE;ANAT;ANAT;sağa;report067
+TRUE;O;O;nazaran;report067
+TRUE;OBS-P;OBS-P;azalmış;report067
+TRUE;O;O;olup;report067
+TRUE;ANAT;ANAT;meme cildi;report067
+TRUE;IMP;IMP;geçirilmiş cerrahiye ve/veya radyoterapiye sekonder;report067
+TRUE;OBS-P;OBS-P;belirgin ödemli;report067
+TRUE;OBS-P;OBS-P;kalınlaşmış görünümdedir;report067
+TRUE;ANAT;ANAT;Cerraji lojda;report067
+TRUE;ANAT;ANAT;üst dış kadranda;report067
+TRUE;O;O;özellikle CC mamogramda;report067
+TRUE;OBS-P;OBS-P;daha belirgin;report067
+TRUE;O;O;olarak izlenen;report067
+TRUE;OBS-P;OBS-P;postoperatif doku distorsiyonu;report067
+TRUE;OBS-P;OBS-P;deformasyon;report067
+TRUE;O;O;izlenmektedir.;report067
+TRUE;ANAT;ANAT;Meme parankimi;report067
+TRUE;OBS-P;OBS-P;ödemli görünümdedir;report067
+TRUE;ANAT;ANAT;Sol memede;report067
+TRUE;OBS-A;OBS-A;belirgin sınır veren kitle, nodül;report067
+TRUE;O;O;saptanmadı.;report067
+TRUE;ANAT;ANAT;Sol memede;report067
+TRUE;OBS-A;OBS-A;asimetrik doku dansitesi;report067
+TRUE;O;O;izlenmedi.;report067
+TRUE;ANAT;ANAT;Sol memede;report067
+TRUE;OBS-A;OBS-A;malignensi açısından şüphe uyandıran mikrokalsifikasyon kümesi;report067
+TRUE;O;O;mevcut değildir.;report067
+TRUE;O;O;Grafiye dahil olan;report067
+TRUE;ANAT;ANAT;sol ön aksiller;report067
+TRUE;OBS-A;OBS-A;lenf nodu;report067
+TRUE;O;O;saptanmadı.;report067
+TRUE;O;O;07.07.1998 tarihli;report067
+FALSE;O;ANAT;sol;report067
+TRUE;O;O;mammogramları ile karşılaştırıldığında;report067
+TRUE;OBS-A;OBS-A;anlamlı interval farklılık;report067
+TRUE;O;O;göstermemektedir.;report067
+TRUE;O;O;YORUM:;report067
+TRUE;ANAT;ANAT;Sol memede;report067
+TRUE;IMP;IMP;geçirilmiş cerrahiye ve/veya radyoterapiye sekonder;report067
+TRUE;OBS-P;OBS-P;değişiklikler;report067
+TRUE;IMP;IMP;BIRADS II;report067
+TRUE;O;O;(HASTANIN SAĞ MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR);report067
+TRUE;O;O;Hastanın mamografi tetkiki mevcut 18.04.2023 tarihli mamogramla karşılaştırılarak değerlendirilmiştir.;report068
+TRUE;ANAT;ANAT;Sağ memenin;report068
+TRUE;O;O;MLO planda mammogramları elde olunmuştur.;report068
+TRUE;ANAT;ANAT;Sağ meme parankimi;report068
+TRUE;OBS-P;OBS-P;dens;report068
+TRUE;OBS-P;OBS-P;Tip D;report068
+TRUE;ANAT;ANAT;meme;report068
+TRUE;OBS-P;OBS-P;görünümdedir;report068
+TRUE;ANAT;ANAT;Sağ memede;report068
+TRUE;OBS-A;OBS-A;belirgin sınır veren kitle, nodül;report068
+TRUE;O;O;saptanmadı.;report068
+TRUE;ANAT;ANAT;İnferiorda;report068
+TRUE;O;O;izlenen;report068
+TRUE;OBS-P;OBS-P;gevşek kümelenmiş mikrokalsifikasyonların;report068
+TRUE;OBS-P;OBS-P;sayılarında;report068
+TRUE;OBS-P;OBS-P;konfigürasyonunda;report068
+TRUE;OBS-A;OBS-A;belirgin interval farklılık;report068
+TRUE;O;O;saptanmamıştır.;report068
+TRUE;ANAT;ANAT;Sağ memede;report068
+TRUE;OBS-A;OBS-A;asimetrik doku dansitesi;report068
+TRUE;O;O;izlenmedi.;report068
+TRUE;ANAT;ANAT;Sağ memede;report068
+TRUE;OBS-A;OBS-A;malignensi açısından şüphe uyandıran mikrokalsifikasyon kümesi;report068
+TRUE;O;O;mevcut değildir.;report068
+TRUE;O;O;Grafiye dahil olan;report068
+TRUE;ANAT;ANAT;sağ ön aksiller kesimde;report068
+TRUE;O;O;, muhtemelen;report068
+TRUE;IMP;IMP;benign;report068
+TRUE;OBS-U;OBS-U;oldukları düşünülen;report068
+TRUE;OBS-P;OBS-P;eliptik şekilli;report068
+TRUE;OBS-P;OBS-P;reaktif görünümlü;report068
+TRUE;OBS-P;OBS-P;lenf nodları;report068
+TRUE;O;O;saptandı.;report068
+TRUE;OBS-P;OBS-P;Yoğun;report068
+TRUE;ANAT;ANAT;meme parankimi;report068
+TRUE;O;O;nedeniyle;report068
+TRUE;OBS-U;OBS-U;değerlendirme;report068
+TRUE;O;O;sınırlı düzeyde kalmıştır.);report068
+TRUE;O;O;YORUM:;report068
+TRUE;OBS-P;OBS-P;Dens;report068
+TRUE;ANAT;ANAT;meme parankimi;report068
+TRUE;IMP;IMP;US korelasyonu önerilir;report068
+TRUE;IMP;IMP;BIRADS 0;report068
+TRUE;ANAT;ANAT;Sağ memede;report068
+TRUE;OBS-P;OBS-P;konfigürasyonunda;report068
+TRUE;OBS-P;OBS-P;sayısında;report068
+TRUE;OBS-A;OBS-A;farklılık saptanmayan;report068
+TRUE;OBS-P;OBS-P;mikrokalsifikasyonlar;report068
+TRUE;O;O;. Hastanın;report068
+TRUE;IMP;IMP;sonraki kontrolünün 6 ay sonra rutin senelik bilateral mamografi ile yapılması önerilir;report068
+TRUE;O;O;. (;report068
+TRUE;IMP;IMP;BIRADS III;report068
+TRUE;O;O;Sol memenin MLO ve CC mammogramları elde olunmuştur.;report069
+TRUE;ANAT;ANAT;Sol meme parankimi;report069
+TRUE;OBS-P;OBS-P;dens;report069
+TRUE;OBS-P;OBS-P;Tip D;report069
+TRUE;ANAT;ANAT;meme;report069
+TRUE;OBS-P;OBS-P;görünümdedir;report069
+TRUE;ANAT;ANAT;Sol memede;report069
+TRUE;OBS-A;OBS-A;belirgin sınır veren kitle, nodül;report069
+TRUE;O;O;saptanmadı.;report069
+TRUE;ANAT;ANAT;Sol memede;report069
+TRUE;OBS-A;OBS-A;asimetrik doku dansitesi;report069
+TRUE;OBS-A;OBS-A;doku distorsiyonu;report069
+TRUE;O;O;izlenmedi.;report069
+TRUE;ANAT;ANAT;Sol memede;report069
+TRUE;OBS-A;OBS-A;malignensi açısından şüphe uyandıran mikrokalsifikasyon kümesi;report069
+TRUE;O;O;mevcut değildir.;report069
+TRUE;O;O;Grafiye dahil olan;report069
+TRUE;ANAT;ANAT;sol ön aksiller kesimde;report069
+TRUE;O;O;, muhtemelen;report069
+TRUE;IMP;IMP;benign;report069
+TRUE;OBS-U;OBS-U;oldukları düşünülen;report069
+TRUE;OBS-P;OBS-P;reaktif görünümlü;report069
+TRUE;OBS-P;OBS-P;lenf nodları;report069
+TRUE;O;O;saptandı.;report069
+TRUE;OBS-P;OBS-P;Yoğun;report069
+TRUE;ANAT;ANAT;meme parankimi;report069
+TRUE;O;O;nedeniyle;report069
+TRUE;OBS-U;OBS-U;değerlendirme;report069
+TRUE;O;O;sınırlı düzeyde kalmıştır);report069
+TRUE;O;O;YORUM:;report069
+TRUE;OBS-P;OBS-P;Dens;report069
+TRUE;ANAT;ANAT;meme parankimi;report069
+TRUE;IMP;IMP;US korelasyonu önerilir;report069
+TRUE;IMP;IMP;BIRADS 0;report069
+TRUE;O;O;(HASTANIN SAĞ MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR);report069
+TRUE;O;O;Sağ memenin MLO ve CC mammogramları elde olunmuştur.;report070
+TRUE;ANAT;ANAT;Sağ meme parankimi;report070
+TRUE;OBS-P;OBS-P;dens;report070
+TRUE;OBS-P;OBS-P;Tip D;report070
+TRUE;ANAT;ANAT;meme;report070
+TRUE;OBS-P;OBS-P;görünümdedir;report070
+TRUE;ANAT;ANAT;Sağ memede;report070
+TRUE;OBS-A;OBS-A;belirgin sınır veren kitle, nodül;report070
+TRUE;O;O;saptanmadı.;report070
+TRUE;ANAT;ANAT;Sağ memede;report070
+TRUE;OBS-A;OBS-A;asimetrik doku dansitesi;report070
+TRUE;OBS-A;OBS-A;doku distorsiyonu;report070
+TRUE;O;O;izlenmedi.;report070
+TRUE;ANAT;ANAT;Sağ memede;report070
+TRUE;OBS-A;OBS-A;malignensi açısından şüphe uyandıran mikrokalsifikasyon kümesi;report070
+TRUE;O;O;mevcut değildir.;report070
+TRUE;O;O;Grafiye dahil olan;report070
+TRUE;ANAT;ANAT;sağ ön aksiller kesimde;report070
+TRUE;O;O;, grafiye kısmen dahil olan, muhtemelen;report070
+TRUE;IMP;IMP;benign;report070
+TRUE;OBS-U;OBS-U;olduğu düşünülen;report070
+TRUE;OBS-P;OBS-P;lenf nodu;report070
+TRUE;O;O;"saptandı.
+(";report070
+TRUE;OBS-P;OBS-P;Yoğun;report070
+TRUE;ANAT;ANAT;meme parankimi;report070
+TRUE;O;O;nedeniyle;report070
+TRUE;OBS-U;OBS-U;değerlendirme;report070
+TRUE;O;O;sınırlı düzeyde kalmıştır);report070
+TRUE;O;O;YORUM:;report070
+TRUE;OBS-P;OBS-P;Dens;report070
+TRUE;ANAT;ANAT;meme parankimi;report070
+TRUE;IMP;IMP;US korelasyonu önerilir;report070
+TRUE;IMP;IMP;BIRADS 0;report070
+TRUE;O;O;(HASTANIN SOL MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR);report070
+TRUE;O;O;Sağ memenin MLO ve CC mammogramları elde olunmuştur.;report071
+TRUE;ANAT;ANAT;Sağ meme parankimi;report071
+TRUE;OBS-P;OBS-P;heterojen dens;report071
+TRUE;OBS-P;OBS-P;Tip C;report071
+TRUE;ANAT;ANAT;meme;report071
+TRUE;OBS-P;OBS-P;görünümdedir;report071
+TRUE;OBS-P;OBS-P;Yoğun;report071
+TRUE;ANAT;ANAT;meme parankimi;report071
+TRUE;O;O;nedeniyle;report071
+TRUE;OBS-U;OBS-U;inceleme;report071
+TRUE;O;O;"sınırlı düzeyde kalmıştır. Değerlendirilebildiği kadarıyla;";report071
+TRUE;ANAT;ANAT;sağ memede;report071
+TRUE;ANAT;ANAT;periareolar bölgede;report071
+TRUE;IMP;IMP;geçirilmiş mastopeksiye sekonder;report071
+TRUE;OBS-P;OBS-P;hafif yapısal distorsiyon;report071
+TRUE;O;O;dikkati çekti.;report071
+TRUE;O;O;CC grafide;report071
+TRUE;OBS-P;OBS-P;orta-hafif dışta;report071
+TRUE;OBS-P;OBS-P;yerleşimli;report071
+TRUE;O;O;, MLO grafide demonstre edilemeyen ancak;report071
+TRUE;ANAT;ANAT;üst kesimde;report071
+TRUE;OBS-U;OBS-U;yerleşimli olduğu düşünülen;report071
+TRUE;O;O;, yaklaşık;report071
+TRUE;OBS-P;OBS-P;4 mm'lik alanda;report071
+TRUE;OBS-P;OBS-P;gruplaşmış;report071
+TRUE;OBS-P;OBS-P;silik;report071
+TRUE;OBS-P;OBS-P;hafif pleomorfizm gösteren;report071
+TRUE;OBS-P;OBS-P;mikrokalsifikasyon kümesi;report071
+TRUE;O;O;dikkati çekti.;report071
+TRUE;O;O;Grafiye dahil olan;report071
+TRUE;ANAT;ANAT;sağ ön aksiller kesimde;report071
+TRUE;O;O;, muhtemelen;report071
+TRUE;IMP;IMP;benign natürde;report071
+TRUE;OBS-U;OBS-U;oldukları düşünülen;report071
+TRUE;OBS-P;OBS-P;lenf nodları;report071
+TRUE;O;O;saptandı.;report071
+TRUE;O;O;YORUM:;report071
+TRUE;OBS-P;OBS-P;Heterojen dens;report071
+TRUE;ANAT;ANAT;meme parankimi;report071
+TRUE;IMP;IMP;geçirilmiş cerrahiye sekonder;report071
+TRUE;OBS-P;OBS-P;değişiklikler;report071
+TRUE;ANAT;ANAT;Sağ memede;report071
+TRUE;O;O;tanımlanan;report071
+TRUE;OBS-P;OBS-P;mikrokalsifikasyon kümesi;report071
+TRUE;IMP;IMP;Hastanın öncelikle meme MRG ile ileri tetkiki ve tanımlanan mikrokalsifikasyon alandan doku tanısı önerilir;report071
+TRUE;IMP;IMP;BIRADS IVA;report071
+TRUE;O;O;(HASTANIN SOL MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR);report071
+TRUE;O;O;Sol memenin MLO ve CC mammogramları elde olunmuştur.;report072
+TRUE;ANAT;ANAT;Sol meme parankimi;report072
+TRUE;OBS-P;OBS-P;heterojen dens;report072
+TRUE;OBS-P;OBS-P;Tip C;report072
+TRUE;ANAT;ANAT;meme;report072
+TRUE;OBS-P;OBS-P;görünümdedir;report072
+TRUE;OBS-P;OBS-P;Yoğun;report072
+TRUE;ANAT;ANAT;meme parankimi;report072
+TRUE;O;O;nedeniyle;report072
+TRUE;OBS-U;OBS-U;inceleme;report072
+TRUE;O;O;"sınırlı düzeyde kalmıştır. Değerlendirilebildiği kadarıyla;";report072
+TRUE;ANAT;ANAT;sol memede;report072
+TRUE;OBS-A;OBS-A;belirgin sınır veren kitle, nodül;report072
+TRUE;O;O;saptanmadı.;report072
+TRUE;ANAT;ANAT;Sol memede;report072
+TRUE;OBS-A;OBS-A;asimetrik doku dansitesi;report072
+TRUE;OBS-A;OBS-A;doku distorsiyonu;report072
+TRUE;O;O;izlenmedi.;report072
+TRUE;ANAT;ANAT;Sol memede;report072
+TRUE;OBS-A;OBS-A;malignensi açısından şüphe uyandıran mikrokalsifikasyon kümesi;report072
+TRUE;O;O;mevcut değildir.;report072
+TRUE;O;O;Grafiye dahil olan;report072
+TRUE;ANAT;ANAT;sol ön aksiller kesimde;report072
+TRUE;O;O;, muhtemelen;report072
+TRUE;IMP;IMP;benign natürde;report072
+TRUE;OBS-U;OBS-U;oldukları düşünülen;report072
+TRUE;OBS-P;OBS-P;lenf nodları;report072
+TRUE;O;O;izlenmiştir.;report072
+TRUE;O;O;10/10/2010 tarihli mammogramları ile karşılaştırıldığında;report072
+TRUE;OBS-A;OBS-A;anlamlı interval farklılık;report072
+TRUE;O;O;saptanmadı.;report072
+TRUE;O;O;YORUM:;report072
+TRUE;OBS-P;OBS-P;Heterojen dens;report072
+TRUE;ANAT;ANAT;meme parankimi;report072
+TRUE;IMP;IMP;US korelasyonu önerilir;report072
+TRUE;IMP;IMP;BIRADS 0;report072
+TRUE;O;O;(HASTANIN SAĞ MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR);report072
+TRUE;O;O;Sağ memenin MLO ve CC mammogramları elde olunmuştur.;report073
+TRUE;ANAT;ANAT;Sağ meme parankimi;report073
+TRUE;OBS-P;OBS-P;heterojen dens;report073
+TRUE;OBS-P;OBS-P;Tip C;report073
+TRUE;ANAT;ANAT;meme;report073
+TRUE;OBS-P;OBS-P;görünümdedir;report073
+TRUE;OBS-P;OBS-P;Yoğun;report073
+TRUE;ANAT;ANAT;meme parankimi;report073
+TRUE;O;O;nedeniyle;report073
+TRUE;OBS-U;OBS-U;inceleme;report073
+TRUE;O;O;"sınırlı düzeyde kalmıştır. Değerlendirilebildiği kadarıyla;";report073
+TRUE;ANAT;ANAT;sağ memede;report073
+TRUE;OBS-A;OBS-A;belirgin sınır veren kitle, nodül;report073
+TRUE;O;O;saptanmadı.;report073
+TRUE;ANAT;ANAT;Sağ memede;report073
+TRUE;OBS-A;OBS-A;asimetrik doku dansitesi;report073
+TRUE;OBS-A;OBS-A;doku distorsiyonu;report073
+TRUE;O;O;izlenmedi.;report073
+TRUE;ANAT;ANAT;Sağ memede;report073
+TRUE;OBS-A;OBS-A;malignensi açısından şüphe uyandıran mikrokalsifikasyon kümesi;report073
+TRUE;O;O;mevcut değildir.;report073
+TRUE;O;O;Grafiye dahil olan;report073
+TRUE;ANAT;ANAT;sağ ön aksiller kesimde;report073
+TRUE;OBS-A;OBS-A;lenf nodu;report073
+TRUE;O;O;izlenmedi.;report073
+TRUE;O;O;10/12/2012 tarihli mammogramları ile karşılaştırıldığında;report073
+TRUE;OBS-A;OBS-A;anlamlı interval farklılık;report073
+TRUE;O;O;saptanmadı.;report073
+TRUE;O;O;YORUM:;report073
+TRUE;OBS-P;OBS-P;Heterojen dens;report073
+TRUE;ANAT;ANAT;meme parankimi;report073
+TRUE;IMP;IMP;US korelasyonu önerilir;report073
+TRUE;IMP;IMP;BIRADS 0;report073
+TRUE;O;O;(HASTANIN SOL MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR);report073
+TRUE;O;O;Sağ memenin MLO ve CC mammogramları elde olunmuştur.;report074
+TRUE;ANAT;ANAT;Sağ meme parankimi;report074
+TRUE;OBS-P;OBS-P;minimal dens;report074
+TRUE;OBS-P;OBS-P;Tip B;report074
+TRUE;ANAT;ANAT;meme;report074
+TRUE;OBS-P;OBS-P;görünümdedir;report074
+TRUE;ANAT;ANAT;Sağ memede;report074
+TRUE;ANAT;ANAT;üst-iç kadranda;report074
+TRUE;O;O;yaklaşık;report074
+TRUE;OBS-P;OBS-P;12 mm çaplı;report074
+TRUE;OBS-P;OBS-P;düşük dansiteli nodüler lezyon;report074
+TRUE;O;O;la birlikte CC mamogramda;report074
+TRUE;ANAT;ANAT;retroareolar bölgede;report074
+TRUE;OBS-P;OBS-P;5 mm çaplı;report074
+TRUE;OBS-P;OBS-P;düşük dansiteli nodüler lezyon;report074
+TRUE;OBS-U;OBS-U;varlığından şüphe edildi;report074
+TRUE;ANAT;ANAT;Üst dış kadranda;report074
+TRUE;O;O;yaklaşık;report074
+TRUE;OBS-P;OBS-P;8 mm uzunluğunda;report074
+TRUE;ANAT;ANAT;bir alanda;report074
+TRUE;OBS-P;OBS-P;makro ve mikrokalsifikasyonların kümelendiği;report074
+TRUE;O;O;izlenmiş olup hastanın mevcut son 2019 tarihli mamogram ile karşılaştırıldığında;report074
+TRUE;OBS-P;OBS-P;mikrokalsifikasyon komponentinde;report074
+TRUE;IMP;IMP;artış;report074
+TRUE;O;O;dikkati çekti.;report074
+FALSE;O;ANAT;Bu sebeple;report074
+TRUE;ANAT;ANAT;tanımlanan alanın;report074
+TRUE;IMP;IMP;işaretlemeyi takiben eksizyonu önerilir;report074
+TRUE;ANAT;ANAT;Sağ memede;report074
+TRUE;OBS-A;OBS-A;doku distorsiyonu;report074
+TRUE;O;O;izlenmedi.;report074
+TRUE;O;O;Grafiye dahil olan;report074
+TRUE;ANAT;ANAT;sağ ön aksiller kesimde;report074
+TRUE;O;O;, muhtemelen;report074
+TRUE;IMP;IMP;benign;report074
+TRUE;OBS-U;OBS-U;oldukları düşünülen;report074
+TRUE;OBS-P;OBS-P;milimetrik çaplı lenf nodları;report074
+TRUE;O;O;saptandı.;report074
+TRUE;O;O;YORUM:;report074
+TRUE;ANAT;ANAT;Sağ memede;report074
+TRUE;OBS-P;OBS-P;nodüler lezyonlar;report074
+TRUE;IMP;IMP;US korelasyonu önerilir;report074
+TRUE;IMP;IMP;BIRDS 0;report074
+TRUE;ANAT;ANAT;Sağ memede;report074
+TRUE;IMP;IMP;bu tetkikte sayılarında artış;report074
+TRUE;O;O;saptanan;report074
+TRUE;OBS-P;OBS-P;mikro ve makrokalsifikasyon alanı;report074
+TRUE;IMP;IMP;İşaretlemeyi takiben eksizyonu önerilir.;report074
+TRUE;IMP;IMP;BIRADS 4A;report074
+TRUE;O;O;(HASTANIN SOL MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR);report074
+TRUE;O;O;Sağ memenin MLO ve CC mammogramları elde olunmuştur.;report075
+TRUE;ANAT;ANAT;Sağ meme parankimi;report075
+TRUE;OBS-P;OBS-P;dens;report075
+TRUE;OBS-P;OBS-P;Tip C;report075
+TRUE;ANAT;ANAT;meme;report075
+TRUE;OBS-P;OBS-P;görünümdedir;report075
+TRUE;ANAT;ANAT;Sağ memede;report075
+TRUE;OBS-A;OBS-A;belirgin sınır veren kitle, nodül;report075
+TRUE;O;O;saptanmadı.;report075
+TRUE;ANAT;ANAT;Sağ memede;report075
+TRUE;OBS-A;OBS-A;asimetrik doku dansitesi;report075
+TRUE;OBS-A;OBS-A;doku distorsiyonu;report075
+TRUE;O;O;izlenmedi.;report075
+TRUE;ANAT;ANAT;Sağ memede;report075
+TRUE;OBS-A;OBS-A;malignensi açısından şüphe uyandıran mikrokalsifikasyon kümesi;report075
+TRUE;O;O;mevcut değildir.;report075
+TRUE;O;O;Grafiye dahil olan;report075
+TRUE;ANAT;ANAT;sağ ön aksiller kesimde;report075
+TRUE;OBS-A;OBS-A;lenf nodu;report075
+TRUE;O;O;saptanmadı.;report075
+TRUE;O;O;YORUM:;report075
+TRUE;OBS-P;OBS-P;Dens;report075
+TRUE;ANAT;ANAT;meme parankimi;report075
+TRUE;IMP;IMP;US korelasyonu önerilir;report075
+TRUE;IMP;IMP;BIRADS 0;report075
+TRUE;O;O;(HASTANIN SOL MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR);report075
+TRUE;O;O;Sol memenin MLO ve CC mammogramları elde olunmuştur.;report076
+TRUE;ANAT;ANAT;Sol meme parankimi;report076
+TRUE;OBS-P;OBS-P;minimal dens;report076
+TRUE;OBS-P;OBS-P;Tip B;report076
+TRUE;ANAT;ANAT;meme;report076
+TRUE;OBS-P;OBS-P;görünümdedir;report076
+TRUE;ANAT;ANAT;Sol memede;report076
+TRUE;OBS-A;OBS-A;belirgin sınır veren kitle, nodül;report076
+TRUE;O;O;saptanmadı.;report076
+TRUE;ANAT;ANAT;Sol memede;report076
+TRUE;OBS-A;OBS-A;asimetrik doku dansitesi;report076
+TRUE;OBS-A;OBS-A;doku distorsiyonu;report076
+TRUE;O;O;izlenmedi.;report076
+TRUE;ANAT;ANAT;Sol memede;report076
+TRUE;OBS-A;OBS-A;malignensi açısından şüphe uyandıran mikrokalsifikasyon kümesi;report076
+TRUE;O;O;mevcut değildir.;report076
+TRUE;O;O;Grafiye dahil olan;report076
+TRUE;ANAT;ANAT;sol ön aksiller kesimde;report076
+TRUE;O;O;, muhtemelen;report076
+TRUE;IMP;IMP;benign;report076
+TRUE;OBS-U;OBS-U;oldukları düşünülen;report076
+TRUE;OBS-P;OBS-P;milimetrik çaplı;report076
+TRUE;OBS-P;OBS-P;reaktif görünümlü;report076
+TRUE;OBS-P;OBS-P;lenf nodları;report076
+TRUE;O;O;saptandı.;report076
+TRUE;O;O;YORUM:;report076
+TRUE;OBS-P;OBS-P;Normal sınırlarda;report076
+TRUE;ANAT;ANAT;sol;report076
+TRUE;OBS-P;OBS-P;dijital mammografi;report076
+TRUE;IMP;IMP;BIRADS I;report076
+TRUE;O;O;(HASTANIN SAĞ MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR);report076
+TRUE;O;O;Sol memenin MLO ve CC mammogramları elde olunmuştur.;report077
+TRUE;ANAT;ANAT;Sol meme parankimi;report077
+TRUE;OBS-P;OBS-P;dens;report077
+TRUE;OBS-P;OBS-P;Tip C;report077
+TRUE;ANAT;ANAT;meme;report077
+TRUE;OBS-P;OBS-P;görünümdedir;report077
+TRUE;ANAT;ANAT;Sol memede;report077
+TRUE;O;O;CC mamogramda;report077
+TRUE;ANAT;ANAT;dış kesimde;report077
+TRUE;O;O;yaklaşık;report077
+TRUE;OBS-P;OBS-P;4 mm çaplı;report077
+TRUE;ANAT;ANAT;bir alanda;report077
+TRUE;OBS-P;OBS-P;minimal;report077
+TRUE;OBS-P;OBS-P;pleomorfizmde izlendiği mikrokalsifikasyonların;report077
+TRUE;OBS-P;OBS-P;kümelendiği;report077
+TRUE;O;O;dikkati çekti.;report077
+TRUE;OBS-P;OBS-P;Tanımlanan alanın;report077
+TRUE;O;O;MLO mamogramda;report077
+TRUE;ANAT;ANAT;retroareolar bölgede;report077
+TRUE;OBS-P;OBS-P;lokalize olduğu;report077
+TRUE;O;O;dikkati çekti. Hastanın;report077
+TRUE;OBS-A;OBS-A;eski filmleri;report077
+TRUE;O;O;olmadığı için;report077
+TRUE;OBS-A;OBS-A;korelasyon;report077
+TRUE;O;O;yapılamadı.;report077
+TRUE;ANAT;ANAT;Bu alanın;report077
+TRUE;IMP;IMP;işaretlemeyi takiben eksizyonu önerilir;report077
+TRUE;OBS-A;OBS-A;Belirgin kitle, nodül;report077
+TRUE;O;O;saptanmadı.;report077
+TRUE;ANAT;ANAT;Sol memede;report077
+TRUE;OBS-A;OBS-A;doku distorsiyonu;report077
+TRUE;O;O;izlenmedi.;report077
+TRUE;O;O;Grafiye dahil olan;report077
+TRUE;ANAT;ANAT;sol ön aksiller kesimde;report077
+TRUE;O;O;, muhtemelen;report077
+TRUE;IMP;IMP;benign;report077
+TRUE;OBS-U;OBS-U;oldukları düşünülen;report077
+TRUE;OBS-P;OBS-P;reaktif görünümlü;report077
+TRUE;OBS-P;OBS-P;lenf nodları;report077
+TRUE;O;O;saptandı.;report077
+TRUE;O;O;YORUM:;report077
+TRUE;OBS-P;OBS-P;Dens;report077
+TRUE;ANAT;ANAT;meme parankimi;report077
+TRUE;IMP;IMP;US korelasyonu önerilir;report077
+TRUE;IMP;IMP;BIRADS 0;report077
+TRUE;ANAT;ANAT;Sol memede;report077
+TRUE;IMP;IMP;işaretlemeyi takiben eksizyonu önerilen;report077
+TRUE;OBS-P;OBS-P;mikrokalsifikasyon kümesi;report077
+TRUE;IMP;IMP;BIRADS 4B;report077
+TRUE;O;O;(HASTANIN SAĞ MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR);report077
+TRUE;O;O;Sol memenin MLO ve CC mammogramları elde olunmuştur.;report078
+TRUE;ANAT;ANAT;Sol meme parankimi;report078
+TRUE;OBS-P;OBS-P;dens;report078
+TRUE;OBS-P;OBS-P;Tip D;report078
+TRUE;ANAT;ANAT;meme;report078
+TRUE;OBS-P;OBS-P;görünümdedir;report078
+TRUE;ANAT;ANAT;Sol memede;report078
+TRUE;OBS-A;OBS-A;belirgin sınır veren kitle, nodül;report078
+TRUE;O;O;saptanmadı.;report078
+TRUE;ANAT;ANAT;Sol memede;report078
+TRUE;OBS-A;OBS-A;asimetrik doku dansitesi;report078
+TRUE;OBS-A;OBS-A;doku distorsiyonu;report078
+TRUE;O;O;izlenmedi.;report078
+TRUE;ANAT;ANAT;Sol memede;report078
+TRUE;OBS-A;OBS-A;malignensi açısından şüphe uyandıran mikrokalsifikasyon kümesi;report078
+TRUE;O;O;mevcut değildir.;report078
+TRUE;O;O;Grafiye dahil olan;report078
+TRUE;ANAT;ANAT;sol ön aksiller kesimde;report078
+TRUE;OBS-A;OBS-A;lenf nodu;report078
+TRUE;O;O;saptanmadı.;report078
+TRUE;OBS-P;OBS-P;Yoğun;report078
+TRUE;ANAT;ANAT;meme parankimi;report078
+TRUE;O;O;nedeniyle;report078
+TRUE;OBS-U;OBS-U;değerlendirme;report078
+TRUE;O;O;sınırlı düzeyde kalmıştır);report078
+TRUE;O;O;YORUM:;report078
+TRUE;OBS-P;OBS-P;Dens;report078
+TRUE;ANAT;ANAT;meme parankimi;report078
+TRUE;IMP;IMP;US korelasyonu önerilir;report078
+TRUE;IMP;IMP;BIRADS 0;report078
+TRUE;O;O;(HASTANIN SAĞ MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR);report078
+TRUE;O;O;Sağ memenin MLO ve CC mammogramları elde olunmuştur.;report079
+TRUE;ANAT;ANAT;Sağ meme parankimi;report079
+TRUE;OBS-P;OBS-P;dens;report079
+TRUE;OBS-P;OBS-P;Tip D;report079
+TRUE;ANAT;ANAT;meme;report079
+TRUE;OBS-P;OBS-P;görünümdedir;report079
+TRUE;ANAT;ANAT;Sağ memede;report079
+TRUE;OBS-A;OBS-A;belirgin sınır veren kitle, nodül;report079
+TRUE;O;O;saptanmadı.;report079
+TRUE;ANAT;ANAT;Sağ memede;report079
+TRUE;OBS-A;OBS-A;asimetrik doku dansitesi;report079
+TRUE;OBS-A;OBS-A;doku distorsiyonu;report079
+TRUE;O;O;izlenmedi.;report079
+TRUE;ANAT;ANAT;Sağ memede;report079
+TRUE;OBS-A;OBS-A;malignensi açısından şüphe uyandıran mikrokalsifikasyon kümesi;report079
+TRUE;O;O;mevcut değildir.;report079
+TRUE;O;O;Grafiye dahil olan;report079
+TRUE;ANAT;ANAT;sağ ön aksiller kesimde;report079
+TRUE;O;O;,  grafiye kısmen dahil olan, muhtemelen;report079
+TRUE;IMP;IMP;benign;report079
+TRUE;OBS-U;OBS-U;oldukları düşünülen;report079
+TRUE;OBS-P;OBS-P;lenf nodları;report079
+TRUE;O;O;saptandı.;report079
+TRUE;O;O;(Yoğun;report079
+TRUE;OBS-P;OBS-P;meme parankimi;report079
+TRUE;O;O;nedeniyle;report079
+TRUE;OBS-U;OBS-U;değerlendirme;report079
+TRUE;O;O;sınırlı düzeyde kalmıştır);report079
+TRUE;O;O;YORUM:;report079
+TRUE;OBS-P;OBS-P;Dens;report079
+TRUE;ANAT;ANAT;meme parankimi;report079
+TRUE;IMP;IMP;US korelasyonu önerilir;report079
+TRUE;IMP;IMP;BIRADS 0;report079
+TRUE;O;O;(HASTANIN SOL MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR);report079
+TRUE;O;O;Sol memenin MLO ve CC mammogramları elde olunmuştur.;report080
+TRUE;ANAT;ANAT;Sol meme parankimi;report080
+TRUE;OBS-P;OBS-P;dens;report080
+TRUE;OBS-P;OBS-P;Tip D;report080
+TRUE;ANAT;ANAT;meme;report080
+TRUE;OBS-P;OBS-P;görünümdedir;report080
+TRUE;ANAT;ANAT;Sol memede;report080
+TRUE;OBS-A;OBS-A;belirgin sınır veren kitle, nodül;report080
+TRUE;O;O;saptanmadı.;report080
+TRUE;ANAT;ANAT;Sol memede;report080
+TRUE;OBS-A;OBS-A;asimetrik doku dansitesi;report080
+TRUE;OBS-A;OBS-A;doku distorsiyonu;report080
+TRUE;O;O;izlenmedi.;report080
+TRUE;ANAT;ANAT;Sol memede;report080
+TRUE;OBS-A;OBS-A;malignensi açısından şüphe uyandıran mikrokalsifikasyon kümesi;report080
+TRUE;O;O;mevcut değildir.;report080
+TRUE;O;O;Grafiye dahil olan;report080
+TRUE;ANAT;ANAT;sol ön aksiller kesimde;report080
+TRUE;O;O;, grafiye kısmen dahil olan, muhtemelen;report080
+TRUE;IMP;IMP;benign;report080
+TRUE;OBS-U;OBS-U;olduğu düşünülen;report080
+TRUE;OBS-P;OBS-P;lenf nodu;report080
+TRUE;O;O;saptandı.;report080
+TRUE;OBS-P;OBS-P;Yoğun;report080
+TRUE;ANAT;ANAT;meme parankimi;report080
+TRUE;O;O;nedeniyle;report080
+TRUE;OBS-U;OBS-U;değerlendirme;report080
+TRUE;O;O;sınırlı düzeyde kalmıştır);report080
+TRUE;O;O;YORUM:;report080
+TRUE;OBS-P;OBS-P;Dens;report080
+TRUE;ANAT;ANAT;meme parankimi;report080
+TRUE;IMP;IMP;US korelasyonu önerilir;report080
+TRUE;IMP;IMP;BIRADS 0;report080
+TRUE;O;O;(HASTANIN SAĞ MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR);report080
+TRUE;O;O;Sağ memenin MLO ve CC mammogramları elde olunmuştur.;report081
+TRUE;ANAT;ANAT;Sağ meme parankimi;report081
+TRUE;OBS-P;OBS-P;dens;report081
+TRUE;OBS-P;OBS-P;Tip D;report081
+TRUE;ANAT;ANAT;meme;report081
+TRUE;OBS-P;OBS-P;görünümdedir;report081
+TRUE;ANAT;ANAT;Sağ memede;report081
+TRUE;OBS-A;OBS-A;belirgin sınır veren kitle, nodül;report081
+TRUE;O;O;saptanmadı.;report081
+TRUE;ANAT;ANAT;Sağ memede;report081
+TRUE;OBS-A;OBS-A;asimetrik doku dansitesi;report081
+TRUE;OBS-A;OBS-A;doku distorsiyonu;report081
+TRUE;O;O;izlenmedi.;report081
+TRUE;ANAT;ANAT;Sağ memede;report081
+TRUE;OBS-A;OBS-A;malignensi açısından şüphe uyandıran mikrokalsifikasyon kümesi;report081
+TRUE;O;O;mevcut değildir.;report081
+TRUE;O;O;Grafiye dahil olan;report081
+TRUE;ANAT;ANAT;sağ ön aksiller kesimde;report081
+TRUE;OBS-A;OBS-A;lenf nodu;report081
+TRUE;O;O;saptanmadı.;report081
+TRUE;OBS-P;OBS-P;Yoğun;report081
+TRUE;ANAT;ANAT;meme parankimi;report081
+TRUE;O;O;nedeniyle;report081
+TRUE;OBS-U;OBS-U;değerlendirme;report081
+TRUE;O;O;sınırlı düzeyde kalmıştır);report081
+TRUE;O;O;YORUM:;report081
+TRUE;OBS-P;OBS-P;Dens;report081
+TRUE;ANAT;ANAT;meme parankimi;report081
+TRUE;IMP;IMP;US korelasyonu önerilir;report081
+TRUE;IMP;IMP;BIRADS 0;report081
+TRUE;O;O;(HASTANIN SOL MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR);report081
+TRUE;O;O;Sol memenin MLO ve CC mammogramları elde olunmuştur.;report082
+TRUE;ANAT;ANAT;Sol memede;report082
+TRUE;OBS-P;OBS-P;dağınık fibroglandüler dansiteler;report082
+TRUE;O;O;izlenmiştir (;report082
+TRUE;OBS-P;OBS-P;Tip B;report082
+TRUE;ANAT;ANAT;meme;report082
+TRUE;ANAT;ANAT;Sol memede;report082
+TRUE;OBS-A;OBS-A;belirgin sınır veren kitle, nodül;report082
+TRUE;O;O;saptanmadı.;report082
+TRUE;ANAT;ANAT;Sol memede;report082
+TRUE;OBS-A;OBS-A;asimetrik doku dansitesi;report082
+TRUE;OBS-A;OBS-A;doku distorsiyonu;report082
+TRUE;O;O;izlenmedi.;report082
+TRUE;ANAT;ANAT;Sol memede;report082
+TRUE;OBS-A;OBS-A;malignensi açısından şüphe uyandıran mikrokalsifikasyon kümesi;report082
+TRUE;O;O;mevcut değildir.;report082
+TRUE;O;O;Grafiye dahil olan;report082
+TRUE;ANAT;ANAT;sol ön aksiller kesimde;report082
+TRUE;O;O;, muhtemelen;report082
+TRUE;IMP;IMP;benign natürde;report082
+TRUE;OBS-U;OBS-U;oldukları düşünülen;report082
+TRUE;OBS-P;OBS-P;lenf nodları;report082
+TRUE;ANAT;ANAT;cilt;report082
+TRUE;OBS-P;OBS-P;lezyonuna ait görünüm;report082
+TRUE;O;O;dikkati çekti.;report082
+TRUE;O;O;09.09.2019 tarihli;report082
+FALSE;O;ANAT;sol;report082
+TRUE;O;O;mamogramları ile;report082
+TRUE;OBS-A;OBS-A;anlamlı interval farklılık;report082
+TRUE;O;O;saptanmamıştır.;report082
+TRUE;O;O;YORUM:;report082
+TRUE;OBS-P;OBS-P;Normal sınırlarda;report082
+TRUE;ANAT;ANAT;sol;report082
+TRUE;OBS-P;OBS-P;dijital mammografi;report082
+TRUE;IMP;IMP;BIRADS I;report082
+TRUE;O;O;(HASTANIN SAĞ MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR);report082
+TRUE;O;O;Sağ memenin MLO ve CC mammogramları elde olunmuştur.;report083
+TRUE;ANAT;ANAT;Sağ memede;report083
+TRUE;OBS-P;OBS-P;dağınık fibroglandüler dansiteler;report083
+TRUE;O;O;izlenmiştir (;report083
+TRUE;OBS-P;OBS-P;Tip B;report083
+TRUE;ANAT;ANAT;meme;report083
+TRUE;ANAT;ANAT;Sağ memede;report083
+TRUE;OBS-A;OBS-A;belirgin sınır veren kitle, nodül;report083
+TRUE;O;O;saptanmadı.;report083
+TRUE;ANAT;ANAT;Sağ memede;report083
+TRUE;OBS-A;OBS-A;asimetrik doku dansitesi;report083
+TRUE;OBS-A;OBS-A;doku distorsiyonu;report083
+TRUE;O;O;izlenmedi.;report083
+TRUE;ANAT;ANAT;Sağ memede;report083
+TRUE;OBS-A;OBS-A;malignensi açısından şüphe uyandıran mikrokalsifikasyon kümesi;report083
+TRUE;O;O;mevcut değildir.;report083
+TRUE;O;O;Grafiye dahil olan;report083
+TRUE;ANAT;ANAT;sağ ön aksiller kesimde;report083
+TRUE;O;O;, muhtemelen;report083
+TRUE;IMP;IMP;benign natürde;report083
+TRUE;OBS-U;OBS-U;oldukları düşünülen;report083
+TRUE;OBS-P;OBS-P;lenf nodları;report083
+TRUE;O;O;saptandı.;report083
+TRUE;O;O;22/09/2019 tarihli mamogramları ile karşılaştırıldığında;report083
+TRUE;OBS-A;OBS-A;malignite lehine anlamlı interval farklılık;report083
+TRUE;O;O;saptanmamıştır.;report083
+TRUE;O;O;YORUM:;report083
+TRUE;OBS-P;OBS-P;Normal sınırlarda;report083
+TRUE;ANAT;ANAT;sağ;report083
+TRUE;OBS-P;OBS-P;dijital mammografi;report083
+TRUE;IMP;IMP;BIRADS I;report083
+TRUE;O;O;(HASTANIN SOL MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR);report083
+TRUE;O;O;Sağ memenin MLO ve CC mammogramları elde olunmuştur.;report084
+TRUE;ANAT;ANAT;Sağ meme parankimi;report084
+TRUE;OBS-P;OBS-P;dens;report084
+TRUE;OBS-P;OBS-P;Tip C;report084
+TRUE;ANAT;ANAT;meme;report084
+TRUE;OBS-P;OBS-P;görünümdedir;report084
+TRUE;ANAT;ANAT;Sağ memede;report084
+TRUE;OBS-A;OBS-A;belirgin sınır veren kitle, nodül;report084
+TRUE;O;O;saptanmadı.;report084
+TRUE;ANAT;ANAT;Sağ memede;report084
+TRUE;OBS-A;OBS-A;asimetrik doku dansitesi;report084
+TRUE;OBS-A;OBS-A;doku distorsiyonu;report084
+TRUE;O;O;izlenmedi.;report084
+TRUE;ANAT;ANAT;Sağ memede;report084
+TRUE;OBS-A;OBS-A;malignensi açısından şüphe uyandıran mikrokalsifikasyon kümesi;report084
+TRUE;O;O;mevcut değildir.;report084
+TRUE;O;O;Grafiye dahil olan;report084
+TRUE;ANAT;ANAT;sağ ön aksiller foldda;report084
+TRUE;O;O;, grafiye kısmen dahil olan;report084
+TRUE;OBS-P;OBS-P;reaktif görünümlü lenf nodları;report084
+TRUE;O;O;saptandı.;report084
+TRUE;O;O;YORUM:;report084
+TRUE;OBS-P;OBS-P;Dens;report084
+TRUE;ANAT;ANAT;meme parankimi;report084
+TRUE;IMP;IMP;US korelasyonu önerilir;report084
+TRUE;IMP;IMP;BIRADS 0;report084
+TRUE;O;O;(HASTANIN SOL MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR);report084
+TRUE;O;O;Sağ memenin MLO ve CC mammogramları elde olunmuştur.;report085
+TRUE;ANAT;ANAT;Sağ meme parankimi;report085
+TRUE;OBS-P;OBS-P;heterojen dens;report085
+TRUE;OBS-P;OBS-P;Tip C;report085
+TRUE;ANAT;ANAT;meme;report085
+TRUE;OBS-P;OBS-P;görünümdedir;report085
+TRUE;ANAT;ANAT;Sağ memede;report085
+TRUE;OBS-A;OBS-A;belirgin sınır veren kitle, nodül;report085
+TRUE;O;O;saptanmadı.;report085
+TRUE;ANAT;ANAT;Sağ memede;report085
+TRUE;O;O;MLO grafide;report085
+TRUE;ANAT;ANAT;üst kadranda;report085
+TRUE;OBS-P;OBS-P;asimetrik dansite artışı;report085
+TRUE;O;O;izlenmektedir.;report085
+TRUE;ANAT;ANAT;Sağ memede;report085
+TRUE;OBS-A;OBS-A;asimetrik doku dansitesi;report085
+TRUE;OBS-A;OBS-A;doku distorsiyonu;report085
+TRUE;O;O;izlenmedi.;report085
+TRUE;ANAT;ANAT;Sağ memede;report085
+TRUE;OBS-A;OBS-A;malignensi açısından şüphe uyandıran mikrokalsifikasyon kümesi;report085
+TRUE;O;O;mevcut değildir.;report085
+TRUE;O;O;Grafiye dahil olan;report085
+TRUE;ANAT;ANAT;sağ ön aksiller kesimde;report085
+TRUE;O;O;, muhtemelen;report085
+TRUE;IMP;IMP;benign;report085
+TRUE;OBS-U;OBS-U;oldukları düşünülen;report085
+TRUE;OBS-P;OBS-P;eliptik şekilli lenf nodları;report085
+TRUE;O;O;saptandı.;report085
+TRUE;O;O;YORUM:;report085
+TRUE;OBS-P;OBS-P;Heterojen dens;report085
+TRUE;ANAT;ANAT;meme parankimi;report085
+TRUE;IMP;IMP;US korelasyonu önerilir;report085
+TRUE;IMP;IMP;BIRADS 0;report085
+TRUE;ANAT;ANAT;Sağ meme;report085
+TRUE;ANAT;ANAT;üst kadranda;report085
+TRUE;OBS-P;OBS-P;asimetrik dansite artışı;report085
+TRUE;IMP;IMP;BIRADS III;report085
+TRUE;IMP;IMP;Meme USG ile birlikte değerlendirildiğinde asimetrik meme parankimi ile uyumludur;report085
+TRUE;O;O;(HASTANIN SOL MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR);report085
