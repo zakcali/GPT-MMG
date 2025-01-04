@@ -29,3 +29,4 @@ you need to edit delay routine to not to throttle the api but it may still throt
 ```
 await new Promise(resolve => setTimeout(resolve, 60 * 1000)); // Delay
 ```
+you can directly paste contents of th file to the https://aistudio.google.com/ ans see the results
