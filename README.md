@@ -29,4 +29,4 @@ you need to edit delay routine to not to throttle the api but it may still throt
 ```
 await new Promise(resolve => setTimeout(resolve, 60 * 1000)); // Delay
 ```
-you can directly paste contents of the "ai-studio prompt.txt" file to the https://aistudio.google.com/ and see the tagged output one report at a time. note you must save the output as an html file, by adding ".html" extension, and see the result in a browser.
+you can directly paste contents of the "ai-studio prompt.txt" file to the https://aistudio.google.com/ and see the tagged output one report at a time. Note: you must save the output as an html file, by adding ".html" extension, and see the result in a browser.
