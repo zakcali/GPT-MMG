@@ -13,6 +13,10 @@ copy contents of the "test-reports" folder to the "reports"
 
 Run the program by typing:
 ```
-node test-mme.js
+node test-mmg-1206.js
 ```
 find the tagged html reports in "outputs" folder
+
+note: you can use experimental models without paying for them, look for the url: https://ai.google.dev/gemini-api/docs/models/experimental-models
+
+current experimental model is: gemini-exp-1206
