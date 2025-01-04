@@ -3,6 +3,8 @@ GPT-NER for MMG reports
 
 nodejs program to send mmg-reports and receive tagged outputs
 
+you must define enviromental variable GEMINI_API_KEY, which you obtain from google-ai-studio
+
 Install the libraries by entering the following command in the keyboard:
 ```
 npm install @google/generative-ai
