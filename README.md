@@ -22,3 +22,8 @@ find the tagged html reports in "outputs" folder
 note: you can use experimental models without paying for them, look for the url: https://ai.google.dev/gemini-api/docs/models/experimental-models
 
 current experimental model is: gemini-exp-1206
+
+you need to edit delay routine to not to throttle the api
+```
+await new Promise(resolve => setTimeout(resolve, 60 * 1000)); // Delay
+```
