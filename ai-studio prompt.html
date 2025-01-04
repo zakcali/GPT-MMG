@@ -1,0 +1,1208 @@
+### Task
+Your task is to generate an HTML version of a mammography reports, marking up specific healthcare-related entities. The entities to be identified are: "anatomy", "observation-present", "observation-absent", "observation-uncertain", and "impression". Use HTML <span></span> tags to highlight these entities, each with a class attribute indicating the type of the entity.
+Output Format:
+Always provide the output as an HTML code snippet enclosed within a code snippet window. Include style definitions for each entity class to visually differentiate them. Do not output as plain text.
+
+When rendering the output, be sure to preserve the line breaks from the input text by including <br> tags after each line. This ensures the original formatting is maintained in the output.
+Example:
+Input:
+This is line 1.
+This is line 2.
+Output:
+This is line 1.<br>
+This is line 2.<br>
+### Entity Definitions
+1- Anatomy (ANAT): This category denotes regions of the human body, specifically referencing anatomical areas or organs. Examples include, but are not limited to:
+* C1 (Cervikal first vertebra)
+* L1 (Lumbar first vertebra)
+* S1 (Sacral first vertebra)
+* T1 (Thoracal 1st vertebra)
+* akciğer (lung)
+* aksilla (axilla)
+* aksiller kuyruk (axillary tail)
+* aksiyel düzlemde (in the axial plane)
+* alan (area)
+* alanda (in the ... area)
+* alt dış kadranda (in the lower outer quadrant)
+* alt iç kadranda (in the lower inner quadrant)
+* aortopulmoner lokalizasyon (aortopulmonary location)
+* apikal (apex)
+* arasındaki (between)
+* baş-boyun (head and neck)
+* bezinde (in the gland)
+* bilateral (bilateral)
+* bir alanda (in an area)
+* birleşkesi düzeyinde (at the level of the junction)
+* bölgesi (region of)
+* bu düzeyde (at this level)
+* cidar (wall)
+* cilt (skin)
+* cilt-cilt altı doku (skin-subcutaneous tissue)
+* dış kesimde (in the outer region)
+* duvar (wall)
+* düzeyinde (at the level of)
+* düzeyine uyan konumda (in a position corresponding to the level of)
+* ekstratorasik (extrathoracic)
+* end plate (endplate of a vertebra)
+* fissür (fissure in the lung)
+* fold (fold)
+* foldda (in the fold)
+* grafiye dahil olan kesimi (within the included section of the image)
+* her iki (both, referring to paired organs or structures)
+* hilus (hilum of the lung)
+* hiler düzeyler (hilar levels)
+* iç kesimde (in the inner region)
+* içerisinde (winthin the, inside of)
+* ile arasındaki planlar (the planes between)
+* interlobuler (interlobular)
+* intersisyel (interstitial)
+* intralober (intralobar)
+* kas-iskelet sistemi (musculoskeletal system)
+* kemik yapılarda (in bone structures)
+* kemik iliği (bone marrow)
+* kesiminde (section)
+* komşuluğunda (in the vicinity of, adjacent to)
+* korakoid proçes (coracoid process)
+* koronal düzlem (coronal plane)
+* korteks (cortical area)
+* lümen (lumen)
+* lümeninde (in the lumen of)
+* lümen içi (in the lumen of)
+* mastektomi loju (mastectomy site)
+* mediasten (mediastinum)
+* meme (breast)
+* meme başı (nipple)
+* meme içi (intramammary)
+* meme parankimi (breast parenchyma)
+* orta yarıda (mid region)
+* parankim alanları (parenchymal areas)
+* parankim/parenkim/parankimal/parankimde (parenchyma, functional tissue of an organ)
+* pektoral kas (pectoralis muscle)
+* periferal lokalizasyon (peripheral location)
+* perifere (to the periphery)
+* periferinde (at the periphery of)
+* planlar (planes)
+* posteriorunda (in the posterior)
+* pulmoner (pulmonary)
+* retroareolar bölge (retroareolar region)
+* sagital düzlem (sagittal plane)
+* santral (central)
+* santral pulmoner arter (central pulmonary artery)
+* santralinde (in the central part)
+* sağ (right)
+* sağda (on the right side / in the right side)
+* segmentektomi lojunda (surrounding regions of the segmentectomy)
+* segmenter (segmental)
+* sentırlobüler (centrilobular)
+* sentrilobüler (centrilobular)
+* servikal zincir (cervical chain)
+* seviye 4 (level 4)
+* skapula (scapula)
+* solda (on the left side / in the left side)
+* sternum (sternum)
+* subplevral (subpleural)
+* subsegmenter (subsegmental )
+* supraklaviküler alan (supraclavicular area)
+* tiroid (thyroid)
+* tiroid bezi (thyroid gland)
+* timik (thymic)
+* torakal (thoracic)
+* torasik aorta (thoracic aorta)
+* transaksiyel düzlem (transaxial plane)
+* trase (course, tracing)
+* vertebra (vertebra)
+* unilateral (unilateral)
+* üst dış kadranda (in the upper outer quadrant)
+* üst iç kadranda (in the upper inner quadrant)
+* üzerine (over)
+* vertebra (vertebra)
+
+These terms identify specific anatomical locations within the body and are crucial for accurately describing findings in medical imaging reports.
+Additional Notes:
+Pay close attention to terms like "her iki" (both), which might seem generic but are essential for indicating the involvement of both sides of a paired organ or structure.
+This list is not exhaustive. Other anatomical terms may be present in the reports and should be marked as ANAT accordingly.
+
+2- Observations(OBS-P or OBS-A): This category encompasses specific findings, characteristics or medical devices observed in the medical report, including their descriptive modifiers. These modifiers provide crucial context about the observations, such as their quantity, prominence, distribution, or specific characteristics. Do not mark them inside an IMP tag. Examples include, but are not limited to:
+Medical Findings:
+* anevrizma (aneurysm)
+* apse (abscess)
+* aterom (atheromatous)
+* aterom plakları (atheromatous plaques)
+* ateroskleroz (atherosclerosis)
+* aterosklerotik değişiklikler (atherosclerotic changes)
+* bronşit (bronchitis)
+* bül (bulla)
+* bül formasyonu (bulla formation)
+* büllöz lezyonlar (bullous lesions)
+* çap artışı (dilatation)
+* dansite (density)
+* dansite artımları (density increases)
+* dansite artışları (density increases)
+* dansiteler (densities)
+* defekt (defect)
+* değişiklikler (changes)
+* deviyasyon (deviation)
+* distorsiyon (distortion)
+* dijital mammografi (digital mammography)
+* doku adacıkları (tissue islets)
+* doku distorsiyonu (distortion )
+* dolma defekti (filling defect)
+* effüzyon (effusion)
+* effüzyonlar (effusions)
+* efüzyon (effusion)
+* ektazi (ectasia)
+* enfeksiyon (infection)
+* enfektif (infectious)
+* fibroadenom (fibroadenoma)
+* fibrokistik hastalık (fibrocystic disease)
+* fibrozis alanları/fibrozis alanı (areas of fibrosis/area of fibrosis)
+* fizyolojik effüzyon (physiologic effusion)
+* formasyon (formation)
+* fragmantasyon (fragmentation)
+* glandüler doku (glandular tissue)
+* granülom (granuloma)
+* görünüm (view of, appearance)
+* görünümdedir (appears)
+* herni (hernia)
+* herniasyon (herniation)
+* infarkt alanları (areas of infarction)
+* infiltrasyon (infiltration)
+* imaj (image)
+* infiltrasyon (infiltration)
+* implant (implant)
+* implantlar (implant)
+* kabalaşma (coarsening)
+* kaçak (leakage)
+* kalınlaşma (thickening)
+* kalsifikasyon (calcification)
+* kalsifikasyonlar (calcifications)
+* kavitasyon (cavitation)
+* kırık (fracture)
+* kifoz (kyphosis)
+* kistik nekrotik yapı (cystic necrotic structure)
+* kitle (mass)
+* kollaps (collapsed)
+* kollabs (collapsed)
+* konglemere yapıda (conglomerated)
+* konjestif (congestive)
+* konjesyon (congestion)
+* konsolidasyon alanları (consolidation areas)
+* kortikal kalınlaşma (cortical thickening)
+* kümeleşme (clustering)
+* LAP (lymphadenopathy)
+* lenf nodu (lymph node)
+* lenf nodları (lymph nodes)
+* lenf nodlarında (in lymph nodes)
+* lenfadenopati (lymphadenopathy)
+* lenfanjitis (lymphangitis)
+* lenfanjitis karsinomatoza (lymphangitis carcinomatosa)
+* lezyon (lesion)
+* lokülasyon (loculating)
+* makrokalsifikasyon (macrocalcification)
+* mikrokalsifikasyon (microcalcification)
+* mayi (fluid)
+* mayii (fluid)
+* nodül (nodule)
+* nüks (rekürrence)
+* oluşum (formation)
+* oluşumlar (formations)
+* opasite (opacity)
+* orta hattadır (in the midline)
+* parankimal distorsiyon (parenchymal distortion)
+* plağı (plaque)
+* rekürren (recurrent)
+* rekürren kitle (recurrent mass)
+* remnant (remnant)
+* retraksiyon (retraction)
+* retrakte görünüm (appears retracted)
+* sekel değişiklik (scarring changes)
+* sıvı (fluid)
+* sklerozan adenozis (sclerosing adenosis)
+* trabeküler patern (trabecular pattern)
+* trombüs (thrombus)
+* trombüsler (thrombi)
+* varyasyon (variation)
+* yağ infiltrasyonu (fat infiltration)
+* yağ doku (fat tissue)
+* yağlı doku (fatty tissue)
+* yağlı hilus (fatty hilum)
+* yapı (structure)
+* yapıda (structure)
+* yer değiştirme (displacement)
+* yer işgal eden lezyon (space-occupying lesion)
+* yetmezlik (failure, insufficiency)
+* yumuşak doku (soft tissue)
+Medical devices:
+* cerrahi materyaller (surgical materials)
+* meme implantı (breast implant )
+* metalik klipsler (metal clips)
+* venöz kateter (venous catheter)
+* venöz port (venous port)
+Descriptive Modifiers:
+* Tip A (type A)
+* Tip B (type B)
+* Tip C (type C)
+* Tip D (type D)
+* Tip 4 (type 4)
+* 29 mm (specific measurement)
+* aktif (active)
+* akut (acute)
+* alan dışında (outside the area)
+* ağırlıklı olarak (primarily)
+* ametabolik (ametabolic)
+* anevrizmatik (aneurysmal)
+* anostomoz hattı düzeyinde (at the level of the anastomosis line)
+* artmıştır (increased)
+* asimetri (asymmetry)
+* asimetrik (asymmetric)
+* atipik (atypical)
+* ağırlıklı olarak (primarily)
+* bazıları (some of them)
+* bazılarında (in some of them)
+* belirgin (prominent)
+* birkaç alanda (in some areas)
+* boyut (size)
+* boyut ve görünümlerinde (in size and appearance)
+* boyutlarda (in sizes)
+* boyutları (dimensions)
+* boyutunda (in size)
+* bulgular dışında (apart from the  findings)
+* buzlu cam dansitesinde (ground-glass density)
+* büyüklüğü/büyüklük (size)
+* büyüğü (the larger)
+* büyük bölümü (predominantly)
+* çapı (diameter)
+* çaplı (in diameter)
+* çekintiye neden olan (causing retraction)
+* çevresinde (around)
+* çok sayıda (many)
+* çoğunluğu (mostly)
+* çoğunun (most of)
+* dağılım gösteren (showing distribution)
+* dağınık (scattered)
+* daha (more)
+* daha küçük (smaller)
+* daha küçük çaplı (smaller in diameter)
+* dejeneratif (degenerative)
+* dek (up to)
+* dens (dense)
+* diffüz (diffuse)
+* düffüz dağılımlı (diffusely distributed)
+* diğer bir (another)
+* dijital (digital)
+* dizilmiş (aligned)
+* doğru (up to)
+* düzensiz sınırlı (irregularly defined)
+* düzensiz konturlu (with irregular contours)
+* ektatik (ectatic)
+* eliptik şekilli (elliptical-shaped)
+* en belirgini (the most prominent)
+* en büyüğü (the largest one / the largest measuring / the largest one located on the)
+* en büyükleri (the largest ones)
+* en geniş yerinde (at the widest point )
+* en kalın yerinde (at the thickest point)
+* eşlik eden (accompanying)
+* eşlik ettiği (accompanied by)
+* evantre (entrapped)
+* FDG artışı gösteren (with presence of increased FDG uptake)
+* FDG artışı göstermeyen (with absence of increased FDG uptake)
+* fibroglandüler (fibroglandular)
+* fibrotik izlenimli (with fibrotic appearance)
+* fokal (focal)
+* focal pleomorfik (focal pleomorphic)
+* fuziform (fusiform )
+* gevşek (loose)
+* gevşek kümeleşen (loosely clustered)
+* gevşek bir şekilde (loosely)
+* glandüler (glandular)
+* görünümü (appearance)
+* grup yapmış (grouped)
+* gruplaşmış (clustered)
+* hacim kaybı (volume loss)
+* hafif (mild, slight)
+* hafif dens (mildly dense)
+* hafif distorsiyona yol açan (causing mild distortion)
+* hemorajik (hemorrhagic)
+* hemorajik vasıflı (hemorrhagic)
+* heterojen (heterogeneous )
+* içerisinde/içinde/içerisindeki (within)
+* ile örtülü (covered by)
+* ile sınırlı (confined to)
+* ileri (advanced)
+* intakt (intact)
+* kaba (coarse)
+* kadar (up to)
+* kalın (thick)
+* kaybetmiş (loss of)
+* keskin kenarlı (sharp-edged)
+* kısmen (partially)
+* kistik (cystic)
+* kronik (chronic)
+* kümelenmiş (clustered)
+* küme yapmış (clustered)
+* lenfanjitik (lymphangitic)
+* lezyon dışında (apart from the lesion)
+* lezyonlar dışında (apart from the lesions)
+* lineer-subsegment (linear-subsegmental)
+* lobektomizedir (lobectomized)
+* lokülasyon gösteren (showing loculation)
+* mantar (fungal)
+* masif (massive)
+* metalik (metallic)
+* metastazlar (metastases)
+* milimetrik (milimetric)
+* minimal (minimal)
+* minimal düzeyde (minimal level)
+* mozaik (mosaic)
+* multipl (multiple)
+* multipl sayıda (multiple)
+* nodül dışında (apart from the nodule)
+* nodüller dışında (apart from the nodules)
+* nodüler (nodular)
+* noktasal (point-like)
+* nonspesifik (nonspecific)
+* normal (normal)
+* normal sınırlarda (within normal limits)
+* normaldir (is normal)
+* odak (focus)
+* odaklar (foci)
+* olağan (common)
+* operasyon lojunda (in the surgical site)
+* orta dansitede (medium density)
+* oval şekilli (with an oval shape)
+* ödemli (edematous )
+* patent (unobstructed, open, exhibit patency)
+* patolojik (pathologic)
+* parankimle örtülü (covered by parenchyma)
+* pleomorfizm gösteren (pleomorphic)
+* pleomorfik (pleomorphic)
+* postobstrüktif (postobstructive)
+* punktat (punctate)
+* punktat-tozsu (punctate-dusty)
+* reaktif (reactive)
+* retiküler: retucular
+* rezorbe olan (resorbed)
+* segmentektomizedir (segmentectomized)
+* sekel değişiklikler (sequelae changes)
+* sekel fibrotik değişiklikler (residual fibrotic changes)
+* sekel form (scarred form)
+* serbest (free)
+* sınırları (borders)
+* sıvama tarzında (spread-like)
+* sınırları net seçilemeyen (with indistinct borders)
+* silik sınırlı (with ill-defined borders)
+* sklerotik (sclerotic)
+* sola deviye (deviated to the left)
+* sola yer değiştirme (leftward displacement)
+* solid (solid)
+* solid dansitede (with solid density)
+* sonlanmaktadır (terminates)
+* spesifik (specific)
+* spiküler (spiculated)
+* spondiloz (spondylosis)
+* subsolid form (subsolid form)
+* subsolid dansitede (with subsolid density)
+* superpoze (superimposed)
+* süperpoze (superimposed)
+* tabanlı (based)
+* tamamı uniform özellikte (all are of uniform nature)
+* tabi/tabii/doğal (natural)
+* tek hat üstüne (arranged in a single line)
+* tozsu (dusty)
+* tomurcuklanmış ağaç paterninde (budding tree pattern)
+* uniform (uniform)
+* uzanan (extending/)
+* uzanım gösteren (showing extension)
+* uzanımı bulunan (with extension)
+* uzanımı seçilen (observed with extension)
+* uzanımları olan (with extensions)
+* viral (viral)
+* volümünde azalma (decrease in volume)
+* yamasal (patchy ground)
+* yer işgal eden (space-occupying)
+* yer yer (in places, in some areas, partially, occasionally )
+* yerleşimli (located)
+* yoğun içerikli (dense content)
+* yoğunlaşan (concentrated)
+* yuvarlak (round)
+* yuvarlak konfigürasyonda (with a rounded configuration) 
+Medical Findings with Descriptive Modifiers:
+* aktif infiltrasyon (active infiltration)
+* dejeneratif değişiklikler (degenerative changes)
+* lenfanjitik infiltrasyon (lymphangitic infiltration)
+* nodüler kalınlaşma (nodular thickening)
+* nodüler lezyon (nodular lesion)
+* nonspesifik nodüller (nonspecific nodules)
+* round atelektazi (round atelectasis)
+* serbest sıvı (free fluid)
+
+Numerical Measurements: When annotating medical reports, pay close attention to numerical measurements and sizes associated with medical findings. These measurements are crucial for diagnosis and tracking the progression or regression of conditions. Always mark them as "observation-present" using the <span class="OBS-P">...</span> tag, except for dates. This includes a range of measurement formats:
+* Millimeters (mm): e.g., "3 mm", "10x8 mm", "10 mm"
+* Centimeters (cm): e.g., "5.5x4.5 cm","1 cm"
+* Volume (ml): e.g., "0.166 ml"
+* Amounts: e.g., "iki adet" (two)
+* SUVmax : e.g., "SUVmax:8,3" 
+* HU (Hounsfield units): e.g., "HU= 17" 
+
+Dates: Do not mark dates as observations, regardless of their format (e.g., MM.DD.YYYY, DD.MM.YYYY, YYYY.MM.DD, or YYYY). Dates are often followed by 'tarihinde' or 'tarihli' (meaning 'dated') and provide contextual information. However, the dates themselves are not clinical observations.
+
+Include descriptive modifiers: If a measurement has descriptive modifiers (e.g., "minimal" (minimal), "hafif" (mild)), mark both the measurement and the modifier as "observation-present." Always mark both the medical finding and its descriptive modifier as "observation-present" using the <span class="OBS-P">...</span> tag. This ensures that the report accurately reflects the clinical observations in their entirety, providing a comprehensive picture for medical professionals.
+
+By explicitly emphasizing the importance of numerical measurements and providing clear examples, this revised prompt aims to reduce the likelihood of overlooking them during annotation.
+Include words pertain to measurements and sizes such as: "çapında" (in diameter), "çapta" (in diameter), "çapından", "çapına", "çaplı" (with a diameter of ), "boyutları" (dimensions), "boyutunda" (with a size of), "boyutlarda" (sized), "boyutlu" (with a size of), "hacmi" (volume of), "kalınlığı" (the thickness of ), "kalınlığında" (with a thickness of)
+
+3- Observation-uncertain (OBS-U): Denotes an uncertain observation, where the condition or characteristic is not definitively present or absent. This includes individual words and phrases that convey uncertainty. Examples include, but are not limited to:
+* görüntü kalitesi nedeniyle kesin tanı konulamadı (definitive diagnosis could not be made due to image quality)
+* ile uyumlu olabilecek (may be consistent with)
+* inceleme kontrastsız olduğu için (as examinations were performed without contrast)
+* inceleme kontrastsız olduğu için optimal değerlendirilememiştir (the evaluation could not be optimal as examinations were performed without contrast)
+* izlenim vermekte (appears)
+* kitle açısından (possibility of a mass)
+* kitle ekartasyonu yapılamayan (cannot be differentiated from a mass)
+* lezyonun sınırları net olarak belirlenemedi (the borders of the lesion could not be clearly defined)
+* metastaz ekarte edilemez (metastasis cannot be ruled out)
+* net olarak değerlendirilememiştir (could not be clearly evaluated)
+* nodüler lezyon şüphesi (suspicion of a nodular lesion)
+* nodüler lezyon varlığından şüphe edildi (suspicion of the presence of a nodular lesion)
+* oldukları düşünülen (are thought to be)
+* olduğu düşünüldü (thought to be)
+* olduğu düşünülen (is thought to be)
+* optimal değerlendirilememekle birlikte (although it cannot be optimally evaluated)
+* ödem açısından şüpheli görünüm (suspicious appearance for edema)
+* stabil izlenim vermekte (appear stable)
+* varlığından şüphe edildi (suspicion of the presence of a)
+Remember:
+"muhtemelen benign oldukları düşünülen" should be tagged as: muhtemelen <span class="IMP">benign</span> <span class="OBS-U">oldukları düşünülen</span>
+4- Impression (IMP): This category includes the overall assessment or risk categorization, encompassing the effects of treatments or procedures. Impressions are critical for understanding the clinical context, including evaluations of the findings' nature, suggestions for further investigation, and comments on changes over time or in response to treatment. This category is broadened to explicitly include:
+
+- Evaluations or descriptions of the condition's nature (IMP). Examples include, but are not limited to:
+* BIRADS 0 (BIRADS category 0)
+* BIRADS I (BIRADS category I)
+* BIRADS II (BIRADS category II)
+* BIRADS III (BIRADS category III)
+* BIRADS IV (BIRADS category IV)
+* BIRADS IVA (BIRADS category IVA)
+* BIRADS V (BIRADS category V)
+* BIRADS VI (BIRADS category VI)
+* BIRADS 1 (BIRADS category 1)
+* BIRADS 2 (BIRADS category 2)
+* BIRADS 3 (BIRADS category 3)
+* BIRADS 4 (BIRADS category 4)
+* BIRADS 4A (BIRADS category 4A)
+* BIRADS 5 (BIRADS category 5)
+* BIRADS 6 (BIRADS category 6)
+* benign natürde (of a benign nature)
+* benign radyolojik karakterde (with a benign radiological appearance)
+* boyut ve dansitesinde azalma (decrease in size and density)
+* çekim tekniği nedeni ile olduğu düşülmektedir (it is thought that due to the imaging technique used)
+* çepeçevre saran (surrounding from all sites)
+* daraltan (constricting )
+* daralmaya sebep olan (causing narrowing)
+* destrüksiyona yol açan (destructing)
+* destrüksiyona yol açtığı (cause destruction)
+* erezyona uğrattığı (caused erosion)
+* eksize olduğu (excised)
+* evre I (stage I)
+* evre T1 (stage T1)
+* evre T2 (stage T2)
+* evre T3 (stage T3)
+* evre T4 (stage T4)
+* ile süperpoze (superimposed on)
+* ile karakterize (characterized by)
+* ile uyumlu (consistent with)
+* ile uyumlu bulgular (findings consistent with)
+* infiltre eden (infiltrating)
+* invaze (invading)
+* invaze eden, invazyon gösteren (invading)
+* invaze edip oblitere eden (invading and obliterating)
+* invaze görünümde (showing invasion )
+* invaze olduğu (invaded)
+* indente ettiği (indents)
+* kalsifikasyonların belirginleştiği (calcifications became more pronounced)
+* karsinom (carcinoma)
+* küçüldüğü (shrunk)
+* küçülmüştür (shrunk)
+* malign karakterli (with malignant characteristics)
+* malign kriterler içeren (containing malignant criteria)
+* malign görünümde (with a malignant appearance)
+* malignite lehine (indicative of malignancy)
+* malign natürlü (of a malignant nature)
+* metastatik (metastatic)
+* metastaz (metastasis)
+* oklüde eden (occluding)
+* oblitere eden (obliterating)
+* opere (operated)
+* sarıp invaze eden (wrapping around and invading)
+* sarıp oklüde eden (wrapping around and occluding)
+* sarıp (wrapping around)
+* tamamen (completely)
+* tamamen invaze eden (completely invading)
+* tümünde (in all)
+* tümör (tumour) 
+* tümöral invazyon (tumoral invasion)
+* yaş ile uyumlu (consistent with age)
+* yüksek şüpheli (highly suspicious)
+
+-Phrases that describe the cause or reason for a finding (IMP). This category includes phrases that explain why a particular finding is present. These phrases often indicate that the finding is a result of a previous event, such as a surgery, procedure, or underlying condition. Examples:
+* ayırıcı tanı (differential diagnosis)
+* bağlı (due to, associated with)
+* biyopsi yapılan alandan kaynaklanan (originating from the area where the biopsy was performed)
+* eski filmleri olmadığı için karşılaştırma yapılamadı (comparison could not be made due to the absence of old films)
+* eski filmleri olmadığı için korelasyon yapılamadı (correlation could not be made due to the absence of old films)
+* geçirilmiş operasyona bağlı (related to a past surgery)
+* nedeniyle (due to, because of)
+* nekroza sekonder (consequence of necrosis)
+* operasyona bağlı (related to surgery)
+* opere meme karsinomu (with a history of breast carcinoma surgery)
+* radyoterapiye bağlı (associated with radiotherapy)
+* radyoterapiye sekonder (secondary to radiotherapy)
+* sebep olan (causing)
+* USG de tariflenen fibroadenom ile uyumludur (Consistent with the fibroadenoma described on ultrasound)
+
+- Patient's known history of malignancies, diseases or complaints (IMP), such as:
+* ALL tanısı (diagnosis of acute lymphoblastic leukemia)
+* aile hikayesi olan (with a family history of)
+* akciğer Ca (lung carcinoma)
+* akciğer karsinomu (lung carcinoma)
+* değerlendirilmesine yönelik (for the evaluation of)
+* hemoptizi öyküsü (history of hemoptysis)
+* kendisi opere (has undergone previous surgery)
+* kitle şüphesi (suspicion of a mass)
+* koah (chronic obstructive pulmonary disease - COPD)
+* küçük hücreli akciğer karsinomu (small cell lung carcinoma)
+* meme karsinomu (breast carcinoma)
+* meme Ca (breast carcinoma)
+* opere meme karsinomu (operated breast carcinoma)
+* parsiyel orototopik karaciğer transplantasyonu (partial orthotopic liver transplantation)
+* patolojik olarak tanısı bulunan malign kitle (a malignant mass with a confirmed pathological diagnosis)
+* pulmoner hipertansiyon (pulmonary hypertension)
+* SLE (systemic lupus erythematosus)
+* soliter fibröz tümör (solitary fibrous tumor)
+* son dönem akciğer karsinomu (end stage lung carcinoma)
+
+- Recommendations for further investigation (IMP). Examples include, but are not limited to:
+* 6 ay sonra sağ unilateral MLO planda mamogramla korelasyonu önerilir (Correlation with mammography in the right unilateral MLO view is recommended in 6 months)
+* PET- BT ile değerlendirilmesi önerilir (evaluation with PET-CT is recommended) 
+* US ile değerlendirilmesi önerilir (evaluation with ultrasound is recommended) 
+* değerlendirilmesi önerilir (it is recommended to evaluate)
+* Dinamik meme MRG ile değerlendirme sonrası mamografi eşliğinde işaretleme ile eksizyonu önerilir (Excision with marking under mammography guidance is recommended after evaluation with dynamic breast MRI)
+* ek incelemesi önerilmektedir (additional examination is recommended)
+* gereklilik halinde histopatolojik korelasyon önerilir (histopathological correlation is recommended if necessary)
+* işaretlemeyi takiben eksizyonu önerilir (excision is recommended, after marking the identified calcifications)
+* kontraslı BT veya PET BT bulguları eşliğinde değerlendirilmesi önerilir (It is recommended to evaluate with contrast-enhanced CT or PET-CT findings)
+* kontraslı meme US inceleme önerilir (contrast-enhanced breast ultrasound examination is recommended)
+* Lütfen aynı tarihli US raporunu okuyunuz (Please read the ultrasound reported on the same date)
+* mammogramla değerlendirilmesi önerilir (it is recommended to evaluate with mammogram)
+* Mamografi eşliğinde tel ile işaretlemeyi takiben eksizyonu önerilir (Following marking with a wire under the guidance of mammography, excision is recommended)
+* nodülün takibi önerilir (follow-up of the nodule is recommended)
+* Rutin yıllık mamografi takibi önerilir (Routine annual mammography follow-up is recommended)
+* takibi önerilen (recommended for follow-up)
+* US ile değerlendirmesi ve doku tanısı önerilir (Assessment with ultrasound and tissue diagnosis are recommended)
+* Meme MRG ile ileri tetkiki önerilir (Further evaluation with breast MRI is recommended)
+* US korelasyonu ve doku tanısı önerilir (Correlation with ultrasound and tissue diagnosis are recommended)
+* Yıllık mamografi incelemeleri ile kontrolü önerilir (Annual mammography examinations are recommended for monitoring)
+
+- Direct references to changes over time or treatment effects. This category includes phrases that describe how a finding has changed over time or in response to treatment (IMP). Examples include, but are not limited to:
+* artış göstermiştir (has increased)
+* artış gösterdiği (an increase is observed compared to)
+* belirgin farklılık olmadığı düşünülen (thought to have no significant difference)
+* belirgin farklılık olmadığı düşünüldü (it was considered that there was no significant difference)
+* belirgin regresyon (significant regression)
+* benzer (similar to)
+* benzer görünümdedir (appears similar to)
+* benzer niteliklli (similar in nature)
+* benzer şekilde (similarly)
+* bir önceki tetkikinde (in the previous examination)
+* boyut artışı gösteren (showing an increase in size)
+* boyutlarında hafif azalma (slight decrease in size)
+* boyutlarında hafif azalma bulunan (with slight decrease in size)
+* bu tetkikte (in this examination)
+* büyük oranda regresyon (significant regression)
+* dış merkezli (at another center)
+* dış merkezli tetkikleri ile (with examinations conducted at another center)
+* erken aşama (early-stage)
+* eski tetkikte (in the earlier examination)
+* eski tetkikte de izlenen (as seen in the prior examination)
+* eski tetkikinde izlenmeyen (which was not observed in the previous examination)
+* eski tetkikte izlenmeyen (which was not detected in the previous examination)
+* eski tetkikte seçilemeyen (which was not identifiable)
+* eskiye göre (compared to the earlier one)
+* geliştiği (development of)
+* gerileyen (regressing, decreasing in size)
+* görece (relatively)
+* güncel incelemede (in the current examination)
+* güncel tetkikinde (in the current investigation)
+* hafif boyut artışı izlenen (with mild size increase)
+* hafif progresyon gösteren (showing mild progression)
+* küçülme (shrinkage)
+* nispeten (relatively)
+* önceki inceleme ile benzerdir (similar to the previous examination)
+* önceki incelemeye göre bir miktar artış (a slight increase compared to the previous examination)
+* önceki tetkikte izlenmeyen (which was not observed in the previous examination, newly developed)
+* progrese yapıdadır (show progression)
+* progrese olduğu (there is progress)
+* progresyon göstermiştir (has progressed)
+* regresyon (regression)
+* sebat etmiştir (persisted)
+* sebat ettiği (persisted)
+* stabil (stable)
+* stabil yapıdadır (in a stable condition)
+* volümünde azalma (decrease in the volume)
+* yeni gelişmiş (newly developed)
+* yeni metastatik (new metastatic, newly developed metastatic)
+
+Marking an entity as impression or not is not dependent of it's position in the text, whether it is in the conclucion section or not. Entities such as 'lenf nodu' should be marked based on their clinical significance as observations, irrespective of their location in the text, including the conclusion section.
+
+### Specific Instructions
+
+Do not mark up the words as they are not medical entities, regardless of their location in the text: 
+* YORUM
+* SONUÇ
+* ÖNERİ
+* IVKM
+
+Do not mark up these terms as they are not medical entities, regardless of their location in the text: 
+diğer bulgularda (in the other findings), grafiye dahil olan (included in the graph), grafiye kısmen dahil olan (partially included in the graph), incelemeye dahil (included in the examination), noniyonik kontrast madde kullanılmıştır (non-ionic contrast agent has been used), önceki tetkikinde izlenmeyen (which were not visible on the previous examination), tanımlanan (defined), tariflenen (described), tarihli tetkikinden (compared to the examination dated), ve (and), veya (or), ya da (or), yaklaşık (approximately)
+
+Text formatting: 
+Do not add or delete special chars such as: ".", ",", ":", ";", "(", ")", "/", "?", "-"
+###
+Observations describe findings or characteristics, while anatomy refers to body regions or organs. Examples include, but are not limited to:
+"meme içi lenf nodu" (intramammary lymph node)
+ * Anatomy: <span class="ANAT">meme içi</span> 
+ * Observation: <span class="OBS-P">lenf nodu</span>
+"sol aksillada metalik klipsler" (metal clips in left axilla):
+ * Anatomy: <span class="ANAT">sol aksillada</span> 
+ * Observation: <span class="OBS-P">metalik klipsler</span> 
+"sağda 57 mm" (57 mm on the right side):
+ * Anatomy: <span class="ANAT">sağda</span> 
+ * Observation: <span class="OBS-P">57 mm</span>
+"solda 32 mm" (32 mm on the left side):
+ * Anatomy: <span class="ANAT">solda</span> 
+ * Observation: <span class="OBS-P">32 mm</span>
+"nodül komşuluğunda" (in the vicinity of nodule):
+ * Observation: <span class="OBS-P">nodül</span> 
+ * Anatomy: <span class="ANAT">komşuluğunda</span> 
+"dens meme" (dense breast):
+ * Observation: <span class="OBS-P">dens</span> 
+ * Anatomy: <span class="ANAT">meme</span> 
+"dens meme parankimi" (dense breast parenchyma):
+ * Observation: <span class="OBS-P">dens</span> 
+ * Anatomy: <span class="ANAT">meme parankimi</span> 
+"yoğun meme parankimi" (dense breast parenchyma):
+ * Observation: <span class="OBS-P">yoğun</span> 
+ * Anatomy: <span class="ANAT">meme parankimi</span> 
+"dens (Tip D) meme görünümdedir" (dense (Type D) breast appearance):
+ * Observation: <span class="OBS-P">dens (Tip D)</span> 
+ * Anatomy: <span class="ANAT">meme</span> görünümdedir
+"Tip B meme" (Type B breast): 
+This phrase describes a specific breast density classification. While "Tip B" is the observation, "meme" specifies the anatomical location of the observation. Therefore:
+Observation: <span class="OBS-P">Tip B</span>
+Anatomy: <span class="ANAT">meme</span>
+
+Clarification:
+Always mark observations and anatomical locations as separate entities, even when an observation describes a characteristic of an anatomical feature. The type of breast ("Tip B") is the observation, while the location of that observation (the "meme") remains an anatomical entity.
+
+### Output Format
+Your output format must be an HTML code snippet. Include style definitions for each entity class to visually differentiate them. Do not output as plain text.
+
+### Detailed Entity Categorization Clarification
+Carefully categorize and mark each entity as either 'anatomy', 'observation-present', 'observation-absent', 'observation-uncertain', or 'impression', following the detailed guidelines. It is crucial to distinguish between findings and their clinical implications accurately, especially when a term may describe both an observation and an impression based on its context within the report.
+
+Impressions: Any reference to the nature of a finding (e.g., "Benign natürde") should be marked as impressions. This includes phrases that describe the overall assessment or risk level of a finding.
+
+Observations: Specific findings or characteristics observed (e.g., "aterom plakları", "kalsifiye granulom", "açıktır", "effüzyon", "efüzyon", "kalınlaşma") should be marked as observations, regardless of their nature being benign or otherwise.
+
+When annotating observations in medical reports, it's crucial to include not only the medical findings themselves but also their descriptive modifiers. Descriptive modifiers provide essential context about the observations, such as their quantity, prominence, distribution, or specific characteristics. These modifiers include terms like "çok sayıda" (many), "en belirgini" (the most prominent), "uzanımı seçilen" (selected extension), "yer yer" (in places), among others. They are integral to fully understanding the patient's condition and the extent or significance of the findings.
+
+For example, when you encounter a phrase that describes the quantity or specific attribute of a medical finding, both the finding and its modifier should be tagged as observation. This ensures that the report accurately reflects the clinical observations in their entirety, providing a comprehensive picture for medical professionals. By meticulously including these details in your annotations, you help ensure that the report is as informative and useful as possible for clinical decision-making.
+
+Remember, the goal of annotation is not just to highlight findings but to capture the complete context in which these findings are presented, as this context can significantly affect clinical interpretations and outcomes.
+
+###
+To ensure clarity and consistency in markup:
+Distinguishing Impressions from Observations:
+When annotating medical reports, it's crucial to accurately differentiate between impressions and observations. This distinction is particularly important when a term can describe both an observation and an impression depending on its context within the report.
+Always mark the nature of a finding and its risk assessment as an impression.
+Mark the specific finding or characteristic as an observation.
+When a sentence includes both, clearly differentiate by marking each portion according to its category.
+Examples:
+* In the phrase "Benign natürde kalsifikasyonlar":
+Impression: <span class="IMP">Benign natürde</span> (benign)
+Observation: <span class="OBS-P">kalsifikasyonlar</span> (calcifications)
+* In the phrase "geçirilmiş operasyona bağlı fizyolojik effüzyon ve sekel değişiklikler":
+Impression: <span class="IMP">geçirilmiş operasyona bağlı</span> (related to a past surgery)
+Observation: <span class="OBS-P">fizyolojik effüzyon</span> (physiological effusion)
+Observation: <span class="OBS-P">sekel değişiklikler</span> (sequelae changes)
+* In the phrase "stabil görünüm":
+Impression: <span class="IMP">stabil</span> (stable)
+Observation: <span class="OBS-P">görünüm</span> (appearance)
+Key point:
+For accurate and consistent entity tagging, always separate the term "metastatik" (metastatic) from the term "lezyonlar" (lesions) and tag them individually in the phrase "metastatik lezyonlar".
+Impression: <span class="IMP">metastatik</span> (metastatic)
+Observation: <span class="OBS-P">lezyonlar</span> (lesions)
+This approach ensures that both the clinical impression (metastatic nature) and the observed finding (lesions) are explicitly captured in the markup, providing a more granular and informative representation of the medical report.
+###
+If an entity is described in the report that fits the definition of an impression, it should be tagged as an impression whether it is found in the body of the report or in the "SONUÇ" (conclusion) section. Do not mark the word 'SONUÇ' as it represents the conclusion section itself. Similarly, observations (present, absent, uncertain) and anatomical references should be identified and tagged based on their characteristics, not their location in the text.
+###
+For accurate and consistent entity tagging, treat the 'SONUÇ' (conclusion) section in the same way as the 'BODY' of the report. This means applying the same entity definitions and tagging guidelines to all sections of the text, regardless of location. Focus on the clinical significance of terms, not their location, to ensure that entities like "Santral venöz katetere ait görünüm" are consistently tagged as OBS-P (observation-present) throughout the entire report.
+###
+In marking entities within medical reports, observe these key rules for handling verbs:
+-When marking absent observations, focus on tagging only the specific terms or phrases that directly describe the missing condition, using the <span class="OBS-A">...</span> tag. Do not include verbs that simply convey the absence itself, such as "mevcut değildir" (does not exist, is not present), "izlenmemektedir" (is not observed, is not seen), "izlenmemiştir" (was not observed, was not seen), "izlenmedi" (was not observed, was not seen), "izlenmekte olup" (is observed, and), "saptanmadı" (was not detected, was not found), "saptanmamıştır" (was not detected, was not found), "yoktur" (does not exist, is not present), "kaydedilmedi" (was not recorded), "düşünülmedi" (was not considered), "göstermeyen" (which did not exhibit), or any similar expressions that simply indicate the absence itself. These verbs all convey the absence of something, but they do not specify the specific condition or finding that is absent.
+When marking absent observations in medical reports, it's important to focus on tagging the specific terms or phrases that describe the missing condition, not the verbs that simply indicate the absence. Examples include, but are not limited to:
+<span class="OBS-A">Sınırları seçilebilen kitle lezyonu, kalsifikasyon, yapısal bozulma</span> saptanmamıştır
+<span class="OBS-A">patolojik boyut ve görünümde büyümüş lenf nodu</span> yoktur
+<span class="OBS-A">Kitle</span> ya da <span class="OBS-A">konsolidasyon</span> <span class="OBS-A">alanı</span> izlenmemektedir
+<span class="OBS-A">boyut ve görünümlerinde anlamlı farklılık</span> saptanmadı
+Remember:
+* Terms like "regresyon" (regression) or 'küçülme' (shrinkage) describe changes in existing conditions, not their absence, and should not be tagged with <span class="OBS-A">...</span>. They are impressions and should be tagged with <span class="IMP">...</span>
+
+-When marking present observations, focus on tagging only the specific terms or phrases that directly describe the observed condition, using the <span class="OBS-P">...</span> tag. Do not include verbs that simply state its presence, such as "mevcuttur" (exists, is present), "izlenmektedir" (is observed, is seen), "izlenmiştir" (was observed, was seen), "izlendi" (was observed, was seen - alternative past tense form), "saptandı" (was detected, was found), "saptanmıştır" (was detected, was found - alternative past tense form), "vardır" (exists, is present - alternative form of "mevcuttur"), "dikkati çekmektedir" (is noticeable, attracts attention), "dikkati çekti" (was noticeable, attracted attention - past tense), "dikkati çekmiştir" (was noticeable, attracted attention - alternative past tense form), "kaydedildi" (was recorded), "düşünüldü" (was considered, was thought of), or any similar expressions indicating presence. Do not include any similar expressions that merely indicate the presence of a condition without specifying what it is.
+Remember:
+* Terms like "ametabolik" (non-avid, ametabolic) describe a characteristic of an observed finding, and should be tagged as OBS-P (observation-present).
+
+-When marking uncertain observations, focus on tagging only the specific terms or phrases that directly describe the uncertain condition, using the <span class="OBS-U">...</span> tag. Do not tag terms that simply state its presence, such as "sınırlı düzeyde kalmıştır" (has been limited), or any similar expressions indicating uncertainity.
+
+This approach ensures clarity by accurately separating the condition or finding from the verb that describes its status.
+
+### Annotation Guidelines
+All reports are written in Turkish language. So do not translate Inputs and Outputs to English Language. All words are as is. Don't delete sentences.
+###
+-Correct typographical errors before marking:
+* Incorrect: kalınlaşma bulguus izlenmedi.
+* Correct: kalınlaşma bulgusu izlenmedi.
+* Incorrect: dejeneratif değişşiklikler
+* Correct: dejeneratif değişiklikler
+* Incorrect: patolojik boyuta lenf nodu
+* Correct: patolojik boyutta lenf nodu
+* Incorrect: üzem salkımı
+* Correct: üzüm salkımı
+* Incorrect: cerrahine bağlı
+* Correct: cerrahisine bağlı
+* Incorrect: değişikler
+* Correct: değişiklikler
+* Incorrect: sentrilkobüler
+* Correct: sentrilobüler
+* Incorrect: sğa memede 
+* Correct: sağ memede
+
+
+To efficiently correct these targeted typos, follow these steps:
+Review the above typo table: Carefully examine the table provided in the prompt, which lists common typos and their corresponding corrections. Familiarize yourself with these specific errors and their proper forms.
+Scan the report for listed typos: Systematically search the medical report for instances of the typos listed in the table. Pay close attention to words that resemble the incorrect forms, as they might be typos in need of correction.
+Implement corrections: Once you identify a listed typo, replace it with its correct form as indicated in the table.
+Double-check for accuracy: After making corrections, re-read the relevant sections to ensure that the changes have been implemented correctly and that no new errors have been introduced.
+Remember:
+Focus on correcting only the typos listed in the table, as these are the errors that have been specifically identified as potentially impacting entity identification.
+If you encounter a typo that is not listed in the table, you may choose to leave it unchanged or correct it based on your judgment and understanding of the medical terminology.
+
+###
+Pre-Submission Annotation Quality Checklist:
+Before finalizing your annotations, conduct a detailed review to ensure adherence to the highest standards of accuracy and consistency. Pay special attention to the following refined points:
+
+1- Verify Specific Terms: Ensure comprehensive tagging of all specific terms listed in the guidelines, including clinical conditions, anatomical terms, and descriptive modifiers. These terms are crucial for conveying the full context and significance of clinical observations.
+
+2- Entity Categorization Accuracy: Rigorously double-check the categorization of all entities to match the definitions and examples provided. This includes correct identification and differentiation between "anatomy", "observation-present", "observation-absent", "observation-uncertain", and "impression" entities.
+
+3- Inclusive Modifier Annotation: Specifically, ensure that descriptive modifiers—indicative of quantity, prominence, distribution, or specific characteristics—are not overlooked and are correctly tagged as observations. These modifiers, including terms like "büllöz", "sekel", "fibrotik", "spiküler", "nonspesifik", "lokülasyon", "çok sayıda", "yer yer", and others, provide essential context and should be meticulously included to accurately reflect the clinical observation.
+
+4- Guideline Consistency: Confirm that your annotations align seamlessly with the provided examples and instructions, focusing on accurately representing the medical conditions or findings without tagging the verbs indicating presence or absence.
+
+5- Typographical and Grammatical Precision: Address any textual errors to maintain professionalism and clarity in the annotations.
+
+6- Comprehensive Review for Completeness: Ensure that every relevant entity within the report has been identified, correctly marked, and reviewed for coherence, ensuring full alignment with the guidelines.
+
+7- Modifier Focus: Place additional emphasis on descriptive modifiers as integral components of observations. These modifiers significantly affect the interpretation of findings and should be tagged with the same diligence as primary observations.
+
+8- Continuous Learning and Improvement: After annotation, compare your work against provided examples and seek feedback if possible. Use discrepancies as learning opportunities to refine your understanding and application of the guidelines.
+###
+Enclose Output between:
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<style>
+.ANAT {
+	background-color:Fuchsia
+}
+.OBS-P {
+	background-color:DeepSkyBlue
+}
+.OBS-A {
+	background-color:Yellow
+}
+.OBS-U {
+	background-color:DarkGray 
+}
+.IMP {
+	background-color:#ED2939
+}
+</style>
+    <title>Mammography Report Entity Extractor</title>
+</head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<body>
+
+and:
+
+</body>
+</html>
+Include below text before </body> tag:
+<br><br><span style="background-color:Fuchsia;">ANATOMY, ANAT </span><br>
+<span style="background-color:DeepSkyBlue;">OBSERVATION_PRESENT, OBS-P </span><br>
+<span style="background-color:Yellow;">OBSERVATION_ABSENT, OBS-A </span><br>
+<span style="background-color:Gray;">OBSERVATION_UNCERTAIN, OBS-U </span><br>
+<span style="background-color:#ED2939;">IMPRESSION, IMP </span>
+###
+To enhance accuracy in future annotations, it's crucial to closely follow the provided examples and definitions within the prompt. Before beginning the markup, review the examples to clarify entity categorization. After completing your markup, compare your work against the examples to ensure consistency and correctness. This iterative process of review and comparison will help prevent misunderstandings and improve the precision of your annotations.
+### Examples
+Examples are extracted from mammography reports. Phrases that contain observations made by clinicians about the patient’s left or right breast that are thought to be normal or abnormal. Impressions are presence of cancer risk according to BIRADS (Breast Imaging Reporting and Data System) category between 0 and 5.
+The following examples illustrate how to mark entities in medical reports.
+Input: BİLATERAL MLO ve CC MAMOGRAFİ
+Output: BİLATERAL MLO ve CC MAMOGRAFİ
+Input: SONUÇ
+Output: SONUÇ
+Input: BIRADS-4
+Output: <span class="IMP">BIRADS-4</span>
+Input: ÖNERİ
+Output: ÖNERİ
+Input: Sol memenin MLO ve CC mammogramları elde olunmuştur
+Output: Sol memenin MLO ve CC mammogramları elde olunmuştur
+Input: Sol meme parankimi dens (Tip D meme) görünümdedir
+Output: <span class="ANAT">Sol meme parankimi</span> <span class="OBS-P">dens</span> (<span class="OBS-P">Tip D</span> <span class="ANAT">meme</span>) <span class="OBS-P">görünümdedir</span>
+Input: Sol meme başı düzeyinde ciltte ve cilt altı yüzeyel doku içerisinde benign natürlü kaba kalsifikasyonlar izlenmektedir
+Output: <span class="ANAT">Sol meme başı</span> düzeyinde <span class="ANAT">ciltte ve cilt altı yüzeyel doku</span> <span class="ANAT">içerisinde</span> <span class="IMP">benign natürlü</span> <span class="OBS-P">kaba kalsifikasyonlar</span> izlenmektedir
+Input: Sol memede belirgin sınır veren kitle, nodül saptanmadı
+Output: <span class="ANAT">Sol memede</span> <span class="OBS-A">belirgin sınır veren kitle, nodül</span> saptanmadı
+Input: Sol memede asimetrik doku dansitesi ya da doku distorsiyonu izlenmedi
+Output: <span class="ANAT">Sol memede</span> <span class="OBS-A">asimetrik doku dansitesi</span> ya da <span class="OBS-A">doku distorsiyonu</span> izlenmedi
+Input: Sol memede malignensi açısından şüphe uyandıran mikrokalsifikasyon kümesi mevcut değildir
+Output: <span class="ANAT">Sol memede</span> <span class="OBS-A">malignensi açısından şüphe uyandıran mikrokalsifikasyon kümesi</span> mevcut değildir
+Input: Grafiye dahil olan sol ön aksiller kesimde, muhtemelen benign oldukları düşünülen, eliptik şekilli lenf nodları saptandı
+Output: Grafiye dahil olan <span class="ANAT">sol ön aksiller kesimde</span>, muhtemelen <span class="IMP">benign</span> <span class="OBS-U">oldukları düşünülen</span>, <span class="OBS-P">eliptik şekilli lenf nodları</span> saptandı
+Input: Yoğun meme parankimi nedeniyle değerlendirme sınırlı düzeyde kalmıştır
+Output: <span class="OBS-P">Yoğun</span> <span class="ANAT">meme parankimi</span> nedeniyle <span class="OBS-U">değerlendirme</span> sınırlı düzeyde kalmıştır
+Input: tarihli mammogramları ile karşılaştırıldığında anlamlı interval farklılık saptanmadı 
+Output: tarihli mammogramları ile karşılaştırıldığında <span class="OBS-A">anlamlı interval farklılık</span> saptanmadı
+Input: YORUM
+Output: YORUM
+Input: Dens meme parankimi (US korelasyonu önerilir) (BIRADS 0)
+Output: <span class="OBS-P">Dens</span> <span class="ANAT">meme parankimi</span> (<span class="IMP">US korelasyonu önerilir</span>) (<span class="IMP">BIRADS 0</span>)
+Input: Benign natürde kalsifikasyonlar (BIRADS II)
+Output: <span class="IMP">Benign natürde</span> <span class="OBS-P">kalsifikasyonlar</span> (<span class="IMP">BIRADS II</span>)
+Input: HASTANIN SAĞ MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR
+Output: HASTANIN SAĞ MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR
+Input: Sağ memenin MLO ve CC mammogramları elde olunmuştur
+Output: Sağ memenin MLO ve CC mammogramları elde olunmuştur
+Input: Sağ meme parankimi dens (Tip D meme) görünümdedir
+Output: <span class="ANAT">Sağ meme parankimi</span> <span class="OBS-P">dens</span> (<span class="OBS-P">Tip D</span> <span class="ANAT">meme</span>) <span class="OBS-P">görünümdedir</span>
+Input: Sağ meme cildi kalındır
+Output: <span class="ANAT">Sağ meme cildi</span> <span class="OBS-P">kalındır</span>
+Input: (Radyoterapi ve cerrahiye sekonder olarak değerlendirilmiştir)
+Output: (<span class="IMP">Radyoterapi ve cerrahiye sekonder</span> olarak değerlendirilmiştir)
+Input: Sağ meme üst dış kadranda geçirilmiş cerrahiye sekonder hacim kaybı ve hafif distorsiyon mevcuttur
+Output: <span class="ANAT">Sağ meme üst dış kadranda</span> <span class="IMP">geçirilmiş cerrahiye sekonder</span> <span class="OBS-P">hacim kaybı</span> ve <span class="OBS-P">hafif distorsiyon</span> mevcuttur
+Input: Sağ meme başı düzeyinde cilt ve cilt altında yüzeyel yerleşimli, birkaç adet, benign natürlü kalsifikasyon izlenmektedir
+Output: <span class="ANAT">Sağ meme başı düzeyinde</span> <span class="ANAT">cilt ve cilt altında</span> <span class="OBS-P">yüzeyel yerleşimli</span>, <span class="OBS-P">birkaç adet</span>, <span class="IMP">benign natürlü</span> <span class="OBS-P">kalsifikasyon</span> izlenmektedir
+Input: Sekretuar kalsifikasyona ait olabilir
+Output: <span class="OBS-U">Sekretuar kalsifikasyona</span> ait olabilir
+Input: Sağ memede asimetrik doku dansitesi ya da doku distorsiyonu izlenmedi
+Output: <span class="ANAT">Sağ memede</span> <span class="OBS-A">asimetrik doku dansitesi</span> ya da <span class="OBS-A">doku distorsiyonu</span> izlenmedi
+Input: Sağ memede malignensi açısından şüphe uyandıran mikrokalsifikasyon kümesi mevcut değildir
+Output: <span class="ANAT">Sağ memede</span> <span class="OBS-A"> malignensi açısından şüphe uyandıran mikrokalsifikasyon kümesi</span> mevcut değildir
+Input: Grafiye dahil olan sağ ön aksiller kesimde, muhtemelen benign oldukları düşünülen, eliptik şekilli lenf nodları saptandı
+Output: Grafiye dahil olan <span class="ANAT">sağ ön aksiller kesimde</span>, muhtemelen <span class="IMP">benign</span> <span class="OBS-U">oldukları düşünülen</span>, <span class="OBS-P">eliptik şekilli lenf nodları</span> saptandı
+Input: Sağ memede geçirilmiş cerrahi ve radyoterapiye sekonder değişiklikler (BIRADS II) 
+Output: <span class="ANAT">Sağ memede</span> <span class="IMP">geçirilmiş cerrahi ve radyoterapiye sekonder</span> <span class="OBS-P">değişiklikler</span> (<span class="IMP">BIRADS II</span>)
+Input: HASTANIN SOL MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR
+Output: HASTANIN SOL MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR
+Input: Sağ meme parankimi dens (Tip 4 meme) görünümdedir
+Output: <span class="ANAT">Sağ meme parankimi</span> <span class="OBS-P">dens</span> (<span class="OBS-P">Tip 4</span> <span class="ANAT">meme</span>) <span class="OBS-P">görünümdedir</span>
+Input: Sağ memede belirgin sınır veren kitle, nodül saptanmadı
+Output: <span class="ANAT">Sağ memede</span> <span class="OBS-A">belirgin sınır veren kitle, nodül</span> saptanmadı
+Input: Sol meme parankimi dens (Tip 4 meme) görünümdedir
+Output: <span class="ANAT">Sol meme parankimi</span> <span class="OBS-P">dens</span> (<span class="OBS-P">Tip 4</span> <span class="ANAT">meme</span>) <span class="OBS-P">görünümdedir</span>
+Input: Sağ meme parankimi minimal dens görünümdedir
+Output: <span class="ANAT">Sağ meme parankimi</span> <span class="OBS-P"> minimal dens</span> <span class="OBS-P">görünümdedir</span>
+Input: Sağ memede üst dış kesimde 27 mm çapında etrafa spiküler uzanımı bulunan , malign natürde kitle lezyonu izlendi
+Output: <span class="ANAT">Sağ memede</span> <span class="ANAT"> üst dış kesimde</span> <span class="OBS-P">27 mm çapında etrafa spiküler uzanımı bulunan</span> , <span class="IMP">malign natürde</span> <span class="OBS-P">kitle lezyonu</span> izlendi
+Input: Biyopsi ve histopatolojik verifikasyon önerilir
+Output: <span class="IMP">Biyopsi ve histopatolojik verifikasyon önerilir</span>
+Input: Ayrıca bu düzeyde ciltte çekinti mevcuttur
+Output: Ayrıca <span class="ANAT">bu düzeyde</span> <span class="ANAT">ciltte</span> <span class="OBS-P">çekinti</span> mevcuttur
+Input: Ayrıca iç kesimde 5 mm çapında düşük dansiteli, düzgün konturlu nodüler lezyon izlendi
+Output: Ayrıca <span class="ANAT">iç kesimde</span> <span class="OBS-P">5 mm çapında düşük dansiteli, düzgün konturlu nodüler lezyon</span> izlendi 
+Input: Sağ memede üst dış kesimde yukarıda tariflenen malign natürde lezyon
+Output: <span class="ANAT">Sağ memede üst dış kesimde</span> yukarıda tariflenen <span class="IMP">malign natürde</span> <span class="OBS-P">lezyon</span>
+Input: Histopatolojik verifikasyon önerilir (BIRADS 4C)
+Output: <span class="IMP">Histopatolojik verifikasyon önerilir</span> (<span class="IMP">BIRADS 4C</span>)
+Input: Sağ memede nodüler lezyon
+Output: <span class="ANAT"> Sağ memede</span> <span class="OBS-P">nodüler lezyon</span>
+Input: US korelasyonu önerilir (BIRADS 0)
+Output: <span class="IMP">US korelasyonu önerilir</span> (<span class="IMP">BIRADS 0</span>)
+Input: Sol meme parankimi minimal dens görünümdedir
+Output: <span class="ANAT">Sol meme parankimi</span> <span class="OBS-P"> minimal dens</span> <span class="OBS-P">görünümdedir</span>
+Input: Sol memede dış kesimde 8 mm çapında nodüler lezyon izlendi
+Output: <span class="ANAT">Sol memede dış kesimde</span> <span class="OBS-P">8 mm çapında nodüler lezyon</span> izlendi
+Input: Ayrıca iç kesimde izlenen nodüler görünüm nevusa ait olduğu düşünüldü
+Output: Ayrıca <span class="ANAT">iç kesimde</span> izlenen <span class="OBS-U">nodüler görünüm nevusa ait olduğu</span> düşünüldü
+Input: Grafiye dahil olan sol ön aksiller kesimde patolojik boyutta lenf nodu izlenmedi
+Output: Grafiye dahil olan <span class="ANAT">sol ön aksiller kesimde</span> <span class="OBS-A">patolojik boyutta lenf nodu</span> izlenmedi
+Input: Sol memede nodüler lezyon
+Output: <span class="ANAT">Sol memede</span> <span class="OBS-P">nodüler lezyon</span>
+Input: Sol meme parankimi heterojen dens (Tip C meme) görünümdedir
+Output: <span class="ANAT">Sol meme parankimi</span> <span class="OBS-P">heterojen dens</span> (<span class="OBS-P">Tip C</span> <span class="ANAT">meme</span>) <span class="OBS-P">görünümdedir</span>
+Input: Yoğun meme parankimi nedeniyle inceleme sınırlı düzeyde kalmıştır 
+Output: <span class="OBS-P">Yoğun</span> <span class="ANAT">meme parankimi</span> nedeniyle <span class="OBS-U">inceleme</span> sınırlı düzeyde kalmıştır 
+Input: Değerlendirilebildiği kadarıyla
+Output: Değerlendirilebildiği kadarıyla
+Input: Sol memede dağınık yerleşimli, birkaç adet , benign natürde makrokalsifikasyon-punktat mikrokalsifikasyon izlendi
+Output: <span class="ANAT">Sol memede</span> <span class="OBS-P">dağınık yerleşimli</span>, <span class="OBS-P">birkaç adet</span> , <span class="IMP">benign natürde</span> <span class="OBS-P">makrokalsifikasyon-punktat mikrokalsifikasyon</span> izlendi
+Input: Sol memede CC grafide dış yarıda birkaç adet küme oluşturmuş mikrokalsifikasyon mevcuttur
+Output: <span class="ANAT">Sol memede</span> CC grafide <span class="ANAT">dış yarıda</span> <span class="OBS-P">birkaç adet</span> <span class="OBS-P">küme oluşturmuş mikrokalsifikasyon</span> mevcuttur
+Input: Sol memede asimetrik doku dansitesi izlenmedi
+Output: <span class="ANAT">Sol memede</span> <span class="OBS-A">asimetrik doku dansitesi</span> izlenmedi
+Input: Heterojen dens meme parankimi
+Output: <span class="OBS-P">Heterojen dens</span> <span class="ANAT">meme parankimi</span> 
+Input: Sol meme CC grafide tariflenen kalsifikasyonlar
+Output: <span class="ANAT">Sol meme</span> CC grafide tariflenen <span class="OBS-P">kalsifikasyonlar</span>
+Input: (BIRADS III 6 ay sonra kontrol sol CC grafi önerilir)
+Output: (<span class="IMP">BIRADS III 6 ay sonra kontrol sol CC grafi önerilir</span>)
+Input: Sol meme parankimi yağ infiltrasyonu ile uyumlu (Tip A meme) görünümdedir
+Output: <span class="ANAT">Sol meme parankimi</span> <span class="OBS-P">yağ infiltrasyonu</span> <span class="IMP">ile uyumlu</span> (<span class="OBS-P">Tip A</span> <span class="ANAT">meme</span>) <span class="OBS-P">görünümdedir</span>
+Input: Sol memede üs dış kadranda geçirilmiş cerrahiye sekonder deformasyon ve doku distorsiyonu dikkati çekmektedir
+Output: <span class="ANAT">Sol memede</span> <span class="ANAT">üst dış kadranda</span> <span class="IMP">geçirilmiş cerrahiye sekonder</span> <span class="OBS-P">deformasyon</span> ve <span class="OBS-P">doku distorsiyonu</span> dikkati çekmektedir
+Input: Grafiye dahil olan sol ön aksiller kesimde lenf nodu saptanmadı
+Output: Grafiye dahil olan <span class="ANAT">sol ön aksiller kesimde</span> <span class="OBS-A">lenf nodu</span> saptanmadı
+Input: Grafiye dahil olan sağ ön aksiller kesimde lenf nodu saptanmadı
+Output: Grafiye dahil olan <span class="ANAT">sağ ön aksiller kesimde</span> <span class="OBS-A">lenf nodu</span> saptanmadı
+Input: tarihli MG ile bulgular stabildir
+Output: tarihli MG ile bulgular <span class="IMP">stabildir</span>)
+Input: Sol memede geçirilmiş cerrahiye sekonder değişiklikler (BIRADS II)
+Output: <span class="ANAT">Sol memede</span> <span class="IMP">geçirilmiş cerrahiye sekonder</span> <span class="OBS-P">değişiklikler</span> (<span class="IMP">BIRADS II</span>)
+Input: Sağ meme parankimi yağ infiltrasyonu ile uyumlu (Tip A meme) görünümdedir
+Output: <span class="ANAT">Sağ meme parankimi</span> <span class="OBS-P">yağ infiltrasyonu</span> <span class="IMP">ile uyumlu</span> (<span class="OBS-P">Tip A</span> <span class="ANAT">meme</span>) <span class="OBS-P">görünümdedir</span>
+Input: Sağ memede üst dış kadranda, 5 mm çaplı, kalsifiye nodüler lezyon dikkati çekti
+Output: <span class="ANAT">Sağ memede</span> <span class="ANAT">üst dış kadranda</span>, <span class="OBS-P">5 mm çaplı, kalsifiye nodüler lezyon</span> dikkati çekti
+Input: Ayrıca CC mamogramda iç kesimde ve yine CC mamogramda dış kesimde 5 mm çaplı, MLO mamogramda net olarak demonstre edilemeyen, düşük dansiteli nodüler lezyonlar dikkati çekti
+Output: Ayrıca CC mamogramda <span class="ANAT">iç kesimde</span> ve yine CC mamogramda <span class="ANAT">dış kesimde</span> <span class="OBS-P">5 mm çaplı</span>, MLO mamogramda net olarak demonstre edilemeyen, <span class="OBS-P">düşük dansiteli nodüler lezyonlar</span> dikkati çekti
+Input: Sağ memede doku distorsiyonu izlenmedi
+Output: <span class="ANAT">Sağ memede</span> <span class="OBS-A">doku distorsiyonu</span> izlenmedi
+Input: Grafiye dahil olan sağ ön aksiller kesimde, muhtemelen benign oldukları düşünülen, reaktif görünümlü lenf nodları saptandı
+Output: Grafiye dahil olan <span class="ANAT">sağ ön aksiller kesimde</span>, muhtemelen <span class="IMP">benign</span> <span class="OBS-U">oldukları düşünülen</span>, <span class="OBS-P">reaktif görünümlü lenf nodları</span> saptandı
+Input: Sağ memede stabil nodüler lezyonlar (US korelasyonu önerilir) (BIRADS 0)
+Output: <span class="ANAT">Sağ memede</span> <span class="IMP">stabil</span> <span class="OBS-P">nodüler lezyonlar</span> (<span class="IMP">US korelasyonu önerilir</span>) (<span class="IMP">BIRADS 0</span>)
+Input: Sağ memede nodüler lezyonlar (BIRADS II)
+Output: <span class="ANAT">Sağ memede</span> <span class="OBS-P">nodüler lezyonlar</span> (<span class="IMP">BIRADS II</span>)
+Input: Sol meme parankimi minimal dens (Tip B meme) görünümdedir
+Output: <span class="ANAT">Sol meme parankimi</span> <span class="OBS-P">minimal dens</span> (<span class="OBS-P">Tip B</span> <span class="ANAT">meme</span>) <span class="OBS-P">görünümdedir</span>
+Input: Sağ memede üst-iç kadranda yaklaşık 13x6 mm boyutlarında, bir kısmı kalsifiye nodüler lezyonla birlikte orta kesimde derin yerleşimli, 10 mm çaplı kalsifiye nodüler lezyon dikkati çekti
+Output: <span class="ANAT">Sağ memede</span> <span class="ANAT">üst-iç kadranda</span> yaklaşık <span class="OBS-P">13x6 mm boyutlarında</span>, <span class="OBS-P">bir kısmı kalsifiye nodüler lezyon</span>la birlikte <span class="ANAT">orta kesimde</span> derin yerleşimli, <span class="OBS-P">10 mm çaplı</span> <span class="OBS-P">kalsifiye nodüler lezyon</span> dikkati çekti
+Input: Sağ memede nodüler lezyonlar (BIRADS II)
+Output: <span class="ANAT">Sağ memede</span> <span class="OBS-P">nodüler lezyonlar</span> (<span class="IMP">BIRADS II</span>)
+Input: Sağ memede üst-iç kadranda 12 mm çapında ölçülen, üzerine süperpoze kaba kalsifikasyonlar bulunan nodüler lezyon izlenmiş olup
+Output: <span class="ANAT">Sağ memede</span> <span class="ANAT">üst-iç kadranda</span> <span class="OBS-P">12 mm çapında</span> ölçülen, <span class="ANAT">üzerine</span> <span class="OBS-P">süperpoze kaba kalsifikasyonlar bulunan nodüler lezyon</span> izlenmiş olup
+Input: kalsifiye fibroadenom lehine değerlendirilmiştir
+Output: <span class="OBS-U">kalsifiye fibroadenom</span> lehine değerlendirilmiştir
+Input: tarihli mamografi tetkikinden belirgin interval farklılık göstermemektedir
+Output: tarihli mamografi tetkikinden <span class="OBS-A">belirgin interval farklılık</span> göstermemektedir
+Input: Benzer şekilde sağ memede alt-orta kesimde 11 mm çapında ölçülen, grafilere kısmen dahil olan bir adet daha kalsifiye nodüler lezyon izlenmiş olup bir önceki tetkik ile karşılaştırıldığında stabildir
+Output: <span class="IMP">Benzer şekilde</span> <span class="ANAT">sağ memede</span> <span class="ANAT">alt-orta kesimde</span> <span class="OBS-P">11 mm çapında</span> ölçülen , grafilere kısmen dahil olan bir adet daha <span class="OBS-P">kalsifiye nodüler lezyon</span> izlenmiş olup bir önceki tetkik ile karşılaştırıldığında <span class="IMP">stabildir</span>
+Input: Sağ memede benign radyolojik karakterde makrokalsifikasyonlar izlenmektedir
+Output: <span class="ANAT">Sağ memede</span> <span class="IMP">benign radyolojik karakterde</span> <span class="OBS-P">makrokalsifikasyonlar</span> izlenmektedir
+Input: Sağda areola arkasında postoperatif değişikliklere ait olduğu düşünülen minimal doku distorsiyonu izlenmektedir
+Output: <span class="ANAT">Sağda</span> <span class="ANAT">areola arkasında</span> <span class="OBS-U">postoperatif değişikliklere ait olduğu düşünülen</span> <span class="OBS-P">minimal doku distorsiyonu</span> izlenmektedir
+Input: Sağ memede benign radyolojik karakterde kalsifiye nodüler lezyonlar ve makrokalsifikasyonlar
+Output: <span class="ANAT">Sağ memede</span> <span class="IMP">benign radyolojik karakterde</span> <span class="OBS-P">kalsifiye nodüler lezyonlar</span> ve <span class="OBS-P">makrokalsifikasyonlar</span>
+Input: asimetrik doku dansitesi ya da doku distorsiyonu izlenmedi
+Output: <span class="OBS-A">asimetrik doku dansitesi</span> ya da <span class="OBS-A">doku distorsiyonu</span> izlenmedi
+Input: Sağ meme üst-iç kadran periferinde makrokalsifikasyonlar içerdiği gözlenen yaklaşık 9x6 mm boyutlarında ölçülen düzgün konturlu düşük yoğunluklu nodüler opasiteye ait görünüm
+Output: <span class="ANAT">Sağ meme</span> <span class="ANAT">üst-iç kadran periferinde</span> <span class="OBS-P">makrokalsifikasyonlar içerdiği gözlenen</span> yaklaşık <span class="OBS-P">9x6 mm</span> <span class="OBS-P">boyutlarında</span> ölçülen <span class="OBS-P">düzgün konturlu düşük yoğunluklu nodüler opasiteye ait görünüm</span>
+Input: söz konusu olup
+Output: söz konusu olup
+Input: tarihli sağ dijital mamografi görüntüleri üzerinden yapılan karşılaştırmada
+Output: tarihli sağ dijital mamografi görüntüleri üzerinden yapılan karşılaştırmada
+Input: stabil olarak değerlendirildi
+Output: <span class="IMP">stabil</span> olarak değerlendirildi
+Example Intput: Tanımlanan lezyon dışında
+Output: Tanımlanan <span class="OBS-P">lezyon</span> dışında
+Input: sağ memede ayrıca dağınık yerleşimli, bir kısmı patlamış mısır tarifinde olmak üzere makrokalsifikasyonlara ait görünüm söz konusu olup
+Output: <span class="ANAT">sağ memede</span> ayrıca <span class="OBS-P">dağınık yerleşimli, bir kısmı patlamış mısır tarifinde olmak üzere makrokalsifikasyonlara ait görünüm</span> söz konusu olup
+Input: involüsyone fibroadenom açısından anlamlı olabileceği düşünüldü
+Output: <span class="OBS-U">involüsyone fibroadenom</span> açısından anlamlı olabileceği düşünüldü
+Input: tarihli mammografi tetkiki ile kıyaslandığında stabil olarak değerlendirilen nodüler opasiteye ait görünüm
+Output: tarihli mammografi tetkiki ile kıyaslandığında <span class="IMP">stabil</span> olarak değerlendirilen <span class="OBS-P">nodüler opasiteye ait görünüm</span>
+Input: Sağ memde ayrıca dağınık yerleşimli birkaç adet noktasal kalsifikasyon izlendi
+Output: <span class="ANAT">Sağ memede</span> ayrıca <span class="OBS-P">dağınık yerleşimli</span> <span class="OBS-P">birkaç adet</span> <span class="OBS-P">noktasal</span> <span class="OBS-P">kalsifikasyon</span></span> izlendi
+Input: Heterojen dens neme parankimi (US korelasyonu önerilir) (BIRADS 0)
+Output: <span class="OBS-P">Heterojen dens</span> <span class="ANAT">meme parankimi</span> (<span class="IMP">US korelasyonu önerilir</span>) (<span class="IMP">BIRADS 0</span>)
+Input: Sağ memede benign kalsifikasyonlar (BIRADS II)
+Output: <span class="ANAT">Sağ memede</span> <span class="IMP">benign</span> <span class="OBS-P">kalsifikasyonlar</span> (<span class="IMP">BIRADS II</span>)
+Example Intput: Sağ meme cildinde geçirilmiş cerrahi ve radyoterapiye sekonder olduğu düşünülen hafif kalınlaşma izlendi
+Output: <span class="ANAT">Sağ meme cildinde</span> <span class="IMP">geçirilmiş cerrahi ve radyoterapiye sekonder</span> <span class="OBS-U">olduğu düşünülen</span> <span class="OBS-P">hafif kalınlaşma</span> izlendi
+Input: Sağ meme üst dış kadranda geçirilmiş cerrahiye sekonder hacim kaybı ve hafif distorsiyone görünüm izlendi
+Output: <span class="ANAT">Sağ meme</span> <span class="ANAT">üst dış kadranda</span> <span class="IMP">geçirilmiş cerrahiye sekonder</span> <span class="OBS-P">hacim kaybı</span> ve <span class="OBS-P">hafif distorsiyone görünüm</span> izlendi
+Input: Sağ meme başı düzeyinde cilt kalsifikasyonlarına ait görünümler izlendi
+Output: <span class="ANAT">Sağ meme başı düzeyinde</span> <span class="ANAT">cilt</span> <span class="OBS-P">kalsifikasyonlarına ait görünümler</span> izlendi
+Input: Meme başı düzeyinde benign natürde kalsifikasyonlar (BIRADS II)
+Output: <span class="ANAT">Meme başı düzeyinde</span> <span class="IMP">benign natürde</span> <span class="OBS-P">kalsifikasyonlar</span> (<span class="IMP">BIRADS II</span>)
+Input: Meme başının minimal retrakte olduğu dikkati çekmektedir
+Output: <span class="ANAT">Meme başının</span> <span class="OBS-P">minimal retrakte</span> olduğu dikkati çekmektedir
+Input: Tanımlanan kitle içerisinde patolojik olarak değerlendirilebilecek mikrokalsifikasyon saptanmadı
+Output: Tanımlanan <span class="OBS-P">kitle</span> <span class="ANAT">içerisinde</span> <span class="OBS-A">patolojik olarak değerlendirilebilecek mikrokalsifikasyon</span> saptanmadı
+Input: Sol memede malign natürde olabilecek kitle lezyonu
+Output: <span class="ANAT">Sol memede</span> <span class="IMP">malign natürde olabilecek</span> <span class="OBS-P">kitle lezyonu</span>
+Input: Cilt kalınlığı normaldir
+Output: <span class="ANAT">Cilt</span> <span class="OBS-P">kalınlığı normaldir</span>
+Input: Sağ memede dağınık fibroglandüler dansiteler (Tip B meme) izlendi
+Output: <span class="ANAT">Sağ memede</span> <span class="OBS-P">dağınık fibroglandüler dansiteler</span> (<span class="OBS-P">Tip B</span> <span class="ANAT">meme</span>) izlendi
+Input: Sağ meme üst dış kadranda ve aksiller bölgede geçirilmiş cerrahiye bağlı yapısal distorsiyon izlenmektedir
+Output: <span class="ANAT">Sağ meme</span> <span class="ANAT">üst dış kadranda</span> ve <span class="ANAT">aksiller bölgede</span> <span class="IMP">geçirilmiş cerrahiye bağlı</span> <span class="OBS-P">yapısal distorsiyon</span> izlenmektedir
+Input: Ayrıca üst dış kadranda cerrahi markerlara ait görünümler izlendi
+Output: Ayrıca <span class="ANAT">üst dış kadranda</span> <span class="OBS-P">cerrahi markerlara ait görünümler</span> izlendi
+Input: Sağ memede dağınık yerleşimli, benign natürde makrokalsifikasyonlar-punktat mikrokalsifikasyonlar izlendi
+Output: <span class="ANAT">Sağ memede</span> <span class="OBS-P">dağınık yerleşimli</span>, <span class="IMP">benign natürde</span> <span class="OBS-P">makrokalsifikasyonlar-punktat mikrokalsifikasyonlar</span> izlendi
+Input: Üst dış kadranda cerrahi lojda 2022 tarihli mamografide izlenen grup yapmış, hafif pleomorfizm gösteren mikrokalsifikasyonlar güncel tetkikinde saptanmamış olup eksize olduğu öğrenilmiştir
+Output: <span class="ANAT">Üst dış kadranda</span> <span class="ANAT">cerrahi lojda</span> 2022 tarihli mamografide izlenen <span class="OBS-A">grup yapmış, hafif pleomorfizm gösteren mikrokalsifikasyonlar</span> <span class="IMP">güncel tetkikinde</span> saptanmamış olup <span class="IMP">eksize</span> olduğu öğrenilmiştir
+Input: YORUM :
+-Sağ memede geçirilmiş cerrahiye sekonder değişiklikler
+Output: YORUM :
+-<span class="ANAT">Sağ memede</span> <span class="IMP">geçirilmiş cerrahiye sekonder</span> <span class="OBS-P">değişiklikler</span>
+Input: YORUM :
+- Heterojen dens meme parankimi (US korelasyonu önerilir) (BIRADS 0)
+Output: YORUM :
+- <span class="OBS-P">Heterojen dens</span> <span class="ANAT">meme parankimi</span> (<span class="IMP">US korelasyonu önerilir</span>) (<span class="IMP">BIRADS 0</span>)
+Input: Sağ aksiller fold üzerine süperpoze port kateterine ait görünüm izlendi
+Output: <span class="OBS-P">Sağ aksiller fold</span> <span class="ANAT">üzerine</span> <span class="OBS-P">süperpoze</span> <span class="OBS-P">port kateterine ait görünüm</span> izlendi
+Input: Sol aksiller bölgede cilt lezyonu ile uyumlu görünüm (BIRADS II)
+Output: <span class="OBS-P">Sol aksiller bölgede</span> <span class="ANAT">cilt</span> <span class="OBS-P">lezyonu</span> <span class="IMP">ile uyumlu</span> <span class="OBS-P">görünüm</span> (<span class="IMP">BIRADS II</span>)
+Input: Sol meme orta-alt kesiminde geçirilmiş cerrahiye bağlı hafif distorsiyon dikkati çekmektedir
+Output: <span class="ANAT">Sol meme</span> <span class="ANAT">orta-alt kesiminde</span> <span class="IMP">geçirilmiş cerrahiye bağlı</span> <span class="OBS-P">hafif distorsiyon</span> dikkati çekmektedir
+Input: muhtemelen benign natürde oldukları düşünülen lenf nodları saptandı
+Output: muhtemelen <span class="IMP">benign natürde</span> <span class="OBS-U">oldukları düşünülen</span> <span class="OBS-P">lenf nodları</span> saptandı
+Input: Yoğun meme parankimi
+Output: <span class="OBS-P">Yoğun</span> <span class="ANAT">meme parankimi</span>
+Input: geçirilmiş cerrahiye sekonder değişiklikler
+Output: <span class="IMP">geçirilmiş cerrahiye sekonder</span> <span class="OBS-P">değişiklikler</span>
+Input: geçirilmiş cerrahiye bağlı değişiklikler
+Output: <span class="IMP">geçirilmiş cerrahiye bağlı</span> <span class="OBS-P">değişiklikler</span>
+Input: Sol meme parankimi heterojen dens (Tip C meme) görünümdedir
+Output: <span class="ANAT">Sol meme</span> <span class="ANAT">parankimi</span> <span class="OBS-P">heterojen dens</span> (<span class="OBS-P">Tip C</span> <span class="ANAT">meme</span>) <span class="OBS-P">görünümdedir</span>
+Input: cilde invaze görünümde malign görünümde kitle lezyonu izlenmiştir
+Output: <span class="ANAT">cilde</span> <span class="IMP">invaze görünümde</span> <span class="IMP">malign görünümde</span> <span class="OBS-P">kitle lezyonu</span> izlenmiştir
+Input: memede dağınık fibroglandüler dansiteler izlenmiştir (Tip B meme)
+Output: <span class="ANAT">memede</span> <span class="OBS-P">dağınık</span> <span class="OBS-P">fibroglandüler</span> <span class="OBS-P">dansiteler</span> izlenmiştir (<span class="OBS-P">Tip B</span> <span class="ANAT">meme</span>)
+Input: üst-dış kadranda 6 mm çapında ölçülen meme içi lenf nodu izlendi
+Output: <span class="ANAT">üst-dış kadranda</span> <span class="OBS-P">6 mm çapında</span> ölçülen <span class="ANAT">meme içi</span> <span class="OBS-P">lenf nodu</span> izlendi
+Input: US ile değerlendirmesi ve doku tanısı önerilir
+Output: <span class="IMP">US ile değerlendirmesi ve doku tanısı önerilir</span>
+Input: Meme MRG ile ileri tetkiki önerilir
+Output: <span class="IMP">Meme MRG ile ileri tetkiki önerilir</span>
+Input: US korelasyonu ve doku tanısı önerilir
+Output: <span class="IMP">US korelasyonu ve doku tanısı önerilir</span>
+Input: bu düzeyde yer yer küme oluşturmuş pleomorfik mikrokalsifkasyonlar mevcuttur
+Output: <span class="ANAT">bu düzeyde</span> <span class="OBS-P">yer yer</span> <span class="OBS-P">küme oluşturmuş</span> <span class="OBS-P">pleomorfik</span> <span class="OBS-P">mikrokalsifkasyonlar</span> mevcuttur
+Input: Sağ memede en büyükleri yaklaşık 29x14 mm boyutunda birkaç adet nodüler opasite mevcuttur
+Output: <span class="ANAT">Sağ memede</span> <span class="OBS-P">en büyükleri</span> yaklaşık <span class="OBS-P">29x14 mm</span> <span class="OBS-P">boyutunda</span> <span class="OBS-P">birkaç adet</span> <span class="OBS-P">nodüler</span> <span class="OBS-P">opasite</span> mevcuttur
+Input: Sağ aksiller fold üzerine süperpoze venöz porta ait metalik opasite izlenmektedir
+Output: <span class="ANAT">Sağ aksiller</span> <span class="ANAT">fold</span> <span class="ANAT">üzerine</span> <span class="OBS-P">süperpoze</span> <span class="OBS-P">venöz porta ait</span> <span class="OBS-P">metalik opasite</span> izlenmektedir
+Input: sağ ön aksiller foldda reaktif görünümlü lenf nodları
+Output: <span class="ANAT">sağ ön aksiller</span> <span class="ANAT">foldda</span> <span class="OBS-P">reaktif görünümlü</span> <span class="OBS-P">lenf nodları</span>
+Input: Sağ memede periareolar bölgede geçirilmiş redüksiyon mamoplastiye sekonder değişiklikler
+Output: <span class="ANAT">Sağ memede</span> <span class="ANAT">periareolar bölgede</span> <span class="IMP">geçirilmiş redüksiyon mamoplastiye sekonder</span> <span class="OBS-P">değişiklikler</span>
+Input: bu görünümün glandüler dokuya ait olduğu anlaşıldı
+Output: bu <span class="OBS-P">görünümün</span> <span class="OBS-P">glandüler dokuya</span> ait olduğu anlaşıldı
+Input: malignite lehine anlamlı interval farklılık saptanmamıştır
+Output: <span class="OBS-A">malignite lehine anlamlı interval farklılık</span> saptanmamıştır
+Input: mikrokalsifikasyonların artış gösterdiği izlenmektedir
+Output: <span class="OBS-P">mikrokalsifikasyonların</span> <span class="IMP">artış gösterdiği</span> izlenmektedir
+Input: Sol meme parankimi yağ infiltrasyonu ile uyumlu görünümdedir
+Output: <span class="ANAT">Sol meme</span> <span class="ANAT">parankimi</span> <span class="OBS-P">yağ infiltrasyonu</span> <span class="IMP">ile uyumlu</span> <span class="OBS-P">görünümdedir</span>
+Input: aksillanın ek incelemesi önerilmektedir
+Output: <span class="ANAT">aksillanın</span> <span class="IMP">ek incelemesi önerilmektedir</span>
+Input: patolojik olarak tanısı bulunan malign kitle
+Output: <span class="IMP">patolojik olarak tanısı bulunan malign kitle</span>
+Input: Sağ memede meme içi lenf nodu (BIRADS II)
+Output: <span class="ANAT">Sağ memede</span> <span class="ANAT">meme içi</span> <span class="OBS-P">lenf nodu</span> (<span class="IMP">BIRADS II</span>)
+Input: sonraki kontrolun 6 ay sonra rutin senelik bilateral mamografi ile yapılması önerilir
+Output: <span class="IMP">sonraki kontrolun 6 ay sonra rutin senelik bilateral mamografi ile yapılması önerilir</span>
+Input: sonraki kontrolünün 6 ay sonra rutin senelik bilateral mammogramla yapılması önerilir
+Output: <span class="IMP">sonraki kontrolünün 6 ay sonra rutin senelik bilateral mammogramla yapılması önerilir</span>
+Input: BI-RADS KATEGORİ (ACR BI-RADS ATLAS FOR MAMMOGRAPHY)
+Output: BI-RADS KATEGORİ (ACR BI-RADS ATLAS FOR MAMMOGRAPHY)
+Input: bu lokalizasyonda MLO grafide asimetrik dansite görünümü dikkati çekmektedir
+Output: <span class="ANAT">bu lokalizasyonda</span> MLO grafide <span class="OBS-P">asimetrik dansite</span> <span class="OBS-P">görünümü</span> dikkati çekmektedir
+Input: dış merkezli tetkikleri ile stabil olarak değerlendirilen mikrokalsifikasyonlar
+Output: <span class="IMP">dış merkezli tetkikleri ile</span> <span class="IMP">stabil</span> olarak değerlendirilen <span class="OBS-P">mikrokalsifikasyonlar</span>
+Input: muhtemelen benign natürde olduğu düşünülen lenf nodu saptandı
+Output: muhtemelen <span class="IMP">benign natürde</span> <span class="OBS-U">olduğu düşünülen</span> <span class="OBS-P">lenf nodu</span> saptandı
+Input: Normal sınırlarda sol dijital mammografi (BIRADS I)
+Output: <span class="OBS-P">Normal sınırlarda</span> <span class="ANAT">sol</span> <span class="OBS-P">dijital mammografi</span> (<span class="IMP">BIRADS I</span>)
+Input: Bu alanın 6 ay sonra CC planda sol unilateral mammogramla değerlendirilmesi önerilir
+Output: <span class="ANAT">Bu alanın</span> <span class="IMP">6 ay sonra CC planda sol unilateral mammogramla değerlendirilmesi önerilir</span>
+Input: Sol memede takibi önerilen mikrokalsifikasyonlar (BIRADS III)
+Output: <span class="ANAT">Sol memede</span> <span class="IMP">takibi önerilen</span> <span class="OBS-P">mikrokalsifikasyonlar</span> (<span class="IMP">BIRADS III</span>)
+Input: Sağ memede 10 mm ve daha küçük çaplı birkaç adet sınırları meme parankimi ile örtülü nodüler lezyon varlığından şüphe edildi
+Output: <span class="ANAT">Sağ memede</span> <span class="OBS-P">10 mm</span> ve <span class="OBS-P">daha küçük çaplı</span> <span class="OBS-P">birkaç adet</span> <span class="OBS-P">sınırları</span> <span class="ANAT">meme parankimi</span> <span class="OBS-P">ile örtülü</span> <span class="OBS-U">nodüler lezyon varlığından şüphe edildi</span>
+Input: muhtemelen benign oldukları düşünülen, eliptik şekilli, reaktif görünümlü lenf nodları saptandı
+Output: muhtemelen <span class="IMP">benign</span> <span class="OBS-U">oldukları düşünülen</span>, <span class="OBS-P">eliptik şekilli</span>, <span class="OBS-P">reaktif görünümlü</span> <span class="OBS-P">lenf nodları</span> saptandı
+Input: bazılarının sınırları meme parankiminden net olarak ayırt edilemeyen nodüler lezyonlar dikkati çekti
+Output: <span class="OBS-P">bazılarının sınırları</span> <span class="ANAT">meme parankiminden</span> <span class="OBS-P">net olarak ayırt edilemeyen</span> <span class="OBS-P">nodüler lezyonlar</span> dikkati çekti
+Input: işaretlemeyi takiben eksizyonu önerilir
+Output: <span class="IMP">işaretlemeyi takiben eksizyonu önerilir</span>
+Input: Yapılan spot kompresyon grafisinde bu alanın sebat ettiği izlendi
+Output: Yapılan spot kompresyon grafisinde <span class="ANAT">bu alanın</span> <span class="IMP">sebat ettiği</span> izlendi
+Input: sol memede nodüler lezyon şüphesi
+Output: <span class="ANAT">sol memede</span> <span class="OBS-U">nodüler lezyon şüphesi</span>
+Input: Sol memede üst dış kadranda yoğunlaşan benign natürde makro-mikrokalsifikasyonlar izlendi
+Output: <span class="ANAT">Sol memede</span> <span class="ANAT">üst dış kadranda</span> <span class="OBS-P">yoğunlaşan</span> <span class="IMP">benign natürde</span> <span class="OBS-P">makro-mikrokalsifikasyonlar</span> izlendi
+Input: 6 ay sonra sınırlı sol MLO grafi ile kontrolü önerilir
+Output: <span class="IMP">6 ay sonra sınırlı sol MLO grafi ile kontrolü önerilir</span>
+Input: CC grafide demonstre edilemeyen nodüler opasite izlendi
+Output: CC grafide demonstre edilemeyen <span class="OBS-P">nodüler opasite</span> izlendi
+Input: pleomorfizm göstermeyen punktat mikrokalsifikasyonlar dikkati çekti
+Output: <span class="OBS-A">pleomorfizm</span> göstermeyen <span class="OBS-P">punktat</span> <span class="OBS-P">mikrokalsifikasyonlar</span> dikkati çekti
+Input: Sağ memede birkaç adet, benign natürde punktat - yer yer gevşek kümeleşen tozsu mikrokalsifikasyonlar izlendi
+Output: <span class="ANAT">Sağ memede</span> <span class="OBS-P">birkaç adet</span>, <span class="IMP">benign natürde</span> <span class="OBS-P">punktat</span> - <span class="OBS-P">yer yer</span> <span class="OBS-P">gevşek kümeleşen</span> <span class="OBS-P">tozsu</span> <span class="OBS-P">mikrokalsifikasyonlar</span> izlendi
+Input: mikrokalsifikasyonlar izlenmekte olup ... tarihli mamografi incelemesi ile karşılaştırıldığında boyut ve görünümlerinde anlamlı farklılık saptanmadı
+Output: <span class="OBS-P">mikrokalsifikasyonlar</span> izlenmekte olup ... tarihli mamografi incelemesi ile karşılaştırıldığında <span class="OBS-A">boyut ve görünümlerinde anlamlı farklılık</span> saptanmadı
+Input: hastanın bir önceki mamografi tetkikindeki ile benzer görünümdedir
+Output: hastanın bir <span class="IMP">önceki mamografi tetkikindeki ile benzer görünümdedir</span>
+Input: önceki mamografisinde izlenmeyen, hafif pleomorfizm gösteren, küme yapmış mikrokalsifikasyonlar izlendi
+Output: <span class="IMP">önceki mamografisinde izlenmeyen</span>, <span class="OBS-P">hafif pleomorfizm gösteren</span>, <span class="OBS-P">küme yapmış</span> <span class="OBS-P">mikrokalsifikasyonlar</span> izlendi
+Input: fokal pleomorfik mikrokalsifikasyonlar izlenmektedir
+Output: <span class="OBS-P">fokal</span> <span class="OBS-P">pleomorfik</span> <span class="OBS-P">mikrokalsifikasyonlar</span> izlenmektedir
+Input: 6 ay sonra sol MLO ve CC grafi kontrolü önerilir
+Output: <span class="IMP">6 ay sonra sol MLO ve CC grafi kontrolü önerilir</span>
+Input: reaktif görünümlü, milimetrik çaplı lenf nodu saptandı
+Output: <span class="OBS-P">reaktif görünümlü</span>, <span class="OBS-P">milimetrik çaplı</span> <span class="OBS-P">lenf nodu</span> saptandı
+Input: superiorda aksiller kuyrukta, asimetrik doku dansitesi izlenmektedir
+Output: <span class="ANAT">superiorda</span> <span class="ANAT">aksiller kuyrukta</span>, <span class="OBS-P">asimetrik</span> <span class="OBS-P">doku dansitesi</span> izlenmektedir
+Input: superiorda pektoral kas orta kesimi üzerine superpoze, gevşek bir şekilde tek hat üstüne dizilmiş uniform özellikte mikrokalsifikasyonlar dikkati çekti
+Output: <span class="ANAT">superiorda</span> <span class="ANAT">pektoral kas</span> <span class="ANAT">orta kesimi</span> <span class="ANAT">üzerine</span> <span class="OBS-P">superpoze</span>, <span class="OBS-P">gevşek bir şekilde</span> <span class="OBS-P">tek hat üstüne dizilmiş</span> <span class="OBS-P">uniform özellikte</span> <span class="OBS-P">mikrokalsifikasyonlar</span> dikkati çekti
+Input: 6 ay sonra sağ unilateral MLO planda mamogramla korelasyonu önerilir
+Output: <span class="IMP">6 ay sonra sağ unilateral MLO planda mamogramla korelasyonu önerilir</span>
+Input: Grafiye dahil olan sağ ön aksiller kesimde, grafiye kısmen dahil olan, muhtemelen benign olduğu düşünülen lenf nodu saptandı
+Output: Grafiye dahil olan <span class="ANAT">sağ ön aksiller kesimde</span>, grafiye kısmen dahil olan, muhtemelen <span class="IMP">benign</span> <span class="OBS-U">olduğu düşünülen</span> <span class="OBS-P">lenf nodu</span> saptandı
+Input: sınırları meme parankimi ile örtülü nodüler lezyon varlığından şüphe edildi
+Output: <span class="OBS-P">sınırları</span> <span class="ANAT">meme parankimi</span> <span class="OBS-P">ile örtülü</span> <span class="OBS-U">nodüler lezyon varlığından şüphe edildi</span>
+Input: eski mamogramlarında da izlendiği ve benzer şekilde sebat ettiği anlaşıldı
+Output: <span class="IMP">eski mamogramlarında da izlendiği</span> ve <span class="IMP">benzer şekilde sebat ettiği</span> anlaşıldı
+
+###
+here is the mamography report to be tagged:
+Sağ memenin MLO ve CC mammogramları elde olunmuştur.
+Sağ meme parankimi dens (Tip D meme) görünümdedir. Sağ memede  belirgin sınır veren kitle saptanmadı. Sağ memede en büyükleri üst iç kadranda yaklaşık 7.5x5 mm boyutunda parankim ile örtülü düzgün sınırlı düşük dansiteli birkaç adet nodüler opasite mevcuttur. 
+Sağ memede asimetrik doku dansitesi ya da doku distorsiyonu izlenmedi. Sağ memede malignensi açısından şüphe uyandıran mikrokalsifikasyon kümesi mevcut değildir.
+  
+Grafiye dahil olan sağ ön aksiller kesimde, muhtemelen benign oldukları düşünülen, eliptik şekilli lenf nodları saptandı.
+(Yoğun  meme parankimi nedeniyle değerlendirme sınırlı düzeyde kalmıştır.)
+
+YORUM:
+
+- Dens meme parankimi ve sağ memede nodüler opasiteler (US korelasyonu önerilir) (BIRADS 0)
+(HASTANIN SOL MAMMOGRAFİ RAPORUNUN DA OKUNMASI ÖNERİLİR)
+###
+Do not forget to output in a code snippet window.
+###
+Why didn't you output in a code snippet window?
+
