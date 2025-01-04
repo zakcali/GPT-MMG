@@ -25,6 +25,8 @@ note: you can use experimental models without paying for them, look for the url:
 
 current experimental model is: gemini-exp-1206
 
+look for limits of experimental models: https://discuss.ai.google.dev/t/whats-the-rate-limit-for-the-experimental-models/38226
+
 you may need to edit delay routine to not to throttle the api but it may still throttle (stops responding after outputting a few files)
 ```
 await new Promise(resolve => setTimeout(resolve, 60 * 1000)); // Delay
