@@ -50,7 +50,7 @@ if your GEMINI_API_KEY is "lFrWertd-tUyhGhpWwWwsD", then you must type this
 https://generativelanguage.googleapis.com/v1beta/models?key=lFrWertd-tUyhGhpWwWwsD
 ```
 
-here is the current output as Jan 5, 2025
+here is the current output as Feb 12, 2025
 ```
 {
   "models": [
@@ -251,38 +251,6 @@ here is the current output as Jan 5, 2025
       "maxTemperature": 2
     },
     {
-      "name": "models/gemini-1.5-pro-exp-0801",
-      "version": "exp-0801",
-      "displayName": "Gemini Experimental 1206",
-      "description": "Experimental release (December 6th, 2024) of Gemini.",
-      "inputTokenLimit": 2097152,
-      "outputTokenLimit": 8192,
-      "supportedGenerationMethods": [
-        "generateContent",
-        "countTokens"
-      ],
-      "temperature": 1,
-      "topP": 0.95,
-      "topK": 64,
-      "maxTemperature": 2
-    },
-    {
-      "name": "models/gemini-1.5-pro-exp-0827",
-      "version": "exp-1206",
-      "displayName": "Gemini Experimental 1206",
-      "description": "Experimental release (December 6th, 2024) of Gemini.",
-      "inputTokenLimit": 2097152,
-      "outputTokenLimit": 8192,
-      "supportedGenerationMethods": [
-        "generateContent",
-        "countTokens"
-      ],
-      "temperature": 1,
-      "topP": 0.95,
-      "topK": 64,
-      "maxTemperature": 2
-    },
-    {
       "name": "models/gemini-1.5-flash-latest",
       "version": "001",
       "displayName": "Gemini 1.5 Flash Latest",
@@ -346,22 +314,6 @@ here is the current output as Jan 5, 2025
       "temperature": 1,
       "topP": 0.95,
       "topK": 40,
-      "maxTemperature": 2
-    },
-    {
-      "name": "models/gemini-1.5-flash-exp-0827",
-      "version": "exp-1206",
-      "displayName": "Gemini Experimental 1206",
-      "description": "Experimental release (December 6th, 2024) of Gemini.",
-      "inputTokenLimit": 2097152,
-      "outputTokenLimit": 8192,
-      "supportedGenerationMethods": [
-        "generateContent",
-        "countTokens"
-      ],
-      "temperature": 1,
-      "topP": 0.95,
-      "topK": 64,
       "maxTemperature": 2
     },
     {
@@ -482,10 +434,108 @@ here is the current output as Jan 5, 2025
       "maxTemperature": 2
     },
     {
+      "name": "models/gemini-2.0-flash",
+      "version": "2.0",
+      "displayName": "Gemini 2.0 Flash",
+      "description": "Gemini 2.0 Flash",
+      "inputTokenLimit": 1048576,
+      "outputTokenLimit": 8192,
+      "supportedGenerationMethods": [
+        "generateContent",
+        "countTokens",
+        "bidiGenerateContent"
+      ],
+      "temperature": 1,
+      "topP": 0.95,
+      "topK": 40,
+      "maxTemperature": 2
+    },
+    {
+      "name": "models/gemini-2.0-flash-001",
+      "version": "2.0",
+      "displayName": "Gemini 2.0 Flash 001",
+      "description": "Stable version of Gemini 2.0 Flash, our fast and versatile multimodal model for scaling across diverse tasks, released in January of 2025.",
+      "inputTokenLimit": 1048576,
+      "outputTokenLimit": 8192,
+      "supportedGenerationMethods": [
+        "generateContent",
+        "countTokens",
+        "bidiGenerateContent"
+      ],
+      "temperature": 1,
+      "topP": 0.95,
+      "topK": 40,
+      "maxTemperature": 2
+    },
+    {
+      "name": "models/gemini-2.0-flash-lite-preview",
+      "version": "preview-02-05",
+      "displayName": "Gemini 2.0 Flash-Lite Preview",
+      "description": "Preview release (February 5th, 2025) of Gemini 2.0 Flash Lite",
+      "inputTokenLimit": 1048576,
+      "outputTokenLimit": 8192,
+      "supportedGenerationMethods": [
+        "generateContent",
+        "countTokens"
+      ],
+      "temperature": 1,
+      "topP": 0.95,
+      "topK": 64,
+      "maxTemperature": 2
+    },
+    {
+      "name": "models/gemini-2.0-flash-lite-preview-02-05",
+      "version": "preview-02-05",
+      "displayName": "Gemini 2.0 Flash-Lite Preview 02-05",
+      "description": "Preview release (February 5th, 2025) of Gemini 2.0 Flash Lite",
+      "inputTokenLimit": 1048576,
+      "outputTokenLimit": 8192,
+      "supportedGenerationMethods": [
+        "generateContent",
+        "countTokens"
+      ],
+      "temperature": 1,
+      "topP": 0.95,
+      "topK": 64,
+      "maxTemperature": 2
+    },
+    {
+      "name": "models/gemini-2.0-pro-exp",
+      "version": "2.0",
+      "displayName": "Gemini 2.0 Pro Experimental",
+      "description": "Experimental release (February 5th, 2025) of Gemini 2.0 Pro",
+      "inputTokenLimit": 2097152,
+      "outputTokenLimit": 8192,
+      "supportedGenerationMethods": [
+        "generateContent",
+        "countTokens"
+      ],
+      "temperature": 1,
+      "topP": 0.95,
+      "topK": 64,
+      "maxTemperature": 2
+    },
+    {
+      "name": "models/gemini-2.0-pro-exp-02-05",
+      "version": "2.0",
+      "displayName": "Gemini 2.0 Pro Experimental 02-05",
+      "description": "Experimental release (February 5th, 2025) of Gemini 2.0 Pro",
+      "inputTokenLimit": 2097152,
+      "outputTokenLimit": 8192,
+      "supportedGenerationMethods": [
+        "generateContent",
+        "countTokens"
+      ],
+      "temperature": 1,
+      "topP": 0.95,
+      "topK": 64,
+      "maxTemperature": 2
+    },
+    {
       "name": "models/gemini-exp-1206",
-      "version": "exp_1206",
+      "version": "2.0",
       "displayName": "Gemini Experimental 1206",
-      "description": "Experimental release (December 6th, 2024) of Gemini.",
+      "description": "Experimental release (February 5th, 2025) of Gemini 2.0 Pro",
       "inputTokenLimit": 2097152,
       "outputTokenLimit": 8192,
       "supportedGenerationMethods": [
@@ -498,49 +548,33 @@ here is the current output as Jan 5, 2025
       "maxTemperature": 2
     },
     {
-      "name": "models/gemini-exp-1121",
-      "version": "exp-1206",
-      "displayName": "Gemini Experimental 1206",
-      "description": "Experimental release (December 6th, 2024) of Gemini.",
-      "inputTokenLimit": 2097152,
-      "outputTokenLimit": 8192,
+      "name": "models/gemini-2.0-flash-thinking-exp-01-21",
+      "version": "2.0-exp-01-21",
+      "displayName": "Gemini 2.0 Flash Thinking Experimental 01-21",
+      "description": "Experimental release (January 21st, 2025) of Gemini 2.0 Flash Thinking",
+      "inputTokenLimit": 1048576,
+      "outputTokenLimit": 65536,
       "supportedGenerationMethods": [
         "generateContent",
         "countTokens"
       ],
-      "temperature": 1,
-      "topP": 0.95,
-      "topK": 64,
-      "maxTemperature": 2
-    },
-    {
-      "name": "models/gemini-exp-1114",
-      "version": "exp-1206",
-      "displayName": "Gemini Experimental 1206",
-      "description": "Experimental release (December 6th, 2024) of Gemini.",
-      "inputTokenLimit": 2097152,
-      "outputTokenLimit": 8192,
-      "supportedGenerationMethods": [
-        "generateContent",
-        "countTokens"
-      ],
-      "temperature": 1,
+      "temperature": 0.7,
       "topP": 0.95,
       "topK": 64,
       "maxTemperature": 2
     },
     {
       "name": "models/gemini-2.0-flash-thinking-exp",
-      "version": "2.0",
-      "displayName": "Gemini 2.0 Flash Thinking Experimental",
-      "description": "Gemini 2.0 Flash Thinking Experimental",
-      "inputTokenLimit": 32767,
-      "outputTokenLimit": 8192,
+      "version": "2.0-exp-01-21",
+      "displayName": "Gemini 2.0 Flash Thinking Experimental 01-21",
+      "description": "Experimental release (January 21st, 2025) of Gemini 2.0 Flash Thinking",
+      "inputTokenLimit": 1048576,
+      "outputTokenLimit": 65536,
       "supportedGenerationMethods": [
         "generateContent",
         "countTokens"
       ],
-      "temperature": 1,
+      "temperature": 0.7,
       "topP": 0.95,
       "topK": 64,
       "maxTemperature": 2
@@ -550,13 +584,13 @@ here is the current output as Jan 5, 2025
       "version": "2.0",
       "displayName": "Gemini 2.0 Flash Thinking Experimental",
       "description": "Gemini 2.0 Flash Thinking Experimental",
-      "inputTokenLimit": 32767,
-      "outputTokenLimit": 8192,
+      "inputTokenLimit": 1048576,
+      "outputTokenLimit": 65536,
       "supportedGenerationMethods": [
         "generateContent",
         "countTokens"
       ],
-      "temperature": 1,
+      "temperature": 0.7,
       "topP": 0.95,
       "topK": 64,
       "maxTemperature": 2
@@ -612,8 +646,20 @@ here is the current output as Jan 5, 2025
       "temperature": 0.2,
       "topP": 1,
       "topK": 40
+    },
+    {
+      "name": "models/imagen-3.0-generate-002",
+      "version": "002",
+      "displayName": "Imagen 3.0 002 model",
+      "description": "Vertex served Imagen 3.0 002 model",
+      "inputTokenLimit": 480,
+      "outputTokenLimit": 8192,
+      "supportedGenerationMethods": [
+        "predict"
+      ]
     }
   ]
 }
+
 
 ```
