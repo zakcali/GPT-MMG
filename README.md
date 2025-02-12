@@ -10,6 +10,8 @@ Click "Run prompt"
 Save output to a file named "labelled-report.html"
 Open "labelled-report.html" via a browser and see the results.
 ```
+Long version of Readme;
+
 nodejs program to send mmg-reports and receive tagged outputs
 
 you must define enviromental variable GEMINI_API_KEY, which you obtain from google-ai-studio
