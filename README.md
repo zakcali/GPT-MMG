@@ -26,7 +26,7 @@ copy contents of the "test-reports" folder to the "reports"
 
 Run the program by typing:
 ```
-node test-mmg-1206.js
+node test.js
 ```
 find the tagged html reports in "outputs" folder
 
