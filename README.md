@@ -1,6 +1,15 @@
 # GPT-MMG
 GPT-NER for MMG reports
 
+TLDR;
+```
+paste the content of the "prompted-report.txt" file into google AI studio's prompt area
+Set all safety settings to none
+Select model name, for example "Gemini 1.5 Pro"
+Click "Run prompt"
+Save output to a file named "labelled-report.html"
+Open "labelled-report.html" via a browser and see the results.
+```
 nodejs program to send mmg-reports and receive tagged outputs
 
 you must define enviromental variable GEMINI_API_KEY, which you obtain from google-ai-studio
