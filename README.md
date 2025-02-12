@@ -24,10 +24,16 @@ make empty folders named "reports" and "ouputs"
 
 copy contents of the "test-reports" folder to the "reports"
 
-Run the program by typing:
+Run the program for "Gemini 1.5 Pro Latest" by typing:
 ```
-node test.js
+node test-mmg.js
 ```
+Run the program for "Gemini 2.0 Pro" by typing:
+```
+node test-mmg-1206.js
+```
+
+
 find the tagged html reports in "outputs" folder
 
 js (nodejs) program reads the file named "mmg prompt.html", appends one report to the end of prompt, sends promt to gemini-api, receives and outputs the responses
